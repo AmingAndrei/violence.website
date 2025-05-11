@@ -16,7 +16,7 @@ Voltite’s most defining feature is its **exceptional electrical conductivity**
 In contrast to its electrical behavior, Voltite demonstrates **extreme resistance to heat transfer**, effectively functioning as a **thermal insulator**. This decoupling of electrical and thermal conductivities is considered anomalous by Realspace physics standards and is presently unexplained.
 
 - **Electrical Conductivity**: Superconductive
-- 
+
 - **Thermal Conductivity**: Negligible
 
 This disparity permits Voltite-based systems to **operate under sustained high-voltage conditions** without overheating or requiring external cooling measures.
