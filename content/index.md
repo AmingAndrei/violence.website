@@ -49,11 +49,11 @@ title:
   Indexed points of interest.
 >- **/materials/**  
   Important resources.
->- **/diseases/**
+>- **/diseases/**  
   >Notable diseases and conditions.
 >- **/phenomena/**  
   Meta-physical phenomena.
->- **/personnel/**
+>- **/personnel/**  
   Profiles of key personnel, current and former.
 >
 >HOW TO USE
