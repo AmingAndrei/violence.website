@@ -42,23 +42,23 @@ title:
 >- **/blackspace/**  
   General information about Blackspace.
 >- **/realspace/**  
- General information about Realspace, our current dimension.
- >- **/species/**  
-  Indexed biological and synthetic entities.
-  >- **/locations/**  
+  General information about Realspace, our current dimension.
+>- **/species/**  
+ >Indexed biological and synthetic entities.
+>- **/locations/**  
   Indexed points of interest.
-  >- **/materials/**  
+>- **/materials/**  
   Important resources.
-  - **/materials/**  
->Notable diseases and conditions.
-  >- **/phenomena/**  
+>- **/diseases/**
+  >Notable diseases and conditions.
+>- **/phenomena/**  
   Meta-physical phenomena.
-  >- **/personnel/**  
+>- **/personnel/**
   Profiles of key personnel, current and former.
-  >
-  >HOW TO USE
-  >- Database Interface is fully compatible with mouse inputs.
-  >- Navigation can be done through clicking on the folder name.
+>
+>HOW TO USE
+>- Database Interface is fully compatible with mouse inputs.
+>- Navigation can be done through clicking on the folder name.
 
 --------------------------------------------------------
 
