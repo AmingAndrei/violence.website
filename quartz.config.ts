@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Acheron Database",
-    pageTitleSuffix: "Acheron Database",
+    pageTitleSuffix: "test",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
