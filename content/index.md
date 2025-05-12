@@ -16,7 +16,7 @@ title:
 
 /[[realspace]]/
 
-/species/
+/[[species]]/
 
 /locations/
 
