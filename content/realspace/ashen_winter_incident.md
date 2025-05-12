@@ -8,7 +8,7 @@ The incident is characterized by a rapid, multidimensional cascade of phenomena 
 
 **Observed Effects**
 
-- Earth's **magnetosphere** was either altered or partially collapsed, rendering traditional navigational instruments (e.g., compasses) nonfunctional and causing the **widespread failure of unshielded electronics**. Electromagnetic shielding proved effective only in isolated cases, primarily within high-security research or military installations.
+- Earth's **magnetosphere** was either altered or partially collapsed, rendering traditional navigational instruments (e.g., compasses) non-functional and causing the **widespread failure of unshielded electronics**. Electromagnetic shielding proved effective only in isolated cases, primarily within high-security research or military installations.
 - All observable astral bodies—**excluding the Moon and Sun**—**vanished** from the night sky. Deep-space telemetry returned null data, indicating a complete **spatial nullification** beyond ~800,000 km from Earth. Additionally, structural changes to the Moon caused **tidal anomalies**, including **mass flooding and tsunami events**.
 - The AWI is recorded as the **largest Monolith breach in history**, resulting in the arrival of numerous Devils across all inhabited continents. Casualty estimates range between **4 to 5 billion deaths** attributed to these incursions.
 
