@@ -57,8 +57,8 @@ Steel Sharks are categorized into several functional morphotypes, known as _kata
 - **Onokatachi (斧形)** – _Axe-shaped type_: Capable of discharging large quantities of energy at the cost of high fuel consumption.
 - **Hakatachi (刃形)** – _Blade-shaped type_: Generates defensive energy shields capable of absorbing impact and redirecting stored energy offensively.
 - **Juyarikatachi (重槍形)** – _Lance-shaped type_: Possesses reinforced armor and short-range, high-damage shell weaponry.
-- **Naginatakatachi (薙刀形)** – _Glaive type_: Features dual blades and an internal containment unit for bio-agents (e.g., microbes, insects, fungi), used for controlled biological warfare.
-- **Oyumikatachi (大弓形)** – _Crossbow/ranged type_: Capable of both long- and short-range explosive shelling, with secondary shielding capability.
+- **Naginatakatachi (薙刀形)** – _Glaive-shaped type_: Features dual blades and an internal containment unit for bio-agents (e.g., microbes, insects, fungi), used for controlled biological warfare.
+- **Oyumikatachi (大弓形)** – _Crossbow-shaped type_: Capable of both long- and short-range explosive shelling, with secondary shielding capability.
 
 **Reproduction**
 
