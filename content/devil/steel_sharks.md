@@ -1,6 +1,6 @@
 .../[[index]]/[[species]]/[[devils]]/steel_sharks.md
 
-**Steel Sharks (Kinzokuzame: 金属鮫, "Metal Shark")** are a sentient, highly intelligent, and overtly hostile species of pseudo-mechanical Devils endemic to Blackspace. Despite their outward resemblance to mechanical constructs, they are fully organic entities composed of living tissue engineered to mimic the appearance and function of industrial machinery.
+**Steel Sharks (Kinzokuzame: 金属鮫, "Metal Shark")** are a sentient, highly intelligent, and overtly hostile species of pseudo-mechanical **Devil** endemic to Blackspace. Despite their outward resemblance to mechanical constructs, they are fully organic entities composed of living tissue engineered to mimic the appearance and function of industrial machinery.
 
 **Biological Composition and Physiology**
 
