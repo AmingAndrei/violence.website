@@ -10,7 +10,6 @@ Fae stand at an average height of **2 meters**, with **digitigrade legs**, **fou
 
 Like all Chimeras, the Fae can produce and manipulate **Fael Fire**. Their control is **extremely refined**, allowing them to secrete Fael Fire **through their pores** in **controlled amounts and from specific body locations**. During high-output use, **a Fae's hair ignites**, coated in oil-like Fael Fire that burns **without causing harm**. This flame is **visually distinctive** for each individual, typically ranging in **red to blue hues**, serving as a signature of identity and capability.
 
-
 **Culture and Technology**
 
 Fae culture places **significant importance on armour**, not just as protection but as a functional extension of their biological abilities.
@@ -24,3 +23,9 @@ Fae culture places **significant importance on armour**, not just as protection 
 One of the most striking anomalies is the **genomic similarity between Fae and humans**. Despite belonging to the *Nullikaryota* domain, Fae possess **23 chromosome pairs**, mirroring human karyotypes. This permits **limited reproductive compatibility**, governed by Blackstone-influenced biological constraints.
 - Viable offspring can only result from a **male Fae and a human female**. The reverse pairing is infertile due to incompatibilities in gametic expression linked to Blackstone cellular integration.
 - Offspring of such unions are **phenotypically human**, with features like **plantigrade locomotion** and **five-fingered hands**, but they **inherit Blackstone-shifted cells** and **Fael Fire generation capabilities**. If a **half-breed reproduces with a human**, the child will always be **fully human**. If with a Fae, the child will always be a **half-breed**.
+
+---
+
+See also:
+
+/[[faelir_automaton]]/
