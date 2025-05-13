@@ -16,4 +16,4 @@ Fael Fire is capable of **sustained combustion in aqueous environments**, mainta
 
 **Anomalous Interactions and Imago Disruption**
 
-One of Fael Fire’s most significant anomalous effects is its **temporary ability to disrupt the Imago field**. When deployed, Fael Fire can create **short-lived breaches** or “burned gaps” in the Imago, **temporarily negating its influence** in localized regions. These disruptions are **self-repairing**, with the Imago field reasserting itself over time.
+One of Fael Fire’s most significant anomalous effects is its **temporary ability to disrupt the Imago**. When deployed, Fael Fire can create **short-lived breaches** or “burned gaps” in the Imago, **temporarily negating its influence** in localized regions. These disruptions are **self-repairing**, with the Imago field reasserting itself over time.
