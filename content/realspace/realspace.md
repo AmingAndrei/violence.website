@@ -1,6 +1,6 @@
 .../[[index]]/realspace.md
 
-**Realspace** is the designated term for the primary dimension comprising observable and measurable reality. It is consistently quantified at 1 hume, denoting a baseline of ontological stability and coherence against which all other dimensions are measured. Realspace encompasses all known **entities, phenomena, and locations** recognized as naturally occurring and physically consistent.
+**Realspace** is the designated term for the primary dimension comprising observable and measurable reality. Realspace encompasses all known **entities, phenomena, and locations** recognized as naturally occurring and physically consistent.
 
 **Post-Ashen Winter Incident Parameters**
 

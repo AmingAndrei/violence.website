@@ -22,9 +22,9 @@ title:
 
 /[[materials]]/
 
-/diseases/
+/pathogens/
 
-/phenomena/
+/[[metaphoricals]]/
 
 /personnel/
 
@@ -44,15 +44,15 @@ title:
 >- **/realspace/**  
   General information about Realspace, our current dimension.
 >- **/species/**  
- >Indexed biological and synthetic entities.
+  Indexed biological and synthetic entities.
 >- **/locations/**  
   Indexed points of interest.
 >- **/materials/**  
   Important resources.
->- **/diseases/**  
-  >Notable diseases and conditions.
->- **/phenomena/**  
-  Meta-physical phenomena.
+>- **/pathogens/**  
+  Notable diseases and conditions.
+>- **/metaphoricals/**  
+  Special branch of study for metaphysical phenomena.
 >- **/personnel/**  
   Profiles of key personnel, current and former.
 >
