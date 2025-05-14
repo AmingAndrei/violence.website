@@ -1,6 +1,6 @@
 .../[[index]]/blackspace.md
 
-**Blackspace** is an anomalous extra-dimensional realm superimposed upon Realspace, and is empirically measured at **0 humes**, indicating a complete absence of ontological stability.
+**Blackspace** is an anomalous extra-dimensional realm superimposed upon Realspace, and is empirically measured at a **negative Coherence**, indicating a complete absence of ontological stability.
 
 **Access and Navigation**
 
