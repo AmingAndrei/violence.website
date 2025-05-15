@@ -1,45 +1,33 @@
 .../[[index]]/[[species]]/[[chimeras]]/balauri.md
 
-**Balauri (sg. Balaur)** are large, quadrupedal, multi-headed species of **Chimera**, native to Blackspace, notable for their **abnormal physiology**, **segmented nervous systems**, and **advanced deployment of Fael Fire**.
+The **Balaur (pl. Balauri)** is a formidable quadrupedal species of **Chimera**, native to  Blackspace. These **multi-headed, lizard-like beings** are renowned for their powerful physiology and distinctive tripartite neuroanatomy.
 
-**Morphology and Physiology**
+**Physical Characteristics**
+- Adult Balauri average **40 meters in total length**. They possess a **robust quadrupedal frame** covered in **tough blue scales**, with **dense fur** lining their **necks, ears, and wings**. The scales and the leathery skin beneath the fur provide **comparable resistance**, acting as natural armor.
+- Balauri are defined by their **three distinct heads**—a **central dominant head** flanked by **two lateral heads**, each supported by its own long, fur-covered neck. The **faces resemble reptiles**, vaguely bat-like in configuration.  
+    Each head houses **a secondary brain**, subordinate to the **main CNS housed in the torso**, forming a **segmented nervous system**.
+- Balauri have **red irises with black pupils** and possess **ultraviolet vision**. They feature **dual olfactory systems**—standard nasal receptors and a **Jacobson-like organ**, enabling precise chemical tracking akin to serpents.
+- **Flight & Mobility:**
+    - **Flight speed:** up to **80 km/h**, sustained.
+    - **Land speed:** gallop at **40 km/h**.
+- The **bifurcated tail** ends in two prehensile tips, capable of **fine motor manipulation** or anchoring.
 
-Adult Balauri reach lengths of up to **25 meters** and exhibit a powerful, reptilian body structure with **blue, scale-armored hides** and **tufts of dense fur** across their **necks, wings, and ears**. Their facial features resemble a hybrid between **reptiles and bats**, and their **underlying dermis** is leathery, matching their scales in durability.
-Each Balaur has **three distinct heads**, each attached via its own neck:
-- **Central (Dominant) Head**
-- **Two Lateral Heads**
+**Combat Adaptations**
 
-Each head functions semi-autonomously and contributes to the shared control of the body, enabling **multi-directional processing and situational awareness**.
+- Each head can **generate and project dark-purple Fael Fire** up to **20 meters**, synthesized by internal glands in their mouths.
+- Iron-coated claws house **airflow channels** that ignite **Fael Fire secretions**, producing **superheated cutting surfaces**.
+- **Bite Force** is measured at **6000 psi**, making their bite capable of **shattering dense materials**.
 
-**Sensory and Neurological Systems**
-- Balauri possess **red eyes with black pupils**, capable of **ultraviolet perception**, giving them a distinct advantage in low-light environments.
-- Dual olfactory systems are present:
-    1. **Generalized nasal-based smell**
-    2. **Pinpoint detection organ** analogous to the **Jacobson’s organ in snakes**
-- Balauri have a **segmented central nervous system**:
-    - A **main brain and spinal column** located within the torso
-    - Each head houses its **own secondary brain**, indirectly connected to the main brain
-    - These secondary brains can develop **individual personalities** yet maintain **synchronized control** of the shared body
-    - This allows for **parallel decision-making** and **independent perspective filtering** without disrupting overall coordination
+**Neurological and Regenerative Features**
 
-If a head is severed:
-- The Balaur can **fully regenerate it over a period of time**, thanks to **axolotl-like regenerative capabilities**
-- **Memory is retained** through the main brain, but **personality may differ**
-- The organism can survive with **only one head**, but **death occurs if all three are destroyed**, as **respiratory and circulatory regulation** resides in the secondary brains
+  - Each head's brain is **semi-autonomous**, allowing **independent thought and behavior**.
+- All brains remain **coordinated through the central spinal-brain hub**, maintaining unified motor control and survival intent. 
+- Severed heads can **regenerate over time**—the new head retains **memories via main-brain backup**, but **personality may differ**.
+- If **all three heads are destroyed**, the organism will **die**, as **critical autonomic functions** (respiration, circulation) are **regulated through the secondary brains**.
 
-**Locomotion and Combat Capabilities**
-- Capable of **sustained flight** up to **80 km/h**, supported by large, bat-like wings
-- Galloping speeds reach **40 km/h**
-- Each head contains a **dedicated gland** that produces **dark-purple Fael Fire**, with a **range of 15 meters**
-- **Enhanced Claws:**
-    - Claws are **coated in iron**
-    - **Internal ventilation channels** ignite small Fael Fire deposits, heating the claws to **improve cutting power and thermal damage**
-- Bifurcated tail functions as prehensile appendages, assisting in grappling, stabilization, or manipulation
-
-**Reproduction and Behaviour**
-
-- Sexual reproduction; females are larger and significantly more aggressive
-    - A clutch consists of **2–3 eggs**
-    - Hatchlings are born **fully formed** with **three operational heads**
-- Balauri are **solitary** and display **curious, territorial behaviour**
-- Known to investigate anomalies or disturbances with caution but high persistence
+**Behavior and Reproduction**
+- Balauri are **solitary**, exhibiting **great curiosity**.
+- **Reproduction:**
+    - **Sexual dimorphism** is evident: **females are larger and more aggressive**.
+    - Females lay **2–3 eggs per clutch**.
+    - **Hatchlings** emerge **fully formed**, each with **three functional heads**.
