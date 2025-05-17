@@ -26,6 +26,8 @@ title:
 
 /[[metaphoricals]]/
 
+/factions/
+
 /personnel/
 
 
@@ -53,6 +55,8 @@ title:
   Notable diseases and conditions.
 >- **/metaphoricals/**  
   Special branch of study for metaphysical phenomena.
+>-/factions/
+  Notable factions or groups of interest.
 >- **/personnel/**  
   Profiles of key personnel, current and former.
 >
