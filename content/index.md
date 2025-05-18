@@ -18,7 +18,7 @@ title:
 
 /[[species]]/
 
-/locations/
+/[[locations]]/
 
 /[[materials]]/
 
