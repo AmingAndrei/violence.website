@@ -14,6 +14,6 @@ A majority of _Nullikaryota_ flora engage in **carbon intake and oxygen release*
 
 /[[luxtree]]/
 
-/[[pale_field]]/
+/[[pale_fields]]/
 
 /[[sangui_lilies]]/

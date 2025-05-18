@@ -1,6 +1,6 @@
-.../[[index]]/[[species]]/[[flora]]/pale_field.md
+.../[[index]]/[[species]]/[[flora]]/pale_fields.md
 
-Pale Field** refers to a distinct species of grass native to **Blackspace**. It is notable for its striking visual contrast against the ambient environment.
+**Pale Field** refers to a distinct species of grass native to **Blackspace**. It is notable for its striking visual contrast against the ambient environment.
 
 **Morphology and Appearance**
 
