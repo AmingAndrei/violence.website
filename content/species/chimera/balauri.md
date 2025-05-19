@@ -3,7 +3,7 @@
 The **Balaur (pl. Balauri)** is a formidable quadrupedal species of **Chimera**, native to  Blackspace. These **multi-headed, lizard-like beings** are renowned for their powerful physiology and distinctive tripartite neuroanatomy.
 
 **Physical Characteristics**
-- Adult Balauri average **40 meters in total length**. They possess a **robust quadrupedal frame** covered in **tough blue scales**, with **dense fur** lining their **necks, ears, and wings**. The scales and the leathery skin beneath the fur provide **comparable resistance**, acting as natural armor.
+- Adult Balauri average **40 metres in total length**. They possess a **robust quadrupedal frame** covered in **tough blue scales**, with **dense fur** lining their **necks, ears, and wings**. The scales and the leathery skin beneath the fur provide **comparable resistance**, acting as natural armor.
 - Balauri are defined by their **three distinct heads**—a **central dominant head** flanked by **two lateral heads**, each supported by its own long, fur-covered neck. The **faces resemble reptiles**, vaguely bat-like in configuration.  
     Each head houses **a secondary brain**, subordinate to the **main CNS housed in the torso**, forming a **segmented nervous system**.
 - Balauri have **red irises with black pupils** and possess **ultraviolet vision**. They feature **dual olfactory systems**—standard nasal receptors and a **Jacobson-like organ**, enabling precise chemical tracking akin to serpents.
@@ -14,7 +14,7 @@ The **Balaur (pl. Balauri)** is a formidable quadrupedal species of **Chimera**,
 
 **Combat Adaptations**
 
-- Each head can **generate and project dark-purple Fael Fire** up to **20 meters**, synthesized by internal glands in their mouths.
+- Each head can **generate and project dark-purple Fael Fire** up to **20 metres**, synthesized by internal glands in their mouths.
 - Iron-coated claws house **airflow channels** that ignite **Fael Fire secretions**, producing **superheated cutting surfaces**.
 - **Bite Force** is measured at **6000 psi**, making their bite capable of **shattering dense materials**.
 

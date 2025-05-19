@@ -4,7 +4,7 @@ The **Void Whale** is an airborne species of **Devil**, endemic to Blackspace. D
 
 **Morphology and Anatomy**
 
-Void Whales possess an elongated, cetacean form with an average length of approximately **20 meters**. Their external physiology resembles that of a Realspace humpback whale, though with several notable deviations:
+Void Whales possess an elongated, cetacean form with an average length of approximately **20 metres**. Their external physiology resembles that of a Realspace humpback whale, though with several notable deviations:
 - Their skin and cells lack pigmentation and possess a texture and structure **analogous to processed cellulose (paper)**. While this confers **extreme flammability**, Void Whale cells do **not dissolve in water**, defying the expected behaviour of cellulose-based materials.
 - Each specimen is equipped with **twenty highly advanced eyes**, ten per lateral side, distributed from the head to the tail. These eyes exhibit full-spectrum perception, including **infrared and ultraviolet ranges**.
 - Locomotion is facilitated by a network of **gas-filled sacs**, providing lift and enabling directed flight through aerial “swimming” motions. The species’ overall **low density** further contributes to buoyancy and manoeuvrability.

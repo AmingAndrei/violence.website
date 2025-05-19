@@ -41,7 +41,7 @@ _Waffe_ (German for "weapon") Drives are defined by **localized generation** of 
 _Doppelt_ (German for "double") Drives produce a **secondary, fully autonomous body**, distinct from the user’s physical form.
 
 - This **independent construct** is created entirely of Drive-generated mass and operates at a **functional remove** from the host body.
-- The secondary entity retains **humanoid form** in most cases, ranging in size from **30 cm to 30 m**, with the average height around **1.9 to 2 meters**.
+- The secondary entity retains **humanoid form** in most cases, ranging in size from **30 cm to 30 m**, with the average height around **1.9 to 2 metres**.
 - While it demonstrates **autonomy and intelligence**, the entity remains **neurologically or metaphysically tethered** to the user, operating within an **undefined range**.
 - If this range is exceeded, the entity **automatically deactivates** and disintegrates.
 - Like all Drive forms, it is **sustained by the user’s blood**, and must be **reformed anew** with each subsequent activation.

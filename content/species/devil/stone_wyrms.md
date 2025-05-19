@@ -4,7 +4,7 @@ The **Stone Wyrm** is a highly intelligent and aggressive species of pseudo-sili
 
 **Physical Characteristics**
 
-Stone Wyrms possess a **serpentine** body structure, lacking defined limbs and typically reaching **60 meters** in length. They have **small, solid wings** with a wingspan of approximately **12 meters**, though these do not function for conventional flight. Their heads are nearly featureless, adorned only with **small horns**, and they lack both a **mouth and a nose**.
+Stone Wyrms possess a **serpentine** body structure, lacking defined limbs and typically reaching **60 metres** in length. They have **small, solid wings** with a wingspan of approximately **12 metres**, though these do not function for conventional flight. Their heads are nearly featureless, adorned only with **small horns**, and they lack both a **mouth and a nose**.
 
 A defining characteristic of Stone Wyrms is the **hollow structure of their bodies**. Instead of functional eyes, they have **empty eye sockets** that expose the **tubular, hollow nature** of their entire form. The interior of their bodies is significantly darker than their exterior.
 
