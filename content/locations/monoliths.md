@@ -21,7 +21,7 @@ Monoliths act as **active transition nodes** between Realspace and Blackspace. *
 **Distribution and Placement Rules**
 
 Monolith manifestation within Realspace is governed by a set of **placement heuristics**, collectively referred to as the **Monolith Placement Rules**. These include:
-- Monoliths in Realspace must be separated by **no less than 1,000 kilometers**, a value that **scales proportionally with the Monolith’s vertical height**.
+- Monoliths in Realspace must be separated by **no less than 1,000 kilometres**, a value that **scales proportionally with the Monolith’s vertical height**.
 - **Interdimensional disparity**: Monoliths that are adjacent in Realspace may be **separated by thousands or millions of kilometres** within Blackspace, due to non-linear spatial congruence.
 
 Based on dimensional modelling, an **estimated 35 Monoliths** exist across Realspace, excluding the Citadel.
