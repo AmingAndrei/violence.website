@@ -1,9 +1,15 @@
 .../[[index]]/locations.md
 
+---
+
+**Realspace**
+
 /[[chromatican_city]]/
 
-/[[citadel]]/
-
 /[[monoliths]]/
+
+---
+
+**Blackspace, Outer Dark**
 
 /[[hephaestus]]/
