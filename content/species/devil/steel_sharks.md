@@ -16,7 +16,7 @@ Steel Sharks are **completely blind**, with no visual processing capability. The
 - **Airwave sensitivity**
 - **Chemoreception**
 
-This system achieves an average **perceptual accuracy of 90%** within a 100-meter radius. Their eyes, although responsive to stimuli, serve no functional purpose and are presumed **cosmetic**.
+This system achieves an average **perceptual accuracy of 90%** within a 100-metre radius. Their eyes, although responsive to stimuli, serve no functional purpose and are presumed **cosmetic**.
 
 **Behavioral States**
 

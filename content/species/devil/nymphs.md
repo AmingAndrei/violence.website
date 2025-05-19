@@ -4,7 +4,7 @@
 
 **Morphology and Anatomy**
 
-Nymphs possess a **centaurine body plan**, combining a quadrupedal lower half with a humanoid upper torso. Adult individuals typically measure approximately **2.5 meters** in height.
+Nymphs possess a **centaurine body plan**, combining a quadrupedal lower half with a humanoid upper torso. Adult individuals typically measure approximately **2.5 metres** in height.
 - The lower half resembles an unguligrade, equine form with **bark-like black skin** interspersed with **red vascular indentations**. A **long, muscular tail** extends from the rear, terminating in a **water lily-like bloom**, marked by red and white petals.
 - The torso transitions smoothly into a humanoid shape, with a slightly more refined and smoother epidermis. At the convergence of the upper and lower body, a **ring of red and white petals** is present. Prominent **red markings** increase in density along the arms and chest. **Long, slender arms** feature **exoskeletal joints** and terminate in **clawed, humanoid hands**. A set of **non-functional, red insectoid wings** emerges from the back, contributing to aesthetic but not aerodynamic utility.
 - The head resembles that of a human female, but with distinct deviations: absence of a nasal structure, **pale-white dermis**, **black sclera**, **red irises**, and a **geometrically asymmetrical, red horn** extending upward from the forehead. Nymphs also possess **long, black hair**.
