@@ -1,7 +1,5 @@
 .../[[index]]/locations.md
 
----
-
 **Realspace**
 
 /[[chromatican_city]]/
