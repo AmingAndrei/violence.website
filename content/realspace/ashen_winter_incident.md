@@ -28,4 +28,4 @@ Chronological analysis reveals a **temporal discontinuity** between the Golden A
 
 **Causation**
 
-Leading theoretical models suggest intentional interference or catastrophic resonance originating from ███ ██████, with help from ███████ ████████.
+Leading theoretical models suggest intentional interference or catastrophic resonance originating from `the Maniac`, with help from `Mihaela Rebreanu`.
