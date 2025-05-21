@@ -1,3 +1,5 @@
 .../[[index]]/pathogens.md
 
-/[[hemolacerosis]]/
+» AVAILABLE DIRECTORIES:
+
+└── /[[hemolacerosis]]/

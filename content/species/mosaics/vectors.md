@@ -23,6 +23,6 @@ Vectors are broadly classified into two distinct types:
 
 ---
 
-See also:
+[ ASSOCIATED FILES: ]
 
-/[[varium]]/
+└── /[[varium]]/

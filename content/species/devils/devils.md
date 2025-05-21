@@ -23,12 +23,14 @@ _Diavolos_ species are uniquely adapted to environments saturated with **fear st
 
 ---
 
-/[[clutch_beetles]]/
+» AVAILABLE DIRECTORIES:
 
-/[[void_whales]]/
+├── /[[clutch_beetles]]/
 
-/[[nymphs]]/
+├── /[[void_whales]]/
 
-/[[stone_wyrms]]/
+├── /[[nymphs]]/
 
-/[[steel_sharks]]/
+├── /[[stone_wyrms]]/
+
+└── /[[steel_sharks]]/
