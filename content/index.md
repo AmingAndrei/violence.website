@@ -51,7 +51,7 @@ title:
 >- /pathogens/ — Known pathogens, memetic infections.
 >- /metaphoricals/ — Phenomena not explained by standard physical laws.
 >- /factions/ — Key factions, civilian groups, and hostile orgs.
->- /personell/ — Active, inactive, or KIA personnel logs.
+>- /personnel/ — Active, inactive, or KIA personnel logs.
 >
 >:: NAVIGATION ::
 >- Mouse navigation supported.
