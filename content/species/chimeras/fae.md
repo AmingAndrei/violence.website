@@ -26,6 +26,6 @@ One of the most striking anomalies is the **genomic similarity between Fae and h
 
 ---
 
-See also:
+[ ASSOCIATED FILES: ]
 
-/[[faelir_automaton]]/
+└── /[[faelir_automaton]]/

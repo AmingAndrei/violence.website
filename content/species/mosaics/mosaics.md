@@ -16,14 +16,16 @@ Furthermore, _Mimisis_ organisms exhibit **psychological and systemic stress pro
 
 ---
 
-/[[valences]]/
+» AVAILABLE DIRECTORIES:
 
-/[[vespers]]/
+├── /[[valences]]/
+
+└── /[[vespers]]/
 
 ---
 
-See also:
+[ ASSOCIATED FILES: ]
 
-/[[voxels]]/
+├── /[[voxels]]/
 
-/[[vectors]]/
+└── /[[vectors]]/

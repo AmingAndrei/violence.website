@@ -1,13 +1,17 @@
 .../[[index]]/locations.md
 
-**Realspace**
-
-/[[chromatican_city]]/
-
-/[[monoliths]]/
+» AVAILABLE DIRECTORIES:
 
 ---
 
-**Blackspace, Outer Dark**
+» [ REGION: REALSPACE ]
 
-/[[hephaestus]]/
+├── /[[chromatican_city]]/
+
+└── /[[monoliths]]/
+
+---
+
+» [ REGION: BLACKSPACE // OUTER DARK ]
+
+└── /[[hephaestus]]/

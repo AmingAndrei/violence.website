@@ -1,5 +1,7 @@
 .../[[index]]/materials.md
 
-/[[blackstone]]/
+» AVAILABLE DIRECTORIES:
 
-/[[bloodmetal]]/
+├── /[[blackstone]]/
+
+└── /[[bloodmetal]]/

@@ -16,12 +16,14 @@
 
 ---
 
-/[[devils]]/
+» AVAILABLE DIRECTORIES:
 
-/[[chimeras]]/
+├── /[[devils]]/
 
-/[[mosaics]]/
+├── /[[chimeras]]/
 
-/[[flora]]/
+├── /[[mosaics]]/
+
+└── /[[flora]]/
 
 
