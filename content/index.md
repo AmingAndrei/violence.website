@@ -40,18 +40,18 @@ title:
 >→
 >
 >WELCOME TO THE ACHERON RESEARCH DATABASE INTERFACE  
->This terminal grants structured access to mission-critical knowledge as compiled by ONI-SR/7 scientific and field divisions.
+>This terminal grants structured access to mission-critical knowledge as compiled by Acheron scientific and field divisions.
 >
 >:: DIRECTORY MAP ::
->- /bs/ — Information regarding BLACKSPACE.
->- /rs/ — Information regrarding REALSPACE.
->- /sp/ — Indexed xenobiological / synthetic species.
->- /lc/ — Geolocated zones, settlements, and ruins.
->- /mt/ — Materials, fuels, and anomalous matter studies.
->- /ct/ — Known pathogens, memetic infections, and infohazards.
->- /mf/ — Phenomena not explained by standard physical laws.
->- /fa/ — Key factions, civilian groups, and hostile orgs.
->- /pn/ — Active, inactive, or KIA personnel logs.
+>- /blackspace/ — Information regarding BLACKSPACE.
+>- /realspace/ — Information regarding REALSPACE.
+>- /species/ — Indexed xenobiological species.
+>- /locations/ — Geolocated zones, settlements, and ruins.
+>- /materials/ — Materials and anomalous matter studies.
+>- /pathogens/ — Known pathogens, memetic infections.
+>- /metaphoricals/ — Phenomena not explained by standard physical laws.
+>- /factions/ — Key factions, civilian groups, and hostile orgs.
+>- /personell/ — Active, inactive, or KIA personnel logs.
 >
 >:: NAVIGATION ::
 >- Mouse navigation supported.

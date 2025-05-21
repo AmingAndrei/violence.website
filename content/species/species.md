@@ -1,6 +1,6 @@
 .../[[index]]/species.md
 
->[README_species.md]
+>/[README_species.md]
 >
 >→
 >
