@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Acheron Database",
     pageTitleSuffix: " - Acheron Database",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },

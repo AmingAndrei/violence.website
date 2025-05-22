@@ -29,6 +29,8 @@ title:
 
 ├── /[[metaphoricals]]/
 
+├── /constructs/
+
 ├── /factions/
 
 └── /personnel/
@@ -50,6 +52,7 @@ title:
 >- /materials/ — Materials and anomalous matter studies.
 >- /pathogens/ — Known pathogens, memetic infections.
 >- /metaphoricals/ — Phenomena not explained by standard physical laws.
+>- /constructs/ - Objects, weapons, artifacts.
 >- /factions/ — Key factions, civilian groups, and hostile orgs.
 >- /personnel/ — Active, inactive, or KIA personnel logs.
 >
