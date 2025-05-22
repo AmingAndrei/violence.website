@@ -29,7 +29,7 @@ title:
 
 ├── /[[metaphoricals]]/
 
-├── /constructs/
+├── /[[constructs]]/
 
 ├── /factions/
 
