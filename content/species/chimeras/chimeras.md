@@ -27,7 +27,9 @@ The _Paramythi_ class stands as a unique fusion of **biological plausibility and
 
 ├── /[[balauri]]/
 
-└── /[[zmey]]/
+├── /[[zmey]]/
+
+└── /[[kobold]]/
 
 ---
 
