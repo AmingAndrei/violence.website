@@ -31,7 +31,7 @@ title:
 
 ├── /[[constructs]]/
 
-├── /factions/
+├── /[[factions]]/
 
 └── /personnel/
 
