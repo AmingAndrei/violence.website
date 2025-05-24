@@ -63,4 +63,5 @@ title:
 
 [ LAST SYSTEM SYNC: ████-██-██ | SYS UPTIME: 341h ]
 
-[[Untitled]]
+
+![[test.html]]
