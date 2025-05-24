@@ -63,4 +63,4 @@ title:
 
 [ LAST SYSTEM SYNC: ████-██-██ | SYS UPTIME: 341h ]
 
-![[test.html]]
+![[game/test.html]]
