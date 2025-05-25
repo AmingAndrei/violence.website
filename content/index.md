@@ -42,7 +42,7 @@ title:
 >→
 >
 >WELCOME TO THE ACHERON RESEARCH DATABASE INTERFACE  
->This terminal grants structured access to mission-critical knowledge as compiled by Acheron scientific and field divisions.
+>This terminal grants structured access to critical knowledge as compiled by Acheron scientific and field divisions.
 >
 >:: DIRECTORY MAP ::
 >- /blackspace/ — Information regarding BLACKSPACE.
@@ -58,7 +58,8 @@ title:
 >
 >:: NAVIGATION ::
 >- Mouse navigation supported.
->- Click folder names to proceed. 
+>- Click folder names to proceed.
+
 --------------------------------------------------------
 
 [ LAST SYSTEM SYNC: ████-██-██ | SYS UPTIME: 341h ]
