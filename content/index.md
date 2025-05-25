@@ -64,5 +64,4 @@ title:
 
 [ LAST SYSTEM SYNC: ████-██-██ | SYS UPTIME: 341h ]
 
-
-<iframe src="https://acheron-database.pages.dev/game/game" width="480" height="360" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="game/game" width="480" height="360" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
