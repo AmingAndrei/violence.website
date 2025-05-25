@@ -63,5 +63,3 @@ title:
 --------------------------------------------------------
 
 [ LAST SYSTEM SYNC: ████-██-██ | SYS UPTIME: 341h ]
-
-<iframe src="game/game" width="480" height="360" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
