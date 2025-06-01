@@ -20,7 +20,8 @@ Analytical testing has revealed that Bloodmetal is **composed primarily of coagu
 **Formation and Synthesis**
 
 **Natural Formation**:
-- Believed to result from **spontaneous or environmental Blackstone shifts**, particularly in proximity to biological remains or concentrated Imago emissions.
+- Believed to result from **spontaneous or environmental Blackstone shifts**.
+- Can form in large quantities on the banks of the **Phlegethon**.
 
 **Artificial Synthesis**:
 
