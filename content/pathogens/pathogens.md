@@ -2,4 +2,4 @@
 
 » AVAILABLE DIRECTORIES:
 
-└── /[[hemolacerosis]]/
+└── /[[haemolacerosis]]/

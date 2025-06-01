@@ -14,8 +14,12 @@
 
 » [ REGION: BLACKSPACE // INNER DARK ]
 
+└── /[[phlegethon]]/
+
 ---
 
 » [ REGION: BLACKSPACE // OUTER DARK ]
+
+├── /[[phlegethon]]/
 
 └── /[[hephaestus]]/

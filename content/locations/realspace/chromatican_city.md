@@ -10,7 +10,7 @@ The Chromatican City is constructed entirely from **shifted Blackstone**, includ
 
 **Environmental and Strategic Importance**
 
-Uniquely among post-AWI locations, the Chromatican City occupies a **climatically stable zone**, retaining **regular seasonal patterns**, **temperate weather**, and **breathable, uncontaminated air**. Its position, accessibility, and structural resilience have made it the **de facto capital** of post-AWI civilization.
+Uniquely among Ashen Winter locations, the Chromatican City occupies a **climatically stable zone**, retaining **regular seasonal patterns**, **temperate weather**, and **breathable, uncontaminated air**. Its position, accessibility, and structural resilience have made it the **de facto capital** of post-AWI civilization.
 
 ---
 
