@@ -29,7 +29,7 @@ _Diavolos_ species are uniquely adapted to environments saturated with **fear st
 
 ├── /[[void_whales]]/
 
-├── /[[nymphs]]/
+├── /[[ash_nymphs]]/
 
 ├── /[[stone_wyrms]]/
 
