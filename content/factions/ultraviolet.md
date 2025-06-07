@@ -23,7 +23,7 @@ Ultraviolet follows a **hierarchical but meritocratic rank system**, with progre
 
 - **OPERATOR**
     - The standard classification for full-time Ultraviolet personnel.
-    - Part-Time Operators are designated as Operators but are **ineligible for promotion** within the ranking system. This limitation obscures how powerful they might be **if fully enlisted**.
+    - Part-Time Operators are designated as Operators but are **ineligible for promotion** within the ranking system. This limitation obscures what rank they might have **if fully enlisted**.
 
 - **ASSET**
     - Lateral designation for individuals or entities paired with Operators for support, synergy, or unique capabilities. Assets function as **extensions** of their assigned Operator and are **non-autonomous**, answering only to the Operator to whom they are bound.
