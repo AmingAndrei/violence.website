@@ -8,7 +8,7 @@ Name: _Jacques_
 
 Species // Subspecies: _Human // Redliner_
 
-Date of Birth: _-_
+Date of Birth: _02.07.17 GA_
 
 Status: _Active_
 
