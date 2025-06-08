@@ -8,7 +8,7 @@ Name: _Azuria_
 
 Species // Subspecies: _Steel Shark_
 
-Date of Birth: _N/A, 113 GA_
+Date of Birth: _N/A, 73 GA_
 
 Status: _Active_
 
