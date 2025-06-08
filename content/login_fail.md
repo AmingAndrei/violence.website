@@ -7,7 +7,7 @@ title:
 
 [ SYSTEM BOOT COMPLETE ]
 
-» USER AUTH :: [FAILED] — ACCESS GRANTED [ [[login_fail|LOGIN FAILED. TRY AGAIN?]] ]
+» USER AUTH :: [ FAILED ] — ACCESS GRANTED [ [[login_fail|LOGIN FAILED. TRY AGAIN?]] ]
 
 » STATUS :: STABLE  |  CONNECTION :: ENCRYPTED
 
@@ -35,7 +35,7 @@ title:
 
 ├── /[[factions]]/
 
-└── /personnel/
+└── /[[profiles]]/
 
 --------------------------------------------------------
 
@@ -57,7 +57,7 @@ title:
 >- /languages/ - Notable languages.
 >- /constructs/ - Devices, weapons, artifacts.
 >- /factions/ - Key factions, civilian groups, and hostile orgs.
->- /personnel/ - Active, inactive, or KIA personnel logs.
+>- /profiles/ - All individuals of note.
 >
 >:: NAVIGATION ::
 >- Mouse navigation supported.
