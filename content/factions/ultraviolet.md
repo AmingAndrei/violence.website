@@ -12,21 +12,21 @@ Ultraviolet personnel are referred to as **Operators**. Operators are broadly di
 
 Ultraviolet follows a **hierarchical but meritocratic rank system**, with progression based on combat capability, mission success, and Executive endorsement. Rank is permanently recorded and visible on the individual’s **Wolf Tag**.
 
-- **EXECUTIVE** _(Special Classification)_
+- **EXECUTIVE ✦** _(Special Classification)_
     - De facto commander of Ultraviolet. While not technically part of the Operator structure, the Executive retains a **Wolf Tag** and has **absolute authority** over all personnel. All missions, briefings, and strategic orders are issued directly by this role.
 
-- **CAPTAIN**
+- **CAPTAIN ✸**
     - The highest formal rank within Ultraviolet. Limited to a maximum of **three individuals** at any given time. Captains are elite Operators—selected for their exceptional strength, reliability, and strategic value. Typically deployed in situations where **failure is not an option**.
 
-- **OFFICER**
+- **OFFICER ✹**
     - A mid-tier leadership rank. Promotions to this rank require demonstrable success in extended operations.
 
-- **OPERATOR**
+- **OPERATOR ⭓**
     - The standard classification for full-time Ultraviolet personnel.
     - Part-Time Operators are designated as Operators but are **ineligible for promotion** within the ranking system. This limitation obscures what rank they might have **if fully enlisted**.
 
-- **ASSET**
+- **ASSET ⬤**
     - Lateral designation for individuals or entities paired with Operators for support, synergy, or unique capabilities. Assets function as **extensions** of their assigned Operator and are **non-autonomous**, answering only to the Operator to whom they are bound.
 
-- **INOPERATIVE**
+- **INOPERATIVE ☒ **
     - Designation for former Operators who have opted out of the programme.
