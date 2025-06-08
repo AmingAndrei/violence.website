@@ -14,9 +14,7 @@
 
 ├── /[[ren_jacques]]/ ─── /[[velos_azuria]]/
 
-├── /[[aorello_lorand]]/ 
-
-└── /[[zarkova_alena]]/
+└── /[[aorello_lorand]]/
 
 ---
 
