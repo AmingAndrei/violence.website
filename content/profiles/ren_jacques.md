@@ -40,7 +40,7 @@ Known Weaknesses: _Compromised risk management._
 
 [ RELATIONS ]
 
-Known Allies: _Azuria Velos, Lorand Aorello, Alena Žárková_
+Known Allies: _Azuria Velos, Lorand Aorello_
 
 Known Enemies: -
 
