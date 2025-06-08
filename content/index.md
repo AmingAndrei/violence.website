@@ -66,3 +66,5 @@ title:
 --------------------------------------------------------
 
 [ LAST SYSTEM SYNC: ████-██-██ | SYS UPTIME: 341h ]
+
+[[.well-known/discord]]
