@@ -15,7 +15,7 @@ Like all Chimeras, the Fae can produce and manipulate **Fael Fire**. Their contr
 Fae culture places **significant importance on armour**, not just as protection but as a functional extension of their biological abilities.
 - Fae armour is crafted for **high mobility**, **resilience**, and **maximum Fael Fire compatibility**. Designs are sleek, often **colour-matched** to the individual’s flame hue. Helmets resemble **crowns**, leaving **ears and hair exposed**.
 - Gauntlets are a defining aspect of Fae gear, specialized to **channel Fael Fire** in unique forms:
-    - **Ranged Gauntlets**: Shaped like **animal heads or iconic anatomical forms**, they produce a wide variety of **ranged attacks**—from flamethrower streams to explosive bursts or rapid-fire pulses, depending on form and internal structure.
+    - **Ranged Gauntlets**: Shaped like **animal heads or iconic anatomical forms**, they produce a wide variety of **ranged attacks**, from flamethrower streams to explosive bursts or rapid-fire pulses, depending on form and internal structure.
     - **Melee Gauntlets**: Appear normal when dormant; upon activation, Fael Fire **manifests as melee weapons** (blades, spears, axes, etc.) directly from the arms. While active, the Fae cannot use their hands for manipulation, focusing entirely on close-quarters combat.
 
 **Genetic Compatibility and Reproduction**

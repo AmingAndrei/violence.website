@@ -11,7 +11,7 @@ Ash Nymphs possess a **centaurine body plan**, combining a quadrupedal lower hal
 
 **Behaviour and Cognition**
 
-Ash Nymphs demonstrate **self-awareness**, **advanced intelligence**, and are capable of **territorial management** and **environmental cultivation**. While typically **non-aggressive**, they display **extreme protective hostility** toward intruders that cause **ecological damage** within their established domains—referred to as **gardens**.
+Ash Nymphs demonstrate **self-awareness**, **advanced intelligence**, and are capable of **territorial management** and **environmental cultivation**. While typically **non-aggressive**, they display **extreme protective hostility** toward intruders that cause **ecological damage** within their established domains, referred to as **gardens**.
 
 Ash Nymph territories are meticulously curated areas where vegetation is grown, maintained, and enhanced through **acoustic stimulation** and active caretaking. Ash Nymphs are **tolerant** of fellow Ash Nymphs within their zones, suggesting a form of passive intra-species diplomacy.
 

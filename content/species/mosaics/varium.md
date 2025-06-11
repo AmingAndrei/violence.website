@@ -14,4 +14,4 @@ Varium mitigates these risks by providing a **buffering mechanism** that redistr
 **Limitations and Failsafes**
 
 - While **all Mosaics** are biologically compatible with Vectors, the **absence of Varium** effectively **prohibits their usage**.
-- A genetic **failsafe mechanism** embedded within all Mosaics prevents the execution of any Vector unless sufficient Varium reserves are present. This failsafe must be **manually and deliberately overridden**—a non-intuitive and dangerous act that almost invariably results in **death**.
+- A genetic **failsafe mechanism** embedded within all Mosaics prevents the execution of any Vector unless sufficient Varium reserves are present. This failsafe must be **manually and deliberately overridden**, a non-intuitive and dangerous act that almost invariably results in **death**.

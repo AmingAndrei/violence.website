@@ -9,18 +9,18 @@ The incident is characterized by a rapid, multidimensional cascade of phenomena 
 **Observed Effects**
 
 - Earth's **magnetosphere** was either altered or partially collapsed, rendering traditional navigational instruments (e.g., compasses) non-functional and causing the **widespread failure of unshielded electronics**. Electromagnetic shielding proved effective only in isolated cases, primarily within high-security research or military installations.
-- All observable astral bodies—**excluding the Moon and Sun**—**vanished** from the night sky. Deep-space telemetry returned null data, indicating a complete **spatial nullification** beyond ~800,000 km from Earth. Additionally, structural changes to the Moon caused **tidal anomalies**, including **mass flooding and tsunami events**.
-- The AWI is recorded as the **largest Monolith breach in history**, resulting in the arrival of numerous Devils across all inhabited continents. Casualty estimates range between **4 to 5 billion deaths** attributed to these incursions.
+- All previously observable and documented astral bodies, **excluding the Moon and Sun**, **vanished** from the night sky. Deep-space telemetry returned null data, indicating a complete **spatial nullification** beyond ~30,000,000 km from Earth. Additionally, spatial changes caused **tidal anomalies**, including **mass flooding and tsunami events**.
+- The AWI is recorded as the **largest Monolith breach in history**, resulting in the arrival of numerous nullikaryote species, primarily Devils, across all inhabited continents. Casualty estimates range between **4 to 5 billion deaths** attributed to these incursions.
 
 **Climatological and Ecological Consequences**
 
 The "Ashen Winter" designation is both **metaphorical and literal**:
-- Global temperatures dropped by **7–10°C** in approximately 50% of Earth’s surface.
-- The **Moon’s partial fragmentation**, combined with massive **volcanic activity**, led to atmospheric saturation by **lunar dust** and **volcanic ash**. This precipitated:
-    - Widespread **ecological die-off** (flora and fauna),    
-    - The breakdown of **photosynthetic systems**,
-    - A secondary mortality wave (estimated 1–2 billion deaths),
-    - Collapse of **global wind patterns** and **oceanic current systems**.
+- Global temperatures dropped by **7–10°C** across roughly 60% of Earth's surface.
+- A sudden, sustained deluge of **atmospheric chalkfall**, origin unknown, blanketed the planet, saturating the skies with **fine calcium carbonate particulates**. This triggered:
+    - Massive **ecological collapse** in both terrestrial and marine biomes,
+    - The failure of **photosynthetic systems** due to light occlusion and leaf suffocation,
+    - A secondary mortality wave (estimated **1–2 billion deaths**) from asphyxiation, starvation, and infrastructure failure,
+    - Disruption and partial collapse of **global wind patterns** and **thermohaline ocean currents** due to albedo shifts and surface cooling.
 
 **Temporal Distortion**
 

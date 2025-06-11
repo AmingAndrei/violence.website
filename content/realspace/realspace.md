@@ -4,7 +4,7 @@
 
 **Post-Ashen Winter Incident Parameters**
 
-Following the events of the **Ashen Winter Incident**, Realspace contemporary theoretical models suggest that Realspace **terminates** or becomes **undefined** at a radial boundary ~**800,000 kilometres from Earth's surface**, beyond which **no matter or phenomena** are observed, with the exception of the Sun.
+Following the events of the **Ashen Winter Incident**, Realspace contemporary theoretical models suggest that Realspace **terminates** or becomes **undefined** at a radial boundary ~**30,000,000 kilometres from Sun's surface**, beyond which **no matter or phenomena** are observed.
 
 **The Chromatican City**
 
@@ -16,6 +16,4 @@ The **Chromatican City** is a major metropolitan construct that **emerged within
 
 ├── /[[ashen_winter_incident]]/
 
-├── /[[sun]]/
-
-└── /[[moon]]/
+└── /[[sun]]/

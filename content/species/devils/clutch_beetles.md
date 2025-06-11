@@ -16,7 +16,7 @@ Despite possessing a **nervous system approximately 1000 times more complex than
 
 **Parasitic Interaction and Drive Activation**
 
-Clutch Beetles derive their name from their unique **parasitic bonding mechanism** with vertebrate, non-nullikaryote hosts. Upon encountering a viable host—particularly one that is injured or incapacitated—the beetle will attach to the **nape of the neck**, penetrate the skin **painlessly and rapidly**, and establish itself at the **brain stem**.
+Clutch Beetles derive their name from their unique **parasitic bonding mechanism** with vertebrate, non-nullikaryote hosts. Upon encountering a viable host, particularly one that is injured or incapacitated, the beetle will attach to the **nape of the neck**, penetrate the skin **painlessly and rapidly**, and establish itself at the **brain stem**.
 
 Once inside, the beetle deploys **filamentous structures** throughout the host's body, which **replace and override the peripheral nervous system**. The beetle, now partially fused with the **central nervous system**, functions as a **neurological adaptor**, translating and enhancing neural signals. This fusion process occurs almost instantaneously and is often accompanied by the emission of **heat emission**, **static discharge** and **bioluminescence**.
 

@@ -22,9 +22,9 @@ Affiliation/Faction: _Ultraviolet_
 
 Name/Type: _Waffe-Type Drive_
 
-Description: _The Drive activation primarily affects the upper extremities and cranial region. Key characteristics include the emergence of black, overlapping scales over the arms and head; enhanced musculature and bone density in the upper limbs; and development of integrated propulsion mechanisms along the forearms and rear cranium. Scaled fists with extreme durability and muscle reinforcement allow for high-velocity, high-impact strikes capable of penetrating hardened structures. Forearm exhaust ports emit blue bioluminescence passively, and facilitate enhanced strike propulsion. Head assumes slightly elongated, scale-covered configuration resembling a stylized human cranium. Facial features are absent, though associated senses remain functional, with olfactory and auditory capabilities exceeding standard human thresholds. Oral cavity remains exposed due to lack of lips; teeth are constantly bared. Cranium exhaust ports and pressure point reconfiguration permit concussive-force headbutts._
+Description: _The Drive activation primarily affects the upper extremities and cranial region. Key characteristics include the emergence of black, overlapping scales over the arms and head; enhanced musculature and bone density in the upper limbs; and development of integrated propulsion mechanisms along the forearms and rear cranium. Scaled fists with extreme durability and muscle reinforcement allow for high-velocity, high-impact strikes capable of penetrating hardened structures. Forearm exhaust ports emit blue bioluminescence passively, and facilitate enhanced strike propulsion. Head assumes slightly elongated, scale-covered configuration resembling a stylized human cranium. Facial features are absent, though associated senses remain functional, with olfactory and auditory capabilities exceeding standard human thresholds. Oral cavity remains exposed due to lack of lips; teeth are constantly bared. Cranium exhaust ports and pressure point reconfiguration permit concussive-force headbutts. Extremely versatile._
 
-Known Limitations: _Exclusively close-combat focused; lacks mid-to-long range engagement capacity. No utility or multi-role adaptability observed._
+Known Limitations: _Does not excel in any capacity, overshadowing its versatility._
 
 [ MEDICAL ]
 

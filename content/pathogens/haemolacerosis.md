@@ -6,7 +6,7 @@
 
 The only **replicable mode of transmission** is via **direct contact with the blood of an infected individual**. Even a single drop of infected blood is sufficient to induce full transmission. Despite extensive analysis, **no pathogens, prions, or biological agents** have been isolated from infected blood samples, and standard sterilization procedures offer **no protection**. Upon exposure, Haemolacerosis **integrates irreversibly into the host's genetic structure**, embedding itself at the molecular level.
 
-Consequently, conventional medical responses—such as **exsanguination, dialysis, or complete blood replacement**—have proven **ineffective**, as the disease resumes its course regardless of the blood source present within the host.
+Consequently, conventional medical responses, such as **exsanguination, dialysis, or complete blood replacement**, have proven **ineffective**, as the disease resumes its course regardless of the blood source present within the host.
 
 **Pathophysiology and Symptomatology**
 

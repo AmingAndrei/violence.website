@@ -6,17 +6,17 @@
 
 » [ PALE ]
 
-└── /[[rebreanu_mihaela]]/ ✦
+└── /[[rebreanu_mihaela]]/
 
 ---
 
 » [ ULTRAVIOLET ]
 
-├── /[[aorello_lorand]]/ ✸
+├── /[[aorello_lorand]]/
 
-├── /[[ren_jacques]]/ ⭓
+├── /[[ren_jacques]]/
 
-└── /[[velos_azuria]]/ ⬤
+└── /[[velos_azuria]]/
 
 ---
 

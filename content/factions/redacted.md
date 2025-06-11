@@ -15,7 +15,7 @@
 
 `Immortality`
 
-`One of the most defining and dangerous attributes of the Acts is their functional immortality. Though they can be physically defeated or destroyed—a feat considered nearly impossible due to their overwhelming power—true death remains unattainable due to the following properties:`
+`One of the most defining and dangerous attributes of the Acts is their functional immortality. Though they can be physically defeated or destroyed, a feat considered nearly impossible due to their overwhelming power, true death remains unattainable due to the following properties:`
 - `Upon death or dismemberment, remains immediately degrade into red sand. This prevents any forensic or material study.`
 - `After a 72-hour cycle following confirmed death, the entity will fully reconstitute within Blackspace, retaining all prior abilities and consciousness. From their perspective, only a few seconds will have passed.`
-- `This regenerative phenomenon is believed to be the result of their embodied conceptual nature—each entity IS the act it represents. As such, they are not merely beings in Blackspace, but structural metaphors given form, inseparably tied to the dimension’s integrity.`
+- `This regenerative phenomenon is believed to be the result of their embodied conceptual nature, each entity IS the act it represents. As such, they are not merely beings in Blackspace, but structural metaphors given form, inseparably tied to the dimension’s integrity.`

@@ -4,7 +4,7 @@
 
 **Origin and Formation**
 
-The creation of a Vulture occurs when a Vesper infiltrates the body of a compromised Valence—typically one that is either biologically deceased or neurologically nonviable. Upon entry, the Vesper initiates a **full-body integration**, overtaking both the **shell** and **remaining systems** of the Valence. This integration is not a simple reanimation; it is a **full fusion**, blending the Voxel structure of the Vesper with that of the Valence host.
+The creation of a Vulture occurs when a Vesper infiltrates the body of a compromised Valence, typically one that is either biologically deceased or neurologically nonviable. Upon entry, the Vesper initiates a **full-body integration**, overtaking both the **shell** and **remaining systems** of the Valence. This integration is not a simple reanimation; it is a **full fusion**, blending the Voxel structure of the Vesper with that of the Valence host.
 
 **Physical Characteristics**
 
