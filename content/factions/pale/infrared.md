@@ -14,10 +14,7 @@
     - Incidents involving high-risk threats are escalated to **Ultraviolet**.
 
 3. **Black Box Oversight**
-    - Infrared holds **exclusive jurisdiction over the Black Box**. Duties include:
-        - **Routine inspection and calibration**
-        - **Security enforcement**
-        - **Systems diagnostics**
+    - Infrared holds **exclusive jurisdiction over the Black Box**. Duties include routine inspection and calibration, security enforcement and systems diagnostics.
 
 **Organizational Hierarchy**
 
