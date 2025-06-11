@@ -4,9 +4,9 @@ The **Balaur (pl. Balauri)** is a formidable quadrupedal species of **Chimera**,
 
 **Physical Characteristics**
 - Adult Balauri average **40 metres in total length**. They possess a **robust quadrupedal frame** covered in **tough blue scales**, with **dense fur** lining their **necks, ears, and wings**. The scales and the leathery skin beneath the fur provide **comparable resistance**, acting as natural armor.
-- Balauri are defined by their **three distinct heads**—a **central dominant head** flanked by **two lateral heads**, each supported by its own long, fur-covered neck. The **faces resemble reptiles**, vaguely bat-like in configuration.  
+- Balauri are defined by their **three distinct heads**: a **central dominant head** flanked by **two lateral heads**, each supported by its own long, fur-covered neck. The **faces resemble reptiles**, vaguely bat-like in configuration.  
     Each head houses **a secondary brain**, subordinate to the **main CNS housed in the torso**, forming a **segmented nervous system**.
-- Balauri have **red irises with black pupils** and possess **ultraviolet vision**. They feature **dual olfactory systems**—standard nasal receptors and a **Jacobson-like organ**, enabling precise chemical tracking akin to serpents.
+- Balauri have **red irises with black pupils** and possess **ultraviolet vision**. They feature **dual olfactory systems**: standard nasal receptors and a **Jacobson-like organ**, enabling precise chemical tracking akin to serpents.
 - **Flight & Mobility:**
     - **Flight speed:** up to **80 km/h**, sustained.
     - **Land speed:** gallop at **40 km/h**.
@@ -22,7 +22,7 @@ The **Balaur (pl. Balauri)** is a formidable quadrupedal species of **Chimera**,
 
   - Each head's brain is **semi-autonomous**, allowing **independent thought and behavior**.
 - All brains remain **coordinated through the central spinal-brain hub**, maintaining unified motor control and survival intent. 
-- Severed heads can **regenerate over time**—the new head retains **memories via main-brain backup**, but **personality may differ**.
+- Severed heads can **regenerate over time**, the new head retains **memories via main-brain backup**, but **personality may differ**.
 - If **all three heads are destroyed**, the organism will **die**, as **critical autonomic functions** (respiration, circulation) are **regulated through the secondary brains**.
 
 **Behavior and Reproduction**

@@ -4,7 +4,7 @@ The **Kobold (pl. Kobolds)** is a bipedal species of **Chimera**, native to Blac
 
 **Morphology and Physiology**
 
-Kobolds exhibit a **humanoid body plan**, standing approximately **4 meters in height**, with a **lanky frame**, **elongated limbs**, and an **exceptionally long neck**. The body is covered in **thin black scales**, while the **muscular and skeletal structures** are highly dense and durable—enabling a Kobold to **overpower an adult human with a single limb**.
+Kobolds exhibit a **humanoid body plan**, standing approximately **4 meters in height**, with a **lanky frame**, **elongated limbs**, and an **exceptionally long neck**. The body is covered in **thin black scales**, while the **muscular and skeletal structures** are highly dense and durable, enabling a Kobold to **overpower an adult human with a single limb**.
 - **Hands** are tridactyl, featuring **two long, flexible fingers** and a **thumb**.
 - **Legs** are digitigrade, adapted for agile, powerful movement.
 - **Head** is covered in a **metallic dermal layer** composed primarily of **gold**, giving the face a **solid golden appearance**. The head bears **two massive ears, three backward-facing horns**, lacks a nasal structure, features **sharp dentition**, and eyes with a **crystalline sheen**, making closing their eyes unnecessary, lacking eyelids altogether.

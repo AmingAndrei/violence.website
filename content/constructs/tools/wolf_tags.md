@@ -9,7 +9,7 @@ Wolf Tags are forged from **Blackstone shifted to resemble stainless steel**. Ea
 1. Surname
 2. Given Name
 3. Species // Subspecies
-4. Powers or Capability Descriptor
+4. Signature
 5. Status or Rank
 
 **Integrated Technology**

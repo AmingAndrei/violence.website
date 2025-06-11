@@ -6,7 +6,7 @@
 
 In its dormant state, Fael Fire appears as a fluid or vapor that **auto-ignites upon exposure to atmospheric oxygen**, regardless of ambient temperature or pressure. It can manifest in **a wide spectrum of colours**; however, **chromatic variation has no correlation with chemical potency or function**.
 
-Fael Fire is capable of **sustained combustion in aqueous environments**, maintaining flame and heat output under full submersion—an attribute that parallels historical accounts of Greek Fire, though significantly more intense and stable.
+Fael Fire is capable of **sustained combustion in aqueous environments**, maintaining flame and heat output under full submersion, an attribute that parallels historical accounts of Greek Fire, though significantly more intense and stable.
 
 **Species-Specific Interaction**
 - **Chimera Immunity:**  

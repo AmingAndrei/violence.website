@@ -1,6 +1,6 @@
 .../[[index]]/[[species]]/mosaics.md
 
-The _Mimisis_ class—commonly referred to as **"Mosaics"**—comprises all species of **Voxel-based colonial entities** within the _Nullikaryota_ domain of **Blackspace**. Entirely composed of Voxels, _Mimisis_ organisms exhibit a distinct **crystalline appearance** and a range of **adaptive sensory and structural capabilities**, derived from their Voxel substrate.
+The _Mimisis_ class, commonly referred to as **"Mosaics"**, comprises all species of **Voxel-based colonial entities** within the _Nullikaryota_ domain of **Blackspace**. Entirely composed of Voxels, _Mimisis_ organisms exhibit a distinct **crystalline appearance** and a range of **adaptive sensory and structural capabilities**, derived from their Voxel substrate.
 
 **Anatomy and Configuration**
 

@@ -27,7 +27,7 @@ _Körper_ (German for "body") Drives are characterized by the **comprehensive ge
 - The resulting structure may resemble a **fitted armour** or a **massive construct**, often extending well beyond the user’s natural dimensions.
 - Regardless of external size, the user’s original body is always **located near the brain stem region** within the generated mass.
 - Körper manifestations provide significant **defensive and physical enhancements**, effectively functioning as full-body exo-suits or biomechanical avatars.
-- The user retains full control of the mass, and destruction of the outer structure doesn't results in immediate user death—unless the core region is directly targeted.
+- The user retains full control of the mass, and destruction of the outer structure doesn't results in immediate user death, unless the core region is directly targeted.
 
 **Waffe-Type Drives**
 

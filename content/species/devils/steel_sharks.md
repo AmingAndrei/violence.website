@@ -23,7 +23,7 @@ This system achieves an average **perceptual accuracy of 90%** within a 100-metr
 Steel Sharks operate in two distinct forms:
 
 - **Default State**: Inactive or resting form, resembling a **mechanical weapon**. Designs vary but are typically complex and symbolic of heavy machinery. In this state, they remain **conscious and alert**, even when un-fueled, though catatonic. Despite functional weakness to water (due to mechanical analogues), they cannot be killed unless the **engine core is fully destroyed**.
-- **Humanoid State**: Triggered upon consumption of **blood**, Steel Sharks undergo **extensive reconfiguration**, assuming fully humanoid shapes. These forms retain human-like anatomical structure—including **limbs, facial features, hair**, and **musculature**—while maintaining their alloy-based composition. Notable traits include:
+- **Humanoid State**: Triggered upon consumption of **blood**, Steel Sharks undergo **extensive reconfiguration**, assuming fully humanoid shapes. These forms retain human-like anatomical structure, including **limbs, facial features, hair**, and **musculature**, while maintaining their alloy-based composition. Notable traits include:
     - Hair resembling **chainsaw chains**
     - Teeth shaped similarly to **shark dentition**
     - Voices accompanied by **engine noise**
@@ -43,7 +43,7 @@ In humanoid form, they are capable of **verbal speech**, typically delivered wit
 Steel Sharks exhibit a unique **technophagic** capability:  
 Upon physical contact with mechanical or electronic devices, they initiate rapid **disassembly**, drawing components into their body via internal conduits. These materials are:
 - **Stored internally**
-- **Reassembled on command**—either **externally** or as integrated enhancements.
+- **Reassembled on command**, either **externally** or as integrated enhancements.
 Reconstruction is precise and efficient, maintaining the original function of the device.
 
 **Aggression and Combat Behaviour**

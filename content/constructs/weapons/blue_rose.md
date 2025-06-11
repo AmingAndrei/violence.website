@@ -16,7 +16,7 @@ The Blue Rose is structurally similar to the **Smith & Wesson Model 500**, thoug
 
 - Capable of firing two rounds per trigger pull, for a total of **three dual-shots per reload cycle**.
 - The weapon’s force output is sufficient to **sever wrist tendons** under prolonged human use. A direct hit is reportedly capable of **instantaneous decapitation** or **destruction of reinforced materials**.
-- The Blue Rose is believed to have utilised **custom-forged silver rounds**, distinct from standard lead projectiles, though their exact composition remains unverified. These rounds were engineered to interface with the revolver's innate properties, though the weapon itself—not the ammunition—is believed to possess the anomalous traits.
+- The Blue Rose is believed to have utilised **custom-forged silver rounds**, distinct from standard lead projectiles, though their exact composition remains unverified. These rounds were engineered to interface with the revolver's innate properties, though the weapon itself, not the ammunition, is believed to possess the anomalous traits.
 
 **Anomalous Properties**
 
