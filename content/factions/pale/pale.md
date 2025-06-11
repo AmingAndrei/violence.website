@@ -22,4 +22,14 @@ The role of Executive is both powerful and burdensome, requiring constant superv
 
 [ ASSOCIATED FILES: ]
 
+├── /[[infrared]]/
+
+├── /[[amberlight]]/
+
+├── /[[yellowcake]]/
+
+├── /[[evergreen]]/
+
+├── /[[blueprint]]/
+
 └── /[[ultraviolet]]/
