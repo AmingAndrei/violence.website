@@ -15,3 +15,9 @@
 » [ WEAPONS ]
 
 └── /[[blue_rose]]/
+
+---
+
+» [ APPS ]
+
+└── /oasys/
