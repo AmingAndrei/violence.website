@@ -24,7 +24,7 @@ The role of Executive is both powerful and burdensome, requiring constant superv
 
 ├── /[[infrared]]/
 
-├── /[[amberlight]]/
+├── /[[orangequit]]/
 
 ├── /[[yellowcake]]/
 
