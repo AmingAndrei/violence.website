@@ -18,4 +18,4 @@
 
 **Organizational Hierarchy**
 
-Infrared is directed by a single **Administrator**, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive. Field agents  are recruited from within the Chromatican population, and are equipped with standardized surveillance kits and authorization protocols for engagement within residential and civic zones.
+Infrared is directed by a single **Administrator**, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.
