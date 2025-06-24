@@ -1,6 +1,8 @@
 ---
 title:
 ---
+» [ [[desktop|EXIT]] ]
+
 = ACHERON DATABASE INTERFACE // V4.8.1 =
 
 ---
@@ -65,7 +67,6 @@ title:
 
 ---
 
-» [ [[desktop|CLOSE SESSION & RETURN TO DESKTOP]] ]
 <script>
   function playFailSound() {
     const audio = new Audio('/assets/fail.mp3');
