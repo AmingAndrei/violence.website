@@ -1,4 +1,4 @@
-# ACHERON OS // v0.9
+ACHERON OS // v0.9
 
 ---
 
