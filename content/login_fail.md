@@ -65,8 +65,6 @@ title:
 >- Mouse navigation is supported.
 >- Click folder names to proceed.
 
----
-
 <script>
   function playFailSound() {
     const audio = new Audio('/assets/fail.mp3');
