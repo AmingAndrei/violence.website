@@ -69,5 +69,3 @@ title:
     audio.play();
   }
 </script>
-
-[[game]]
