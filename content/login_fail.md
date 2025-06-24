@@ -7,7 +7,7 @@ title:
 
 [ SYSTEM BOOT COMPLETE ]
 
-» USER AUTH :: [ FAILED ] — ACCESS GRANTED [ [[login_fail|LOGIN FAILED. TRY AGAIN?]] ]
+» USER AUTH :: [ FAILED ] -- GUEST ACCESS GRANTED [ [[login_fail|LOGIN FAILED. TRY AGAIN?]] ]
 
 » STATUS :: STABLE  |  CONNECTION :: ENCRYPTED
 
@@ -62,7 +62,3 @@ title:
 >:: NAVIGATION ::
 >- Mouse navigation supported.
 >- Click folder names to proceed.
-
---------------------------------------------------------
-
-[ LAST SYSTEM SYNC: ████-██-██ | SYS UPTIME: 341h ]
