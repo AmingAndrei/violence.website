@@ -1,6 +1,8 @@
 ---
 title:
 ---
+» [ [[desktop|EXIT]] ]
+
 = ACHERON DATABASE INTERFACE // V4.8.1 =
 
 ---
@@ -63,9 +65,6 @@ title:
 >- Mouse navigation is supported.
 >- Click folder names to proceed. 
 
----
-
-» [ [[desktop|CLOSE SESSION & RETURN TO DESKTOP]] ]
 <script>
   function playFailSound() {
     const audio = new Audio('/assets/fail.mp3');
