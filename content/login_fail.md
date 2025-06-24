@@ -7,7 +7,7 @@ title:
 
 [ SYSTEM BOOT COMPLETE ]
 
-» USER AUTH :: [ FAILED ] -- GUEST ACCESS GRANTED [ [[login_fail|LOGIN FAILED. TRY AGAIN?]] ]
+» USER AUTH :: [ FAILED ] -- GUEST ACCESS GRANTED [ <a href="/login_fail/" onclick="playFailSound()">LOGIN FAILED. TRY AGAIN?</a> ]
 
 » STATUS :: STABLE  |  CONNECTION :: ENCRYPTED
 
@@ -44,7 +44,7 @@ title:
 >→
 >
 >WELCOME TO THE ACHERON RESEARCH DATABASE INTERFACE  
->This terminal grants structured access to critical knowledge as compiled by Acheron scientific and field divisions.
+>This terminal provides structured access to critical knowledge as compiled by Acheron's scientific and field divisions.
 >
 >:: DIRECTORY MAP ::
 >- /blackspace/ - Information regarding BLACKSPACE.
@@ -55,10 +55,17 @@ title:
 >- /pathogens/ - Known pathogens, memetic infections.
 >- /metaphoricals/ - Phenomena not explained by standard physical laws.
 >- /languages/ - Notable languages.
->- /constructs/ - Devices, weapons, artifacts.
+>- /constructs/ - Devices, weapons, artefacts.
 >- /factions/ - Key factions, civilian groups, and hostile orgs.
 >- /profiles/ - All individuals of note.
 >
 >:: NAVIGATION ::
->- Mouse navigation supported.
+>- Mouse navigation is supported.
 >- Click folder names to proceed.
+
+<script>
+  function playFailSound() {
+    const audio = new Audio('/assets/fail.mp3');
+    audio.play();
+  }
+</script>
