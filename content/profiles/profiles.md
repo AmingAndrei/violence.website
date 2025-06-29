@@ -1,5 +1,3 @@
-.../[[index]]/profiles.md
-
 » AVAILABLE DIRECTORIES:
 
 ---
