@@ -35,9 +35,7 @@ title:
 
 ├── /[[constructs]]/
 
-├── /[[factions]]/
-
-└── /[[profiles]]/
+└── /[[factions]]/
 
 --------------------------------------------------------
 
@@ -59,7 +57,6 @@ title:
 >- /languages/ - Notable languages.
 >- /constructs/ - Devices, weapons, artefacts.
 >- /factions/ - Key factions, civilian groups, and hostile orgs.
->- /profiles/ - All individuals of note.
 >
 >:: NAVIGATION ::
 >- Mouse navigation is supported.
