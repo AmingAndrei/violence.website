@@ -1,6 +1,6 @@
 .../[[index]]/[[species]]/[[chimeras]]/balauri.md
 
-The **Balaur (pl. Balauri)** is a formidable quadrupedal species of **Chimera**, native to  Blackspace. These **multi-headed, lizard-like beings** are renowned for their powerful physiology and distinctive tripartite neuroanatomy.
+The **Balaur (pl. Balauri)** is a formidable quadrupedal species of **Chimera**, native to  BLACKSPACE. These **multi-headed, lizard-like beings** are renowned for their powerful physiology and distinctive tripartite neuroanatomy.
 
 **Physical Characteristics**
 - Adult Balauri average **40 metres in total length**. They possess a **robust quadrupedal frame** covered in **tough blue scales**, with **dense fur** lining their **necks, ears, and wings**. The scales and the leathery skin beneath the fur provide **comparable resistance**, acting as natural armor.

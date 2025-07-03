@@ -1,6 +1,6 @@
 .../[[index]]/[[species]]/[[mosaics]]/voxels.md
 
-**Voxels** are microscopic, pseudo-technological entities native to Blackspace, typically measuring only a few nanometres in diameter. Despite their biological origin, Voxels exhibit characteristics more consistent with artificial or synthetic constructs, leading to the prevailing hypothesis that they are theoretically capable of **artificial manufacture** under the correct conditions.
+**Voxels** are microscopic, pseudo-technological entities native to BLACKSPACE, typically measuring only a few nanometres in diameter. Despite their biological origin, Voxels exhibit characteristics more consistent with artificial or synthetic constructs, leading to the prevailing hypothesis that they are theoretically capable of **artificial manufacture** under the correct conditions.
 
 **Biostructure and Composition**
 

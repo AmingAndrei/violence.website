@@ -8,7 +8,7 @@ Following the events of the **Ashen Winter Incident**, Realspace contemporary th
 
 **The Chromatican City**
 
-The **Chromatican City** is a major metropolitan construct that **emerged within Realspace** in the aftermath of the Ashen Winter Incident and the initial contact with Blackspace. It serves as a focal point for **interdimensional research, cultural consolidation**, and **diplomatic activity** related to extra-Realspace phenomena.
+The **Chromatican City** is a major metropolitan construct that **emerged within Realspace** in the aftermath of the Ashen Winter Incident and the initial contact with BLACKSPACE. It serves as a focal point for **interdimensional research, cultural consolidation**, and **diplomatic activity** related to extra-Realspace phenomena.
 
 ---
 

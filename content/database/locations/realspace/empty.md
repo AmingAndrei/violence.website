@@ -6,7 +6,7 @@ This file is empty and is pending deletion. If you are seeing this message, repo
 
 ---
 
-`The Minotaur is a hostile entity located within the Citadel, functioning in part as its de facto guardian. It is one of the most dangerous known entities associated with Blackspace, and is directly responsible for the inaccessibility of the Citadel.`
+`The Minotaur is a hostile entity located within the Citadel, functioning in part as its de facto guardian. It is one of the most dangerous known entities associated with BLACKSPACE, and is directly responsible for the inaccessibility of the Citadel.`
 
 `Physical Description`
 

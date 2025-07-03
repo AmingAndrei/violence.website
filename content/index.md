@@ -1,8 +1,6 @@
 ---
 title:
 ---
-» [ [[desktop|EXIT]] ]
-
 = ACHERON DATABASE INTERFACE // V4.8.1 =
 
 ---

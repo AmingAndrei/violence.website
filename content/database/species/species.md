@@ -4,7 +4,7 @@
 >
 >→
 >
->**Nullikaryota** is the taxonomic domain assigned to all known life forms native to Blackspace. These entities exist entirely outside the biological principles and phylogenetic lineages recognized within Realspace, rendering conventional classification systems inapplicable.
+>**Nullikaryota** is the taxonomic domain assigned to all known life forms native to BLACKSPACE. These entities exist entirely outside the biological principles and phylogenetic lineages recognized within Realspace, rendering conventional classification systems inapplicable.
 >
 >**Taxonomic Structure and Classification**
 >

@@ -1,6 +1,6 @@
 .../[[index]]/[[species]]/devils.md
 
-The _Diavolos_ class, colloquially referred to as **"Devils"**, constitutes a taxonomic grouping within the *Nullikaryota* domain of Blackspace. Members of this class are distinguished by **anomalous biological structures, non-linear evolutionary patterns**, and **metaphysical attributes** that render them fundamentally incompatible with known life classifications.
+The _Diavolos_ class, colloquially referred to as **"Devils"**, constitutes a taxonomic grouping within the *Nullikaryota* domain of BLACKSPACE. Members of this class are distinguished by **anomalous biological structures, non-linear evolutionary patterns**, and **metaphysical attributes** that render them fundamentally incompatible with known life classifications.
 
 **Taxonomic and Genetic Characteristics**
 

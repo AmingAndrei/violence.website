@@ -1,6 +1,6 @@
 .../[[index]]/[[species]]/[[devils]]/void_whales.md
 
-The **Void Whale** is an airborne species of **Devil**, endemic to Blackspace. Despite bearing structural resemblance to aquatic mammals of Realspace, Void Whales are fully adapted to aerial environments and demonstrate anomalous biological and behavioural traits.
+The **Void Whale** is an airborne species of **Devil**, endemic to BLACKSPACE. Despite bearing structural resemblance to aquatic mammals of Realspace, Void Whales are fully adapted to aerial environments and demonstrate anomalous biological and behavioural traits.
 
 **Morphology**
 
