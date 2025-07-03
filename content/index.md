@@ -1,19 +1,23 @@
 ---
 title:
 ---
-= ACHERON DATABASE INTERFACE // V4.8.1 =
+======================================
 
----
+: : ACHERON DATABASE INTERFACE : :<br>
+: : VERSION 4.8.1-BETA : :
 
-[ SYSTEM BOOT COMPLETE ]
+======================================
 
-» USER AUTH :: [ FAILED ] -- GUEST ACCESS GRANTED [ <a href="/login_fail/" onclick="playFailSound()">LOG IN?</a> ]
+[ SYSTEM BOOT COMPLETE ]<br>
+[ SECURE CONNECTION ESTABLISHED ]<br>
+[ ACCES LEVEL: GUEST]
 
-» STATUS :: STABLE  |  CONNECTION :: ENCRYPTED
+► login --status<br>
+USER AUTH: FAILED<br>
+RETRY LOGIN? [<a href="/index/" onclick="playFailSound()">y</a>/a] 
 
----
-
-» AVAILABLE DIRECTORIES:
+► ls / <br>
+AVAILABLE DIRECTORIES:
 
 ├── /[[blackspace]]/ : : BLACKSPACE research
 
