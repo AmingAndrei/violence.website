@@ -15,53 +15,25 @@ title:
 
 » AVAILABLE DIRECTORIES:
 
-├── /[[blackspace]]/
+├── /[[blackspace]]/ : : BLACKSPACE research
 
-├── /[[realspace]]/
+├── /[[realspace]]/ : : REALSPACE research
 
-├── /[[species]]/
+├── /[[species]]/ : : Xenobiological database
 
-├── /[[locations]]/
+├── /[[locations]]/ : : Notable locations
 
-├── /[[materials]]/
+├── /[[materials]]/ : : Notable resources
 
-├── /[[pathogens]]/
+├── /[[pathogens]]/ : : Biohazard database
 
-├── /[[metaphoricals]]/
+├── /[[metaphoricals]]/ : : Metaphysical phenomena
 
-├── /[[languages]]/
+├── /[[languages]]/ : : Linguistic database
 
-├── /[[constructs]]/
+├── /[[constructs]]/ : : Notable items
 
-├── /[[factions]]/
-
-└── /[[profiles]]/
-
---------------------------------------------------------
-
-> /[README.md]
->
->→
->
->WELCOME TO THE ACHERON RESEARCH DATABASE INTERFACE  
->This terminal provides structured access to critical knowledge as compiled by Acheron's scientific and field divisions.
->
->:: DIRECTORY MAP ::
->- /blackspace/ - Information regarding BLACKSPACE.
->- /realspace/ - Information regarding REALSPACE.
->- /species/ - Indexed xenobiological species.
->- /locations/ - Geolocated zones, settlements, and ruins.
->- /materials/ - Materials and anomalous matter studies.
->- /pathogens/ - Known pathogens, memetic infections.
->- /metaphoricals/ - Phenomena not explained by standard physical laws.
->- /languages/ - Notable languages.
->- /constructs/ - Devices, weapons, artefacts.
->- /factions/ - Key factions, civilian groups, and hostile orgs.
->- /profiles/ - All individuals of note.
->
->:: NAVIGATION ::
->- Mouse navigation is supported.
->- Click folder names to proceed.
+└── /[[factions]]/ : : Orgs and factions
 
 <script>
   function playFailSound() {
