@@ -1,6 +1,5 @@
 .../[[index]]/species.md
 
-
 **Nullikaryota** is the taxonomic domain assigned to all known life forms native to BLACKSPACE. These entities exist entirely outside the biological principles and phylogenetic lineages recognized within Realspace, rendering conventional classification systems inapplicable.
 
 **Taxonomic Structure**
@@ -15,12 +14,9 @@ Despite appearing organic in structure, possessing anatomical features analogous
 
 » AVAILABLE DIRECTORIES:
 
-├── /[[devils]]/
-
-├── /[[chimeras]]/
-
-├── /[[mosaics]]/
-
+├── /[[devils]]/<br>
+├── /[[chimeras]]/<br>
+├── /[[mosaics]]/<br>
 └── /[[flora]]/
 
 

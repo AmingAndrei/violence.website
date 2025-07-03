@@ -2,24 +2,13 @@
 
 » AVAILABLE DIRECTORIES:
 
----
-
-» [ REGION: REALSPACE ]
-
-├── /[[chromatican_city]]/
-
+» [ REGION: REALSPACE ]<br>
+├── /[[chromatican_city]]/<br>
 └── /[[monoliths]]/
 
----
-
-» [ REGION: BLACKSPACE // INNER DARK ]
-
+» [ REGION: BLACKSPACE // INNER DARK ]<br>
 └── /[[phlegethon]]/
 
----
-
-» [ REGION: BLACKSPACE // OUTER DARK ]
-
-├── /[[phlegethon]]/
-
+» [ REGION: BLACKSPACE // OUTER DARK ]<br>
+├── /[[phlegethon]]/<br>
 └── /[[hephaestus]]/

@@ -1,12 +1,13 @@
 ---
 title:
 ---
-======================================
+==================================================================================================
 
 : : ACHERON DATABASE INTERFACE : :<br>
 : : VERSION 4.8.1-BETA : :
 
-======================================
+==================================================================================================
+
 
 [ SYSTEM BOOT COMPLETE ]<br>
 [ SECURE CONNECTION ESTABLISHED ]<br>
@@ -14,30 +15,21 @@ title:
 
 ► login --status<br>
 USER AUTH: FAILED<br>
-RETRY LOGIN? [<a href="/index/" onclick="playFailSound()">y</a>/a] 
+RETRY LOGIN? [<a href="/index/" onclick="playFailSound()">y</a>/n] 
 
 ► ls / <br>
-AVAILABLE DIRECTORIES:
-
-├── /[[blackspace]]/ : : BLACKSPACE research
-
-├── /[[realspace]]/ : : REALSPACE research
-
-├── /[[species]]/ : : Xenobiological database
-
-├── /[[locations]]/ : : Notable locations
-
-├── /[[materials]]/ : : Notable resources
-
-├── /[[pathogens]]/ : : Biohazard database
-
-├── /[[metaphoricals]]/ : : Metaphysical phenomena
-
-├── /[[languages]]/ : : Linguistic database
-
-├── /[[constructs]]/ : : Notable items
-
-└── /[[factions]]/ : : Orgs and factions
+AVAILABLE DIRECTORIES:<br>
+├── /[[blackspace]]/ : : BLACKSPACE research<br>
+├── /[[realspace]]/ : : REALSPACE research<br>
+├── /[[species]]/ : : Xenobiological database<br>
+├── /[[locations]]/ : : Notable locations<br>
+├── /[[materials]]/ : : Notable resources<br>
+├── /[[pathogens]]/ : : Biohazard database<br>
+├── /[[metaphoricals]]/ : : Metaphysical phenomena<br>
+├── /[[languages]]/ : : Linguistic database<br>
+├── /[[constructs]]/ : : Notable objects<br>
+├── /[[factions]]/ : : Orgs and factions<br>
+└── /[[audios]]/ : : Audio logs
 
 <script>
   function playFailSound() {

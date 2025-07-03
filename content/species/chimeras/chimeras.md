@@ -21,18 +21,13 @@ The _Paramythi_ class stands as a unique fusion of **biological plausibility and
 
 ---
 
-» AVAILABLE DIRECTORIES:
-
-├── /[[fae]]/
-
-├── /[[balauri]]/
-
-├── /[[zmey]]/
-
+» AVAILABLE DIRECTORIES:<br>
+├── /[[fae]]/<br>
+├── /[[balauri]]/<br>
+├── /[[zmey]]/<br>
 └── /[[kobold]]/
 
 ---
 
-[ ASSOCIATED FILES: ]
-
+[ ASSOCIATED FILES: ]<br>
 └── /[[fael_fire]]/

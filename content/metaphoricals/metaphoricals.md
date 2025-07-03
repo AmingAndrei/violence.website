@@ -6,8 +6,6 @@ Unlike standard metaphysical constructs or meta-standard anomalies observed with
 
 ---
 
-» AVAILABLE DIRECTORIES:
-
-├── /[[imago]]/
-
+» AVAILABLE DIRECTORIES:<br>
+├── /[[imago]]/<br>
 └── /[[coherence]]/

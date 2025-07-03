@@ -20,16 +20,10 @@ The role of Executive is both powerful and burdensome, requiring constant superv
 
 ---
 
-[ ASSOCIATED FILES: ]
-
-├── /[[infrared]]/
-
-├── /[[orangequit]]/
-
-├── /[[yellowcake]]/
-
-├── /[[evergreen]]/
-
-├── /[[blueprint]]/
-
+[ ASSOCIATED FILES: ]<br>
+├── /[[infrared]]/<br>
+├── /[[orangequit]]/<br>
+├── /[[yellowcake]]/<br>
+├── /[[evergreen]]/<br>
+├── /[[blueprint]]/<br>
 └── /[[ultraviolet]]/
