@@ -1,6 +1,6 @@
 .../[[index]]/[[species]]/[[mosaics]]/valences.md
 
-**Valences** are a sentient species of **Mosaic**, originating withing **Blackspace**. They represent a unique subclass of **Mosaics**, distinguished by their symbiotic interaction with **external mechanical constructs**, referred to as _shells_, which serve as both exoskeleton and interface.
+**Valences** are a sentient species of **Mosaic**, originating withing **BLACKSPACE**. They represent a unique subclass of **Mosaics**, distinguished by their symbiotic interaction with **external mechanical constructs**, referred to as _shells_, which serve as both exoskeleton and interface.
 
 **Physiological Composition**
 

@@ -1,6 +1,6 @@
 .../[[index]]/[[languages]]/adamic.md
 
-**Adamic** is a naturally occurring, anomalous language spoken exclusively by entities native to **Blackspace**. The language is notable for its **perfect mutual intelligibility**.
+**Adamic** is a naturally occurring, anomalous language spoken exclusively by entities native to **BLACKSPACE**. The language is notable for its **perfect mutual intelligibility**.
 
 **Linguistic Properties**
 

@@ -1,6 +1,6 @@
 .../[[index]]/[[species]]/[[devils]]/clutch_beetles.md
 
-The **Clutch Beetle** is an insectoid, invertebrate species of **Devil** classified within the Blackspace ecosystem. Distinguished by their **extreme phenotypic variability** and **parasitic symbiosis**, Clutch Beetles are notable for their unique relationship with the **Imago**, a trait that allows them to absorb and express environmental and genetic influences in unpredictable ways.
+The **Clutch Beetle** is an insectoid, invertebrate species of **Devil** classified within the BLACKSPACE ecosystem. Distinguished by their **extreme phenotypic variability** and **parasitic symbiosis**, Clutch Beetles are notable for their unique relationship with the **Imago**, a trait that allows them to absorb and express environmental and genetic influences in unpredictable ways.
 
 **Morphology and Variability**
 

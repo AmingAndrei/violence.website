@@ -1,6 +1,6 @@
 .../[[index]]/[[species]]/[[chimeras]]/fae.md
 
-The **Fae** are an intelligent, humanoid species of **Chimera**, native to Blackspace. Known for their mastery of Fael Fire and advanced biological and cultural adaptations, the Fae occupy a distinct role among the sapient species of Blackspace.
+The **Fae** are an intelligent, humanoid species of **Chimera**, native to BLACKSPACE. Known for their mastery of Fael Fire and advanced biological and cultural adaptations, the Fae occupy a distinct role among the sapient species of BLACKSPACE.
 
 **Anatomy and Physiology**
 

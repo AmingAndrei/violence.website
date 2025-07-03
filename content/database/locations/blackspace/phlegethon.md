@@ -1,6 +1,6 @@
 .../[[index]]/[[locations]]/phlegethon.md
 
-The **Phlegethon** is a large, fluvial phenomenon located within **Blackspace**, notable for its highly unstable geography and unique biochemical composition.
+The **Phlegethon** is a large, fluvial phenomenon located within **BLACKSPACE**, notable for its highly unstable geography and unique biochemical composition.
 
 **Geographical and Physical Characteristics**
 
@@ -12,7 +12,7 @@ The Phlegethon is composed entirely of **blood**. Analytical sampling has confir
 
 **Temporal and Spatial Behaviour**
 
-The Phlegethon is **non-static**. Approximately every **168 hours (7 days)**, the river undergoes **complete spatial relocation**, disappearing from its current site within seconds. A **new spring** subsequently forms elsewhere in Blackspace, at a location that appears to be **entirely random**. There is **no known limitation** regarding terrain, proximity to other landmarks, or frequency of reappearance in previous sites.
+The Phlegethon is **non-static**. Approximately every **168 hours (7 days)**, the river undergoes **complete spatial relocation**, disappearing from its current site within seconds. A **new spring** subsequently forms elsewhere in BLACKSPACE, at a location that appears to be **entirely random**. There is **no known limitation** regarding terrain, proximity to other landmarks, or frequency of reappearance in previous sites.
 
 During each manifestation, the river:
 - Flows **continuously and without volume depletion**

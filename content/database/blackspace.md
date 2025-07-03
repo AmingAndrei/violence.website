@@ -1,20 +1,20 @@
 .../[[index]]/blackspace.md
 
-**Blackspace** is an anomalous extra-dimensional realm superimposed upon Realspace, and is empirically measured at a **negative Coherence**, indicating a complete absence of ontological stability.
+**BLACKSPACE** is an anomalous extra-dimensional realm superimposed upon Realspace, and is empirically measured at a **negative Coherence**, indicating a complete absence of ontological stability.
 
 **Access and Navigation**
 
-The most consistent and stable means of entry to and exit from Blackspace is through structures known as **Monoliths**. All organisms indigenous to this dimension are classified under the **Nullikaryota** domain.
+The most consistent and stable means of entry to and exit from BLACKSPACE is through structures known as **Monoliths**. All organisms indigenous to this dimension are classified under the **Nullikaryota** domain.
 
-**Physical Structure and Environment**
+**Physical Structure**
 
-Blackspace is composed entirely of **geometric landmasses** and **islands** formed predominantly from **Blackstone**. These formations are suspended within an infinite, lightless void, across which **dunes of red sand** naturally accumulate on solid surfaces. Despite the absence of any detectable light source, Blackspace is uniformly illuminated at a baseline of **1600 lumens**. However, specialized instrumentation has anomalously recorded a net **light emission of -1 lumen**, suggesting unknown or non-classical photonic behaviour. An form of radiation permeates the dimension, designated the **Imago**. This phenomenon is detectable throughout all regions of Blackspace.
+BLACKSPACE is composed entirely of **geometric landmasses** and **islands** formed predominantly from **Blackstone**. These formations are suspended within an infinite, lightless void, across which **dunes of red sand** naturally accumulate on solid surfaces. Despite the absence of any detectable light source, BLACKSPACE is uniformly illuminated at a baseline of **1600 lumens**. However, specialized instrumentation has anomalously recorded a net **light emission of -1 lumen**, suggesting unknown or non-classical photonic behaviour. An form of radiation permeates the dimension, designated the **Imago**. This phenomenon is detectable throughout all regions of BLACKSPACE.
 
-Gravity within Blackspace exists in a conceptual rather than conventional form; it behaves as an **ideational force**, causing all matter to fall in a consistent “downward” direction, despite lacking a singular gravitational origin. The atmosphere in Blackspace is breathable and chemically analogous to that of Realspace.
+Gravity within BLACKSPACE exists in a conceptual rather than conventional form; it behaves as an **ideational force**, causing all matter to fall in a consistent “downward” direction, despite lacking a singular gravitational origin. The atmosphere in BLACKSPACE is breathable and chemically analogous to that of Realspace.
 
 **Structural Geography**
 
-At the geometric and magnetic core of Blackspace lies the **Luxtree**, around which the rest of the dimension orbits or arranges itself. The surrounding landmasses form a vast, generally planar **disc** of suspended islands. While most islands are located on this plane, some can be found at altitudes significantly **above or below** it.
+At the geometric and magnetic core of BLACKSPACE lies the **Luxtree**, around which the rest of the dimension orbits or arranges itself. The surrounding landmasses form a vast, generally planar **disc** of suspended islands. While most islands are located on this plane, some can be found at altitudes significantly **above or below** it.
 
 These islands vary widely in both **size and separation**, with the largest exceeding **8,000 kilometres** in length. Depending on mass, terrain, and Blackstone shifting, some islands are capable of supporting **lakes, seas, or oceans**.
 

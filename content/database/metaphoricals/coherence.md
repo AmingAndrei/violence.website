@@ -8,15 +8,15 @@ Coherence determines the **integrity and sustainability** of Realspace-origin en
 - **Realspace**:  
     Coherence in Realspace fluctuates within a stable, positive range.
 - **Blackspace**:  
-    Blackspace possesses a **negative Coherence index**, marking it as a metaphysically hostile environment to all positively coherent matter. In practical terms, this means that:
+    BLACKSPACE possesses a **negative Coherence index**, marking it as a metaphysically hostile environment to all positively coherent matter. In practical terms, this means that:
     - **Entities and materials originating from Realspace** are systematically rejected.
     - Exposure results in **progressive disintegration**, manifesting as spontaneous decay, loss of physical structure, or erasure of body parts and systems.
-    - The effect is often described metaphorically as Blackspace "hating" Realspace intrusions.
+    - The effect is often described metaphorically as BLACKSPACE "hating" Realspace intrusions.
 
 **Unidirectional Permeability**
 
-While Realspace-origin matter is subject to ontological degradation in Blackspace, the inverse is not true:
-- **Blackspace-origin entities and materials** exhibit **total or partial immunity** when crossing into Realspace.
+While Realspace-origin matter is subject to ontological degradation in BLACKSPACE, the inverse is not true:
+- **BLACKSPACE-origin entities and materials** exhibit **total or partial immunity** when crossing into Realspace.
 - This is attributed primarily to **Blackstone’s resistance to Coherence-based decay**, allowing it to remain intact regardless of the ambient Coherence level.
 
 **Redliner and Half-breed Exception**
@@ -24,4 +24,4 @@ While Realspace-origin matter is subject to ontological degradation in Blackspac
 Individuals classified as **Redliners** or **Half-breeds** demonstrate partial immunity to Coherence rejection. This is due to:
 - The integration of **Blackstone-shifted nervous systems** in the case of Redliners, which effectively reclassify their biological Coherence alignment.
 - The genetic inheritance of **Blackstone-shifted anatomy** in the case of Half-breeds.
-- As a result, Redliners are **recognized by Blackspace** as native entities and are unaffected by the disintegration effects typically applied to Realspace matter.
+- As a result, Redliners are **recognized by BLACKSPACE** as native entities and are unaffected by the disintegration effects typically applied to Realspace matter.
