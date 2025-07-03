@@ -18,6 +18,5 @@ Despite their **inherent physical fragility**, Vespers are considered **extremel
 
 ---
 
-[ ASSOCIATED FILES: ]
-
+[ ASSOCIATED FILES: ]<br>
 └── /[[vultures]]/

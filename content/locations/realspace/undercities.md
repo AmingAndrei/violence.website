@@ -23,14 +23,9 @@ There are **five confirmed Undercities** dispersed beneath the Chromatican City.
 
 ---
 
-» AVAILABLE DIRECTORIES:
-
-├── /u1_█████/
-
-├── /u2_█████/
-
-├── /u3_█████/
-
-├── /u4_█████/
-
+» AVAILABLE DIRECTORIES:<br>
+├── /u1_█████/<br>
+├── /u2_█████/<br>
+├── /u3_█████/<br>
+├── /u4_█████/<br>
 └── /u5_█████/

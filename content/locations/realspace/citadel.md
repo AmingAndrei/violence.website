@@ -16,6 +16,5 @@ While the Citadel provides structural and dimensional protection to the city, it
 
 ---
 
-[ ASSOCIATED FILES: ]
-
+[ ASSOCIATED FILES: ]<br>
 └── /[[empty]]/

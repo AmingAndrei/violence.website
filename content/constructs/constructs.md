@@ -2,22 +2,13 @@
 
 » AVAILABLE DIRECTORIES:
 
----
-
-» [ TOOLS ]
-
-├── /[[drive_starters]]/
-
+» [ TOOLS ]<br>
+├── /[[drive_starters]]/<br>
 └── /[[wolf_tags]]/
 
----
 
-» [ WEAPONS ]
-
+» [ WEAPONS ]<br>
 └── /[[blue_rose]]/
 
----
-
-» [ APPS ]
-
+» [ APPS ]<br>
 └── /[[oasys]]/

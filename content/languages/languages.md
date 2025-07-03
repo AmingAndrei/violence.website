@@ -1,7 +1,5 @@
 .../[[index]]/languages.md
 
-» AVAILABLE DIRECTORIES:
-
-├── /[[adamic]]/
-
+» AVAILABLE DIRECTORIES:<br>
+├── /[[adamic]]/<br>
 └── /[[faevael]]/

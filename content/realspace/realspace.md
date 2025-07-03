@@ -12,8 +12,6 @@ The **Chromatican City** is a major metropolitan construct that **emerged within
 
 ---
 
-[ ASSOCIATED FILES: ]
-
-├── /[[ashen_winter_incident]]/
-
+[ ASSOCIATED FILES: ]<br>
+├── /[[ashen_winter_incident]]/<br>
 └── /[[sun]]/
