@@ -4,7 +4,7 @@
 
 **Access and Navigation**
 
-The most consistent and stable means of entry to and exit from BLACKSPACE is through structures known as **Monoliths**. All organisms indigenous to this dimension are classified under the **Nullikaryota** domain.
+The most consistent and stable means of entry to and exit from BLACKSPACE is through structures known as **Monoliths**. All organisms indigenous to this dimension are classified under the _Nullikaryota_ domain.
 
 **Physical Structure**
 
