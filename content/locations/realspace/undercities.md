@@ -12,7 +12,7 @@ Access is facilitated through **heavily fortified vertical transit shafts**, res
 **Function and Access Restrictions**
 
 The Undercities are **designated exclusively for Valences**. Non-Valence entities are explicitly prohibited from entry. This segregation serves dual purposes:
-1. The Undercities function as **Valence-only communities**, allowing the species to develop independently from Realspace biologicals while maintaining minimal surface interaction.
+1. The Undercities function as **Valence-only communities**, allowing the species to develop independently from REALSPACE biologicals while maintaining minimal surface interaction.
 2. The Undercities act as **containment buffers** for Vespers. Statistical models indicate that Vesper incursions occur with **notably higher frequency** in these locations.
 
 Despite the rigid access control, **covert routes** into the Undercities exist. Unauthorized entry, however, is considered an immediate threat. Any non-Valence discovered by internal security systems is subject to **instant termination** by automated enforcement protocols.
