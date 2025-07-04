@@ -1,5 +1,5 @@
 ---
-title: ⠀
+title: audios
 ---
 .../[[index]]/audios.md
 

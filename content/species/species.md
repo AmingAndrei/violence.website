@@ -12,8 +12,7 @@ Despite appearing organic in structure, possessing anatomical features analogous
 
 ---
 
-» AVAILABLE DIRECTORIES:
-
+» AVAILABLE DIRECTORIES:<br>
 ├── /[[devils]]/<br>
 ├── /[[chimeras]]/<br>
 ├── /[[mosaics]]/<br>
