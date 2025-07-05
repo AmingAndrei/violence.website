@@ -8,7 +8,7 @@ The most consistent and stable means of entry to and exit from BLACKSPACE is thr
 
 **Physical Structure**
 
-BLACKSPACE is composed entirely of **geometric landmasses** and **islands** formed predominantly from **Blackstone**. These formations are suspended within an infinite, lightless void, across which **dunes of red sand** naturally accumulate on solid surfaces. Despite the absence of any detectable light source, BLACKSPACE is uniformly illuminated at a baseline of **1600 lumens**. However, specialized instrumentation has anomalously recorded a net **light emission of -1 lumen**, suggesting unknown or non-classical photonic behaviour. An form of radiation permeates the dimension, designated the **Imago**. This phenomenon is detectable throughout all regions of BLACKSPACE.
+BLACKSPACE is composed entirely of **geometric landmasses** and **islands** formed predominantly from **Blackstone**. These formations are suspended within an infinite, lightless void, across which **dunes of red sand** naturally accumulate on solid surfaces. Despite the absence of any detectable light source, BLACKSPACE is uniformly illuminated at a baseline of **1600 lumens**. However, specialized instrumentation has anomalously recorded a net **light emission of -1 lumen**, suggesting unknown or non-classical photonic behaviour.
 
 Gravity within BLACKSPACE exists in a conceptual rather than conventional form; it behaves as an **ideational force**, causing all matter to fall in a consistent “downward” direction, despite lacking a singular gravitational origin. The atmosphere in BLACKSPACE is breathable and chemically analogous to that of REALSPACE.
 
