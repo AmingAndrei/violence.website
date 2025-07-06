@@ -1,24 +1,24 @@
 .../[[index]]/[[factions]]/[[pale]]/evergreen.md
 
-**Evergreen** is an operational department within the governing structure of the **Pale**, tasked with the oversight of **agriculture, food production, ecological stability**, and **plant-based research** within and around the **Chromatican City**.
+Evergreen is an operational department within the governing structure of the Pale, tasked with the oversight of agriculture, food production, ecological stability, and plant-based research within and around the Chromatican City.
 
-**Core Responsibilities**
+Core Responsibilities
 
-1. **Agriculture and Food Security**
-    - Oversees all **farmland, hydroponic zones, and vertical grow systems** within the Chromatican City and its controlled perimeter.
-    - Implements and enforces **food safety protocols**, soil purity standards, and nutritional baselines for both processed and raw consumables.
-    - Continuously works to **maximize crop yield and bio-efficiency**.
+1. Agriculture and Food Security
+    - Oversees all farmland, hydroponic zones, and vertical grow systems within the Chromatican City and its controlled perimeter.
+    - Implements and enforces food safety protocols, soil purity standards, and nutritional baselines for both processed and raw consumables.
+    - Continuously works to maximize crop yield and bio-efficiency.
 
-2. **Botanical Research**
-    - Conducts ongoing studies into **BLACKSPACE-native flora**, examining their potential applications.
+2. Botanical Research
+    - Conducts ongoing studies into BLACKSPACE-native flora, examining their potential applications.
 
-3. **Ecological Recovery**
-    - Leads efforts to **restore flora and fauna lost** during the **Ashen Winter Incident**, focusing on genetic adaptation of extinct or endangered species and controlled reintroduction into stabilised zones.
-    - Works to maintain **environmental habitability** in the city and its outlying sectors for both humans and other REALSPACE species.
+3. Ecological Recovery
+    - Leads efforts to restore flora and fauna lost during the Ashen Winter Incident, focusing on genetic adaptation of extinct or endangered species and controlled reintroduction into stabilised zones.
+    - Works to maintain environmental habitability in the city and its outlying sectors for both humans and other REALSPACE species.
 
-4. **Environmental Monitoring**
-    - Continuously evaluates **air quality, soil composition**, and **biome health** within city zones.
+4. Environmental Monitoring
+    - Continuously evaluates air quality, soil composition, and biome health within city zones.
 
-**Organizational Hierarchy**
+Organizational Hierarchy
 
-Evergreen is directed by a single **Administrator**, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.
+Evergreen is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.
