@@ -4,7 +4,7 @@
 
 **Post-Ashen Winter Incident Parameters**
 
-Following the events of the **Ashen Winter Incident**, REALSPACE contemporary theoretical models suggest that REALSPACE **terminates** or becomes **undefined** at a radial boundary ~**30,000,000 kilometres from Sun's surface**, beyond which **no matter or phenomena** are observed.
+Following the events of the **Ashen Winter Incident**, REALSPACE contemporary theoretical models suggest that REALSPACE **terminates** or becomes **undefined** at a radial boundary ~**30,000,000 km from Sun's surface**, beyond which **no matter or phenomena** are observed.
 
 **The Chromatican City**
 

@@ -4,7 +4,7 @@
 
 **Structure and Layout**
 
-Each Undercity spans approximately **225 square km**, featuring a self-contained ecosystem sustained via **surface-pumped air systems**, enabling the survival of vegetation and biological lifeforms. Despite their location underground, the Undercities maintain liveable conditions, closely resembling those of the surface-level city.
+Each Undercity spans approximately **225 km²**, featuring a self-contained ecosystem sustained via **surface-pumped air systems**, enabling the survival of vegetation and biological lifeforms. Despite their location underground, the Undercities maintain liveable conditions, closely resembling those of the surface-level city.
 
 Access is facilitated through **heavily fortified vertical transit shafts**, resembling large subway stations, which descend into the depths below. At the terminus of each shaft lies a **massive, hexagonal blast door**, which bears the designation of the respective Undercity. These gates are **permanently sealed to non-authorized lifeforms**, and are under continuous surveillance and automated defence.
 

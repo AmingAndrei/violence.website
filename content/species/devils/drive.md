@@ -13,7 +13,7 @@ Upon activation, the following biological phenomena are observed:
 - The Redliner's blood undergoes a **colorimetric shift**, typically presenting hues ranging from **green to blue**, indicating the onset of the Drive state.
 - Hosts acquire the ability to **continuously regenerate** from any form of physical damage, including otherwise lethal injuries. This regenerative capacity is directly fuelled by the host’s blood supply.
 - Sustained Drive activity leads to **progressive blood depletion**. When blood levels fall below a critical threshold, the Drive will **automatically deactivate**. However, this effect can be **delayed or reversed** by **ingesting blood**, which replenishes the host’s internal reserves and allows continued Drive function.
-- The Clutch Beetle's extended **neurological filaments** are capable of generating **additional, regenerating mass** from its own structure. This material may exhibit **mechanical or hybridized appearance**, yet remains fully **organic**. The mass is composed of **shifted Blackstone**, granting it **complete invulnerability** to any damage not inflicted by other Blackstone-derived substances.
+- The Clutch Beetle's extended **neurological filaments** are capable of generating **additional, regenerating mass** from its own structure. This material may exhibit **mechanical or hybridized appearance**, yet remains fully **organic**. The mass is composed of **shifted-Blackstone**, granting it **complete invulnerability** to any damage not inflicted by other Blackstone-derived substances.
 - Once the Drive ends, all generated mass **disintegrates**, reverting into red particulate dust consistent with unstable Blackstone matter. This process is irreversible and leaves no physical residue.
 
 **Drive Types**
