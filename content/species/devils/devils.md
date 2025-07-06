@@ -14,7 +14,7 @@ Despite the absence of shared ancestry, members of the class are unified by dist
 
 - _Diavolos_ species demonstrate highly advanced regenerative abilities, significantly enhanced through **contact with fresh blood**, regardless of source. Blood functions as a catalytic agent, accelerating **tissue regeneration** and enabling rapid recovery from otherwise fatal injuries. This property, combined with their fear-based amplification, renders them **exceptionally resilient and adaptive** in hostile environments.
 
-- Upon death, or in cases of severe injury resulting in limb detachment, _Diavolos_ entities undergo **immediate disintegration**. Affected biological matter **reverts into red particulate dust**, consistent with the behavior of Blackstone-shifted material under catastrophic failure. This process is **irreversible** and ensures that no **corpse, severed tissue, or viable organic residue** remains following termination.
+- Upon death, or in cases of severe injury resulting in limb detachment, _Diavolos_ entities undergo **immediate disintegration**. Affected biological matter **reverts into red particulate dust**, consistent with the behaviour of shifted-Blackstone material under catastrophic failure. This process is **irreversible** and ensures that no **corpse, severed tissue, or viable organic residue** remains following termination.
     - This disintegration property also leads to the **rapid dissipation of scent trails**, rendering _Diavolos_ species **extremely difficult to track**. Olfactory signatures typically vanish within **7 to 10 minutes** post-mortem or post-injury.
 
 **Ecological and Behavioral Implications**

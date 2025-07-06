@@ -4,7 +4,7 @@
 
 **Physical Description**
 
-Wolf Tags are forged from **Blackstone shifted to resemble stainless steel**. Each tag is **ellipsoidal** in shape, measuring approximately **5 cm in length** and **3 cm in width**. The tag is **double-sided**, with the following information **engraved on the front** in standard Latin script and **mirrored on the reverse** in **Unified International Braille**:
+Wolf Tags are forged from **shifted-Blackstone resembling stainless steel**. Each tag is **ellipsoidal** in shape, measuring approximately **5 cm in length** and **3 cm in width**. The tag is **double-sided**, with the following information **engraved on the front** in standard Latin script and **mirrored on the reverse** in **Unified International Braille**:
 
 1. Surname
 2. Given Name

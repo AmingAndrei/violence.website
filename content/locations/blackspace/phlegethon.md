@@ -4,7 +4,7 @@ The **Phlegethon** is a large, fluvial phenomenon located within **BLACKSPACE**,
 
 **Geographical and Physical Characteristics**
 
-The Phlegethon typically measures approximately **1.5 kilometres in width** and maintains an average **depth of 15 meters**. It manifests as a fully formed river, complete with banks and flow direction, despite lacking any conventional hydrological source. The river exhibits **no observable evaporation**, and its volume remains stable throughout its temporary presence at a given location.
+The Phlegethon typically measures approximately **1.5 km in width** and maintains an average **depth of 15 meters**. It manifests as a fully formed river, complete with banks and flow direction, despite lacking any conventional hydrological source. The river exhibits **no observable evaporation**, and its volume remains stable throughout its temporary presence at a given location.
 
 **Composition**
 

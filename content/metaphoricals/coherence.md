@@ -22,6 +22,6 @@ While REALSPACE-origin matter is subject to ontological degradation in BLACKSPAC
 **Redliner and Half-breed Exception**
 
 Individuals classified as **Redliners** or **Half-breeds** demonstrate partial immunity to Coherence rejection. This is due to:
-- The integration of **Blackstone-shifted nervous systems** in the case of Redliners, which effectively reclassify their biological Coherence alignment.
-- The genetic inheritance of **Blackstone-shifted anatomy** in the case of Half-breeds.
+- The integration of **shifted-Blackstone nervous systems** in the case of Redliners, which effectively reclassify their biological Coherence alignment.
+- The genetic inheritance of **shifted-Blackstone anatomy** in the case of Half-breeds.
 - As a result, Redliners are **recognized by BLACKSPACE** as native entities and are unaffected by the disintegration effects typically applied to REALSPACE matter.

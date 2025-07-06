@@ -2,9 +2,9 @@
 
 **Mimics** are a **hostile, non-sentient species** of **Mosaic**, originating within **BLACKSPACE**. They are notable for their ability to replicate the appearance, behaviours, vocalizations, and apparent abilities of other entities.
 
-**Physiological Composition**
+**Morphology**
 
-In their natural, unaltered state, Mimics possess a **cyan-coloured, crystalline exterior**, with a **rough, faceted texture**. Their default form is **vaguely humanoid**—tall, gangly, and largely featureless.
+In their natural, unaltered state, Mimics possess a **cyan-coloured, crystalline exterior**, with a **rough, faceted texture**. Their default form is **vaguely humanoid**, tall, gangly, and largely featureless.
 
 **Mimicry Capabilities**
 
