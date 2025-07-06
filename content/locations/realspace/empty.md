@@ -20,4 +20,4 @@ This file is empty and is pending deletion. If you are seeing this message, repo
 
 `All known forms of documentation are incapable of recording its existence. Any media that attempts to depict or describe the Minotaur will degrade, self-destruct, or become corrupted. Digital files become unreadable or auto-deleted, photographs erase themselves, audio recordings experience severe distortion and file decay, and physical records (books, notes, drawings) undergo unnatural aging and decomposition, even in sealed archival conditions. This passive effect extends retroactively, deleting not only real-time attempts to document the Minotaur, but also any media containing references or indirect depictions. Only verbal transmission or first-hand accounts are possible.`
 
-`Though no definitive origin is known, the Minotaur is believed to be associated with Alex Atramentum.`
+`The Minotaur is believed to be Alex Atramentum's Fleshcraft.`
