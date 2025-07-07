@@ -3,4 +3,4 @@
 » AVAILABLE DIRECTORIES:<br>
 ├── /[[pale]]/<br>
 ├── /[[acheron]]/<br>
-└── /[[redacted|???]]/
+└── /[[factions/redacted|???]]/

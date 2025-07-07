@@ -16,6 +16,5 @@ Despite appearing organic in structure, possessing anatomical features analogous
 ├── /[[devils]]/<br>
 ├── /[[chimeras]]/<br>
 ├── /[[mosaics]]/<br>
-└── /[[flora]]/
-
-
+├── /[[flora]]/<br>
+└── /[[species/redacted|???]]/
