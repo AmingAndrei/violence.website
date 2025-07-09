@@ -5,11 +5,10 @@ Hephaestus is a major structural landmark located within the Outer Dark region o
 Structure and Functionality
 
 Hephaestus takes the form of a colossal ziggurat-like structure, composed entirely of unknown alloys and metals. The external design features two prominent chutes, each continuously pouring molten metal into a moat-like system of channels, which recirculate the liquid into the facility. These systems appear essential to the site's function, possibly involved in the forming, recycling, or refinement of matter.
-- Constant temperature near the primary exterior gate measures approximately 7000°C, rendering the structure inaccessible by conventional means.
-- The only observable entry/exit point is a large, rectangular aperture at the base, situated between the two exterior chutes.
-- Despite the inhospitable environment, architectural cues suggest humanoid-scale traversal paths within the structure.
 
-Internal processes remain unconfirmed due to extreme heat and radiation, but remote and thermal imaging indicate autonomous, rhythmic factory activity, suggestive of highly organized internal systems.
+Constant temperature near the primary exterior gate measures approximately 7000°C, rendering the structure inaccessible by conventional means. The only observable entry/exit point is a large, rectangular aperture at the base, situated between the two exterior chutes. Despite the inhospitable environment, architectural cues suggest humanoid-scale traversal paths within the structure.
+
+Internal processes remain unconfirmed due to extreme heat and radiation, but remote and thermal imaging indicate autonomous, rhythmic factory activity, suggestive of highly organized internal systems. It is generally theorised that Hephaestus was created by `the Red Queen`.
 
 Steel Shark Production
 
@@ -28,7 +27,4 @@ Notable properties include:
 
 Molten Metal Composition
 
-Samples of the molten metal circulating throughout Hephaestus have revealed:
-- Multimetallic composition, containing trace elements of most known periodic table metals.
-- Biological traces consistent with known Devil genetic material.
-- Retention of the Devil disintegration effect even in liquid form.
+Samples of the molten metal circulating throughout Hephaestus have revealed multimetallic composition, containing trace elements of most known periodic table metals, along with biological traces consistent with known Devil genetic material. It should be noted that the molten metal retains the Devil disintegration effect even in liquid form.
