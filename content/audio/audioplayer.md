@@ -1,7 +1,7 @@
 ---
 title: audios
 ---
-==== [ [[index|X]] ] =======================================================================================
+= [ [[index|X]] ] ==========================================================================================
 
 » [PLAY] //   JT Music - [Never Wake Again](https://www.youtube.com/watch?v=vHZVBv6mdFU&list=PL4y0TX04mzcIXzKLYVqlQGKboBQi8v5lq&ab_channel=JTMusic)![[Never-Wake-Again.mp3]]
 » [PLAY] //   Shift, Andra - [Avioane De Hartie](https://www.youtube.com/watch?v=b8LGHhgHd8o&list=PL4y0TX04mzcIXzKLYVqlQGKboBQi8v5lq&index=2&ab_channel=CatMusic) ![[Avioane-De-Hartie.mp3]]
