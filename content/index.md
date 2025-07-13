@@ -29,7 +29,7 @@ AVAILABLE DIRECTORIES:<br>
 ├── /[[languages]]/ : : Linguistic database<br>
 ├── /[[constructs]]/ : : Notable objects<br>
 ├── /[[factions]]/ : : Orgs and factions<br>
-└── /[[audios]]/ : : Audio logs
+└── [[audioplayer|audioplayer.exe]]
 
 <script>
   function playFailSound() {
