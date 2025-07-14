@@ -15,7 +15,23 @@ title:
 
 ► login --status<br>
 USER AUTH: FAILED<br>
-RETRY LOGIN? [<a href="/index/" onclick="playFailSound()">y</a>/n] 
+RETRY LOGIN? [<a href="/index/" onclick="playFailSound()">y</a>/n]
+
+<script>
+(function() {
+  // Reference: 10 Mar 2006, 16:30 UTC (which is 18:30 GMT+2)
+  const startUTC = Date.UTC(2006, 2, 10, 16, 30); // months are 0-based
+  const nowUTC = Date.now(); // current time in ms since epoch (UTC)
+
+  const diffMs = nowUTC - startUTC;
+  const totalMinutes = Math.floor(diffMs / 60000);
+  const days = Math.floor(totalMinutes / 1440);
+  const hours = Math.floor((totalMinutes % 1440) / 60);
+  const minutes = totalMinutes % 60;
+
+  document.write(`► uptime : : ${days}d ${hours}h ${minutes}m`);
+})();
+</script>
 
 ► ls / <br>
 AVAILABLE DIRECTORIES:<br>
