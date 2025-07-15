@@ -10,7 +10,7 @@ Observed Effects
 
 - Earth's magnetosphere was either altered or partially collapsed, rendering traditional navigational instruments (e.g., compasses) non-functional and causing the widespread failure of unshielded electronics. Electromagnetic shielding proved effective only in isolated cases, primarily within high-security research or military installations.
 - All previously observable and documented astral bodies, excluding the Moon and Sun, vanished from the night sky. Deep-space telemetry returned null data, indicating a complete spatial nullification beyond ~30,000,000 km from Earth. Additionally, spatial changes caused tidal anomalies, including mass flooding and tsunami events.
-- The AWI is recorded as the largest Monolith breach in history, resulting in the arrival of numerous nullikaryote species, primarily Devils, across all inhabited continents. Casualty estimates range between 4 to 5 billion deaths attributed to these incursions.
+- The AWI is recorded as the largest Monolith breach in history, resulting in the arrival of numerous _nullikaryote_ species, primarily Devils, across all inhabited continents. Casualty estimates range between 4 to 5 billion deaths attributed to these incursions.
 
 Climatological and Ecological Consequences
 
