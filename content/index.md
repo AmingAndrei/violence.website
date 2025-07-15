@@ -35,7 +35,24 @@ AVAILABLE DIRECTORIES:<br>
 ├── /[[factions]]/ : : Orgs and factions<br>
 └── [[audioplayer|audioplayer.exe]]
 
-► _
+► <span style="
+  animation: blink 1s steps(2, start) infinite;
+  -webkit-animation: blink 1s steps(2, start) infinite;
+">
+_
+</span>
+
+<style>
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+@-webkit-keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+</style>
+
 
 <script>
   function playFailSound() {
