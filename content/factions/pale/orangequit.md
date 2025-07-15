@@ -1,4 +1,4 @@
-.../[[index]]/[[factions]]/[[pale]]/orangequit.md
+[[index|...]]/[[factions]]/[[pale]]/orangequit.md
 
 Orangequit is an operational department within the governing structure of the Pale, managing all aspects of communication, public relations, population oversight, and cultural cohesion within the Chromatican City.
 

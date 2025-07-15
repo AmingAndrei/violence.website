@@ -1,4 +1,4 @@
-.../[[index]]/[[factions]]/[[pale]]/infrared.md
+[[index|...]]/[[factions]]/[[pale]]/infrared.md
 
 Infrared is an operational department within the governing structure of the Pale, tasked with internal surveillance, civic enforcement, and the maintenance of containment systems.
 

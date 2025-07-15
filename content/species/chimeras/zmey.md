@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[chimeras]]/zmey.md
+[[index|[[index|...]]]]/[[species]]/[[chimeras]]/zmey.md
 
 The Zmey are a species of large, hexapodal, lizard-like Chimeras, native to BLACKSPACE. Distinguished by their dual-layered anatomy and utilization of Fael Fire, Zmey are among the most resilient and biologically complex Chimera species documented.
 

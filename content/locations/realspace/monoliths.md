@@ -1,4 +1,4 @@
-.../[[index]]/[[locations]]/monoliths.md
+[[index|...]]/[[locations]]/monoliths.md
 
 Monoliths are metaphysical constructs that function as primary conduits between REALSPACE and BLACKSPACE, exhibiting pronounced dimensional, spatial, and ontological anomalies.
 

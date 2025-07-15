@@ -1,4 +1,4 @@
-.../[[index]]/[[factions]]/???.md
+[[index|...]]/[[factions]]/???.md
 
 `The Supreme Acts of Violence are a triumvirate of hyper-powerful entities residing within BLACKSPACE, widely recognized as its sovereign rulers and the principal source of its existential hostility. These entities are not only pivotal to the fabric of the dimension but are also directly responsible for many of the threats associated with BLACKSPACE.`
 

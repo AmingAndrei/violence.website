@@ -1,4 +1,4 @@
-.../[[index]]/[[realspace]]/ashen_winter_incident.md
+[[index|...]]/[[realspace]]/ashen_winter_incident.md
 
 The Ashen Winter Incident (commonly abbreviated as AWI) is a catastrophic, near-extinction level event that marks the most profound ontological and ecological collapse in recorded REALSPACE history. Widely believed to be the result of BLACKSPACE interference with REALSPACE, the AWI serves as the definitive boundary between two historical epochs: the Golden Autumn (pre-AWI) and the Ashen Winter (post-AWI).
 

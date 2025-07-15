@@ -1,4 +1,4 @@
-.../[[index]]/[[factions]]/[[pale]]/blueprint.md
+[[index|...]]/[[factions]]/[[pale]]/blueprint.md
 
 Blueprint is an operational department within the governing structure of the Pale, tasked with the design, production, maintenance, and regulation of all infrastructure and fabricated materials within the Chromatican City.
 

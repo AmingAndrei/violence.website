@@ -1,4 +1,4 @@
-.../[[index]]/[[locations]]/hephaestus.md
+[[index|...]]/[[locations]]/hephaestus.md
 
 Hephaestus is a major structural landmark located within the Outer Dark region of BLACKSPACE, notable for its scale, composition, and primary function as the origin and repair facility for Steel Sharks.
 

@@ -1,4 +1,4 @@
-.../[[index]]/[[locations]]/[[chromatican_city]]/black_box.md
+[[index|...]]/[[locations]]/[[chromatican_city]]/black_box.md
 
 The Black Box is a high-security containment and detention complex located beneath the surface of the Chromatican City, serving as both a correctional institution for convicted inmates and a classified holding facility for BLACKSPACE-origin entities and objects.
 

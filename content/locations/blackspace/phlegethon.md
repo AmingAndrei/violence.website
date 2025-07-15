@@ -1,4 +1,4 @@
-.../[[index]]/[[locations]]/phlegethon.md
+[[index|...]]/[[locations]]/phlegethon.md
 
 The Phlegethon is a large, fluvial phenomenon located within BLACKSPACE, notable for its highly unstable geography and unique biochemical composition.
 

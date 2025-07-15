@@ -1,4 +1,4 @@
-.../[[index]]/metaphoricals.md
+[[index|...]]/metaphoricals.md
 
 Metaphoricals constitute an exotic and anomalous subdivision within the field of metaphysics, concerned specifically with phenomena first identified through comparative analysis against the foundational properties of BLACKSPACE.
 

@@ -1,4 +1,4 @@
-.../[[index]]/[[factions]]/pale.md
+[[index|...]]/[[factions]]/pale.md
 
 The Pale is the governing authority of the Chromatican City, established in the aftermath of Acheron's dissolution. As the direct successor to Acheron in both personnel and organizational structure, the Pale functions as the central administrative, legislative, and security body responsible for overseeing the city.
 

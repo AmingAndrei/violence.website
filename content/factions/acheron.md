@@ -1,4 +1,4 @@
-.../[[index]]/[[factions]]/acheron.md
+[[index|...]]/[[factions]]/acheron.md
 
 Acheron was a clandestine, multidisciplinary research programme headquartered in the Carpathian Mountains, formed by a coalition of nine private research entities. Active during the early BLACKSPACE exploration era, Acheron was responsible for a range of pioneering scientific breakthroughs, most notably the discovery and initial exploration of BLACKSPACE.
 

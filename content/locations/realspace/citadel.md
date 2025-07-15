@@ -1,4 +1,4 @@
-.../[[index]]/[[locations]]/[[chromatican_city]]/citadel.md
+[[index|...]]/[[locations]]/[[chromatican_city]]/citadel.md
 
 The Citadel is a monumental, metaphysical structure located at the exact geographic and symbolic centre of the Chromatican City. Standing at an approximate height of 7 km, it is the largest and most significant meta-spatial transition point between REALSPACE and BLACKSPACE currently known to exist.
 

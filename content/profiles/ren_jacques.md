@@ -1,4 +1,4 @@
-.../[[index]]/[[profiles]]/ren_jacques.md
+[[index|...]]/[[profiles]]/ren_jacques.md
 
 [ IDENTITY ]
 

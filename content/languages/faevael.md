@@ -1,4 +1,4 @@
-.../[[index]]/[[languages]]/faevael.md
+[[index|...]]/[[languages]]/faevael.md
 
 Faevael is the language spoken natively by the Fae.
 

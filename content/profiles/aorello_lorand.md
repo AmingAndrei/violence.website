@@ -1,4 +1,4 @@
-.../[[index]]/[[profiles]]/aorello_lorand.md
+[[index|...]]/[[profiles]]/aorello_lorand.md
 
 [ IDENTITY ]
 

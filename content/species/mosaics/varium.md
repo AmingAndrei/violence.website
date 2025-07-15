@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[mosaics]]/[[vectors]]/varium.md
+[[index|...]]/[[species]]/[[mosaics]]/[[vectors]]/varium.md
 
 Varium is a semi-fluidic compound actively synthesized by specialized classes of Mosaics. It is characterized by its viscous, pale-blue coloration, interspersed with golden luminescent strands, and exhibits gas-like dispersal behaviour despite its fluid form.
 

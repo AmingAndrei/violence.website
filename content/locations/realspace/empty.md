@@ -1,4 +1,4 @@
-.../[[index]]/[[locations]]/[[chromatican_city]]/[[citadel]]/empty.md
+[[index|...]]/[[locations]]/[[chromatican_city]]/[[citadel]]/empty.md
 
 ---
 

@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[devils]]/stone_wyrms.md
+[[index|...]]/[[species]]/[[devils]]/stone_wyrms.md
 
 The Stone Wyrm is a highly intelligent and aggressive species of pseudo-silicate Devil discovered within Blackspace. These entities are notable for their unique biological composition, extraordinary adaptability, and solitary nature.
 

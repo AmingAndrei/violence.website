@@ -1,4 +1,4 @@
-.../[[index]]/blackspace.md
+[[index|...]]/blackspace.md
 
 BLACKSPACE is an anomalous extra-dimensional realm superimposed upon REALSPACE, and is empirically measured at a negative Coherence, indicating a complete absence of ontological stability.
 

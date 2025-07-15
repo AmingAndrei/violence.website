@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[chimeras]]/balauri.md
+[[index|...]]/[[species]]/[[chimeras]]/balauri.md
 
 The Balaur (pl. Balauri) is a formidable quadrupedal species of Chimera, native to  BLACKSPACE. These multi-headed, lizard-like beings are renowned for their powerful physiology and distinctive tripartite neuroanatomy.
 

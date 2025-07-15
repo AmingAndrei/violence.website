@@ -1,4 +1,4 @@
-.../[[index]]/factions.md
+[[index|...]]/factions.md
 
 » AVAILABLE DIRECTORIES:<br>
 ├── /[[pale]]/<br>

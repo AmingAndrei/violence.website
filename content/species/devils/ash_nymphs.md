@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[devils]]/ash_nymphs.md
+[[index|...]]/[[species]]/[[devils]]/ash_nymphs.md
 
 The Ash Nymph is a semi-vegetal, sentient species of Devil, native to BLACKSPACE. Notable for their unique physiology, garden-centric behaviour, and dual-purpose vocalizations, Ash Nymphs occupy a distinct ecological and metaphysical niche within their native environment.
 

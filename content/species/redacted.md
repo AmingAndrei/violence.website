@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/???.md
+[[index|...]]/[[species]]/???.md
 
 `Angels are a classification of advanced mechanical pseudo-species native to BLACKSPACE.`
 
