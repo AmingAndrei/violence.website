@@ -9,15 +9,19 @@ title:
 ==================================================================================================
 
 
-[ SYSTEM BOOT COMPLETE ]<br>
-[ SECURE CONNECTION ESTABLISHED ]<br>
-[ ACCES LEVEL: GUEST]
+► initializing system... : : OK<br>
+► mounting volumes... : : OK<br>
+► loading users... : : GUEST
+
 
 ► login --status<br>
 USER AUTH: FAILED<br>
 RETRY LOGIN? [<a href="/index/" onclick="playFailSound()">y</a>/n]
 
-► ls / <br>
+ ►whoami<br>
+terminal-bWloYS5y/guest
+
+► ls /<br>
 AVAILABLE DIRECTORIES:<br>
 ├── /[[blackspace]]/ : : BLACKSPACE research<br>
 ├── /[[realspace]]/ : : REALSPACE research<br>
@@ -30,6 +34,8 @@ AVAILABLE DIRECTORIES:<br>
 ├── /[[constructs]]/ : : Notable objects<br>
 ├── /[[factions]]/ : : Orgs and factions<br>
 └── [[audioplayer|audioplayer.exe]]
+
+► _
 
 <script>
   function playFailSound() {
