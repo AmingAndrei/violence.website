@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[devils]]/void_whales.md
+[[index|...]]/[[species]]/[[devils]]/void_whales.md
 
 The Void Whale is an airborne species of Devil, endemic to BLACKSPACE. Despite bearing structural resemblance to aquatic mammals of REALSPACE, Void Whales are fully adapted to aerial environments and demonstrate anomalous biological and behavioural traits.
 

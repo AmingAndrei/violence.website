@@ -1,4 +1,4 @@
-.../[[index]]/[[materials]]/alkahest.md
+[[index|...]]/[[materials]]/alkahest.md
 
 Alkahest is a semi-rare, anomalous liquid substance native to BLACKSPACE, primarily utilized in the processing and consumption of Blackstone-derived matter for alimentary purposes.
 

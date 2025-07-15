@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[flora]]/pale_fields.md
+[[index|...]]/[[species]]/[[flora]]/pale_fields.md
 
 Pale Field refers to a distinct species of grass native to BLACKSPACE. It is notable for its striking visual contrast against the ambient environment.
 

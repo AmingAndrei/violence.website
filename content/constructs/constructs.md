@@ -1,4 +1,4 @@
-.../[[index]]/constructs.md
+[[index|...]]/constructs.md
 
 » AVAILABLE DIRECTORIES:
 

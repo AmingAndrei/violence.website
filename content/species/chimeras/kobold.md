@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[chimeras]]/kobold.md
+[[index|...]]/[[species]]/[[chimeras]]/kobold.md
 
 The Kobold (pl. Kobolds) is a bipedal species of Chimera, native to BLACKSPACE. These entities are distinguished by their towering stature, unique biological integration with gold, and characteristic behaviours surrounding hoarding and territorial isolation. Highly durable and extremely solitary, Kobolds are recognized both for their formidable physical attributes and their obsessive compulsion toward gold accumulation.
 

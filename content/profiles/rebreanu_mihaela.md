@@ -1,4 +1,4 @@
-.../[[index]]/[[profiles]]/rebreanu_mihaela.md
+[[index|...]]/[[profiles]]/rebreanu_mihaela.md
 
 [ IDENTITY ]
 

@@ -1,4 +1,4 @@
-.../[[index]]/locations.md
+[[index|...]]/locations.md
 
 » AVAILABLE DIRECTORIES:
 

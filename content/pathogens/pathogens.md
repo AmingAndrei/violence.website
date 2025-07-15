@@ -1,4 +1,4 @@
-.../[[index]]/pathogens.md
+[[index|...]]/pathogens.md
 
 » AVAILABLE DIRECTORIES:<br>
 └── /[[haemolacerosis]]/

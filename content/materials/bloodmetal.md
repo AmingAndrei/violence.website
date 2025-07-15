@@ -1,4 +1,4 @@
-.../[[index]]/[[materials]]/bloodmetal.md
+[[index|...]]/[[materials]]/bloodmetal.md
 
 Bloodmetal is a crystalline-metallic substance native to BLACKSPACE. It is visually identifiable by its deep red coloration, ranging from translucent crimson to opaque maroon, which gives the material its common designation. Despite its metallic lustre and superficial resemblance to hematite or iron, Bloodmetal exhibits structural characteristics more consistent with diamond-like carbon materials.
 

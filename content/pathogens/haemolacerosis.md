@@ -1,4 +1,4 @@
-.../[[index]]/[[pathogens]]/haemolacerosis.md
+[[index|...]]/[[pathogens]]/haemolacerosis.md
 
 Haemolacerosis is a fatal, anomalous medical condition identified within the confines of BLACKSPACE. Though often referred to as a disease, its characteristics more closely resemble a metaphysical affliction or curse. The condition is universally terminal and presently incurable, with no known means of halting or reversing its progression once contraction has occurred.
 

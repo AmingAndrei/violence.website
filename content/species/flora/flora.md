@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/flora.md
+[[index|...]]/[[species]]/flora.md
 
 Flora within BLACKSPACE forms an integral part of the dimension’s ecological framework, fulfilling roles broadly analogous to those of plant life in REALSPACE. However, significant structural, metabolic, and functional differences distinguish _Nullikaryota_ flora from conventional botanical taxa.
 

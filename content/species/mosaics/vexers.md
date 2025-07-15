@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[mosaics]]/[[valences]]/vexers.md
+[[index|...]]/[[species]]/[[mosaics]]/[[valences]]/vexers.md
 
 Vexers are a rare, genetically distinct subspecies of Valence, representing a highly specialized evolutionary offshoot, 
 

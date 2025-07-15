@@ -1,4 +1,4 @@
-.../[[index]]/[[profiles]]/template_empty.md
+[[index|...]]/[[profiles]]/template_empty.md
 
 [ IDENTITY ]
 

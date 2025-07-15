@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[flora]]/ekleipsanthus.md
+[[index|...]]/[[species]]/[[flora]]/ekleipsanthus.md
 
 Ekleipsanthus is a flowering plant species natives to BLACKSPACE, noted for its morphological similarity to _Helianthus annuus_ (common sunflower), from which its name is derived.
 

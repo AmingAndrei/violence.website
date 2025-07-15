@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[devils]]/[[clutch_beetles]]/drive.md
+[[index|...]]/[[species]]/[[devils]]/[[clutch_beetles]]/drive.md
 
 The term Drive refers to a _pseudo-metamorphic biological process_ exclusive to individuals infected with a Clutch Beetle, classified as Redliners. This state represents a temporary, hyper-adaptive transformation that provides the host with enhanced regenerative capabilities and the generation of mass.
 

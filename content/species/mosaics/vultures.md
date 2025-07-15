@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[mosaics]]/[[vespers]]/vultures.md
+[[index|...]]/[[species]]/[[mosaics]]/[[vespers]]/vultures.md
 
 Vultures are a hybridized entity resulting from the possession of a deceased or dying Valence by a Vesper. This event leads to a parasitic fusion wherein the Vesper subsumes and reanimates the Valence's body.
 

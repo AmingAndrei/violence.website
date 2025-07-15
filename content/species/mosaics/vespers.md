@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[mosaics]]/vespers.md
+[[index|...]]/[[species]]/[[mosaics]]/vespers.md
 
 Vespers are a hostile, sentient species of Mosaic, originating within BLACKSPACE. Recognized for their malevolent behaviour and advanced interfacing capabilities, Vespers are among the most dangerous known Voxel-based entities.
 

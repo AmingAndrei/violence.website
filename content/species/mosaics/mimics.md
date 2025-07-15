@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[mosaics]]/mimics.md
+[[index|...]]/[[species]]/[[mosaics]]/mimics.md
 
 Mimics are a hostile, non-sentient species of Mosaic, originating within BLACKSPACE. They are notable for their ability to replicate the appearance, behaviours, vocalizations, and apparent abilities of other entities.
 

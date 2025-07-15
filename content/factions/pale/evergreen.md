@@ -1,4 +1,4 @@
-.../[[index]]/[[factions]]/[[pale]]/evergreen.md
+[[index|...]]/[[factions]]/[[pale]]/evergreen.md
 
 Evergreen is an operational department within the governing structure of the Pale, tasked with the oversight of agriculture, food production, ecological stability, and plant-based research within and around the Chromatican City.
 

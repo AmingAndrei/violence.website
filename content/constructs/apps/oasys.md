@@ -1,4 +1,4 @@
-.../[[index]]/[[constructs]]/oasys.md
+[[index|...]]/[[constructs]]/oasys.md
 
 Oasys is the official social media and communication platform of the Chromatican City, developed and maintained by the Orangequit. Designed as the city’s primary digital social infrastructure, Oasys integrates social networking, messaging, media sharing, and public feedback mechanisms into a single, centralized system.
 

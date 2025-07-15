@@ -1,4 +1,4 @@
-.../[[index]]/[[realspace]]/sun.md
+[[index|...]]/[[realspace]]/sun.md
 
 The Sun is the central stellar body of the Solar System, a near-spherical mass of plasma once categorized as a G-type main-sequence star (yellow dwarf). It historically functioned as the primary source of energy for all known REALSPACE life forms and maintained gravitational cohesion of the planetary system. However, following the Ashen Winter Incident, the Sun underwent a series of anomalous physical and energetic transformations.
 

@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[flora]]/luxtree.md
+[[index|...]]/[[species]]/[[flora]]/luxtree.md
 
 The Luxtree is a colossal arborescent structure located at the geographic, magnetic, and symbolic centre of BLACKSPACE. It serves as the primary spatial reference point within the dimension.
 

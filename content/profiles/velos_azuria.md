@@ -1,4 +1,4 @@
-.../[[index]]/[[profiles]]/velos_azuria.md
+[[index|...]]/[[profiles]]/velos_azuria.md
 
 [ IDENTITY ]
 

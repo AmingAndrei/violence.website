@@ -1,4 +1,4 @@
-.../[[index]]/[[species]]/[[chimeras]]/[[fae]]/faelir_automaton.md
+[[index|...]]/[[species]]/[[chimeras]]/[[fae]]/faelir_automaton.md
 
  Faelir Automatons are mechanical constructs designed and created by the Fae for the purpose of security and defense. These entities function as autonomous guards, operating under a structured system that enables them to execute basic commands.
 

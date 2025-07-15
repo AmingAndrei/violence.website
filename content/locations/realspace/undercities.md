@@ -1,4 +1,4 @@
-.../[[index]]/[[locations]]/[[chromatican_city]]/undercities.md
+[[index|...]]/[[locations]]/[[chromatican_city]]/undercities.md
 
 Undercities are a network of subterranean, autonomous urban blocks located directly beneath the foundational layer of the Chromatican City. Sealed from public access and regulated under strict entry protocols, the Undercities serve both socio-political and ontological functions.
 

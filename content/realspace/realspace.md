@@ -1,4 +1,4 @@
-.../[[index]]/realspace.md
+[[index|...]]/realspace.md
 
 REALSPACE is the designated term for the primary dimension comprising observable and measurable reality. REALSPACE encompasses all known entities, phenomena, and locations recognized as naturally occurring and physically consistent.
 

@@ -1,4 +1,4 @@
-.../[[index]]/materials.md
+[[index|...]]/materials.md
 
 » AVAILABLE DIRECTORIES:<br>
 ├── /[[blackstone]]/<br>
