@@ -20,6 +20,6 @@ These islands vary widely in both size and separation, with the largest exceedin
 
 The Void Belt and the Darks
 
-Beginning at a radial distance of approximately 20 million km from the Luxtree is the Void Belt. This region is defined by a near-complete absence of matter, including both solid landmasses and air particulates. Functionally, it acts as a barrier that cannot be traversed by non-specialized or non-self-propelled craft. The Void Belt stretches for 500,000 mk, beyond which the dimensional conditions appear to reset, giving rise to two distinct regions: the Inner-Dark and the Outer-Dark.
+Beginning at a radial distance of approximately 20 million km from the Luxtree is the Void Belt. This region is defined by a near-complete absence of matter, including both solid landmasses and air particulates. Functionally, it acts as a barrier that cannot be traversed by non-specialized or non-self-propelled craft. The Void Belt stretches for 500,000 km, beyond which the dimensional conditions appear to reset, giving rise to two distinct regions: the Inner-Dark and the Outer-Dark.
 
 The only known method of traversing the Void Belt is through the occurrence of a Void Reach, a naturally forming, temporary gravitational corridor where pressure and force equalize between the Darks. These corridors form habitable bridges that allow matter and vessels to safely traverse the otherwise impassable region.
