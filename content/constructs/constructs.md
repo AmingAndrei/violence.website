@@ -4,8 +4,8 @@
 ├── /[[drive_starters]]/<br>
 └── /[[wolf_tags]]/
 
-► ls /weapons<br>
-└── /[[blue_rose]]/
-
 ► ls /digital<br>
 └── /[[oasys]]/
+
+► ls /isolates<br>
+└── /[[blue_rose]]/
