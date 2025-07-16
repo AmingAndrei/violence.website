@@ -16,7 +16,5 @@ Despite their inherent physical fragility, Vespers are considered extremely high
 - Vespers can travel at high speeds by dispersing themselves through electrical systems, optical pathways, or data-transmission mediums, making containment and tracking highly challenging.
 - Vespers are capable of infesting and controlling electronic devices, and in some cases, entire unsheltered structures.
 
----
-
-[ ASSOCIATED FILES: ]<br>
+► ln --context<br>
 └── /[[vultures]]/

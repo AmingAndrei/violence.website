@@ -12,9 +12,7 @@ Environmental and Strategic Importance
 
 Uniquely among Ashen Winter locations, the Chromatican City occupies a climatically stable zone, retaining regular seasonal patterns, temperate weather, and breathable, uncontaminated air. Its position, accessibility, and structural resilience have made it the de facto capital of post-AWI civilization.
 
----
-
-[ ASSOCIATED FILES: ]<br>
+► ln --context<br>
 ├── /[[citadel]]/<br>
 ├── /[[undercities]]/<br>
 └── /[[black_box]]/

@@ -8,7 +8,7 @@ Clutch Beetles possess a rounded body plan typical of insectoids, including an e
 
 Reproduction and Development
 
-Clutch Beetles reproduce asexually, laying multiple eggs which hatch into larvae. These larvae are morphologically and behaviorally identical. Upon hatching, larvae consume unhatched eggs to obtain nutrients. As they progress to the pupal stage, divergence in traits begins to manifest. Many die during this phase due to trait incompatibility or developmental failure, contributing to the species’ low observable population density.
+Clutch Beetles reproduce asexually, laying multiple eggs which hatch into larvae. These larvae are morphologically and behaviourally identical. Upon hatching, larvae consume unhatched eggs to obtain nutrients. As they progress to the pupal stage, divergence in traits begins to manifest. Many die during this phase due to trait incompatibility or developmental failure, contributing to the species’ low observable population density.
 
 Neurology
 
@@ -24,12 +24,10 @@ Hosts that have undergone fusion with a Clutch Beetle are referred to as Redline
 
 Redliner reproduction results in heritable parasitic fusion: offspring born to any Redliner, regardless of sex, are invariably born with a Clutch Beetle already integrated into their nervous system.
 
-Behavior and Ecology
+Behaviour
 
 Clutch Beetles are solitary, highly adaptive organisms. Their rarity, extreme intraspecific variability, and fatal developmental bottlenecks contribute to their elusive status. Despite their neurological complexity, they do not form social groups, pursue higher objectives, or communicate beyond parasitic instinct.
 
----
-
-[ ASSOCIATED FILES: ]
+► ln --context
 
 └── /[[drive]]/

@@ -24,8 +24,6 @@ One of the most striking anomalies is the genomic similarity between Fae and hum
 - Viable offspring can only result from a male Fae and a human female. The reverse pairing is infertile due to incompatibilities in gametic expression linked to Blackstone cellular integration.
 - Offspring of such unions are phenotypically human, with features like plantigrade locomotion and five-fingered hands, but they inherit shifted-Blackstone cells and Fael Fire generation capabilities. If a half-breed reproduces with a human, the child will always be fully human. If with a Fae, the child will always be a half-breed.
 
----
-
-[ ASSOCIATED FILES: ]
+► ln --context
 
 └── /[[faelir_automaton]]/

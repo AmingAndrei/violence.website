@@ -1,6 +1,6 @@
 [[index|...]]/locations.md
 
-» AVAILABLE DIRECTORIES:
+► ls /
 
 » [ REGION: REALSPACE ]<br>
 ├── /[[chromatican_city]]/<br>

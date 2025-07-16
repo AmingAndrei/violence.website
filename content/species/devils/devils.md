@@ -2,7 +2,7 @@
 
 The _Diavolos_ class, colloquially referred to as "Devils", constitutes a taxonomic grouping within the _Nullikaryota_ domain of BLACKSPACE. Members of this class are distinguished by anomalous biological structures, non-linear evolutionary patterns, and metaphysical attributes that render them fundamentally incompatible with known life classifications.
 
-Taxonomic and Genetic Characteristics
+Taxonomic Characteristics
 
 Unlike traditional biological groupings, _Diavolos_ species exhibit no identifiable genetic lineage. Extensive analysis has revealed a complete absence of ancestral continuity, both within the class itself and in comparison to all known _Nullikaryota_ and REALSPACE organisms. This lack of genetic coherence indicates that _Diavolos_ species are instrinsicly linked to the Imago.
 
@@ -21,9 +21,7 @@ Ecological Implications
 
 _Diavolos_ species are uniquely adapted to environments saturated with fear stimuli, where their amplification and regeneration capabilities offer considerable advantages in predation, territorial dominance, and survival. These traits promote aggressive and solitary behaviors, although specific species-level social dynamics may vary.
 
----
-
-» AVAILABLE DIRECTORIES:<br>
+► ls /<br>
 ├── /[[clutch_beetles]]/<br>
 ├── /[[void_whales]]/<br>
 ├── /[[ash_nymphs]]/<br>

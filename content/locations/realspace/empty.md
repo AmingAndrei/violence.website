@@ -1,10 +1,6 @@
 [[index|...]]/[[locations]]/[[chromatican_city]]/[[citadel]]/empty.md
 
----
-
 This file is empty and is pending deletion. If you are seeing this message, report it to the database administrator.
-
----
 
 `The Minotaur is a hostile entity located within the Citadel, functioning in part as its de facto guardian. It is one of the most dangerous known entities associated with BLACKSPACE, and is directly responsible for the inaccessibility of the Citadel.`
 

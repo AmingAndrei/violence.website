@@ -27,7 +27,5 @@ Valences, while formidable within their shells, exhibit significant biological a
 - Trauma to the shell can transfer partial damage to the internal organism. This makes indirect attacks (e.g., blunt force or high-impact collisions) potentially lethal over time.
 - Decapitation or Neural Severance: In many cases, decapitating a Valence shell does not kill the entity, but renders it catatonic, due to the severance of primary sensory and motor control conduits.
 
----
-
-[ ASSOCIATED FILES: ]<br>
+► ln --context<br>
 └── /[[vexers]]/

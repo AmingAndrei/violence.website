@@ -19,15 +19,11 @@ _Paramythi_ species demonstrate a wide range of behaviours, contingent on the sp
 
 The _Paramythi_ class stands as a unique fusion of biological plausibility and anomalous function, bridging evolutionary logic with extradimensional phenomena. Its members play a central role in the ecosystems of BLACKSPACE, often serving as apex organisms or keystone species due to their versatility and raw destructive potential.
 
----
-
-» AVAILABLE DIRECTORIES:<br>
+► ls /<br>
 ├── /[[fae]]/<br>
 ├── /[[balauri]]/<br>
 ├── /[[zmey]]/<br>
 └── /[[kobold]]/
 
----
-
-[ ASSOCIATED FILES: ]<br>
+► ln --context<br>
 └── /[[fael_fire]]/

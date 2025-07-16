@@ -1,6 +1,6 @@
 [[index|...]]/materials.md
 
-» AVAILABLE DIRECTORIES:<br>
+► ls /<br>
 ├── /[[blackstone]]/<br>
 ├── /[[bloodmetal]]/<br>
 └── /[[alkahest]]/
