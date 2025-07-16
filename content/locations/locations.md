@@ -1,14 +1,12 @@
 [[index|...]]/locations.md
 
-► ls /
-
-» [ REGION: REALSPACE ]<br>
+► ls /realspace<br>
 ├── /[[chromatican_city]]/<br>
 └── /[[monoliths]]/
 
-» [ REGION: BLACKSPACE // INNER DARK ]<br>
+► ls /blackspace/inner_dark<br>
 └── /[[phlegethon]]/
 
-» [ REGION: BLACKSPACE // OUTER DARK ]<br>
+► ls /blackspace/outer_dark<br>
 ├── /[[phlegethon]]/<br>
 └── /[[hephaestus]]/
