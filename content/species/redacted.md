@@ -1,4 +1,4 @@
-[[index|...]]/[[species]]/???.md
+[[index|...]]/[[species]]/0x616e67656c73.md
 
 `Angels are a classification of advanced mechanical pseudo-species native to BLACKSPACE.`
 
@@ -12,7 +12,7 @@
 
 `Reality Alteration`
 
-`Every Angel appears to be associated with a singular abstract concept or idea. Their form and capabilities reflect and amplify this conceptual identity, allowing them to manipulate reality in specific ways by nullifying local Coherence, permitting the Angel to enact physical or existential changes that would otherwise be impossible. Their regenerative ability is theorized to stem from this mechanism, rewriting physical damage or structural loss.`
+`Every Angel appears to be associated with a singular abstract concept or idea. Their form and capabilities reflect and amplify this conceptual identity, allowing them to manipulate reality in particular ways, permitting the Angel to enact physical or existential changes that would otherwise be impossible. Their regenerative ability is theorized to stem from this mechanism, rewriting physical damage or structural loss.`
 
 `Fleshcraft`
 
