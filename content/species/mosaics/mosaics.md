@@ -14,15 +14,11 @@ Despite their anomalous composition and considerable sensory and adaptive capabi
 
 Furthermore, _Mimisis_ organisms exhibit psychological and systemic stress propagation, meaning that damage inflicted on a large portion of the body can induce catastrophic feedback across the remaining structure. This can trigger full neurological collapse or death, even if core components remain intact.
 
----
-
-» AVAILABLE DIRECTORIES:<br>
+► ls /<br>
 ├── /[[mimics]]/<br>
 ├── /[[vespers]]/<br>
 └── /[[valences]]/
 
----
-
-[ ASSOCIATED FILES: ]<br>
+► ln --context<br>
 ├── /[[voxels]]/<br>
 └── /[[vectors]]/

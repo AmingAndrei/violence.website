@@ -21,7 +21,5 @@ Vectors are broadly classified into two distinct types:
     - Generally less powerful than Root Vectors, but significantly more flexible and adaptable.
     - Can be installed, removed, and upgraded with relative ease.
 
----
-
-[ ASSOCIATED FILES: ]<br>
+► ln --context<br>
 └── /[[varium]]/

@@ -22,7 +22,6 @@ RETRY LOGIN? [<a href="/index/" onclick="playFailSound()">y</a>/n]
 terminal-bWloYS5y/guest
 
 ► ls /<br>
-AVAILABLE DIRECTORIES:<br>
 ├── /[[blackspace]]/ : : BLACKSPACE research<br>
 ├── /[[realspace]]/ : : REALSPACE research<br>
 ├── /[[species]]/ : : Xenobiological database<br>

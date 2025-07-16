@@ -1,4 +1,4 @@
-» AVAILABLE DIRECTORIES:
+► ls /
 
 ---
 

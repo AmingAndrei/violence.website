@@ -4,8 +4,6 @@ Metaphoricals constitute an exotic and anomalous subdivision within the field of
 
 Unlike standard metaphysical constructs or meta-standard anomalies observed within REALSPACE, Metaphoricals are distinguished by exhibiting behaviour that is interpretive or symbolic in nature, appearing to react to thematic or narrative states rather than physical stimuli. Their effects often correlate with abstract constructs such as intent, belief, or narrative causality.
 
----
-
-» AVAILABLE DIRECTORIES:<br>
+► ls /<br>
 ├── /[[imago]]/<br>
 └── /[[coherence]]/

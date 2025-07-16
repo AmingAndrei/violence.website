@@ -21,9 +21,7 @@ Connectivity and Distribution
 
 There are five confirmed Undercities dispersed beneath the Chromatican City. These are interconnected via a network of subterranean tunnels and high-speed metro systems. Each Undercity maintains independent power sources, filtration systems, and containment infrastructure, ensuring operational continuity even in isolation scenarios.
 
----
-
-» AVAILABLE DIRECTORIES:<br>
+► ls /<br>
 ├── /u1_█████/<br>
 ├── /u2_█████/<br>
 ├── /u3_█████/<br>

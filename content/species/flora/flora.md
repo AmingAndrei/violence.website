@@ -10,9 +10,7 @@ Carbon Processing and Atmospheric Contribution
 
 A majority of _Nullikaryota_ flora engage in carbon intake and oxygen release, mimicking the gas exchange processes of REALSPACE plant life. However, unlike ecosystems in REALSPACE, this function is non-essential to atmospheric viability in BLACKSPACE. The air within BLACKSPACE is inherently breathable, with no observable dependence on biological oxygen production or atmospheric filtration systems.
 
----
-
-» AVAILABLE DIRECTORIES:<br>
+► ls /<br>
 ├── /[[luxtree]]/<br>
 ├── /[[pale_fields]]/<br>
 ├── /[[sangui_lilies]]/<br>

@@ -1,6 +1,6 @@
 [[index|...]]/factions.md
 
-» AVAILABLE DIRECTORIES:<br>
+► ls /<br>
 ├── /[[pale]]/<br>
 ├── /[[acheron]]/<br>
 └── /[[factions/redacted|???]]/
