@@ -1,14 +1,14 @@
-[[index|...]]/[[locations]]/[[chromatican_city]]/[[citadel]]/empty.md
+[[index|...]]/[[locations]]/[[chromatican_city]]/[[citadel]]/0x6d696e6f74617572.md
 
 This file is empty and is pending deletion. If you are seeing this message, report it to the database administrator.
 
 `The Minotaur is a hostile entity located within the Citadel, functioning in part as its de facto guardian. It is one of the most dangerous known entities associated with BLACKSPACE, and is directly responsible for the inaccessibility of the Citadel.`
 
-`Physical Description`
+`Morphology`
 
 `The Minotaur is a massive creature, standing at indeterminate height. Its form is an amalgamation of marble and biological matter, giving it a grotesque, semi-bovine appearance. The most consistent element of its anatomy is its head, a finely sculpted marble bust resembling a bull, crafted with masterful precision and artistic detail. Beneath this, its body degenerates into a sprawling mass of red, muscular tissue, with multiple limbs, both humanoid and bovine, intertwined and fused together. The creature's torso and limbs are partially covered in the same marble-like material as the head, while exposed regions reveal pulsating muscle, tendons, and unprotected tissue.`
 
-`Behavior and Movement`
+`Behaviour`
 
 `The Minotaur exhibits blind hostility toward all lifeforms and animate matter, including itself. It is observed attacking indiscriminately, without provocation or strategy. There is no indication of higher cognitive function beyond aggression. Despite its erratic behavior, the entity is capable of navigating the Citadel with absolute familiarity. It roams the entirety of the Citadel’s upper levels, rendering these zones completely inaccessible. Attempts at bypass or confrontation result in total casualty. As a result, the Pale has established its headquarters in the lower levels, serving both administrative and containment functions, enforcing a full lockdown of all upper-access entry points.`
 

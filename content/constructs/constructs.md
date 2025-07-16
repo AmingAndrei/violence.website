@@ -1,6 +1,6 @@
 [[index|...]]/constructs.md
 
-► ls /tools<br>
+► ls /devices<br>
 ├── /[[drive_starters]]/<br>
 └── /[[wolf_tags]]/
 

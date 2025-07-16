@@ -15,4 +15,4 @@ Strategic and Anomalous Considerations
 While the Citadel provides structural and dimensional protection to the city, it is also the primary existential risk factor associated with the Chromatican City. In the rare event that a hostile entity successfully navigates the Citadel’s transition corridor into REALSPACE, it is statistically likely to be of an extremely high threat level, given the complexity and resistance of the passage.
 
 ► ln --context<br>
-└── /[[empty]]/
+└── /[[empty|0x6d696e6f74617572]]/
