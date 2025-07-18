@@ -9,7 +9,7 @@
 - `Violence Against Art`
 - `Violence Against Nature`
 
-`Authority and Sovereignty`
+`Authority`
 
 `The Acts are the uncontested sovereigns of BLACKSPACE, occupying positions of absolute dominance. Their authority is not derived from governance or social construct alone, but from pure metaphysical alignment with the dimension’s core essence. In both capability and existential hierarchy, they are without peer.`
 

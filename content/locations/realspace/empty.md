@@ -10,7 +10,7 @@ This file is empty and is pending deletion. If you are seeing this message, repo
 
 `Behaviour`
 
-`The Minotaur exhibits blind hostility toward all lifeforms and animate matter, including itself. It is observed attacking indiscriminately, without provocation or strategy. There is no indication of higher cognitive function beyond aggression. Despite its erratic behavior, the entity is capable of navigating the Citadel with absolute familiarity. It roams the entirety of the Citadel’s upper levels, rendering these zones completely inaccessible. Attempts at bypass or confrontation result in total casualty. As a result, the Pale has established its headquarters in the lower levels, serving both administrative and containment functions, enforcing a full lockdown of all upper-access entry points.`
+`The Minotaur exhibits blind hostility toward all lifeforms and animate matter, including itself. It is observed attacking indiscriminately, without provocation or strategy. There is no indication of higher cognitive function beyond aggression. Despite its erratic behaviour, the entity is capable of navigating the Citadel with absolute familiarity. It roams the entirety of the Citadel’s upper levels, rendering these zones completely inaccessible. Attempts at bypass or confrontation result in total casualty. As a result, the Pale has established its headquarters in the lower levels, serving both administrative and containment functions, enforcing a full lockdown of all upper-access entry points.`
 
 `Passive censorship`
 

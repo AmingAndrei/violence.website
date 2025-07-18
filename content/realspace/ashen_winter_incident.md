@@ -2,7 +2,7 @@
 
 The Ashen Winter Incident (commonly abbreviated as AWI) is a catastrophic, near-extinction level event that marks the most profound ontological and ecological collapse in recorded REALSPACE history. Widely believed to be the result of BLACKSPACE interference with REALSPACE, the AWI serves as the definitive boundary between two historical epochs: the Golden Autumn (pre-AWI) and the Ashen Winter (post-AWI).
 
-Duration and Scope
+Duration
 
 The incident is characterized by a rapid, multidimensional cascade of phenomena occurring within a 24-hour temporal frame, during which conventional physical laws, astronomical constants, and planetary systems experienced extensive destabilization.
 
@@ -12,7 +12,7 @@ Observed Effects
 - All previously observable and documented astral bodies, excluding the Moon and Sun, vanished from the night sky. Deep-space telemetry returned null data, indicating a complete spatial nullification beyond ~30,000,000 km from Earth. Additionally, spatial changes caused tidal anomalies, including mass flooding and tsunami events.
 - The AWI is recorded as the largest Monolith breach in history, resulting in the arrival of numerous _nullikaryote_ species, primarily Devils, across all inhabited continents. Casualty estimates range between 4 to 5 billion deaths attributed to these incursions.
 
-Climatological and Ecological Consequences
+Consequences
 
 The "Ashen Winter" designation is both metaphorical and literal:
 - Global temperatures dropped by 7–10°C across roughly 60% of Earth's surface.

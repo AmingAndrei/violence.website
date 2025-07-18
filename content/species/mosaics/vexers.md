@@ -2,7 +2,7 @@
 
 Vexers are a rare, genetically distinct subspecies of Valence, representing a highly specialized evolutionary offshoot, 
 
-Origin and Rarity
+Origin
 
 The emergence of a Vexer is the result of a rare genetic anomaly occurring during the initial formation of a Valence:
 

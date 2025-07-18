@@ -2,7 +2,7 @@
 
 Coherence is a metaphoric phenomenon that quantifies the degree to which a dimension enforces logical and objective reality upon entities and matter within it. It serves as a metaphysical measure of ontological stability, reflecting how strongly a given space adheres to structured, rule-based existence. Coherence is not a physical constant but a conceptual one, subject to dimensional variability.
 
-Function and Measurement
+Function
 
 Coherence determines the integrity and sustainability of REALSPACE-origin entities when exposed to alternate dimensions. Higher Coherence values indicate greater conformity to standard physical laws, while negative Coherence values indicate environments where those laws are actively destabilized or inversed.
 - REALSPACE:  
@@ -19,7 +19,7 @@ While REALSPACE-origin matter is subject to ontological degradation in BLACKSPAC
 - BLACKSPACE-origin entities and materials exhibit total or partial immunity when crossing into REALSPACE.
 - This is attributed primarily to Blackstone’s resistance to Coherence-based decay, allowing it to remain intact regardless of the ambient Coherence level.
 
-Redliner and Half-breed Exception
+Exceptions
 
 Individuals classified as Redliners or Half-breeds demonstrate partial immunity to Coherence rejection. This is due to:
 - The integration of shifted-Blackstone nervous systems in the case of Redliners, which effectively reclassify their biological Coherence alignment.

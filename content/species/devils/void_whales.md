@@ -13,7 +13,7 @@ Behaviour Dynamics
 
 Void Whales are omnivorous and generally form small, loosely organized herds, exhibiting a temperament that is typically passive and inquisitive, though they may undergo sudden behavioural shifts in the presence of perceived threats.
 
-They are characterized by high cognitive faculties and employ a complex communication system based on the release of bioluminescent microbial trails. These trails originate from glands located along the fins and tail, dispersing rapidly through the air. Trail coloration and movement patterns encode detailed information, functioning as a visual language unique to the species.
+They are characterized by high cognitive faculties and employ a complex communication system based on the release of bioluminescent microbial trails. These trails originate from glands located along the fins and tail, dispersing rapidly through the air. Trail colouration and movement patterns encode detailed information, functioning as a visual language unique to the species.
 
 Defensive and Predation Strategy
 

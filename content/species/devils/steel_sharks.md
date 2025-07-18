@@ -2,13 +2,13 @@
 
 The Steel Shark (Kinzokuzame: 金属鮫, "Metal Shark") is a sentient, highly intelligent, and overtly hostile species of pseudo-mechanical Devil endemic to BLACKSPACE. Despite their outward resemblance to mechanical constructs, they are fully organic entities composed of living tissue engineered to mimic the appearance and function of industrial machinery.
 
-Biological Composition and Physiology
+Morphology
 
 Steel Sharks exhibit a form mimetic of diesel and steam-powered machinery, including components analogous to engines, pistons, and metal plating. Their tissue is composed of super-cellular structures, capable of coating themselves in alloy-like substances. This material is biologically alive, despite its metallic appearance, and exhibits properties comparable to self-sharpening metals such as depleted uranium.
 
 These entities possess a regenerative mechanism activated by engine activity. Approximately 20% of their biomass can be restored with each rev of their internal engine, a process accompanied by intense heat emission. Their engines are capable of metabolizing standard fuels (e.g., gasoline, oil), but are optimized for blood as a high-efficiency energy source.
 
-Sensory Capabilities and Perception
+Sensory Capabilities
 
 Steel Sharks are completely blind, with no visual processing capability. They detect light through tactile receptors, but possess no conceptual understanding of colour. Their primary perception relies on a multispectral system combining:
 - Echolocation
@@ -18,18 +18,18 @@ Steel Sharks are completely blind, with no visual processing capability. They de
 
 This system achieves an average perceptual accuracy of 90% within a 100-metre radius. Their eyes, although responsive to stimuli, serve no functional purpose and are presumed cosmetic.
 
-Behavioral States
+Behavioural States
 
 Steel Sharks operate in two distinct forms:
 
-- Default State: Inactive or resting form, resembling a mechanical weapon. Designs vary but are typically complex and symbolic of heavy machinery. In this state, they remain conscious and alert, even when un-fueled, though catatonic. Despite functional weakness to water (due to mechanical analogues), they cannot be killed unless the engine core is fully destroyed.
+- Default State: Inactive or resting form, resembling a mechanical weapon. Designs vary but are typically complex and symbolic of heavy machinery. In this state, they remain conscious and alert, even when un-fuelled, though catatonic. Despite functional weakness to water (due to mechanical analogues), they cannot be killed unless the engine core is fully destroyed.
 - Humanoid State: Triggered upon consumption of blood, Steel Sharks undergo extensive reconfiguration, assuming fully humanoid shapes. These forms retain human-like anatomical structure, including limbs, facial features, hair, and musculature, while maintaining their alloy-based composition. Notable traits include:
     - Hair resembling chainsaw chains
     - Teeth shaped similarly to shark dentition
     - Voices accompanied by engine noise
     This form is sustained only while blood is available. Upon depletion, Steel Sharks revert to their default state.
 
-Communication and Cognition
+Cognition
 
 Steel Sharks communicate through a complex auditory language consisting of:
 - Engine revving
@@ -38,7 +38,7 @@ Steel Sharks communicate through a complex auditory language consisting of:
 - Weapon-specific noises
 In humanoid form, they are capable of verbal speech, typically delivered with accompanying mechanical sound effects. Though inherently aggressive, Steel Sharks are highly intelligent, capable of tactical reasoning and adaptive behaviour.
 
-Technology Interaction and Absorption
+Technology Interaction
 
 Steel Sharks exhibit a unique technophagic capability:  
 Upon physical contact with mechanical or electronic devices, they initiate rapid disassembly, drawing components into their body via internal conduits. These materials are:
@@ -46,7 +46,7 @@ Upon physical contact with mechanical or electronic devices, they initiate rapid
 - Reassembled on command, either externally or as integrated enhancements.
 Reconstruction is precise and efficient, maintaining the original function of the device.
 
-Aggression and Combat Behaviour
+Behaviour
 
 Steel Sharks are extremely aggressive in all forms. Even while inert, they produce threat displays (e.g., growling, vibrations). In humanoid form, they are classified as lethal combatants, driven by a combination of instinctual survival behaviour and an apparent compulsion for violence and amusement.
 

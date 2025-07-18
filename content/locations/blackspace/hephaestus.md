@@ -2,7 +2,7 @@
 
 Hephaestus is a major structural landmark located within the Outer Dark region of BLACKSPACE, notable for its scale, composition, and primary function as the origin and repair facility for Steel Sharks.
 
-Structure and Functionality
+Structure
 
 Hephaestus takes the form of a colossal ziggurat-like structure, composed entirely of unknown alloys and metals. The external design features two prominent chutes, each continuously pouring molten metal into a moat-like system of channels, which recirculate the liquid into the facility. These systems appear essential to the site's function, possibly involved in the forming, recycling, or refinement of matter.
 
@@ -16,7 +16,7 @@ Hephaestus is theorized to be the sole manufacturing site for the Steel Shark sp
 
 Hephaestus also functions as a critical repair facility, specifically for Steel Sharks that have suffered irreparable damage, most notably to their engines. Repairs are assumed to be conducted autonomously, with re-entry into the facility observed in select cases.
 
-Material and Regenerative Properties
+Material Properties
 
 The structure itself appears to be composed of a supercellular material nearly identical to that of Steel Sharks, displaying the same decay-on-separation effect common to Devil-based biological matter.
 

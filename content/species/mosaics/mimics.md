@@ -15,6 +15,6 @@ Mimics derive their name from their innate ability to imitate. This mimicry is i
    They can replicate observed signatures through structural adaptation.
    Mimics can perfectly reproduce speech, tone, and behaviour of other organisms.
 
-Cognition and Intelligence
+Intelligence
 
 Mimics do not display signs of higher thought, emotional comprehension, or abstract reasoning. Their mimicry is entirely imitative and pattern-based, relying on instinctual observation and cataloguing rather than analysis or creativity. They are not believed to truly interpret language or have conceptual understanding of what they replicate. Mimics are generally classified as aggressive entities.

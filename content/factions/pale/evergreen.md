@@ -4,7 +4,7 @@ Evergreen is an operational department within the governing structure of the Pal
 
 Core Responsibilities
 
-1. Agriculture and Food Security
+1. Agriculture
     - Oversees all farmland, hydroponic zones, and vertical grow systems within the Chromatican City and its controlled perimeter.
     - Implements and enforces food safety protocols, soil purity standards, and nutritional baselines for both processed and raw consumables.
     - Continuously works to maximize crop yield and bio-efficiency.

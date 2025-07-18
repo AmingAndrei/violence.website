@@ -2,7 +2,7 @@
 
 The _Paramythi_ class, commonly referred to as "Chimeras", comprises a genetically cohesive group of entities within the _Nullikaryota_ domain of BLACKSPACE. All known _Paramythi_ species demonstrate clear genetic connectivity, confirmed through comparative genomic analysis. The presence of a common ancestor affirms the class’s evolutionary validity and positions it as one of the few _nullikaryote_ groupings to conform to conventional phylogenetic structures, despite being indigenous to BLACKSPACE.
 
-Morphological Traits
+Taxonomic Characteristics
 
 _Paramythi_ entities are characterized by chimeric anatomy, incorporating biological features from multiple terrestrial phyla, including mammalian, reptilian, and arthropodal structures. This anatomical hybridization results in organisms with compound features. All _Paramythi_ species are endothermic, possessing complex thermoregulatory mechanisms suited for BLACKSPACE's variable environmental conditions.
 
@@ -23,7 +23,8 @@ The _Paramythi_ class stands as a unique fusion of biological plausibility and a
 ├── /[[fae]]/<br>
 ├── /[[balauri]]/<br>
 ├── /[[zmey]]/<br>
-└── /[[kobold]]/
+├── /[[kobolde]]/<br>
+└── /[[jentilak]]/
 
 ► ln --context<br>
 └── /[[fael_fire]]/

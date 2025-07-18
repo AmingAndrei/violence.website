@@ -6,11 +6,11 @@ Activation Mechanism
 
 The Drive process is initiated through the transmission of a specific neural signal along the Redliner's nervous system. This signal is hypothesized to mimic neurological patterns associated with imminent death or extreme trauma, prompting the Clutch Beetle to activate. While spontaneous activation is possible under sufficient stress, the process is most reliably triggered via a specialized tool known as a Drive Starter, designed to induce the required neural sequence.
 
-Physiological Changes and Effects
+Physiological Changes
 
 Upon activation, the following biological phenomena are observed:
 
-- The Redliner's blood undergoes a colorimetric shift, typically presenting hues ranging from green to blue, indicating the onset of the Drive state.
+- The Redliner's blood undergoes a colourimetric shift, typically presenting hues ranging from green to blue, indicating the onset of the Drive state.
 - Hosts acquire the ability to continuously regenerate from any form of physical damage, including otherwise lethal injuries. This regenerative capacity is directly fuelled by the host’s blood supply.
 - Sustained Drive activity leads to progressive blood depletion. When blood levels fall below a critical threshold, the Drive will automatically deactivate. However, this effect can be delayed or reversed by ingesting blood, which replenishes the host’s internal reserves and allows continued Drive function.
 - The Clutch Beetle's extended neurological filaments are capable of generating additional, regenerating mass from its own structure. This material may exhibit mechanical or hybridized appearance, yet remains fully organic. The mass is composed of shifted-Blackstone, granting it complete invulnerability to any damage not inflicted by other Blackstone-derived substances.
@@ -26,7 +26,7 @@ _Körper_ (German for "body") Drives are characterized by the comprehensive gene
 
 - The resulting structure may resemble a fitted armour or a massive construct, often extending well beyond the user’s natural dimensions.
 - Regardless of external size, the user’s original body is always located near the brain stem region within the generated mass.
-- Körper manifestations provide significant defensive and physical enhancements, effectively functioning as full-body exo-suits or biomechanical avatars.
+- Körper manifestations provide significant defensive and physical enhancements, effectively functioning as full-body exosuits or biomechanical avatars.
 - The user retains full control of the mass, and destruction of the outer structure doesn't results in immediate user death, unless the core region is directly targeted.
 
 Waffe-Type Drives

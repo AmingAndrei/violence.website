@@ -4,11 +4,11 @@ The Sangui Lily is a rare and specialized species of flowering plant endemic to 
 
 Morphology
 
-Sangui Lilies are characterized by a solitary, upright stem, which is predominantly leafless. Both the stem and any present leaves exhibit a black coloration overlaid with a red exodermal layer, giving the plant a distinctly vascular appearance. Each stem supports a single bloom, morphologically similar to a water lily, with alternating red and white petals arranged radially.
+Sangui Lilies are characterized by a solitary, upright stem, which is predominantly leafless. Both the stem and any present leaves exhibit a black colouration overlaid with a red exodermal layer, giving the plant a distinctly vascular appearance. Each stem supports a single bloom, morphologically similar to a water lily, with alternating red and white petals arranged radially.
 
 Nutritional Mechanism
 
-Unlike typical photosynthetic flora, the Sangui Lily relies on the metabolization of blood as its primary nutrient source. It exhibits hematophagic behaviour, absorbing blood through specialized root structures or external contact with biological material.
+Unlike typical photosynthetic flora, the Sangui Lily relies on the metabolization of blood as its primary nutrient source. It exhibits haematophagic behaviour, absorbing blood through specialized root structures or external contact with biological material.
 
 Reproductive Characteristics
 
