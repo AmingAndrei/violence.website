@@ -2,7 +2,7 @@
 
 BLACKSPACE is an anomalous extra-dimensional realm superimposed upon REALSPACE, and is empirically measured at a negative Coherence, indicating a complete absence of ontological stability.
 
-Access and Navigation
+Access
 
 The most consistent and stable means of entry to and exit from BLACKSPACE is through structures known as Monoliths. All organisms indigenous to this dimension are classified under the _Nullikaryota_ domain.
 
@@ -18,7 +18,7 @@ At the geometric and magnetic core of BLACKSPACE lies the Luxtree, around which 
 
 These islands vary widely in both size and separation, with the largest exceeding 8,000 km in length. Depending on mass, terrain, and Blackstone shifting, some islands are capable of supporting lakes, seas, or oceans.
 
-The Void Belt and the Darks
+The Void Belt
 
 Beginning at a radial distance of approximately 20 million km from the Luxtree is the Void Belt. This region is defined by a near-complete absence of matter, including both solid landmasses and air particulates. Functionally, it acts as a barrier that cannot be traversed by non-specialized or non-self-propelled craft. The Void Belt stretches for 500,000 km, beyond which the dimensional conditions appear to reset, giving rise to two distinct regions: the Inner-Dark and the Outer-Dark.
 

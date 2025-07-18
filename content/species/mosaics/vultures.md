@@ -2,11 +2,11 @@
 
 Vultures are a hybridized entity resulting from the possession of a deceased or dying Valence by a Vesper. This event leads to a parasitic fusion wherein the Vesper subsumes and reanimates the Valence's body.
 
-Origin and Formation
+Formation
 
 The creation of a Vulture occurs when a Vesper infiltrates the body of a compromised Valence, typically one that is either biologically deceased or neurologically nonviable. Upon entry, the Vesper initiates a full-body integration, overtaking both the shell and remaining systems of the Valence. This integration is not a simple reanimation; it is a full fusion, blending the Voxel structure of the Vesper with that of the Valence host.
 
-Physical Characteristics
+Morphology
 
 Vultures retain a high degree of anatomical similarity to the host Valence, including preservation of the shell. However, Vultures are distinguishable by the following traits:
 - Anomalous extremities or appendages that mirror the morphology of the possessing Vesper

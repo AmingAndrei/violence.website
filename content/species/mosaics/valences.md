@@ -2,7 +2,7 @@
 
 Valences are a sentient species of Mosaic, originating withing BLACKSPACE. They represent a unique subclass of Mosaics, distinguished by their symbiotic interaction with external mechanical constructs, referred to as _shells_, which serve as both exoskeleton and interface.
 
-Physiological Composition
+Morphology
 
 The true biological form of a Valence, colloquially termed its heart, is a compact Voxel entity:
 - Average length of ~30 cm
@@ -12,7 +12,8 @@ The true biological form of a Valence, colloquially termed its heart, is a compa
 
 Despite their relatively primitive individual form, the heart is the central processing unit of the Valence, responsible for all higher cognitive and motor control functions.
 
-Shell  
+Shell
+
 To overcome the limitations of their vulnerable primary form, Valences utilize advanced humanoid mechanical shells, into which they interface via the chest cavity. Upon entry:
 - The heart disperses its Voxels throughout the chassis, establishing complete motor and sensory control.
 - These shells are typically between 1.9 and 2 metres in height and constructed from durable white-metal alloys, with signature yellow LED eyes serving as primary visual interfaces, with the advanced visual and auditory sensors far surpassing the baseline heart.

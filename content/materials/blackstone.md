@@ -1,8 +1,8 @@
 [[index|...]]/[[materials]]/blackstone.md
 
-Blackstone is an anomalous, exotic material native to BLACKSPACE, recognized for its distinct black coloration with golden undertones and its near-total immunity to damage. Its physical properties resemble polished marble, though its molecular structure and anomalous characteristics distinguish it from any known REALSPACE material.
+Blackstone is an anomalous, exotic material native to BLACKSPACE, recognized for its distinct black colouration with golden undertones and its near-total immunity to damage. Its physical properties resemble polished marble, though its molecular structure and anomalous characteristics distinguish it from any known REALSPACE material.
 
-Composition and Distribution
+Composition
 
 Blackstone constitutes approximately 80–90% of all matter within BLACKSPACE, forming the foundational structure of its terrain, including landmasses, geological formations, and various environmental constructs. The remaining 10–20% comprises Blackstone-based derivatives, such as minerals, crystalline forms, and other exotic substances, many of which retain partial properties of the parent material.
 

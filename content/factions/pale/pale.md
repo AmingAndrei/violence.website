@@ -2,11 +2,11 @@
 
 The Pale is the governing authority of the Chromatican City, established in the aftermath of Acheron's dissolution. As the direct successor to Acheron in both personnel and organizational structure, the Pale functions as the central administrative, legislative, and security body responsible for overseeing the city.
 
-Foundation and Origins
+Foundation
 
 The Pale was formally instituted following the collapse of Acheron, inheriting not only its personnel but also its classified knowledge base, research infrastructure, and internal protocols. It was conceived as a necessary continuity structure to stabilize and govern the Chromatican City.
 
-Headquarters and Functionality
+Functionality
 
 The Pale is headquartered within the lower levels of the Citadel, a fortified structure located at the heart of the Chromatican City. This positioning serves a dual purpose:
 - It offers central access and control over urban logistics and governance.

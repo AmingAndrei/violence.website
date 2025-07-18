@@ -2,11 +2,11 @@
 
 The Clutch Beetle is an insectoid, invertebrate species of Devil classified within the BLACKSPACE ecosystem. Distinguished by their extreme phenotypic variability and parasitic symbiosis, Clutch Beetles are notable for their unique relationship with the Imago, a trait that allows them to absorb and express environmental and genetic influences in unpredictable ways.
 
-Morphology and Variability
+Morphology
 
 Clutch Beetles possess a rounded body plan typical of insectoids, including an elytra (a hardened wing cover), which remains a consistent trait across individuals. However, beyond this, adult Clutch Beetles exhibit drastic interindividual variation in colour, morphology, behaviour, diet, and biological capabilities. This is attributed to their heightened sensitivity to the Imago, effectively making them biological "DNA sponges". Due to this variability, the emergence of two identical adults is considered statistically impossible.
 
-Reproduction and Development
+Reproduction
 
 Clutch Beetles reproduce asexually, laying multiple eggs which hatch into larvae. These larvae are morphologically and behaviourally identical. Upon hatching, larvae consume unhatched eggs to obtain nutrients. As they progress to the pupal stage, divergence in traits begins to manifest. Many die during this phase due to trait incompatibility or developmental failure, contributing to the species’ low observable population density.
 
@@ -14,7 +14,7 @@ Neurology
 
 Despite possessing a nervous system approximately 1000 times more complex than that of humans, Clutch Beetles exhibit no signs of advanced cognition or sentience. Their actions are governed by instinctual drives, and no evidence of higher reasoning or social behaviour has been observed.
 
-Parasitic Interaction and Drive Activation
+Parasitic Interaction
 
 Clutch Beetles derive their name from their unique parasitic bonding mechanism with vertebrate, non-_nullikaryote_ hosts. Upon encountering a viable host, particularly one that is injured or incapacitated, the beetle will attach to the nape of the neck, penetrate the skin painlessly and rapidly, and establish itself at the brain stem.
 

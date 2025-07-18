@@ -2,7 +2,7 @@
 
 The Chromatican City is a vast, anomalous metropolitan construct that manifested spontaneously within REALSPACE during the events of the Ashen Winter Incident. Encompassing an estimated area of 7,125 km², it is recognized as the largest human-inhabited zone in the Ashen Winter era, with an approximate population of 100 million citizens, including non-human inhabitants.
 
-Manifestation and Structure
+Manifestation
 
 The city emerged without prior warning at coordinates 45.755° N, 21.232° E, corresponding to the former Banat region of Eastern Europe. Its sudden appearance triggered significant seismic activity across the surrounding region. The origins of the city remain undetermined; however, its manifestation is widely theorized to be a direct consequence of BLACKSPACE interference.
 

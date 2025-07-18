@@ -2,7 +2,7 @@
 
 The Blue Rose was an anomalous double-barrelled revolver formerly located within BLACKSPACE. Known for its unique construction and anti-Devil properties, the Blue Rose is no longer extant, with all contemporary understanding derived from archival records, witness testimonies, and fragmentary intelligence.
 
-Design and Configuration
+Design
 
 The Blue Rose is structurally similar to the Smith & Wesson Model 500, though extensively modified for specialized use:
 

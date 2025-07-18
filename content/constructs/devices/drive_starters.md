@@ -2,13 +2,13 @@
 
 A Drive Starter is a specialized, single-shot weapon engineered specifically to facilitate the activation of Drives in Redliners.
 
-Design and Construction
+Design
 
 Drive Starters are aesthetically and mechanically reminiscent of the Luger P08 pistol, featuring a wooden grip and a widened barrel. These devices are manually operated, requiring a reload after each discharge and capable of chambering only one round at a time.
 
 While theoretically able to fire standard ammunition, Drive Starters are specifically designed to interface with Charges, and Charges are only operable via a Drive Starter.
 
-Functionality and Mechanism
+Functionality
 
 The Drive Starter's primary purpose is to initiate neural shock stimulation in Redliners through the firing of a Charge directly into the user's own body. Upon discharge, a signal is transmitted that mimics near-total brain death, triggering the Clutch Beetle’s response mechanism and thereby activating the Drive.
 
