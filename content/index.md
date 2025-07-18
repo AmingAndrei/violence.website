@@ -15,8 +15,8 @@ title:
 
 
 ► login --status<br>
-USER AUTH: FAILED<br>
-RETRY LOGIN? [<a href="/index/" onclick="playFailSound()">y</a>/n]
+user auth: FAILED<br>
+retry login? [<a href="/index/" onclick="playFailSound()">y</a>/n]
 
  ► whoami<br>
 terminal-bWloYS5y/guest
