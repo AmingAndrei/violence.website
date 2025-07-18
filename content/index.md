@@ -18,8 +18,14 @@ title:
 USER AUTH: FAILED<br>
 RETRY LOGIN? [<a href="/index/" onclick="playFailSound()">y</a>/n]
 
- ►whoami<br>
+ ► whoami<br>
 terminal-bWloYS5y/guest
+
+► ping --art<br>
+request 1: timed out<br>
+request 2: timed out<br>
+request 3: timed out<br>
+
 
 ► ls /<br>
 ├── /[[blackspace]]/ : : BLACKSPACE research<br>
