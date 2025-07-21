@@ -8,7 +8,7 @@ Ekleipsanthus specimens typically reach an average height of 4 meters, with stem
 
 Growth
 
-Ekleipsanthus grows in small, isolated patches, generally composed of a limited number of individuals. The species exhibits heliotropism during its developmental stages. In BLACKSPACE, Ekleipsanthus aligns itself toward the Luxtree, regardless of visibility or competing light sources. In ASHSPACE, the plant orients itself toward the Sun under analogous conditions, and demonstrates a remarkable ability to survive in its hostile environments.
+Ekleipsanthus grows in small, isolated patches, generally composed of a limited number of individuals. The species exhibits heliotropism during its developmental stages. In BLACKSPACE, Ekleipsanthus aligns itself toward the Luxtree, regardless of visibility or competing light sources. In REALSPACE, the plant orients itself toward the Sun under analogous conditions, and demonstrates a remarkable ability to survive in its hostile environments.
 
 Biological Interactions
 

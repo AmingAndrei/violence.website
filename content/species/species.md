@@ -1,6 +1,6 @@
 [[index|...]]/species.md
 
-_Nullikaryota_ is the taxonomic domain assigned to all known life forms native to BLACKSPACE. These entities exist entirely outside the biological principles and phylogenetic lineages recognized within ASHSPACE, rendering conventional classification systems inapplicable.
+_Nullikaryota_ is the taxonomic domain assigned to all known life forms native to BLACKSPACE. These entities exist entirely outside the biological principles and phylogenetic lineages recognized within REALSPACE, rendering conventional classification systems inapplicable.
 
 Taxonomic Structure
 

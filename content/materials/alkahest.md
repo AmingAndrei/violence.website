@@ -8,7 +8,7 @@ Alkahest manifests as a colourless, faintly opalescent liquid. It is typically f
 
 Primary Use
 
-Alkahest's foremost application lies in its unique biochemical interaction with shifted-Blackstone matter, specifically organic-like substances derived from Blackstone that are otherwise inert, indigestible, or fatally toxic to ASHSPACE-based lifeforms.
+Alkahest's foremost application lies in its unique biochemical interaction with shifted-Blackstone matter, specifically organic-like substances derived from Blackstone that are otherwise inert, indigestible, or fatally toxic to REALSPACE-based lifeforms.
 
 When combined with shifted-Blackstone compounds resembling organic tissue and select non-BLACKSPACE enzymes, acids, or microbiota cultures, Alkahest catalyses a reaction rendering the material biocompatible and fully consumable by non-Blackstone organisms. The resulting substance mirrors traditional organic matter down to molecular breakdown and nutrient uptake. Without Alkahest, consumption of Blackstone matter is impossible; the material is impenetrable to mastication and, if bypassed via alternative means, results in immediate systemic failure and death.
 
