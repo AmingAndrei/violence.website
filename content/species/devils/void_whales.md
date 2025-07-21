@@ -1,10 +1,10 @@
 [[index|...]]/[[species]]/[[devils]]/void_whales.md
 
-The Void Whale is an airborne species of Devil, endemic to BLACKSPACE. Despite bearing structural resemblance to aquatic mammals of REALSPACE, Void Whales are fully adapted to aerial environments and demonstrate anomalous biological and behavioural traits.
+The Void Whale is an airborne species of Devil, endemic to BLACKSPACE. Despite bearing structural resemblance to aquatic mammals of ASHSPACE, Void Whales are fully adapted to aerial environments and demonstrate anomalous biological and behavioural traits.
 
 Morphology
 
-Void Whales possess an elongated, cetacean form with an average length of approximately 20 metres. Their external physiology resembles that of a REALSPACE humpback whale, though with several notable deviations:
+Void Whales possess an elongated, cetacean form with an average length of approximately 20 metres. Their external physiology resembles that of a ASHSPACE humpback whale, though with several notable deviations:
 - Their skin and cells lack pigmentation and possess a texture and structure analogous to ceramics. This confers extreme thermal and electrical resistance, Void Whale cells are generally brittle when facing direct physical stress.
 - Each specimen is equipped with twenty highly advanced eyes, ten per lateral side, distributed from the head to the tail. These eyes exhibit full-spectrum perception, including infrared and ultraviolet ranges.
 - Locomotion is facilitated by a network of gas-filled sacs, providing lift and enabling directed flight through aerial “swimming” motions. The species’ overall low density further contributes to buoyancy and manoeuvrability.
