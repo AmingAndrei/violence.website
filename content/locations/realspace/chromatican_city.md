@@ -1,6 +1,6 @@
 [[index|...]]/[[locations]]/chromatican_city.md
 
-The Chromatican City is a vast, anomalous metropolitan construct that manifested spontaneously within ASHSPACE during the events of the Ashen Winter Incident. Encompassing an estimated area of 7,125 km², it is recognized as the largest human-inhabited zone in the Ashen Winter era, with an approximate population of 100 million citizens, including non-human inhabitants.
+The Chromatican City is a vast, anomalous metropolitan construct that manifested spontaneously within REALSPACE during the events of the Ashen Winter Incident. Encompassing an estimated area of 7,125 km², it is recognized as the largest human-inhabited zone in the Ashen Winter era, with an approximate population of 100 million citizens, including non-human inhabitants.
 
 Manifestation
 
