@@ -1,6 +1,6 @@
 [[index|...]]/blackspace.md
 
-BLACKSPACE is an anomalous extra-dimensional realm superimposed upon REALSPACE, and is empirically measured at a negative Coherence, indicating a complete absence of ontological stability.
+BLACKSPACE is an anomalous extra-dimensional realm superimposed upon ASHSPACE, and is empirically measured at a negative Coherence, indicating a complete absence of ontological stability.
 
 Access
 
@@ -10,7 +10,7 @@ Physical Structure
 
 BLACKSPACE is composed entirely of geometric landmasses and islands formed predominantly from Blackstone. These formations are suspended within an infinite, lightless void, across which dunes of red sand naturally accumulate on solid surfaces. Despite the absence of any detectable light source, BLACKSPACE is uniformly illuminated at a baseline of 1600 lumens. However, specialized instrumentation has anomalously recorded a net light emission of -1 lumen, suggesting unknown or non-classical photonic behaviour.
 
-Gravity within BLACKSPACE exists in a conceptual rather than conventional form; it behaves as an ideational force, causing all matter to fall in a consistent “downward” direction, despite lacking a singular gravitational origin. The atmosphere in BLACKSPACE is breathable and chemically analogous to that of REALSPACE.
+Gravity within BLACKSPACE exists in a conceptual rather than conventional form; it behaves as an ideational force, causing all matter to fall in a consistent “downward” direction, despite lacking a singular gravitational origin. The atmosphere in BLACKSPACE is breathable and chemically analogous to that of ASHSPACE, breathable by ASHSPACE species.
 
 Structural Geography
 

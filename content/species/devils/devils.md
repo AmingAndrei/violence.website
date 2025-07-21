@@ -4,7 +4,7 @@ The _Diavolos_ class, colloquially referred to as "Devils", constitutes a taxono
 
 Taxonomic Characteristics
 
-Unlike traditional biological groupings, _Diavolos_ species exhibit no identifiable genetic lineage. Extensive analysis has revealed a complete absence of ancestral continuity, both within the class itself and in comparison to all known _Nullikaryota_ and REALSPACE organisms. This lack of genetic coherence indicates that _Diavolos_ species are intrinsically linked to the Imago.
+Unlike traditional biological groupings, _Diavolos_ species exhibit no identifiable genetic lineage. Extensive analysis has revealed a complete absence of ancestral continuity, both within the class itself and in comparison to all known _Nullikaryota_ and ASHSPACE organisms. This lack of genetic coherence indicates that _Diavolos_ species are intrinsically linked to the Imago.
 
 Despite the absence of shared ancestry, members of the class are unified by distinct physiological, biochemical, and behavioural traits, which serve as the primary basis for their classification.
 
@@ -24,6 +24,6 @@ _Diavolos_ species are uniquely adapted to environments saturated with fear stim
 ► ls /<br>
 ├── /[[clutch_beetles]]/<br>
 ├── /[[void_whales]]/<br>
-├── /[[ash_nymphs]]/<br>
+├── /[[crimson_nymphs]]/<br>
 ├── /[[stone_wyrms]]/<br>
 └── /[[steel_sharks]]/

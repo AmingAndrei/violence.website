@@ -1,6 +1,6 @@
 [[index|...]]/locations.md
 
-► ls /realspace<br>
+► ls /ashspace<br>
 ├── /[[chromatican_city]]/<br>
 └── /[[monoliths]]/
 

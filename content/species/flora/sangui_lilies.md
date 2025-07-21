@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[flora]]/sangui_lilies.md
 
-The Sangui Lily is a rare and specialized species of flowering plant endemic to BLACKSPACE, notable for its unconventional physiology and critical role in the reproductive cycle of an Ash Nymph.
+The Sangui Lily is a rare and specialized species of flowering plant endemic to BLACKSPACE, notable for its unconventional physiology and critical role in the reproductive cycle of an Crimson Nymph.
 
 Morphology
 
@@ -12,4 +12,4 @@ Unlike typical photosynthetic flora, the Sangui Lily relies on the metabolizatio
 
 Reproductive Characteristics
 
-The Sangui Lily is non-seeding, lacking any observed mechanism of seed production or dispersal, serving a critical function in the life cycle of an Ash Nymph, forming the initial developmental stage of the organism.
+The Sangui Lily is non-seeding, lacking any observed mechanism of seed production or dispersal, serving a critical function in the life cycle of an Crimson Nymph, forming the initial developmental stage of the organism.

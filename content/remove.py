@@ -11,7 +11,7 @@ def remove_asterisks_from_md_files(root_folder: str) -> None:
                     with open(file_path, 'r', encoding='utf-8') as file:
                         content = file.read()
 
-                    cleaned_content = content.replace('Blackspace', 'BLACKSPACE')
+                    cleaned_content = content.replace('REALSPACE', 'ASHSPACE')
 
                     with open(file_path, 'w', encoding='utf-8') as file:
                         file.write(cleaned_content)
