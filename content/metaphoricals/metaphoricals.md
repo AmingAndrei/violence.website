@@ -7,4 +7,4 @@ Unlike standard metaphysical constructs or meta-standard anomalies observed with
 ► ls /<br>
 ├── /[[imago]]/<br>
 ├── /[[coherence]]/<br>
-└── /[[animae]]/
+└── /[[anima]]/
