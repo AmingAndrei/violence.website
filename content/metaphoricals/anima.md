@@ -1,2 +1,0 @@
-[[index|...]]/[[metaphoricals]]/anima.md
-
