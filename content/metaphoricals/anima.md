@@ -1,6 +1,6 @@
 [[index|...]]/[[metaphoricals]]/anima.md
 
-Anima are a metaphoric phenomena and autonomous entities that randomly manifest and form temporary, involuntary connections with individual hosts. Their emergence and disappearance follow no discernible pattern.
+Anima are a metaphoric phenomena and autonomous entities that randomly manifest and form temporary, involuntary connections with individual hosts. Their emergence and disappearance follow no discernible pattern, with an estimated 0.0001% chance of manifesting every 24 hours.
 
 Appearance
 
