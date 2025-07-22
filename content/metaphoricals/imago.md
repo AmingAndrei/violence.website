@@ -17,12 +17,12 @@ Scientific analysis has determined that the Imago functions as a genomic archive
 
 Biological Implications
 
-- Overexposure to concentrated Imago fields has been linked to:    
+- Overexposure to concentrated Imago has been linked to:    
     - Increased mutation rates
     - Oncogenesis (cancer development)
     - Anomalous traits in both flora and fauna
 
-- Imago Deprivation, particularly in environments that are entirely sealed off or intentionally shielded from the field, results in:
+- Imago deprivation, particularly in environments that are entirely sealed off or intentionally shielded from the field, results in:
     - Rapid onset of cellular degradation, mirroring acute radiation syndrome
     - Reproductive failure, including sterility, miscarriage, and disrupted embryonic development
 
