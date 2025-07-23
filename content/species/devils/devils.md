@@ -26,4 +26,5 @@ _Diavolos_ species are uniquely adapted to environments saturated with fear stim
 ├── /[[void_whales]]/<br>
 ├── /[[crimson_nymphs]]/<br>
 ├── /[[stone_wyrms]]/<br>
-└── /[[steel_sharks]]/
+├── /[[steel_sharks]]/<br>
+└── /[[circuit_titans]]/
