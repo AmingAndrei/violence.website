@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/crismon_nymphs.md
 
-The Crimson Nymph is a semi-vegetal, sentient species of Devil, native to BLACKSPACE. Notable for their unique physiology, garden-centric behaviour, and dual-purpose vocalizations, Crimson Nymphs occupy a distinct ecological and metaphysical niche within their native environment.
+The Crimson Nymph is a semi-vegetal, sentient species of Devil, endemic to BLACKSPACE. Notable for their unique physiology, garden-centric behaviour, and dual-purpose vocalizations, Crimson Nymphs occupy a distinct ecological and metaphysical niche within their native environment.
 
 Morphology
 
