@@ -6,7 +6,7 @@ Appearance
 
 Anima manifest as white, levitating objects measuring approximately 8 centimetres in length, with a form resembling an inverted heart symbol. From their central body, a series of filamentous tendrils or “strings” extend and encircle the host’s neck in a loose, non-restrictive configuration. These strings serve as both tether and interface, forming the only known connection between the Anima and the host.
 
-While active, the Anima remains constantly visible, emits a faint self-illumination, and is capable of limited hovering movement within the radius permitted by the tethering strings. Attempts to sever the strings or destroy the Anima have been uniformly unsuccessful; the entity is considered indestructible.
+While active, the Anima remains constantly visible, emits a faint self-illumination, and is capable of limited hovering movement within the radius permitted by the tethering strings. Attempts to sever the strings or destroy the Anima have been uniformly unsuccessful; the entity is considered indestructible, and can become intangible to the host if necessary.
 
 Influence
 
