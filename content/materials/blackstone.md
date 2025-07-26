@@ -6,7 +6,7 @@ Composition
 
 Blackstone constitutes approximately 80–90% of all matter within BLACKSPACE, forming the foundational structure of its terrain, including landmasses, geological formations, and various environmental constructs. The remaining 10–20% comprises Blackstone-based derivatives, such as minerals, crystalline forms, and other exotic substances, many of which retain partial properties of the parent material.
 
-Anomalous Properties
+Properties
 
 - When subjected to direct energy input (thermal, electrical, kinetic, etc.), Blackstone exhibits the capacity to reconfigure its molecular structure, enabling it to transform into any known element or compound from the REALSPACE periodic table. This includes organic compounds, such as bone, blood, and neural tissue, which have been shown to contain functioning deoxyribonucleic acid (DNA) and exhibit behaviour consistent with their REALSPACE analogues.
 - Despite shifting into other substances, all derivatives retain Blackstone’s signature resilience. Even transformed materials remain impervious to damage from any REALSPACE-origin methodology.
