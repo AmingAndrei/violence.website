@@ -20,8 +20,8 @@ The role of Executive is both powerful and burdensome, requiring constant superv
 
 ► ln --context<br>
 ├── /[[infrared]]/<br>
-├── /[[orangequit]]/<br>
-├── /[[yellowcake]]/<br>
-├── /[[evergreen]]/<br>
-├── /[[blueprint]]/<br>
+├── /[[vermilion]]/<br>
+├── /[[saffron]]/<br>
+├── /[[viridian]]/<br>
+├── /[[cerulean]]/<br>
 └── /[[ultraviolet]]/
