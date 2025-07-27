@@ -1,6 +1,6 @@
-[[index|...]]/[[factions]]/[[pale]]/evergreen.md
+[[index|...]]/[[factions]]/[[pale]]/viridian.md
 
-Evergreen is an operational department within the governing structure of the Pale, tasked with the oversight of agriculture, food production, ecological stability, and plant-based research within and around the Chromatican City.
+Viridian is an operational department within the governing structure of the Pale, tasked with the oversight of agriculture, food production, ecological stability, and plant-based research within and around the Chromatican City.
 
 Core Responsibilities
 
@@ -10,7 +10,7 @@ Core Responsibilities
     - Continuously works to maximize crop yield and bio-efficiency.
 
 2. Botanical Research
-    - Conducts ongoing studies into BLACKSPACE-native flora, examining their potential applications.
+    - Conducts ongoing studies into BLACKSPACE-native flora, examining their potential applications, under the supervision of Ultraviolet.
 
 3. Ecological Recovery
     - Leads efforts to restore flora and fauna lost during the Ashen Winter Incident, focusing on genetic adaptation of extinct or endangered species and controlled reintroduction into stabilised zones.
@@ -21,4 +21,4 @@ Core Responsibilities
 
 Organizational Hierarchy
 
-Evergreen is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.
+Viridian is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.

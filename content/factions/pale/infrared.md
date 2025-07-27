@@ -13,8 +13,8 @@ Core Responsibilities
     - Agents are trained in non-lethal conflict resolution, though authorized to escalate under directive.
     - Incidents involving high-risk threats are escalated to Ultraviolet.
 
-3. Black Box Oversight
-    - Infrared holds exclusive jurisdiction over the Black Box. Duties include routine inspection and calibration, security enforcement and systems diagnostics.
+3. Black Box Administration
+    - Infrared holds exclusive jurisdiction over the upper levels of the Black Box. Duties include routine inspection and calibration, security enforcement and systems diagnostics.
 
 Organizational Hierarchy
 
