@@ -1,6 +1,6 @@
 [[index|...]]/[[metaphoricals]]/coherence.md
 
-Coherence is a metaphoric phenomenon that quantifies the degree to which a dimension enforces logical and objective reality upon entities and matter within it. It serves as a metaphysical measure of ontological stability, reflecting how strongly a given space adheres to structured, rule-based existence. Coherence is not a physical constant but a conceptual one, subject to dimensional variability.
+Coherence is a metaphoric phenomenon that quantifies the degree to which a dimension enforces logical and objective reality upon entities and matter within it. Coherence is not a physical constant but a conceptual one, subject to dimensional variability.
 
 Function
 
