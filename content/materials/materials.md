@@ -2,5 +2,4 @@
 
 ► ls /<br>
 ├── /[[blackstone]]/<br>
-├── /[[bloodmetal]]/<br>
-└── /[[alkahest]]/
+└── /[[bloodmetal]]/<br>
