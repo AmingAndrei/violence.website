@@ -12,6 +12,6 @@ Magnetometric readings have confirmed that the Luxtree aligns with the magnetic 
 
 Root System
 
-The Luxtree's root network spans millions of km, extending radially across BLACKSPACE and embedding itself into numerous Blackstone islands. These roots often terminate in localized clumps, which influence biome formation and habitat stabilization in their vicinity. The presence of Luxtree roots has been directly correlated with increased ecological complexity and biodiversity on these islands.
+The Luxtree's root network spans millions of km, extending radially across BLACKSPACE and embedding itself into numerous islands. These roots often terminate in localized clumps, which influence biome formation and habitat stabilization in their vicinity. The presence of Luxtree roots has been directly correlated with increased ecological complexity and biodiversity on these islands.
 
 Importantly, these root terminations frequently exhibit non-Euclidean spatial behaviour. Roots may appear within islands that are geographically disconnected or spatially isolated from the main trunk, with no discernible continuity between root clusters and the Luxtree itself.

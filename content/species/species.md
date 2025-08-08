@@ -8,7 +8,7 @@ The domain _Nullikaryota_ is recognized as a wastebasket taxon, a provisional gr
 
 Composition
 
-Despite appearing organic in structure, possessing anatomical features analogous to organs, musculature, or skeletal systems, _Nullikaryota_ organisms are composed entirely of Blackstone or shifted-derivatives. This includes forms resembling blood, neural tissue, or bone, all of which retain the inherent indestructibility associated with Blackstone.
+Despite appearing organic in structure, possessing anatomical features analogous to organs, musculature, or skeletal systems, _Nullikaryota_ organisms are composed entirely of BLACKSPACE Matter.
 
 ► ls /<br>
 ├── /[[devils]]/<br>

@@ -13,8 +13,8 @@ Upon activation, the following biological phenomena are observed:
 - The Redliner's blood undergoes a colourimetric shift, typically presenting hues ranging from green to blue, indicating the onset of the Drive state.
 - Hosts acquire the ability to continuously regenerate from any form of physical damage, including otherwise lethal injuries. This regenerative capacity is directly fuelled by the host’s blood supply.
 - Sustained Drive activity leads to progressive blood depletion. When blood levels fall below a critical threshold, the Drive will automatically deactivate. However, this effect can be delayed or reversed by ingesting blood, which replenishes the host’s internal reserves and allows continued Drive function.
-- The Clutch Beetle's extended neurological filaments are capable of generating additional, regenerating mass from its own structure. This material may exhibit mechanical or hybridized appearance, yet remains fully organic. The mass is composed of shifted-Blackstone, granting it complete invulnerability to any damage not inflicted by other Blackstone-derived substances.
-- Once the Drive ends, all generated mass disintegrates, reverting into red particulate dust consistent with unstable Blackstone matter. This process is irreversible and leaves no physical residue.
+- The Clutch Beetle's extended neurological filaments are capable of generating additional, regenerating mass from its own structure. This material may exhibit mechanical or hybridized appearance, yet remains fully organic.
+- Once the Drive ends, all generated mass disintegrates, reverting into red particulate dust. This process is irreversible and leaves no physical residue.
 
 Drive Types
 
@@ -31,7 +31,7 @@ _Körper_ (German for "body") Drives are characterized by the comprehensive gene
 
 Waffe-Type Drives
 
-_Waffe_ (German for "weapon") Drives are defined by localized generation of Blackstone mass, modifying individual limbs or specific anatomical regions.
+_Waffe_ (German for "weapon") Drives are defined by localized generation of mass, modifying individual limbs or specific anatomical regions.
 - The transformation is anchored to existing body parts, most commonly the arms, head, or back.
 - These modifications enhance offensive or sensory capabilities without altering the user’s full appearance.
 - The remainder of the user's body remains biologically unchanged, preserving full mobility and function outside the enhanced area.

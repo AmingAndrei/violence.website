@@ -9,11 +9,6 @@ Core Responsibilities
 
 2. Infrastructure Construction
     - Responsible for the construction, retrofitting, and controlled deconstruction of buildings, roadways and transit systems.
-    - While direct construction efforts have largely diminished due to the resilient, self-sustaining nature of the pre-established Blackstone-based architecture, Cerulean remains on standby for new projects, emergency construction, or structural failure events.
-    - Conventional maintenance is minimal for Blackstone structures; however, buildings fabricated by Cerulean using standard composite materials require periodic upkeep and manual recalibration.
-
-3. Interface-Based Structural Repair
-    - Facilitates plug-and-repair protocols for Blackstone structures, utilizing embedded conduit systems that allow repairs to be carried out through simple energy injection via tethered interfaces.
 
 Organizational Hierarchy
 
