@@ -8,4 +8,4 @@ Individual blades of Light Field grass are uniformly pure white, lacking any vis
 
 Habitat
 
-Light Field grasses are typically found in broad, level expanses within BLACKSPACE, especially those covered by red Blackstone sand. These regions are often referred to as Light Fields due to the overwhelming presence of the species.
+Light Field grasses are typically found in broad, level expanses within BLACKSPACE, especially those covered by red sand. These regions are often referred to as Light Fields due to the overwhelming presence of the species.

@@ -20,9 +20,7 @@ Fae culture places significant importance on armour, not just as protection but 
 
 Genetic Compatibility
 
-One of the most striking anomalies is the genomic similarity between Fae and humans. Despite belonging to the _Nullikaryota_ domain, Fae possess 23 chromosome pairs, mirroring human karyotypes. This permits limited reproductive compatibility, governed by Blackstone-influenced biological constraints.
-- Viable offspring can only result from a male Fae and a human female. The reverse pairing is infertile due to incompatibilities in gametic expression linked to Blackstone cellular integration.
-- Offspring of such unions are phenotypically human, with features like plantigrade locomotion and five-fingered hands, but they inherit shifted-Blackstone cells and Fael Fire generation capabilities. If a half-breed reproduces with a human, the child will always be fully human. If with a Fae, the child will always be a half-breed.
+One of the most striking anomalies is the genomic similarity between Fae and humans. Despite belonging to the _Nullikaryota_ domain, Fae possess 23 chromosome pairs, mirroring human karyotypes. This permits limited reproductive compatibility. Offspring of such unions are phenotypically human, with features like plantigrade locomotion and five-fingered hands, but they inherit BLACKSPACE Matter cells and Fael Fire generation capabilities. If a half-breed reproduces with a human, the child will always be fully human. If with a Fae, the child will always be a half-breed.
 
 ► ln --context
 

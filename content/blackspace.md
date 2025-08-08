@@ -8,7 +8,7 @@ The most consistent and stable means of entry to and exit from BLACKSPACE is thr
 
 Physical Structure
 
-BLACKSPACE is composed entirely of geometric landmasses and islands formed predominantly from Blackstone. These formations are suspended within an infinite, lightless void, across which dunes of red sand naturally accumulate on solid surfaces. Despite the absence of any detectable light source, BLACKSPACE is uniformly illuminated at a baseline of 1600 lumens. However, specialized instrumentation has anomalously recorded a net light emission of -1 lumen, suggesting unknown or non-classical photonic behaviour.
+BLACKSPACE is composed entirely of geometric landmasses and islands formed from BLACKSPACE Matter. These formations are suspended within an infinite, lightless void, across which dunes of red sand naturally accumulate on solid surfaces. Despite the absence of any detectable light source, BLACKSPACE is uniformly illuminated at a baseline of 1600 lumens. However, specialized instrumentation has anomalously recorded a net light emission of -1 lumen, suggesting unknown or non-classical photonic behaviour.
 
 Gravity within BLACKSPACE exists in a conceptual rather than conventional form; it behaves as an ideational force, causing all matter to fall in a consistent “downward” direction, despite lacking a singular gravitational origin. The atmosphere in BLACKSPACE is breathable and chemically analogous to that of REALSPACE, breathable by REALSPACE species.
 
@@ -16,7 +16,7 @@ Structural Geography
 
 At the geometric and magnetic core of BLACKSPACE lies the Luxtree, around which the rest of the dimension orbits or arranges itself. The surrounding landmasses form a vast, generally planar disc of suspended islands. While most islands are located on this plane, some can be found at altitudes significantly above or below it.
 
-These islands vary widely in both size and separation, with the largest exceeding 8,000 km in length. Depending on mass, terrain, and Blackstone shifting, some islands are capable of supporting lakes, seas, or oceans.
+These islands vary widely in both size and separation, with the largest exceeding 8,000 km in length. Depending on terrain, some islands are capable of supporting lakes, seas, or oceans.
 
 The Void Belt
 

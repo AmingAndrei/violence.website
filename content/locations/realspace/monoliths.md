@@ -4,7 +4,7 @@ Monoliths are metaphysical constructs that function as primary conduits between 
 
 Structure
 
-Monoliths consistently manifest as colossal, rectangular quadrilaterals, with smooth, featureless surfaces composed entirely of Blackstone. Despite their uniformity in material and form, no two Monoliths are identical in spatial footprint or placement.
+Monoliths consistently manifest as colossal, black, rectangular quadrilaterals, with smooth, featureless surfaces composed entirely BLACKSPACE Matter. Despite their uniformity in material and form, no two Monoliths are identical in spatial footprint or placement.
 
 Each Monolith extends approximately 60 metre in vertical height above its lowest REALSPACE-accessible point, though this measurement is complicated by non-Euclidean overlap: the lower portions of Monoliths exist either partially or wholly within BLACKSPACE. As a result, their true base remains inaccessible and immeasurable via conventional REALSPACE geometry. Monoliths are typically deeply embedded within terrestrial strata, often anchoring below the crust and into indeterminate dimensional depth.
 
