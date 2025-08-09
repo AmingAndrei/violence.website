@@ -15,7 +15,7 @@ Coherence determines the integrity and sustainability of REALSPACE-origin entiti
 
 Unidirectional Permeability
 
-While REALSPACE-origin matter is subject to ontological degradation in BLACKSPACE, the inverse is not true. BLACKSPACE-origin entities and materials exhibit total or partial immunity when crossing into REALSPACE. This is attributed primarily to BLACKSPACE Matter’s resistance to Coherence-based decay, allowing it to remain intact regardless of the ambient Coherence level, without which a similar decay effect would occur.
+While REALSPACE-origin matter is subject to degradation in BLACKSPACE, the inverse is not true. BLACKSPACE-origin entities and materials exhibit total or partial immunity when crossing into REALSPACE. This is attributed primarily to BLACKSPACE Matter’s resistance to Coherence-based decay, allowing it to remain intact regardless of the ambient Coherence level, without which a similar decay effect would occur.
 
 Exceptions
 
