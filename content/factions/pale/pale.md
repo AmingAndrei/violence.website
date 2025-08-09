@@ -19,6 +19,7 @@ The Pale is divided into multiple specialized departments, each tasked with mana
 The role of Executive is both powerful and burdensome, requiring constant supervision of not only bureaucratic functions but also the unpredictable interactions between the city, its citizens, and the outside. The Pale exercises total governance over the Chromatican City and maintains extraterritorial authority in all zones within operational reach.
 
 ► ln --context<br>
+├── /[[acheron]]/<br>
 ├── /[[infrared]]/<br>
 ├── /[[vermilion]]/<br>
 ├── /[[saffron]]/<br>
