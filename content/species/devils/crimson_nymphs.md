@@ -15,7 +15,7 @@ Crimson Nymphs demonstrate self-awareness, advanced intelligence, and are capabl
 
 Crimson Nymph territories are meticulously curated areas where vegetation is grown, maintained, and enhanced through acoustic stimulation and active caretaking. Crimson Nymphs are tolerant of fellow Crimson Nymphs within their zones, suggesting a form of passive intra-species diplomacy.
 
-Vocalization Abilities
+Abilities
 
 Crimson Nymphs possess a multi-frequency vocal system derived from a modified laryngeal anatomy, allowing for two major acoustic outputs simultaneously:
 - 432 Hz Frequency:  
@@ -23,12 +23,8 @@ Crimson Nymphs possess a multi-frequency vocal system derived from a modified la
 - ≤19 Hz Infrasound:  
     Induces elevated cortisol and adrenaline levels in surrounding organisms, triggering fear responses and causing ocular resonance, which may result in temporary visual hallucinations. This capability has both defensive and ecological implications. Crimson Nymphs are immune to the psychological and physiological effects of their own vocalizations.
 
-Bloodmetal Integration
-
-The red indentations and wing markings across an Crimson Nymph’s body are coated in a thin layer of Bloodmetal.
-- Crimson Nymphs are capable of creating Bloodmetal constructs, predominantly weapons or defensive extensions, via directed bleeding.
-- When blood levels fall below critical thresholds, Bloodmetal production ceases, though it may be restored by assimilating external blood sources, granting Crimson Nymphs significant combat resilience and regenerative potential.
+The red indentations and wing markings across an Crimson Nymph’s body are coated in a thin layer of Haemocarbon. They are capable of creating Haemocarbon constructs, predominantly weapons or defensive extensions, via directed bleeding. When blood levels fall below critical thresholds, Haemocarbon production ceases, though it may be restored by assimilating external blood sources, granting Crimson Nymphs significant combat resilience and regenerative potential.
 
 Reproduction and Life Cycle
 
-Crimson Nymphs originate as Sangui Lilies, a floral stage devoid of mobility or consciousness. Upon absorbing a critical mass of blood, a Sangui Lily undergoes metamorphosis, transforming into a fully developed Crimson Nymph. Mature Crimson Nymphs reproduce by planting new Sangui Lilies, which serve as non-reproductive propagules.
+Crimson Nymphs originate as Blood Lilies, a floral stage devoid of mobility or consciousness. Upon absorbing a critical mass of blood, a Blood Lily undergoes metamorphosis, transforming into a fully developed Crimson Nymph. Mature Crimson Nymphs reproduce by planting new Blood Lilies, which serve as non-reproductive propagules.
