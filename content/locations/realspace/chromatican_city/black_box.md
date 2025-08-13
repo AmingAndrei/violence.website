@@ -19,4 +19,4 @@ The Black Box serves two primary containment roles:
 
 Security Protocols
 
-In the event of an internal breach or system failure, the Black Box is equipped with multi-phase lockdown procedures, including total surface isolation via blast doors and self-sealing concrete flood protocol to terminate all internal processes, including biological occupants, in critical threat scenarios. Infrared oversees daily operations, infrastructure maintenance, and internal staffing. Ultraviolet holds advisory and regulatory authority over the classification and deposition of BLACKSPACE specimens.
+In the event of an internal breach or system failure, the Black Box is equipped with multi-phase lockdown procedures, including total surface isolation via blast doors and self-sealing concrete flood protocol to terminate all internal processes, including biological occupants, in critical threat scenarios.

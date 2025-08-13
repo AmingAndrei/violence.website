@@ -35,7 +35,7 @@ request 3: timed out
 ├── /[[pathogens]]/ : : Biohazard database<br>
 ├── /[[metaphoricals]]/ : : Metaphysical phenomena<br>
 ├── /[[languages]]/ : : Linguistic database<br>
-├── /[[constructs]]/ : : Notable creations and discoveries<br>
+├── /[[isolates]]/ : : Notable discovered objects<br>
 ├── /[[factions]]/ : : Orgs and factions<br>
 └── [[audioplayer|audioplayer.exe]]
 

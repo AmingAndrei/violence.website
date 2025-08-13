@@ -1,4 +1,4 @@
-[[index|...]]/[[constructs]]/drive_starter.md
+[[index|...]]/[[factions]]/[[pale]]/[[ultraviolet]]/drive_starters.md
 
 A Drive Starter is a specialized, single-shot weapon engineered specifically to facilitate the activation of Drives in Redliners.
 

@@ -22,3 +22,6 @@ Core Responsibilities
 Organizational Hierarchy
 
 Vermilion is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.
+
+► ln --context<br>
+└── /[[oasys]]/
