@@ -1,4 +1,4 @@
-[[index|...]]/[[constructs]]/wolf_tags.md
+[[index|...]]/[[factions]]/[[pale]]/[[ultraviolet]]/wolf_tags.md
 
 Wolf Tags are a standardized form of personal identification employed by Ultraviolet Operators, functioning both as physical ID and limited-access data storage devices. The system is modelled on conventional military dog tags, with the addition of modern technological and accessibility enhancements.
 
