@@ -33,9 +33,8 @@ request 3: timed out
 ├── /[[locations]]/ : : Notable locations<br>
 ├── /[[materials]]/ : : Notable resources<br>
 ├── /[[pathogens]]/ : : Biohazard database<br>
-├── /[[metaphoricals]]/ : : Metaphysical phenomena<br>
 ├── /[[languages]]/ : : Linguistic database<br>
-├── /[[isolates]]/ : : Notable discovered objects<br>
+├── /[[absolutes]]/ : : Notable discovered objects<br>
 ├── /[[factions]]/ : : Orgs and factions<br>
 └── [[audioplayer|audioplayer.exe]]
 

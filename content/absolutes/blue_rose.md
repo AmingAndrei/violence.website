@@ -1,4 +1,4 @@
-[[index|...]]/[[isolates]]/blue_rose.md
+[[index|...]]/[[absolutes]]/blue_rose.md
 
 The Blue Rose was an anomalous double-barrelled revolver formerly located within BLACKSPACE. Known for its unique construction and anti-Devil properties, the Blue Rose is no longer extant, with all contemporary understanding derived from archival records, witness testimonies, and fragmentary intelligence.
 

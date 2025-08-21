@@ -1,6 +1,6 @@
 [[index|...]]/realspace.md
 
-REALSPACE is the designated term for the primary dimension encompassing   observable, measurable reality characterized by a positive Coherence value. It includes all phenomena, entities, and locations that are recognized as physically real or verifiably originating within REALSPACE parameters.
+REALSPACE is the designated term for the primary dimension encompassing observable, measurable reality. It includes all phenomena, entities, and locations that are recognized as physically real or verifiably originating within REALSPACE parameters.
 
 `Post-Ashen Winter Incident`
 
