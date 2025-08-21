@@ -15,8 +15,6 @@ title: audios
 » [PLAY] // Rustage, Kahze - [Gunning For Me](https://www.youtube.com/watch?v=xwicERkFTiE&list=PL4y0TX04mzcIXzKLYVqlQGKboBQi8v5lq&index=10&ab_channel=RUSTAGE)![[Gunning-For-Me.mp3]]
 » [PLAY] // McGwire, Wülf Boi, Oricadia - [COUNTING SHEEP](https://youtu.be/1xxclm_G5I4?si=NjGNTWnIqTUnhTbo)![[COUNTING-SHEEP.mp3]]
 » [PLAY] // JT Music - [It's Over](https://youtu.be/GJt5NWQOFOc?si=hZ7kmj0g6vPE9U-o)![[Its-Over.mp3]]
-» [PLAY] // Frank Wildhorn, Jack Murphy, Ivan Menchell, Carrie Manolakos, Eric Anderson - [They're Only Human](https://www.youtube.com/watch?v=ieRSpLfx_L8&list=PL4y0TX04mzcIXzKLYVqlQGKboBQi8v5lq&index=17&ab_channel=TheAdventuresOfCerealBoi)![[Theyre-Only-Human.mp3]]
-» [PLAY] // Jann - [Gladiator](https://www.youtube.com/watch?v=pgs4KeaEsBk&list=PL4y0TX04mzcIXzKLYVqlQGKboBQi8v5lq&index=18&ab_channel=Jann)![[Gladiator.mp3]]
 Also on [YouTube](https://www.youtube.com/playlist?list=PL4y0TX04mzcIXzKLYVqlQGKboBQi8v5lq)
 
 ==================================================================================================
