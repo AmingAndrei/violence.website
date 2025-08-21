@@ -16,3 +16,6 @@ Despite appearing organic in structure, possessing anatomical features analogous
 ├── /[[mosaics]]/<br>
 ├── /[[flora]]/<br>
 └── /[[0x616e67656c73]]/
+
+► ln --context<br>
+└── /[[imago]]/

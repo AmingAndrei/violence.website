@@ -8,7 +8,7 @@ In its most stable and prevalent form, BLACKSPACE Matter presents as black marbl
 
 Properties
 
-BLACKSPACE Matter exhibits properties that classify it as exotic due to its ability to demonstrate physical behaviours unattainable by conventional matter. Despite this, it is generally functionally interchangeable with standard matter, to the point objects composed of BLACKSPACE Matter may display no inherent anomalous effects whatsoever. It is fully compatible with standard matter, without adverse reactions. BLACKSPACE Matter possesses immunity to Coherence normalisation, enabling it to transition safely between dimensions.
+BLACKSPACE Matter exhibits properties that classify it as exotic due to its ability to demonstrate physical behaviours unattainable by conventional matter. Despite this, it is generally functionally interchangeable with standard matter, to the point objects composed of BLACKSPACE Matter may display no inherent anomalous effects whatsoever. It is fully compatible with standard matter, without adverse reactions.
 
 ► ls /<br>
 └── /[[haemocarbon]]/<br>

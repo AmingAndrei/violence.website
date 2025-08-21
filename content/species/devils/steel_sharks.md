@@ -10,44 +10,23 @@ These entities possess a regenerative mechanism activated by engine activity. Ap
 
 Sensory Capabilities
 
-Steel Sharks are completely blind, with no visual processing capability. They detect light through tactile receptors, but possess no conceptual understanding of colour. Their primary perception relies on a multispectral system combining:
-
-- Echolocation
-- Thermal imaging
-- Airwave sensitivity
-- Chemoreception
-
-This system achieves an average perceptual accuracy of 90% within a 100-metre radius. Their eyes, although responsive to stimuli, serve no functional purpose and are presumed cosmetic.
+Steel Sharks are completely blind, with no visual processing capability. They detect light through tactile receptors, but possess no conceptual understanding of colour. Their primary perception relies on a multispectral system combining echolocation, thermal imaging, airwave sensitivity and chemoreception. This system achieves an average perceptual accuracy of 90% within a 100-metre radius. Their eyes, although responsive to stimuli, serve no functional purpose and are presumed cosmetic.
 
 Behavioural States
 
 Steel Sharks operate in two distinct forms:
 
 - Default State: Inactive or resting form, resembling a mechanical weapon. Designs vary but are typically complex and symbolic of heavy machinery. In this state, they remain conscious and alert, even when un-fuelled, though catatonic. Despite functional weakness to water (due to mechanical analogues), they cannot be killed unless the engine core is fully destroyed.
-- Humanoid State: Triggered upon consumption of blood, Steel Sharks undergo extensive reconfiguration, assuming fully humanoid shapes. These forms retain human-like anatomical structure, including limbs, facial features, hair, and musculature, while maintaining their alloy-based composition. Notable traits include:
-    - Hair resembling chainsaw chains
-    - Teeth shaped similarly to shark dentition
-    - Voices accompanied by engine noise  
-        This form is sustained only while blood is available. Upon depletion, Steel Sharks revert to their default state.
+- Humanoid State: Triggered upon consumption of blood, Steel Sharks undergo extensive reconfiguration, assuming fully humanoid shapes. These forms retain human-like anatomical structure, including limbs, facial features, hair, and musculature, while maintaining their alloy-based composition. This form is sustained only while blood is available, or, notably, when in BLACKSPACE, requiring no fuel to sustain a humanoid form but it still being necessary for other functions. Upon depletion of blood, Steel Sharks revert to their default state.
 
 Cognition
 
-Steel Sharks communicate through a complex auditory language consisting of:
-
-- Engine revving
-- Bass roars
-- Mechanical clanging
-- Weapon-specific noises  
-    In humanoid form, they are capable of verbal speech, typically delivered with accompanying mechanical sound effects. Though inherently aggressive, Steel Sharks are highly intelligent, capable of tactical reasoning and adaptive behaviour.
+Steel Sharks communicate through a complex auditory language consisting of engine revving, bass roars, mechanical clanging and weapon-specific noises. In humanoid form, they are capable of verbal speech, typically delivered with accompanying mechanical sound effects. Though inherently aggressive, Steel Sharks are highly intelligent, capable of tactical reasoning and adaptive behaviour.
 
 Technology Interaction
 
 Steel Sharks exhibit a unique technophagic capability:  
-Upon physical contact with mechanical or electronic devices, they initiate rapid disassembly, drawing components into their body via internal conduits. These materials are:
-
-- Stored internally
-- Reassembled on command, either externally or as integrated enhancements.  
-    Reconstruction is precise and efficient, maintaining the original function of the device.
+Upon physical contact with mechanical or electronic devices, they initiate rapid disassembly, drawing components into their body via internal conduits. These materials are stored internally and can be reassembled on command, either externally or as integrated enhancements. Reconstruction is precise and efficient, maintaining the original function of the device.
 
 Behaviour
 

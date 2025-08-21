@@ -1,4 +1,4 @@
-[[index|...]]/isolates.md
+[[index|...]]/absolutes.md
 
 ► ls /<br>
 └── /[[blue_rose]]/
