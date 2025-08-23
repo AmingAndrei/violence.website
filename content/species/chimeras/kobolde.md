@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/kobolde.md
 
-The Kobold (pl. Kobolde) is a bipedal species of Chimera, native to BLACKSPACE. These entities are distinguished by their towering stature, unique biological integration with gold, and characteristic behaviours surrounding hoarding and territorial isolation.
+The Kobold (pl. Kobolde) is a bipedal species of Chimera, native to the OTHERWHERE. These entities are distinguished by their towering stature, unique biological integration with gold, and characteristic behaviours surrounding hoarding and territorial isolation.
 
 Morphology
 

@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/jentilak.md
 
-The Jentil (pl. Jentilak) is a species of large Chimera, native to BLACKSPACE. Noted for their immense size, unique physiology, and peaceful disposition, Jentilak are solitary creatures that inhabit diverse and often extreme environments.
+The Jentil (pl. Jentilak) is a species of large Chimera, native to the OTHERWHERE, noted for their immense size, unique physiology, and peaceful disposition.
 
 Morphology
 

@@ -1,10 +1,10 @@
 [[index|...]]/[[species]]/imago.md
 
-The Imago (/ɪˈmäːɡoː/) is a radiation-like phenomenon that permeates the entirety of BLACKSPACE and exists in trace concentrations throughout REALSPACE. Classified as a non-ionizing, biologically integrated field, the Imago is regarded as one of the most foundational elements of BLACKSPACE's anomalous ecosystem.
+The Imago (/ɪˈmäːɡoː/) is a radiation-like phenomenon that permeates the entirety of the OTHERWHERE and exists in trace concentrations HERE. Classified as a non-ionizing, biologically integrated field, the Imago is regarded as one of the most foundational elements of the OTHERWHERE's anomalous ecosystem.
 
 Distribution
 
-In BLACKSPACE, the Imago is uniformly distributed, saturating all known zones and structures. In REALSPACE, the Imago exists at measurably lower concentrations, generally undetectable without specialized equipment. However, its presence is consistent and verifiable in all known REALSPACE biomes.
+In the OTHERWHERE, the Imago is uniformly distributed, saturating all known zones and structures. HERE, the Imago exists at measurably lower concentrations, generally undetectable without specialized equipment. However, its presence is consistent and verifiable in all known biomes HERE.
 
 Genetic Properties
 

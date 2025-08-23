@@ -1,6 +1,6 @@
-[[index|...]]/[[realspace]]/ashen_winter_incident.md
+[[index|...]]/[[here]]/ashen_winter_incident.md
 
-The Ashen Winter Incident (AWI) was a catastrophic, near-extinction-level event resulting from unprecedented interaction between REALSPACE and BLACKSPACE. Occurring over a single 24-hour period, the incident marked the end of the Golden Autumn era and the beginning of the Ashen Winter era.
+The Ashen Winter Incident (AWI) was a catastrophic, near-extinction-level event resulting from unprecedented interaction between HERE and the OTHERWHERE. Occurring over a single 24-hour period, the incident marked the end of the Golden Autumn era and the beginning of the Ashen Winter era.
 
 Chronology
 
@@ -16,7 +16,7 @@ Primary Effects
 
 Secondary Effects
 
-The AWI is marked by the largest recorded intrusion of Monolith entities into REALSPACE. A rapid proliferation of Monoliths occurred, facilitating the emergence of multiple _nullikaryote_ species, primarily Devils. These intrusions precipitated an additional 6–7 billion human fatalities, the mass extinction of flora and fauna in vast geographic zones, and the full ecological collapse of numerous biomes. During this period, the Chromatican City manifested physically within Realspace.
+The AWI is marked by the largest recorded intrusion HERE. A rapid proliferation of Monoliths occurred, facilitating the emergence of multiple _nullikaryote_ species, primarily Devils. These intrusions precipitated an additional 6–7 billion human fatalities, the mass extinction of flora and fauna in vast geographic zones, and the full ecological collapse of numerous biomes. During this period, the Chromatican City manifested physically HERE.
 
 Tertiary Effects
 

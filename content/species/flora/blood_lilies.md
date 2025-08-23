@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[flora]]/blood_lilies.md
 
-The Blood Lily is a rare and specialized species of flowering plant endemic to BLACKSPACE, notable for its unconventional physiology and critical role in the reproductive cycle of an Crimson Nymph.
+The Blood Lily is a rare and specialized species of flowering plant endemic to the OTHERWHERE, notable for its unconventional physiology and critical role in the reproductive cycle of an Crimson Nymph.
 
 Morphology
 

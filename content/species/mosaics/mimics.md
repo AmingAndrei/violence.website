@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[mosaics]]/mimics.md
 
-The Mimic is a hostile, non-sentient species of Mosaic, originating within BLACKSPACE. They are notable for their ability to replicate the appearance, behaviours, vocalizations, and apparent abilities of other entities.
+The Mimic is a hostile, non-sentient species of Mosaic, originating within the OTHERWHERE. They are notable for their ability to replicate the appearance, behaviours, vocalizations, and apparent abilities of other entities.
 
 Morphology
 

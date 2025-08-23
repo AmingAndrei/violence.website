@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/fae.md
 
-The Fae are an intelligent, humanoid species of Chimera, native to BLACKSPACE. Known for their mastery of Fael Fire and advanced biological and cultural adaptations, the Fae occupy a distinct role among the sapient species of BLACKSPACE.
+The Fae are an intelligent, humanoid species of Chimera, native to the OTHERWHERE. Known for their mastery of Fael Fire and advanced biological and cultural adaptations, the Fae occupy a distinct role among the sapient species of the OTHERWHERE.
 
 Morphology
 
@@ -20,7 +20,7 @@ Fae culture places significant importance on armour, not just as protection but 
 
 Genetic Compatibility
 
-One of the most striking anomalies is the genomic similarity between Fae and humans. Despite belonging to the _Nullikaryota_ domain, Fae possess 23 chromosome pairs, mirroring human karyotypes. This permits limited reproductive compatibility. Offspring of such unions are phenotypically human, with features like plantigrade locomotion and five-fingered hands, but they inherit BLACKSPACE Matter cells and Fael Fire generation capabilities. If a half-breed reproduces with a human, the child will always be fully human. If with a Fae, the child will always be a half-breed.
+One of the most striking anomalies is the genomic similarity between Fae and humans. Despite belonging to the _Nullikaryota_ domain, Fae possess 23 chromosome pairs, mirroring human karyotypes. This permits limited reproductive compatibility. Offspring of such unions are phenotypically human, with features like plantigrade locomotion and five-fingered hands, but they inherit Aberrant Matter cells and Fael Fire generation capabilities. If a half-breed reproduces with a human, the child will always be fully human. If with a Fae, the child will always be a half-breed.
 
 ► ln --context
 
