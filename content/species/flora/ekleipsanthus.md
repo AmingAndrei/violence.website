@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[flora]]/ekleipsanthus.md
 
-Ekleipsanthus is a flowering plant species natives to BLACKSPACE, noted for its morphological similarity to _Helianthus annuus_ (common sunflower), from which its name is derived.
+Ekleipsanthus is a flowering plant species natives to the OTHERWHERE, noted for its morphological similarity to _Helianthus annuus_ (common sunflower), from which its name is derived.
 
 Morphology
 
@@ -8,7 +8,7 @@ Ekleipsanthus specimens typically reach an average height of 4 meters, with stem
 
 Growth
 
-Ekleipsanthus grows in small, isolated patches, generally composed of a limited number of individuals. The species exhibits heliotropism during its developmental stages. In BLACKSPACE, Ekleipsanthus aligns itself toward the Luxtree, regardless of visibility or competing light sources. In REALSPACE, the plant orients itself toward the Sun under analogous conditions, and demonstrates a remarkable ability to survive in its hostile environments.
+Ekleipsanthus grows in small, isolated patches, generally composed of a limited number of individuals. The species exhibits heliotropism during its developmental stages. In the OTHERWHERE, Ekleipsanthus aligns itself toward the Luxtree, regardless of visibility or competing light sources.
 
 Biological Interactions
 

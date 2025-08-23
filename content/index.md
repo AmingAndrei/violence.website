@@ -27,15 +27,15 @@ request 2: timed out<br>
 request 3: timed out
 
 ► ls /<br>
-├── /[[blackspace]]/ : : BLACKSPACE research<br>
-├── /[[realspace]]/ : : REALSPACE research<br>
+├── /[[otherwhere]]/ : : OTHERWHERE research<br>
+├── /[[here]]/ : : HERE research<br>
 ├── /[[species]]/ : : Xenobiological database<br>
 ├── /[[locations]]/ : : Notable locations<br>
 ├── /[[materials]]/ : : Notable resources<br>
 ├── /[[pathogens]]/ : : Biohazard database<br>
 ├── /[[languages]]/ : : Linguistic database<br>
 ├── /[[absolutes]]/ : : Notable discovered objects<br>
-├── /[[factions]]/ : : Orgs and factions<br>
+├── /[[factions]]/ : : Notable groups<br>
 └── [[audioplayer|audioplayer.exe]]
 
 ► <span style="

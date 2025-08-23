@@ -1,6 +1,6 @@
 [[index|...]]/species.md
 
-_Nullikaryota_ is the taxonomic domain assigned to all known life forms native to BLACKSPACE. These entities exist entirely outside the biological principles and phylogenetic lineages recognized within REALSPACE, rendering conventional classification systems inapplicable.
+_Nullikaryota_ is the taxonomic domain assigned to all known life forms native to the OTHERWHERE. These entities exist entirely outside the biological principles and phylogenetic lineages recognized HERE, rendering conventional classification systems inapplicable.
 
 Taxonomic Structure
 
@@ -8,7 +8,7 @@ The domain _Nullikaryota_ is recognized as a wastebasket taxon, a provisional gr
 
 Composition
 
-Despite appearing organic in structure, possessing anatomical features analogous to organs, musculature, or skeletal systems, _Nullikaryota_ organisms are composed entirely of BLACKSPACE Matter.
+Despite appearing organic in structure, possessing anatomical features analogous to organs, musculature, or skeletal systems, _Nullikaryota_ organisms are composed entirely of Aberrant Matter.
 
 ► ls /<br>
 ├── /[[devils]]/<br>

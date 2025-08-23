@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/circuit_titans.md
 
-The Circuit Titan is a species of colossal Devil, endemic to BLACKSPACE, recognized as the largest recorded _nullikaryote_ species.
+The Circuit Titan is a species of colossal Devil, endemic to the OTHERWHERE, recognized as the largest recorded _nullikaryote_ species recorded.
 
 Morphology
 
@@ -18,7 +18,7 @@ Internally, the eye cavity is lined with a substrate of photoreceptive-digestive
 
 Behaviour
 
-While classified as a BLACKSPACE species, all currently observed Circuit Titans are present in REALSPACE. As of current records, only one specimen has been observed in an active state, while all others remain dormant. Their sheer scale and widespread distribution make them visible from nearly any geographic vantage point.
+While classified as an OTHERWHERE species, all currently observed Circuit Titans are present HERE. Their sheer scale and widespread distribution make them visible from nearly any geographic vantage point.
 
 Circuit Titans are hypothesized to play a critical thermoregulatory role in the post-AWI environment. `In the absence of a solar body, these entities are capable of passively emitting or modulating thermal energy, thereby preventing planetary temperatures from reaching uninhabitable lows.`
 
