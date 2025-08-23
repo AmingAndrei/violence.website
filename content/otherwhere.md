@@ -6,7 +6,7 @@ Structure
 
 The OTHERWHERE is composed entirely of geometric landmasses and islands. These formations are suspended within an infinite void, across which dunes of red sand naturally accumulate on solid surfaces. Despite the absence of any detectable light source, the OTHERWHERE is uniformly illuminated at a baseline of 1600 lumens.
 
-Gravity within the OTHERWHERE exists in a conceptual rather than conventional form; it behaves as an ideational force, causing all matter to fall in a consistent “downward” direction, despite lacking a singular gravitational origin. The atmosphere in the OTHERWHERE is breathable and chemically analogous to that HERE, breathable by species HERE. All organisms indigenous to this dimension are classified under the _Nullikaryota_ domain.
+Gravity within the OTHERWHERE exists in a conceptual rather than conventional form; it behaves as an ideational force, causing all matter to fall in a consistent “downward” direction, despite lacking a singular gravitational origin. The atmosphere in the OTHERWHERE is breathable and chemically analogous to that HERE, breathable by species HERE. All organisms indigenous to this dimension are classified under the _Allokaryota_ domain.
 
 The most consistent and stable means of entry to and exit from the OTHERWHERE is through structures known as Monoliths.
 
@@ -18,9 +18,9 @@ These islands vary widely in both size and separation, with the largest exceedin
 
 The Empty Line
 
-Beginning at a radial distance of approximately 20 million km from the Luxtree is the Empty Line. This region is defined by a near-complete absence of matter, including both solid landmasses and air particulates. Functionally, it acts as a barrier that cannot be traversed by non-specialized or non-self-propelled craft. The Empty Line stretches for 700,000 km, beyond which the dimensional conditions appear to reset, giving rise to two distinct regions: the Proximal Circle and the Distal Circle.
+Beginning at a radial distance of approximately 20 million km from the Luxtree is the Empty Line. This region is defined by a near-complete absence of matter, including both solid landmasses and air particulates. Functionally, it acts as a barrier that cannot be traversed by non-specialized or non-self-propelled craft. The Empty Line stretches for 700,000 km, beyond which the dimensional conditions appear to reset, giving rise to two distinct regions: the Proximal Side and the Distal Side.
 
-The only known method of traversing the Empty Line is through the occurrence of a naturally forming, temporary gravitational corridor where pressure and force equalize between the Cirlces. These corridors form habitable bridges that allow matter and vessels to safely traverse the otherwise impassable region.
+The only known method of traversing the Empty Line is through the occurrence of a naturally forming, temporary gravitational corridor where pressure and force equalize between the Sides. These corridors form habitable bridges that allow matter and vessels to safely traverse the otherwise impassable region.
 
 Interaction with External Matter
 

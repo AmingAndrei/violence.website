@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/mosaics.md
 
-The _Mimisis_ class, commonly referred to as "Mosaics", comprises all species of Voxel-based colonial entities within the _Nullikaryota_ domain of the OTHERWHERE, composed entirely out of Voxels.
+The _Mimisis_ class, commonly referred to as "Mosaics", comprises all species of Voxel-based colonial entities within the _Allokaryota_ domain of the OTHERWHERE, composed entirely out of Voxels.
 
 Taxonomic Characteristics
 

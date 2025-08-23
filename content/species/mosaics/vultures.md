@@ -8,20 +8,11 @@ The creation of a Vulture occurs when a Vesper infiltrates the body of a compr
 
 Morphology
 
-Vultures retain a high degree of anatomical similarity to the host Valence, including preservation of the shell. However, Vultures are distinguishable by the following traits:
-
-- Anomalous extremities or appendages that mirror the morphology of the possessing Vesper
-- Modified facial or cranial structures
+Vultures retain a high degree of anatomical similarity to the host Valence, including preservation of the shell. However, Vultures are distinguishable by anomalous extremities or appendages that mirror the morphology of the possessing Vesper, along with a modified facial or cranial structures
 
 Cognitive Profile
 
-Psychologically, Vultures retain the full consciousness, memories, and behavioural patterning of the Vesper. However, remnants of the original Valence neurological structure may persist, resulting in:
-
-- Partial memories of the Valence host
-- Intermittent behavioural conflict between the identities of the Vesper and Valence
-- Occasional hybrid cognition, wherein decisions, expressions, or emotional responses may reflect the influence of the Valence, though control remains Vesper-dominant
-
-These effects vary based on the degree of psychological degradation prior to possession.
+Psychologically, Vultures retain the full consciousness, memories, and behavioural patterning of the Vesper. However, remnants of the original Valence neurological structure may persist, resulting in partial memories of the Valence host, intermittent behavioural conflict between the identities of the Vesper and Valence, and occasional hybrid cognition, wherein decisions, expressions, or emotional responses may reflect the influence of the Valence, though control remains Vesper-dominant. These effects vary based on the degree of psychological degradation prior to possession.
 
 Capabilities
 

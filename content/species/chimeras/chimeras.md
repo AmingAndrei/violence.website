@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/chimeras.md
 
-The _Paramythi_ class, commonly referred to as "Chimeras", comprises a group of entities within the _Nullikaryota_ domain of the OTHERWHERE.
+The _Paramythi_ class, commonly referred to as "Chimeras", comprises a group of entities within the _Allokaryota_ domain of the OTHERWHERE.
 
 Taxonomic Characteristics
 

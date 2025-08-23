@@ -4,10 +4,7 @@ Vectors are specialized functional abilities or protocols utilized by Mosaics, e
 
 Operational Requirements
 
-The use of Vectors is dependent upon the presence of Varium. Varium functions as a stabilizing catalyst, allowing the neural encoding of Vector instructions to be:
-- Processed and converted into usable formats,
-- Stored for later deployment,
-- Enhanced post-creation by subjecting the stored Vector to additional processing with further Varium input.
+The use of Vectors is dependent upon the presence of Varium. Varium functions as a stabilizing catalyst, allowing the neural encoding of Vector instructions to be processed and converted into usable formats, stored for later deployment, and enhanced post-creation by subjecting the stored Vector to additional processing with further Varium input.
 
 Vector Taxonomy
 
