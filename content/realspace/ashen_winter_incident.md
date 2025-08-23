@@ -16,7 +16,7 @@ Primary Effects
 
 Secondary Effects
 
-The AWI is marked by the largest recorded intrusion HERE. A rapid proliferation of Monoliths occurred, facilitating the emergence of multiple _nullikaryote_ species, primarily Devils. These intrusions precipitated an additional 6–7 billion human fatalities, the mass extinction of flora and fauna in vast geographic zones, and the full ecological collapse of numerous biomes. During this period, the Chromatican City manifested physically HERE.
+The AWI is marked by the largest recorded intrusion HERE. A rapid proliferation of Monoliths occurred, facilitating the emergence of multiple _allokaryote_ species, primarily Devils. These intrusions precipitated an additional 6–7 billion human fatalities, the mass extinction of flora and fauna in vast geographic zones, and the full ecological collapse of numerous biomes. During this period, the Chromatican City manifested physically HERE.
 
 Tertiary Effects
 

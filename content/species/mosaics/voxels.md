@@ -18,9 +18,6 @@ Voxels are extremophilic in function, able to sustain themselves on ambient ener
 
 Behaviour
 
-Functionally, Voxels behave in a manner analogous to advanced nanobots, displaying:
-- Electromechanical responsiveness, enabling direct interface with electronic systems;
-- Electrical conductivity manipulation, allowing them to travel through circuits or power lines;
-- Levitation-like propulsion, through manipulation of localized electromagnetic fields.
+Functionally, Voxels behave in a manner analogous to advanced nanobots, displaying electromechanical responsiveness, enabling direct interface with electronic systems; electrical conductivity manipulation, allowing them to travel through circuits or power lines; and levitation-like propulsion, through manipulation of localized electromagnetic fields.
 
 Their colonies often manifest as irregular, jagged crystal formations, and many are capable of synthesizing inorganic compounds similar in structure to their own supercell matrix.

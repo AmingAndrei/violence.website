@@ -10,11 +10,7 @@ Vespers are considered malevolent entities, often likened to computer viruses du
 
 Abilities
 
-Despite their inherent physical fragility, Vespers are considered extremely high-threat due to a combination of abilities:
-
-- All Vespers possess innate access to Vectors.
-- Vespers can travel at high speeds by dispersing themselves through electrical systems, optical pathways, or data-transmission mediums, making containment and tracking highly challenging.
-- Vespers are capable of infesting and controlling electronic devices, and in some cases, entire unsheltered structures.
+Despite their inherent physical fragility, Vespers are considered extremely high-threat. All Vespers possess innate access to Vectors. They can travel at high speeds by dispersing themselves through electrical systems, optical pathways, or data-transmission mediums, making containment and tracking highly challenging. Vespers are capable of infesting and controlling electronic devices, and in some cases, entire unsheltered structures.
 
 ► ln --context<br>
 └── /[[vultures]]/

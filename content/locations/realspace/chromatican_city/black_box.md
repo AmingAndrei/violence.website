@@ -12,7 +12,7 @@ The Black Box serves two primary containment roles:
 
 1. Criminal Detention:  Houses convicted civilians.
 2. OTHERWHERE Entity and Object Containment
-    - Maintains secure chambers for storing _Nullikaryota_ lifeforms and OTHERWHERE constructs.
+    - Maintains secure chambers for storing _Allokaryota_ lifeforms and OTHERWHERE constructs.
     - Containment chambers average 49 m², with at least one wall formed of reinforced transparent polymer for observation.
     - Chambers are entirely sealed and soundproofed, with dedicated air filtration systems separate from the city's main circulation grid.
     - Containment conditions vary based on entity type and threat profile, with custom modifications regularly applied.

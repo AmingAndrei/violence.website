@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/circuit_titans.md
 
-The Circuit Titan is a species of colossal Devil, endemic to the OTHERWHERE, recognized as the largest recorded _nullikaryote_ species recorded.
+The Circuit Titan is a species of colossal Devil, endemic to the OTHERWHERE, recognized as the largest recorded _allokaryote_ species recorded.
 
 Morphology
 

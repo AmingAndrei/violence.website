@@ -4,10 +4,7 @@ Vexers are a rare, genetically distinct subspecies of Valence, representing a hi
 
 Origin
 
-The emergence of a Vexer is the result of a rare genetic anomaly occurring during the initial formation of a Valence:
-
-- Approximately 1% of all Valences possess the required sub-genetic sequence associated with Vexer capabilities
-- This sub-gene arises spontaneously within individuals
+The emergence of a Vexer is the result of a rare genetic anomaly occurring during the initial formation of a Valence. Approximately 1% of all Valences possess the required sub-genetic sequence associated with Vexer capabilities. This sub-gene arises spontaneously within individuals
 
 Capabilities
 
