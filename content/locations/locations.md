@@ -4,9 +4,9 @@
 ├── /[[chromatican_city]]/<br>
 └── /[[monoliths]]/
 
-► ls /otherwhere/innermost<br>
+► ls /otherwhere/proximal_circle
 └── /[[phlegethon]]/
 
-► ls /otherwhere/outermost<br>
+► ls /otherwhere/distal_circle
 ├── /[[phlegethon]]/<br>
 └── /[[hephaestus]]/
