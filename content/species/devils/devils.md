@@ -21,7 +21,7 @@ Ecological Implications
 _Diavolos_ species are uniquely adapted to environments saturated with fear stimuli, where their amplification and regeneration capabilities offer considerable advantages in predation, territorial dominance, and survival. These traits promote aggressive and solitary behaviours, although specific species-level social dynamics may vary.
 
 ► ls /<br>
-├── /[[clutch_beetles]]<br>
+├── /[[clutch_beetles]]/<br>
 ├── /[[crimson_nymphs]]/<br>
 ├── /[[stone_wyrms]]/<br>
 ├── /[[steel_sharks]]/<br>

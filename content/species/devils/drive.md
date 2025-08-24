@@ -4,11 +4,9 @@ The term Drive refers to a _pseudo-metamorphic biological process_ exclusive to 
 
 Activation Mechanism
 
-The Drive process is initiated through the transmission of a specific neural signal along the Redliner's nervous system. This signal is hypothesized to mimic neurological patterns associated with imminent death or extreme trauma, prompting the Clutch Beetle to activate. While spontaneous activation is possible under sufficient stress, the process is most reliably triggered via a specialized tool known as a Drive Starter, designed to induce the required neural sequence.
+The Drive process is initiated through the transmission of a specific neural signal along the Redliner's nervous system. This signal is hypothesised to mimic neurological patterns associated with imminent death or extreme trauma, prompting the Clutch Beetle to activate. While spontaneous activation is possible under sufficient stress, the process is most reliably triggered via a specialised tool known as a Drive Starter, designed to induce the required neural sequence.
 
 Physiological Changes
-
-Upon activation, the following biological phenomena are observed:
 
 - The Redliner's blood undergoes a colourimetric shift, typically presenting hues ranging from green to blue, indicating the onset of the Drive state.
 - Hosts acquire the ability to continuously regenerate from any form of physical damage, including otherwise lethal injuries. This regenerative capacity is directly fuelled by the host’s blood supply.
