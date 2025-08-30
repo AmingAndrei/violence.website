@@ -8,11 +8,7 @@ Externally, the Citadel appears as a towering mass of jagged, interwoven metals 
 
 Function
 
-Functionally, the Citadel is understood to be a hyper-augmented Monolith, facilitating the passage of matter and energy between HERE and the OTHERWHERE. As a dimensional stabilizer, the Citadel passively regulates local tectonic and atmospheric conditions, providing seismic shielding. Additionally, due to established Monolith Placement Rules, which prohibit the manifestation of new Monoliths within a radius determined by existing Monolith scale, the Citadel’s presence prevents the appearance of other Monoliths within a 3,000-km radius.
-
-Considerations
-
-While the Citadel provides structural and dimensional protection to the city, it is also the primary existential risk factor associated with the Chromatican City. In the rare event that a hostile entity successfully navigates the Citadel’s transition corridor HERE, it is statistically likely to be of an extremely high threat level, given the complexity and resistance of the passage.
+As a dimensional stabilizer, the Citadel passively regulates local tectonic and atmospheric conditions, providing seismic shielding.
 
 ► ln --context<br>
 └── /[[0x6d696e6f74617572]]/
