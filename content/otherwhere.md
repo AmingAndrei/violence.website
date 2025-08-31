@@ -8,8 +8,6 @@ The OTHERWHERE is composed entirely of geometric landmasses and islands. These f
 
 Gravity within the OTHERWHERE exists in a conceptual rather than conventional form; it behaves as an ideational force, causing all matter to fall in a consistent “downward” direction, despite lacking a singular gravitational origin. The atmosphere in the OTHERWHERE is breathable and chemically analogous to that HERE, breathable by species HERE. All organisms indigenous to this dimension are classified under the _Allokaryota_ domain.
 
-The most consistent and stable means of entry to and exit from the OTHERWHERE is through structures known as Monoliths.
-
 Geography
 
 At the geometric and magnetic core of the OTHERWHERE lies the Luxtree, around which the rest of the dimension orbits or arranges itself. The surrounding landmasses form a vast, generally planar disc of suspended islands. While most islands are located on this plane, some can be found at altitudes significantly above or below it.
