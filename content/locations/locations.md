@@ -1,10 +1,9 @@
 [[index|...]]/locations.md
 
 ► ls /ashspace<br>
-├── /[[chromatican_city]]/<br>
-└── /[[monoliths]]/
+└── /[[chromatican_city]]/
 
-► ls /otherwhere/proximal_circle
+► ls /otherwhere/proximal_circle<br>
 └── /[[phlegethon]]/
 
 ► ls /otherwhere/distal_circle

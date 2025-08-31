@@ -6,13 +6,13 @@ Manifestation
 
 The city emerged without prior warning at coordinates 45.755° N, 21.232° E, corresponding to the former Banat region of Eastern Europe. Its sudden appearance triggered significant seismic activity across the surrounding region. The origins of the city remain undetermined.
 
-The Chromatican City is constructed entirely from Aberrant Matter, including its architecture, infrastructure, and even minute urban details such as signage, lighting, and street furniture. The buildings are characterized by monolithic, angular designs, primarily towering black skyscrapers with a glossy, obsidian-like sheen. The layout of the city is radially organized, with wide boulevards and concentric transit corridors centring on the Citadel, located at the city's geometric and symbolic centre. Beneath the primary surface lies an expansive network known as the Undercities.
+The Chromatican City is constructed entirely from Aberrant Matter, including its architecture, infrastructure, and even minute urban details such as signage, lighting, and street furniture. The buildings are characterized by monolithic, angular designs, primarily towering black skyscrapers with a glossy, obsidian-like sheen and differently coloured accents. The layout of the city is radially organized, with wide boulevards and concentric transit corridors centring on the Spine, located at the city's geometric and symbolic centre. Beneath the primary surface lies an expansive network known as the Undercities.
 
 Environmental and Strategic Importance
 
 Uniquely among Ashen Winter locations, the Chromatican City occupies a climatically stable zone, retaining temperate weather, and breathable, uncontaminated air. Its position, accessibility, and structural resilience have made it the de facto capital of post-AWI civilization.
 
 ► ln --context<br>
-├── /[[citadel]]/<br>
+├── /[[spine]]/<br>
 ├── /[[undercities]]/<br>
 └── /[[black_box]]/

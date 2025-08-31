@@ -4,7 +4,7 @@ The Black Box is a high-security containment and detention complex located benea
 
 Architecture
 
-The Black Box is a subterranean cylindrical facility, descending vertically. Its only point of access is through a heavily fortified surface building, situated near the Citadel. This entrance compound is minimal in surface footprint but contains all initial clearance and verification systems. Access to the lower levels is facilitated via a rotating bridge lift that descends through the central shaft, enabling logistical transport and personnel movement between containment tiers. The internal architecture is composed entirely of Aberrant Matter.
+The Black Box is a subterranean cylindrical facility, descending vertically. Its only point of access is through a heavily fortified surface building, situated near the Spine. This entrance compound is minimal in surface footprint but contains all initial clearance and verification systems. Access to the lower levels is facilitated via a rotating bridge lift that descends through the central shaft, enabling logistical transport and personnel movement between containment tiers. The internal architecture is composed entirely of Aberrant Matter.
 
 Containment Functions
 

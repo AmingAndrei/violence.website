@@ -8,9 +8,7 @@ The Pale was formally instituted following the collapse of Acheron, inheriting n
 
 Functionality
 
-The Pale is headquartered within the lower levels of the Citadel, a fortified structure located at the heart of the Chromatican City. This positioning serves a dual purpose:
-- It offers central access and control over urban logistics and governance.
-- It acts as a containment and security barrier, preventing unauthorized access to the upper levels of the Citadel.
+The Pale is headquartered within the lower levels of the Spine. This positioning offers central access and control over urban logistics and governance, and acts as a containment and security barrier, preventing unauthorized access to the upper levels of the Spine.
 
 Organizational Structure
 
