@@ -16,10 +16,10 @@ Core Responsibilities
     - Tracks, analyses, and archives population statistics, including, birth and death rates, housing allocation, civic registration and migration within city zones.
 
 4. Event Coordination
-    - Vermilion curates and organizes all events, including seasonal festivals and morale-oriented entertainment functions.
+    - Vermilion curates and organises all events, including seasonal festivals and morale-oriented entertainment functions.
     - These events serve both cultural and psychosocial regulation purposes, often designed to diffuse civilian anxiety and maintain perceptual normalcy in the face of current conditions.
 
-Organizational Hierarchy
+Organisational Hierarchy
 
 Vermilion is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.
 

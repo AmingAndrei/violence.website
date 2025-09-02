@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[mosaics]]/[[valences]]/vexers.md
 
-Vexers are a rare, genetically distinct subspecies of Valence, representing a highly specialized evolutionary offshoot,
+Vexers are a rare, genetically distinct subspecies of Valence, representing a highly specialised evolutionary offshoot,
 
 Origin
 
@@ -8,4 +8,4 @@ The emergence of a Vexer is the result of a rare genetic anomaly occurring durin
 
 Capabilities
 
-The defining trait of a Vexer is its innate ability to synthesize Varium. This biochemical capacity grants them access to Vectors, analogous to those used by Vespers.
+The defining trait of a Vexer is its innate ability to synthesise Varium. This biochemical capacity grants them access to Vectors, analogous to those used by Vespers.

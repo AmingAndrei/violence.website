@@ -16,9 +16,9 @@ These islands vary widely in both size and separation, with the largest exceedin
 
 The Empty Line
 
-Beginning at a radial distance of approximately 20 million km from the Luxtree is the Empty Line. This region is defined by a near-complete absence of matter, including both solid landmasses and air particulates. Functionally, it acts as a barrier that cannot be traversed by non-specialized or non-self-propelled craft. The Empty Line stretches for 700,000 km, beyond which the dimensional conditions appear to reset, giving rise to two distinct regions: the Proximal Side and the Distal Side.
+Beginning at a radial distance of approximately 20 million km from the Luxtree is the Empty Line. This region is defined by a near-complete absence of matter, including both solid landmasses and air particulates. Functionally, it acts as a barrier that cannot be traversed by non-specialised or non-self-propelled craft. The Empty Line stretches for 700,000 km, beyond which the dimensional conditions appear to reset, giving rise to two distinct regions: the Proximal Side and the Distal Side.
 
-The only known method of traversing the Empty Line is through the occurrence of a naturally forming, temporary gravitational corridor where pressure and force equalize between the Sides. These corridors form habitable bridges that allow matter and vessels to safely traverse the otherwise impassable region.
+The only known method of traversing the Empty Line is through the occurrence of a naturally forming, temporary gravitational corridor where pressure and force equalise between the Sides. These corridors form habitable bridges that allow matter and vessels to safely traverse the otherwise impassable region.
 
 Interaction with External Matter
 

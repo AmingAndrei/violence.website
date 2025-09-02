@@ -1,22 +1,22 @@
 [[index|...]]/[[species]]/[[mosaics]]/vectors.md
 
-Vectors are specialized functional abilities or protocols utilized by Mosaics, enabling them to perform enhanced or anomalous actions beyond their standard capabilities. These abilities are activated and modulated through neural signalling mechanisms, which modify the operational behaviour of Voxel supercells on both individual and colony-wide levels. Vectors function as software-like instructions, determining how Voxel matter behaves.
+Vectors are specialised abilities utilised by Mosaics, enabling them to perform enhanced or anomalous actions beyond their standard capabilities. These abilities are activated and modulated through neural signalling mechanisms, which modify the operational behaviour of Voxel supercells on both individual and colony-wide levels, being partially influenced by the Imago. Vectors function as software-like instructions, determining how Voxel matter behaves.
 
 Operational Requirements
 
-The use of Vectors is dependent upon the presence of Varium. Varium functions as a stabilizing catalyst, allowing the neural encoding of Vector instructions to be processed and converted into usable formats, stored for later deployment, and enhanced post-creation by subjecting the stored Vector to additional processing with further Varium input.
+The use of Vectors is dependent upon the presence of Varium. Varium functions as a stabilising catalyst, allowing the neural encoding of Vector instructions to be processed and converted into usable formats.
 
 Vector Taxonomy
 
 Vectors are broadly classified into two distinct types:
 - Root Vectors:
     - Individually unique and encoded at the point of origin.
-    - Typically represent highly specialized, powerful functions, often directly tied to the entity's structural or cognitive identity.
+    - Typically represent highly specialised, powerful functions, often directly tied to the entity's structural or cognitive identity.
     - Root Vectors are non-transferrable.
 - Branch Vectors:
     - Common-use protocols.
     - Generally less powerful than Root Vectors, but significantly more flexible and adaptable.
-    - Can be installed, removed, and upgraded with relative ease.
+    - Can be transferred, removed, upgraded and learned with relative ease.
 
 ► ln --context<br>
 └── /[[varium]]/

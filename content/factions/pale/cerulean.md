@@ -10,6 +10,6 @@ Core Responsibilities
 2. Infrastructure Construction
     - Responsible for the construction, retrofitting, and controlled deconstruction of buildings, roadways and transit systems.
 
-Organizational Hierarchy
+Organisational Hierarchy
 
 Cerulean is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.

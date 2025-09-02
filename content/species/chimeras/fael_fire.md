@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/fael_fire.md
 
-Fael Fire is an anomalous, highly volatile substance exclusively synthesized and wielded by the Chimeras. Functioning as both a biological weapon and defensive mechanism, Fael Fire exhibits characteristics comparable to a hybrid of kerosene and napalm, while also displaying unique properties not replicable in chemistry HERE.
+Fael Fire is an anomalous, highly volatile substance exclusively synthesised and wielded by the Chimeras. Functioning as both a biological weapon and defensive mechanism, Fael Fire exhibits characteristics comparable to a hybrid of kerosene and napalm, while also displaying unique properties not replicable in chemistry HERE.
 
 Properties
 
@@ -16,4 +16,4 @@ Species-Specific Interaction
 
 Anomalous Interactions
 
-One of Fael Fire’s most significant anomalous effects is its temporary ability to disrupt the Imago. When deployed, Fael Fire can create short-lived breaches or “burned gaps” in the Imago, temporarily negating its influence in localized regions. These disruptions are self-repairing, with the Imago field reasserting itself over time.
+One of Fael Fire’s most significant anomalous effects is its temporary ability to disrupt the Imago. When deployed, Fael Fire can create short-lived breaches or “burned gaps” in the Imago, temporarily negating its influence in localised regions. These disruptions are self-repairing, with the Imago field reasserting itself over time.

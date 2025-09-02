@@ -1,12 +1,12 @@
 [[index|...]]/[[factions]]/[[pale]]/[[vermilion]]/oasys.md
 
-Oasys is the official social media and communication platform of the Chromatican City, developed and maintained by the Vermilion. Designed as the city’s primary digital social infrastructure, Oasys integrates social networking, messaging, media sharing, and public feedback mechanisms into a single, centralized system.
+Oasys is the official social media and communication platform of the Chromatican City, developed and maintained by the Vermilion. Designed as the city’s primary digital social infrastructure, Oasys integrates social networking, messaging, media sharing, and public feedback mechanisms into a single, centralised system.
 
 Features
 
 - Users may post and share text, images, video, and audio content, which can be liked, shared, or commented on by others.
-- The platform encourages organic interaction, with a light-touch algorithm that promotes content only minimally based on engagement metrics, preserving a decentralized content environment.
-- Oasys includes a full-featured direct messaging system, supporting one-on-one encrypted communication, group chats, customizable user groups with multiple discussion channels, and audio and video calling capabilities
+- The platform encourages organic interaction, with a light-touch algorithm that promotes content only minimally based on engagement metrics, preserving a decentralised content environment.
+- Oasys includes a full-featured direct messaging system, supporting one-on-one encrypted communication, group chats, customisable user groups with multiple discussion channels, and audio and video calling capabilities
 - Vermilion regularly disseminates polls, surveys, and public service updates through Oasys, soliciting feedback on platform functionality and public policy.
 
 Network Infrastructure

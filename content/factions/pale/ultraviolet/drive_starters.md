@@ -1,6 +1,6 @@
 [[index|...]]/[[factions]]/[[pale]]/[[ultraviolet]]/drive_starters.md
 
-A Drive Starter is a specialized, single-shot weapon engineered specifically to facilitate the activation of Drives in Redliners.
+A Drive Starter is a specialised, single-shot weapon engineered specifically to facilitate the activation of Drives in Redliners.
 
 Design
 
@@ -16,7 +16,7 @@ This process is described as extremely painful, consistently rated at 10 on stan
 
 Charge Types
 
-Charges are specialized biochemical cartridges containing a coloured liquid compound, each corresponding to a distinct function within the Drive system.
+Charges are specialised biochemical cartridges containing a coloured liquid compound, each corresponding to a distinct function within the Drive system.
 
 - Activator (Blue):
     - Fully initiates the Drive transformation and all associated enhancements.
@@ -24,7 +24,7 @@ Charges are specialized biochemical cartridges containing a coloured liquid comp
 - Regenerator (Red):
     - Partially activates the Drive without transformation.
     - Instantly heals major injuries by accelerating cellular repair.
-    - Utilizes more blood than the Activator; not suitable for sustained use.
+    - Utilises more blood than the Activator; not suitable for sustained use.
 
 - `Deactivator (Green):`<br>
     `- Forcefully halts the Drive process.`

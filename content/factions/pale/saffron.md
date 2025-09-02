@@ -13,8 +13,8 @@ Core Responsibilities
     - Maintains strict registries and traceability of all critical resources.
 
 3. Waste Disposal
-    - Saffron handles the collection, neutralization, and repurposing of waste, including civilian waste streams, industrial runoff and biohazardous by-products.
+    - Saffron handles the collection, neutralisation, and repurposing of waste, including civilian waste streams, industrial runoff and biohazardous by-products.
 
-Organizational Hierarchy
+Organisational Hierarchy
 
 Saffron is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.

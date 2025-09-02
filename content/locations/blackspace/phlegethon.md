@@ -16,4 +16,4 @@ The Phlegethon is non-static. Approximately every 168 hours (7 days), the river 
 
 During each manifestation, the river flows continuously and without volume depletion, maintains a consistent elevation and pressure, and resists diversion, damming, or extraction attempts beyond superficial collection Even massive-scale harvesting operations do not appear to affect downstream flow or total volume.
 
-Observational studies suggest a shared genesis mechanism between the Phlegethon and Haemocarbon. Haemocarbon shards often spontaneously grow along the riverbanks during the Phlegethon’s presence. The process of Haemocarbon crystallization appears to be catalysed by proximity to the river.
+Observational studies suggest a shared genesis mechanism between the Phlegethon and Haemocarbon. Haemocarbon shards often spontaneously grow along the riverbanks during the Phlegethon’s presence. The process of Haemocarbon crystallisation appears to be catalysed by proximity to the river.
