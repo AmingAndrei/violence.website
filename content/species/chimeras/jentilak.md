@@ -11,7 +11,7 @@ The head of a Jentil is distinctively non-humanoid, bearing features that resemb
 Adaptations
 
 Jentilak are primarily herbivorous, feeding on a wide range of plant life. However, they are classified as opportunistic omnivores, capable of predatory behaviour when necessary.
-They posses pores capable of secreting Fael Fire beneath their fur, which facilitates air circulation, allowing for thermal regulation in both extreme cold. Their fur acts as a thermal isolator for both cold and hot climates. They also have specialized glands within their trunk, enabling the mixing of Fael Fire with saliva, which coats their extended tongue with Fael Fire.
+They posses pores capable of secreting Fael Fire beneath their fur, which facilitates air circulation, allowing for thermal regulation in both extreme cold. Their fur acts as a thermal isolator for both cold and hot climates. They also have specialised glands within their trunk, enabling the mixing of Fael Fire with saliva, which coats their extended tongue with Fael Fire.
 
 Social Behaviour
 

@@ -10,7 +10,7 @@ Primary Effects
 
 - The Earth’s magnetosphere ceased functioning, resulting in the failure of all magnetically guided navigational instruments (e.g., compasses) and the destruction of unshielded electronics worldwide.
 - Extreme tidal fluctuations triggered massive tsunamis, widespread flooding, and intense superstorms along coastlines and lowland regions.
-- A global temperature drop of 1°C was recorded, contributing to environmental destabilization and widespread floral disruption.
+- A global temperature drop of 1°C was recorded, contributing to environmental destabilisation and widespread floral disruption.
 - An anomalous, white precipitation event commenced, consisting primarily of chalk, incinerated particulate matter, and volcanic ash from reactivated tectonic activity. This ashfall led to severe, respiratory asphyxiation, plant failure and infrastructure collapse under accumulated toxic particulates.
 - Early phases of the incident resulted in an estimated 1–2 billion human deaths, with additional global-scale losses in non-human life, including entire ecosystems.
 

@@ -11,16 +11,16 @@ Physiological Changes
 - The Redliner's blood undergoes a colourimetric shift, typically presenting hues ranging from green to blue, indicating the onset of the Drive state.
 - Hosts acquire the ability to continuously regenerate from any form of physical damage, including otherwise lethal injuries. This regenerative capacity is directly fuelled by the host’s blood supply.
 - Sustained Drive activity leads to progressive blood depletion. When blood levels fall below a critical threshold, the Drive will automatically deactivate. However, this effect can be delayed or reversed by ingesting blood, which replenishes the host’s internal reserves and allows continued Drive function.
-- The Clutch Beetle's extended neurological filaments are capable of generating additional, regenerating mass from its own structure. This material may exhibit mechanical or hybridized appearance, yet remains fully organic.
+- The Clutch Beetle's extended neurological filaments are capable of generating additional, regenerating mass from its own structure. This material may exhibit mechanical or hybridised appearance, yet remains fully organic.
 - Once the Drive ends, all generated mass disintegrates, reverting into red particulate dust. This process is irreversible and leaves no physical residue.
 
 Drive Types
 
-Drives manifest in a variety of specialized forms, classified based on the pattern and function of mass generation during activation. These subtypes are not mutually exclusive but typically follow consistent morphological and functional trends. The three most recognized Drive types are Körper, Waffe, and Doppelt.
+Drives manifest in a variety of specialised forms, classified based on the pattern and function of mass generation during activation. These subtypes are not mutually exclusive but typically follow consistent morphological and functional trends. The three most recognised Drive types are Körper, Waffe, and Doppelt.
 
 Körper-Type Drives
 
-_Körper_ (German for "body") Drives are characterized by the comprehensive generation of additional mass that envelops the entire user.
+_Körper_ (German for "body") Drives are characterised by the comprehensive generation of additional mass that envelops the entire user.
 
 - The resulting structure may resemble a fitted armour or a massive construct, often extending well beyond the user’s natural dimensions.
 - Regardless of external size, the user’s original body is always located near the brain stem region within the generated mass.
@@ -29,7 +29,7 @@ _Körper_ (German for "body") Drives are characterized by the comprehensive gene
 
 Waffe-Type Drives
 
-_Waffe_ (German for "weapon") Drives are defined by localized generation of mass, modifying individual limbs or specific anatomical regions.
+_Waffe_ (German for "weapon") Drives are defined by localised generation of mass, modifying individual limbs or specific anatomical regions.
 - The transformation is anchored to existing body parts, most commonly the arms, head, or back.
 - These modifications enhance offensive or sensory capabilities without altering the user’s full appearance.
 - The remainder of the user's body remains biologically unchanged, preserving full mobility and function outside the enhanced area.

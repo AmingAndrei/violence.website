@@ -4,7 +4,7 @@ The Blue Rose was an anomalous double-barrelled revolver formerly located within
 
 Design
 
-The Blue Rose is structurally similar to the Smith & Wesson Model 500, though extensively modified for specialized use:
+The Blue Rose is structurally similar to the Smith & Wesson Model 500, though extensively modified for specialised use:
 
 - Two vertically stacked, hexagonal-profile barrels, each fitted with six compensator ports, allowing simultaneous discharge with mitigated recoil and improved muzzle stability.
 - Unlike the standard five-round configuration of its progenitor, the Blue Rose features a six-shot cylinder, supported by an omni-directional crane and cylinder release tab, facilitating ambidextrous handling.

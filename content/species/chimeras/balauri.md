@@ -10,7 +10,7 @@ Balauri have red irises with black pupils and possess ultraviolet vision. They f
 
 Combat Adaptations
 
-Each head of the Balaur can generate and project dark-purple Fael Fire up to 20 metres, synthesized by internal glands in their mouths. Their iron-coated claws house airflow channels that ignite Fael Fire secretions, producing superheated cutting surfaces. They posses a bite Force measured at 6000 psi, making their bite capable of shattering dense materials.
+Each head of the Balaur can generate and project dark-purple Fael Fire up to 20 metres, synthesised by internal glands in their mouths. Their iron-coated claws house airflow channels that ignite Fael Fire secretions, producing superheated cutting surfaces. They posses a bite Force measured at 6000 psi, making their bite capable of shattering dense materials.
 
 Regenerative Features
 

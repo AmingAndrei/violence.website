@@ -4,7 +4,7 @@ The _Mimisis_ class, commonly referred to as "Mosaics", comprises all species of
 
 Taxonomic Characteristics
 
-_Mimisis_ entities are fully modular and non-centralized, composed of densely packed Voxels capable of dynamic reconfiguration. Their physical forms are highly variable, with limbs or body segments capable of existing independently or operating without direct structural connection to a central body. This allows for unusual locomotion, shape-shifting, and physical decentralization.
+_Mimisis_ entities are fully modular and non-centralised, composed of densely packed Voxels capable of dynamic reconfiguration. Their physical forms are highly variable, with limbs or body segments capable of existing independently or operating without direct structural connection to a central body. This allows for unusual locomotion, shape-shifting, and physical decentralisation.
 
 Due to the functional versatility of Voxels, _Mimisis_ organisms are capable of highly developed sensory perception, including advanced visual and auditory processing. These capabilities are emergent properties of Voxel conglomerates adapting to act as complex sensor arrays when present in sufficient quantity.
 

@@ -6,7 +6,7 @@ Morphology
 
 Steel Sharks exhibit a form mimetic of diesel and steam-powered machinery, including components analogous to engines, pistons, and metal plating. Their tissue is composed of super-cellular structures, capable of coating themselves in alloy-like substances. This material is biologically alive, despite its metallic appearance, and exhibits properties comparable to self-sharpening metals such as depleted uranium.
 
-These entities possess a regenerative mechanism activated by engine activity. Approximately 20% of their biomass can be restored with each rev of their internal engine, a process accompanied by intense heat emission. Their engines are capable of metabolizing standard fuels (e.g., gasoline, oil), but are optimized for blood as a high-efficiency energy source.
+These entities possess a regenerative mechanism activated by engine activity. Approximately 20% of their biomass can be restored with each rev of their internal engine, a process accompanied by intense heat emission. Their engines are capable of metabolising standard fuels (e.g., gasoline, oil), but are optimised for blood as a high-efficiency energy source.
 
 Sensory Capabilities
 
@@ -34,7 +34,7 @@ Steel Sharks are extremely aggressive in all forms. Even while inert, they produ
 
 Subtypes of Steel Sharks
 
-Steel Sharks are categorized into several functional morphotypes, known as _katachi_ (形), based on weapon analogues:<br>
+Steel Sharks are categorised into several functional morphotypes, known as _katachi_ (形), based on weapon analogues:<br>
 - Onokatachi (斧形) – _Axe-shaped type_: Capable of discharging large quantities of energy at the cost of high fuel consumption.
 - Hakatachi (刃形) – _Blade-shaped type_: Generates defensive energy shields capable of absorbing impact and redirecting stored energy offensively.
 - Juyarikatachi (重槍形) – _Lance-shaped type_: Possesses reinforced armor and short-range, high-damage shell weaponry.

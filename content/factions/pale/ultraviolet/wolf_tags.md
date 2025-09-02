@@ -1,6 +1,6 @@
 [[index|...]]/[[factions]]/[[pale]]/[[ultraviolet]]/wolf_tags.md
 
-Wolf Tags are a standardized form of personal identification employed by Ultraviolet Operators, functioning both as physical ID and limited-access data storage devices. The system is modelled on conventional military dog tags, with the addition of modern technological and accessibility enhancements.
+Wolf Tags are a standardised form of personal identification employed by Ultraviolet Operators, functioning both as physical ID and limited-access data storage devices. The system is modelled on conventional military dog tags, with the addition of modern technological and accessibility enhancements.
 
 Physical Description
 
@@ -14,7 +14,7 @@ Each tag is ellipsoidal in shape, measuring approximately 5 cm in length and 3 c
 
 Integrated Technology
 
-Embedded within each Wolf Tag is a passive smart chip capable of storing data. When scanned by specialised readers, the tag grants access to the Operator's Extended File, which includes a full profile, operational history, medical data, and ability records. The tag's chip is updated manually and intermittently by the Executive. In instances where a tag has not been synchronized for an extended period, data conflicts may occur between the tag and the master file.
+Embedded within each Wolf Tag is a passive smart chip capable of storing data. When scanned by specialised readers, the tag grants access to the Operator's Extended File, which includes a full profile, operational history, medical data, and ability records. The tag's chip is updated manually and intermittently by the Executive. In instances where a tag has not been synchronised for an extended period, data conflicts may occur between the tag and the master file.
 
 Usage
 

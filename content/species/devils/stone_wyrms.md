@@ -8,7 +8,7 @@ Stone Wyrms possess a serpentine body structure, lacking defined limbs and typic
 
 A defining characteristic of Stone Wyrms is the hollow structure of their bodies. Instead of functional eyes, they have empty eye sockets that expose the tubular, hollow nature of their entire form. The interior of their bodies is significantly darker than their exterior.
 
-Their cellular structure is carbon-based, but with a silicate exterior, forming an outer shell that gives them a rock-like appearance and texture. This composition is further enhanced by specialized chromatophores, allowing the organism to change colour to blend seamlessly with surrounding rock formations.
+Their cellular structure is carbon-based, but with a silicate exterior, forming an outer shell that gives them a rock-like appearance and texture. This composition is further enhanced by specialised chromatophores, allowing the organism to change colour to blend seamlessly with surrounding rock formations.
 
 Unique Abilities
 
@@ -20,7 +20,7 @@ Unlike most biological entities, Stone Wyrms lack a central brain, spine, or int
 
 Sensory Perception
 
-Stone Wyrms are completely blind, lacking the ability to detect light. However, they compensate with an acute sense of smell, facilitated by specialized internal cells, and highly sensitive hearing. Their outer skin is capable of analysing the chemical composition of materials it contacts, triggering their chromatophores to adjust their colouration accordingly.
+Stone Wyrms are completely blind, lacking the ability to detect light. However, they compensate with an acute sense of smell, facilitated by specialised internal cells, and highly sensitive hearing. Their outer skin is capable of analysing the chemical composition of materials it contacts, triggering their chromatophores to adjust their colouration accordingly.
 
 While they rely on resurfacing to breathe, they can circumvent this limitation by absorbing oxygen from plants, reducing their need to emerge frequently.
 

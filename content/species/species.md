@@ -1,10 +1,10 @@
 [[index|...]]/species.md
 
-_Allokaryota_ is the taxonomic domain assigned to all known life forms native to the OTHERWHERE. These entities exist entirely outside the biological principles and phylogenetic lineages recognized HERE, rendering conventional classification systems inapplicable.
+_Allokaryota_ is the taxonomic domain assigned to all known life forms native to the OTHERWHERE. These entities exist entirely outside the biological principles and phylogenetic lineages recognised HERE, rendering conventional classification systems inapplicable.
 
 Taxonomic Structure
 
-The domain _Allokaryota_ is recognized as a wastebasket taxon, a provisional grouping used to collectively identify organisms that defy standard biological taxonomy. Organisms within this domain exhibit extreme morphological and genetic divergence from one another, often sharing no observable evolutionary relationship. This heterogeneity is widely theorized to be a direct consequence of the Imago.
+The domain _Allokaryota_ is recognised as a wastebasket taxon, a provisional grouping used to collectively identify organisms that defy standard biological taxonomy. Organisms within this domain exhibit extreme morphological and genetic divergence from one another, often sharing no observable evolutionary relationship. This heterogeneity is widely theorised to be a direct consequence of the Imago.
 
 Composition
 

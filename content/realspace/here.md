@@ -1,6 +1,6 @@
 [[index|...]]/here.md
 
-HERE is the designated term for the primary dimension encompassing observable, measurable reality. It includes all phenomena, entities, and locations that are recognized as physically real or verifiably originating HERE.
+HERE is the designated term for the primary dimension encompassing observable, measurable reality. It includes all phenomena, entities, and locations that are recognised as physically real or verifiably originating HERE.
 
 `Post-Ashen Winter Incident`
 

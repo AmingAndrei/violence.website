@@ -8,7 +8,7 @@ Ultraviolet personnel are referred to as Operators. Operators are broadly divide
 - Full-Time Operators: Fully enlisted personnel with ongoing operational obligations. Eligible for rank progression and strategic deployment.
 - Part-Time Operators: Primarily composed of Redliners who are automatically enrolled into Ultraviolet upon reaching the age of 18. Participation is monetarily compensated, and service is voluntary beyond the mandatory minimum. These individuals engage in missions sporadically, often in response to specific threat levels or emergencies. Part-Time Operators may voluntarily transfer into Full-Time status or opt out of the programme entirely, receiving the designation of Inoperative.
 
-Organizational Hierarchy
+Organisational Hierarchy
 
 Ultraviolet follows a hierarchical but meritocratic rank system, with progression based on combat capability, mission success, and Executive endorsement. Rank is permanently recorded and visible on the individual’s Wolf Tag.
 

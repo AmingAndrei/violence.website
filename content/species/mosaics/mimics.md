@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[mosaics]]/mimics.md
 
-The Mimic is a hostile, non-sentient species of Mosaic, originating within the OTHERWHERE. They are notable for their ability to replicate the appearance, behaviours, vocalizations, and apparent abilities of other entities.
+The Mimic is a hostile, non-sentient species of Mosaic, originating within the OTHERWHERE. They are notable for their ability to replicate the appearance, behaviours, vocalisations, and apparent abilities of other entities.
 
 Morphology
 
@@ -8,7 +8,7 @@ In their natural, unaltered state, Mimics possess a cyan-coloured, crystalline e
 
 Mimicry Capabilities
 
-Mimics derive their name from their innate ability to imitate. This mimicry is instinctual, not cognitive, and is enabled by their specialized neural and bodily architecture. Mimics exhibit highly acute visual and auditory perception, allowing for precise observation of external subjects. They possess a high-capacity recording neural system, capable of storing immense behavioural datasets, including gestures, vocal patterns, and physiological functions. Mimics can rapidly switch between recorded mimicry profiles without fatigue or cognitive delay, though their crystalline outer shell does not change in material. They can replicate observed abilities through structural adaptation. Mimics can perfectly reproduce speech, tone, and behaviour of other organisms.
+Mimics derive their name from their innate ability to imitate. This mimicry is instinctual, not cognitive, and is enabled by their specialised neural and bodily architecture. Mimics exhibit highly acute visual and auditory perception, allowing for precise observation of external subjects. They possess a high-capacity recording neural system, capable of storing immense behavioural datasets, including gestures, vocal patterns, and physiological functions. Mimics can rapidly switch between recorded mimicry profiles without fatigue or cognitive delay, though their crystalline outer shell does not change in material. They can replicate observed abilities through structural adaptation. Mimics can perfectly reproduce speech, tone, and behaviour of other organisms.
 
 Intelligence
 

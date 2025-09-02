@@ -10,9 +10,9 @@ Core Responsibilities
 
 2. Civic Law Enforcement
     - As the city’s primary policing body, Infrared agents respond to standard incidents such as civil unrest, criminal activity and interpersonal disputes.
-    - Agents are trained in non-lethal conflict resolution, though authorized to escalate under directive.
+    - Agents are trained in non-lethal conflict resolution, though authorised to escalate under directive.
     - Incidents involving high-risk threats are escalated to Ultraviolet.
 
-Organizational Hierarchy
+Organisational Hierarchy
 
 Infrared is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.

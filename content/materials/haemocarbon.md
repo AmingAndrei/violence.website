@@ -12,4 +12,4 @@ Analytical testing has revealed that Haemocarbon is composed primarily of coagul
 
 Formation
 
-Naturally, Haemocarbon can form in large quantities on the banks of the Phlegethon. Artificially, it can be synthesised via biological secretion by organisms capable of processing blood and carbon into crystalline output. Synthesis requires a free carbon source to stabilize the density and crystallization phase.
+Naturally, Haemocarbon can form in large quantities on the banks of the Phlegethon. Artificially, it can be synthesised via biological secretion by organisms capable of processing blood and carbon into crystalline output. Synthesis requires a free carbon source to stabilise the density and crystallisation phase.

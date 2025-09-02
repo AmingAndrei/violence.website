@@ -7,7 +7,7 @@ Core Responsibilities
 1. Agriculture
     - Oversees all farmland, hydroponic zones, and vertical grow systems within the Chromatican City and its controlled perimeter.
     - Implements and enforces food safety protocols, soil purity standards, and nutritional baselines for both processed and raw consumables.
-    - Continuously works to maximize crop yield and bio-efficiency.
+    - Continuously works to maximise crop yield and bio-efficiency.
 
 2. Botanical Research
     - Conducts ongoing studies into OTHERWHERE-native flora, examining their potential applications, under the supervision of Ultraviolet.
@@ -19,6 +19,6 @@ Core Responsibilities
 4. Environmental Monitoring
     - Continuously evaluates air quality, soil composition, and biome health within city zones.
 
-Organizational Hierarchy
+Organisational Hierarchy
 
 Viridian is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.
