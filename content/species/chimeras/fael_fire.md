@@ -16,4 +16,4 @@ Species-Specific Interaction
 
 Anomalous Interactions
 
-One of Fael Fire’s most significant anomalous effects is its temporary ability to disrupt the Imago. When deployed, Fael Fire can create short-lived breaches or “burned gaps” in the Imago, temporarily negating its influence in localised regions. These disruptions are self-repairing, with the Imago field reasserting itself over time.
+One of Fael Fire’s most significant anomalous effects is its temporary ability to disrupt the Anima. When deployed, Fael Fire can create short-lived breaches or “burned gaps” in the Anima, temporarily negating its influence in localised regions. These disruptions are self-repairing, with the Anima reasserting itself over time.

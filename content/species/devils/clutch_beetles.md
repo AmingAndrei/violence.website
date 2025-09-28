@@ -1,10 +1,10 @@
 [[index|...]]/[[species]]/[[devils]]/clutch_beetles.md
 
-The Clutch Beetle is an insectoid, invertebrate species of Devil, endemic to the OTHERWHERE. Distinguished by their extreme phenotypic variability and parasitic symbiosis, Clutch Beetles are notable for their unique relationship with the Imago, a trait that allows them to absorb and express environmental and genetic influences in unpredictable ways.
+The Clutch Beetle is an insectoid, invertebrate species of Devil, endemic to the OTHERWHERE.
 
 Morphology
 
-Clutch Beetles possess a rounded body plan typical of insectoids, including an elytra (a hardened wing cover), which remains a consistent trait across individuals. However, beyond this, adult Clutch Beetles exhibit drastic interindividual variation in colour, morphology, behaviour, diet, and biological capabilities. This is attributed to their heightened sensitivity to the Imago, effectively making them biological "DNA sponges". Due to this variability, the emergence of two identical adults is considered statistically impossible.
+Clutch Beetles possess a rounded body plan typical of insectoids, including an elytra, which remains a consistent trait across individuals. However, beyond this, adult Clutch Beetles exhibit drastic interindividual variation in colour, morphology, behaviour, diet, and biological capabilities. This is attributed to their heightened sensitivity to the Anima, effectively making them biological "DNA sponges". Due to this variability, the emergence of two identical adults is considered statistically impossible.
 
 Reproduction
 
