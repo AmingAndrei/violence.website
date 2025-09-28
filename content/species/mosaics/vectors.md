@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[mosaics]]/vectors.md
 
-Vectors are specialised abilities utilised by Mosaics, enabling them to perform enhanced or anomalous actions beyond their standard capabilities. These abilities are activated and modulated through neural signalling mechanisms, which modify the operational behaviour of Voxel supercells on both individual and colony-wide levels, being partially influenced by the Imago. Vectors function as software-like instructions, determining how Voxel matter behaves.
+Vectors are specialised abilities utilised by Mosaics, enabling them to perform enhanced or anomalous actions beyond their standard capabilities. These abilities are activated and modulated through neural signalling mechanisms, which modify the operational behaviour of Voxel supercells on both individual and colony-wide levels, being partially influenced by the Anima. Vectors function as software-like instructions, determining how Voxel matter behaves.
 
 Operational Requirements
 
