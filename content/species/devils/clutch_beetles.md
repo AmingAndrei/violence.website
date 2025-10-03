@@ -4,7 +4,7 @@ The Clutch Beetle is an insectoid, invertebrate species of Devil, endemic to the
 
 Morphology
 
-Clutch Beetles possess a rounded body plan typical of insectoids, including an elytra, which remains a consistent trait across individuals. However, beyond this, adult Clutch Beetles exhibit drastic interindividual variation in colour, morphology, behaviour, diet, and biological capabilities. This is attributed to their heightened sensitivity to the Anima, effectively making them biological "DNA sponges". Due to this variability, the emergence of two identical adults is considered statistically impossible.
+Clutch Beetles possess a rounded body plan typical of insectoids, including an elytra, which remains a consistent trait across individuals, along with a notable lack of eyes. However, beyond this, adult Clutch Beetles exhibit drastic interindividual variation in colour, morphology, behaviour, diet, and biological capabilities. This is attributed to their heightened sensitivity to the Anima, effectively making them biological "DNA sponges". Due to this variability, the emergence of two identical adults is considered statistically impossible.
 
 Reproduction
 
