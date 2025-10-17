@@ -1,10 +1,10 @@
-[[index|...]]/[[species]]/[[mosaics]]/[[valences]]/vexers.md
+[[index|...]]/[[species]]/[[mosaics]]/[[somas]]/vexers.md
 
-Vexers are a rare, genetically distinct subspecies of Valence, representing a highly specialised evolutionary offshoot,
+Vexers are a rare, genetically distinct subspecies of Soma, representing a highly specialised evolutionary offshoot,
 
 Origin
 
-The emergence of a Vexer is the result of a rare genetic anomaly occurring during the initial formation of a Valence. Approximately 1% of all Valences possess the required sub-genetic sequence associated with Vexer capabilities. This sub-gene arises spontaneously within individuals
+The emergence of a Vexer is the result of a rare genetic anomaly occurring during the initial formation of a Soma. Approximately 1% of all Somas possess the required sub-genetic sequence associated with Vexer capabilities. This sub-gene arises spontaneously within individuals
 
 Capabilities
 

@@ -10,9 +10,7 @@ Access is facilitated through heavily fortified vertical transit shafts, resembl
 
 Function
 
-The Undercities are designated exclusively for Valences. Non-Valences are explicitly prohibited from entry. While the Undercities function as Valence-only communities, allowing the species to develop independently from biologicals HERE while maintaining minimal surface interaction, the main reason for this segregation is due to the Undercities acting as containment buffers for Vespers. Statistical models indicate that Vesper incursions occur with notably higher frequency in these locations.
-
-Despite the rigid access control, covert routes into the Undercities exist. Unauthorised entry, however, is considered an immediate threat. Any non-Valence discovered by internal security systems is subject to instant termination by automated enforcement protocols.
+The Undercities are designated exclusively for Somas. Non-Soma are prohibited from entry. While the Undercities function as Soma-only communities, allowing the species to develop independently from biologicals HERE while maintaining minimal surface interaction, the main reason for this segregation is due to the Undercities acting as containment buffers for Vespers. Statistical models indicate that Vesper incursions occur with notably higher frequency in these locations. Despite the rigid access control, covert routes into the Undercities exist. Unauthorised entry, however, is considered an immediate threat. Any non-Soma discovered by internal security systems is subject to instant termination by automated enforcement protocols.
 
 Connectivity
 
