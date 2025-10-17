@@ -2,7 +2,7 @@
 
 HERE is the designated term for the primary dimension encompassing observable, measurable reality. It includes all phenomena, entities, and locations that are recognised as physically real or verifiably originating HERE.
 
-`As of current classification, HERE now refers specifically to the planet Earth, Earth’s Moon and a limited number of exoplanets identified and verified post-incident. All other planetary bodies, stars, cosmic phenomena, and spatial structures formerly observed HERE are now absent or inaccessible.`
+0x4173206f662063757272656e7420636c617373696669636174696f6e2c2048455245206e6f7720726566657273207370656369666963616c6c7920746f2074686520706c616e65742045617274682c204561727468e2809973204d6f6f6e20616e642061206c696d69746564206e756d626572206f662065786f706c616e657473206964656e74696669656420616e6420766572696669656420706f73742d696e636964656e742e20416c6c206f7468657220706c616e657461727920626f646965732c2073746172732c20636f736d6963207068656e6f6d656e612c20616e64207370617469616c207374727563747572657320666f726d65726c79206f62736572766564204845524520617265206e6f7720616273656e74206f7220696e61636365737369626c652e
 
 ► ln --context<br>
 └── /[[ashen_winter_incident]]/

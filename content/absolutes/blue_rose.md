@@ -24,4 +24,4 @@ The Blue Rose demonstrated heightened effectiveness against Devils, inflicting d
 
 Status and Disposition
 
-The Blue Rose is classified as inactive and unrecovered. The prevailing theory posits that the revolver was ultimately absorbed or integrated into the structure of `the Red Queen`, following her confirmed encounter with the weapon.
+The Blue Rose is classified as inactive and unrecovered. The prevailing theory posits that the revolver was ultimately absorbed or integrated into the structure of 0x7468652052656420517565656e, following her confirmed encounter with the weapon.

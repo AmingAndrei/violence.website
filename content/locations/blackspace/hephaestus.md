@@ -8,7 +8,7 @@ Hephaestus takes the form of a colossal ziggurat-like structure, composed entire
 
 Constant temperature near the primary exterior gate measures approximately 7000°C, rendering the structure inaccessible by conventional means. The only observable entry/exit point is a large, rectangular aperture at the base, situated between the two exterior chutes. Despite the inhospitable environment, architectural cues suggest humanoid-scale traversal paths within the structure.
 
-Internal processes remain unconfirmed due to extreme heat and radiation, but remote and thermal imaging indicate autonomous, rhythmic factory activity, suggestive of highly organised internal systems. It is generally theorised that Hephaestus was created by `the Red Queen`.
+Internal processes remain unconfirmed due to extreme heat and radiation, but remote and thermal imaging indicate autonomous, rhythmic factory activity, suggestive of highly organised internal systems. It is generally theorised that Hephaestus was created by 0x7468652052656420517565656e.
 
 Steel Shark Production
 

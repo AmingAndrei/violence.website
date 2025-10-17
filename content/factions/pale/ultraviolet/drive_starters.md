@@ -26,5 +26,5 @@ Charges are specialised biochemical cartridges containing a coloured liquid comp
     - Instantly heals major injuries by accelerating cellular repair.
     - Utilises more blood than the Activator; not suitable for sustained use.
 
-- `Deactivator (Green):`<br>
-    `- Forcefully halts the Drive process.`
+- 0x4465616374697661746f722028477265656e29:
+    - 0x466f72636566756c6c792068616c7473207468652044726976652070726f636573732e
