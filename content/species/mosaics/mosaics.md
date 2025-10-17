@@ -17,7 +17,7 @@ Furthermore, _Mimisis_ organisms exhibit psychological and systemic stress propa
 ► ls /<br>
 ├── /[[mimics]]/<br>
 ├── /[[vespers]]/<br>
-└── /[[valences]]/
+└── /[[somas]]/
 
 ► ln --context<br>
 ├── /[[voxels]]/<br>
