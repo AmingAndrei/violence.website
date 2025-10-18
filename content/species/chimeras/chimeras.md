@@ -18,6 +18,3 @@ The method of secretion and manipulation varies inter-specifically, influenced b
 ├── /[[zmey]]/<br>
 ├── /[[kobolde]]/<br>
 └── /[[jentilak]]/
-
-► ln --context<br>
-└── /[[fael_fire]]/
