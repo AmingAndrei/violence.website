@@ -17,6 +17,3 @@ Vectors are broadly classified into two distinct types:
     - Common-use protocols.
     - Generally less powerful than Root Vectors, but significantly more flexible and adaptable.
     - Can be transferred, removed, upgraded and learned with relative ease.
-
-► ln --context<br>
-└── /[[varium]]/

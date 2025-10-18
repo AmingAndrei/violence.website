@@ -11,4 +11,6 @@ Properties
 Aberrant Matter exhibits properties that classify it as exotic due to its ability to demonstrate physical behaviours unattainable by conventional matter. Despite this, it is generally functionally interchangeable with standard matter, to the point objects composed of Aberrant Matter may display no inherent anomalous effects whatsoever. It is fully compatible with standard matter, without adverse reactions.
 
 ► ls /<br>
-└── /[[haemocarbon]]/<br>
+├── /[[haemocarbon]]/<br>
+├── /[[varium]]/<br>
+└── /[[fael_fire]]/
