@@ -25,8 +25,7 @@ Steel Sharks communicate through a complex auditory language consisting of engin
 
 Technology Interaction
 
-Steel Sharks exhibit a unique technophagic capability:  
-Upon physical contact with mechanical or electronic devices, they initiate rapid disassembly, drawing components into their body via internal conduits. These materials are stored internally and can be reassembled on command, either externally or as integrated enhancements. Reconstruction is precise and efficient, maintaining the original function of the device.
+Upon physical contact with mechanical or electronic devices, Steel Sharks initiate rapid disassembly, drawing components into their body via internal conduits. These materials are stored internally and can be reassembled on command, either externally or as integrated enhancements. Reconstruction is precise and efficient, maintaining the original function of the device.
 
 Behaviour
 

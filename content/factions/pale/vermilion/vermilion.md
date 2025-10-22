@@ -4,7 +4,7 @@ Vermilion is an operational department within the governing structure of the Pal
 
 Core Responsibilities
 
-1. Public Communication    
+1. Public Communication
     - Vermilion maintains and moderates Oasys, including its internal servers, responsible for regular updates, technical maintenance, and content moderation.
     - In addition, Vermilion administers all public communication channels, including emergency broadcasts and announcements.
 
@@ -12,7 +12,7 @@ Core Responsibilities
     - Acts as the official conduit between the Pale and the general population, delivering announcements, directives, and clarifications of policy.
     - Provides translation and interpretation of executive orders into civilian-accessible formats, and conducts public briefings when necessary.
 
-3. Civic Demographics    
+3. Civic Demographics
     - Tracks, analyses, and archives population statistics, including, birth and death rates, housing allocation, civic registration and migration within city zones.
 
 4. Event Coordination
