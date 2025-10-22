@@ -9,9 +9,9 @@ In its dormant state, Fael Fire appears as a fluid or vapor that auto-ignites up
 Fael Fire is capable of sustained combustion in aqueous environments, maintaining flame and heat output under full submersion, an attribute that parallels historical accounts of Greek Fire, though significantly more intense and stable.
 
 Species-Specific Interaction
-- Chimera Immunity:  
+- Chimera Immunity:
     Fael Fire is biologically inert to all Chimeras. It does not cause thermal damage, toxic effects, or cellular disruption in these species, enabling close-range or direct-contact deployment without self-harm.
-- Non-Chimera Effects:  
+- Non-Chimera Effects:
     In contrast, Fael Fire is extremely corrosive and cytotoxic to all non-Chimeras. Contact with the substance results in rapid tissue degradation, neurochemical shock, and chemical burns. Inhalation of Fael Fire vapours induces severe internal damage and system failure, regardless of species or environmental adaptations.
 
 Anomalous Interactions

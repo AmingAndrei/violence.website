@@ -18,9 +18,9 @@ Crimson Nymph territories are meticulously curated areas where vegetation is gro
 Abilities
 
 Crimson Nymphs possess a multi-frequency vocal system derived from a modified laryngeal anatomy, allowing for two major acoustic outputs simultaneously:
-- 432 Hz Frequency:  
+- 432 Hz Frequency:
     Promotes accelerated plant development and cellular activity in nearby flora, used to enhance and maintain garden environments.
-- ≤19 Hz Infrasound:  
+- ≤19 Hz Infrasound:
     Induces elevated cortisol and adrenaline levels in surrounding organisms, triggering fear responses and causing ocular resonance, which may result in temporary visual hallucinations. This capability has both defensive and ecological implications. Crimson Nymphs are immune to the psychological and physiological effects of their own vocalisations.
 
 The red indentations and wing markings across an Crimson Nymph’s body are coated in a thin layer of Haemocarbon. They are capable of creating Haemocarbon constructs, predominantly weapons or defensive extensions, via directed bleeding. When blood levels fall below critical thresholds, Haemocarbon production ceases, though it may be restored by assimilating external blood sources, granting Crimson Nymphs significant combat resilience and regenerative potential.
