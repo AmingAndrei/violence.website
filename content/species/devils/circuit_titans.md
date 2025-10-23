@@ -4,7 +4,7 @@ The Circuit Titan is a species of colossal Devil, endemic to the OTHERWHERE, rec
 
 Morphology
 
-Circuit Titans exhibit an enormous body structure, with an average height of approximately 6 kilometres, making them the largest Devil species documented to date. Their anatomy consists of a torso-like central mass and two bilateral appendages, all of which resemble enormous cables or high-tensile wires. The torso and primary limbs extend downward before splitting into fractal-like bundles of smaller, cable-like tentacles at regular intervals.
+Circuit Titans exhibit an enormous body structure, with an average height of ~6 km, making them the largest Devil species documented to date. Their anatomy consists of a torso-like central mass and two bilateral appendages, all of which resemble enormous cables or high-tensile wires. The torso and primary limbs extend downward before splitting into fractal-like bundles of smaller, cable-like tentacles at regular intervals.
 
 Their bodily composition consists of dense, black, fibre-like supercells, exhibiting properties akin to titanium alloy and optical fibre. This material is characterised by its extreme tensile strength and resistance to damage or severance.
 

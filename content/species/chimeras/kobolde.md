@@ -1,19 +1,14 @@
 [[index|...]]/[[species]]/[[chimeras]]/kobolde.md
 
-The Kobold (pl. Kobolde) is a bipedal species of Chimera, native to the OTHERWHERE. These entities are distinguished by their towering stature, unique biological integration with gold, and characteristic behaviours surrounding hoarding and territorial isolation.
+The Kobold (pl. Kobolde) is a bipedal species of Chimera, native to the OTHERWHERE.
 
 Morphology
 
-Kobolde exhibit a humanoid body plan, standing approximately 4 meters in height, with a lanky frame, elongated limbs, and an exceptionally long neck. The body is covered in thin black scales, while the muscular and skeletal structures are highly dense and durable, enabling a Kobold to overpower an adult human with a single limb.
-- Hands are tridactyl, featuring two long, flexible fingers and a thumb.
-- Legs are digitigrade, adapted for agile, powerful movement.
-- Head is covered in a metallic dermal layer composed primarily of gold, giving the face a solid golden appearance. The head bears two massive ears, three backward-facing horns, lacks a nasal structure, features sharp dentition, and eyes with a crystalline sheen, making closing their eyes unnecessary, lacking eyelids altogether.
+Kobolde exhibit a humanoid body plan, standing approximately 4 m in height, with a lanky frame, elongated limbs, and an exceptionally long neck. The body is covered in thin black scales, while the muscular and skeletal structures are highly dense and durable, enabling a Kobold to overpower an adult human with a single limb. Their hands are tridactyl, featuring two long, flexible fingers and a thumb Their legs are digitigrade, adapted for agile, powerful movement. The head is covered in a metallic dermal layer composed primarily of gold, giving the face a solid golden appearance. The head bears two massive ears, three backward-facing horns, lacks a nasal structure, features sharp dentition, and eyes with a crystalline sheen, making closing their eyes unnecessary, lacking eyelids altogether.
 
 Gold Dependency
 
-Kobolde exhibit a biological dependency on gold, which is essential to their metabolic systems. They actively consume gold as a nutrient, and use grey Fael Fire, secreted through dermal pores, to melt and bind gold to their scales, forming an adaptive, flexible armour.
-- Located within their cheeks are additional Fael Fire sacs, maintain elevated temperatures in the cranial region and allow for oral emission of Fael Fire in small, low-efficiency bursts.
-- The head remains perpetually heated due to internal Fael Fire activity, a trait tied to both defence and metabolic necessity, in order to ease the processing of gold.
+Kobolde exhibit a biological dependency on gold, which is essential to their metabolic systems. They actively consume gold as a nutrient, and use grey Fael Fire, secreted through dermal pores, to melt and bind gold to their scales, forming an adaptive, flexible armour. Located within their cheeks are additional Fael Fire sacs, maintain elevated temperatures in the cranial region and allow for oral emission of Fael Fire in small, low-efficiency bursts. The head remains perpetually heated due to internal Fael Fire activity, a trait tied to both defence and metabolic necessity, in order to ease the processing of gold.
 
 Behaviour
 

@@ -1,4 +1,4 @@
-[[index|...]]/[[materials]]/varium.md
+[[index|...]]/[[substances]]/varium.md
 
 Varium is a semi-fluidic compound actively synthesised by specialised classes of Mosaics. It is characterised by its viscous, pale-cyan colouration, interspersed with golden luminescent strands, and exhibits gas-like dispersal behaviour despite its fluid form.
 

@@ -4,7 +4,7 @@ The Fae are an intelligent, humanoid species of Chimera, native to the OTHERWHER
 
 Morphology
 
-Fae stand at an average height of 2 metres, with digitigrade legs, four-fingered hands (quatrodactyl), and elongated, pointed ears. Their skin is bluish-grey, covered in patches of extremely fine, scale-like structures, providing natural resilience. Their eyes are large and adapted for low-light conditions, while their muscle structure supports enhanced strength and endurance, significantly surpassing human physical limits. They reproduce through mammalian reproductive processes, birthing live young that are feed with milk.
+Fae stand at an average height of 2 m, with digitigrade legs, four-fingered hands (quatrodactyl), and elongated, pointed ears. Their skin is bluish-grey, covered in patches of extremely fine, scale-like structures, providing natural resilience. Their eyes are large and adapted for low-light conditions, while their muscle structure supports enhanced strength and endurance, significantly surpassing human physical limits. They reproduce through mammalian reproductive processes, birthing live young that are feed with milk.
 
 Fael Fire Abilities
 

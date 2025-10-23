@@ -4,7 +4,7 @@ The Zmey are a species of large, hexapodal, lizard-like Chimeras, native to the 
 
 Morphology
 
-Adult Zmey specimens attain lengths of up to 30 metres, characterised by a hexapodal limb structure (six legs), a pair of wings, and a long prehensile tail and cervical extension.
+Adult Zmey specimens attain lengths of up to 30 m, characterised by a hexapodal limb structure (six legs), a pair of wings, and a long prehensile tail and cervical extension.
 
 A defining anatomical feature of the species is their dual skeletal system, consisting of:
 - A robust endoskeleton for structural support.
@@ -16,7 +16,7 @@ Each limb is segmented, with modular components connected via vascularised, deta
 
 Defence Mechanisms
 
-Zmey possess a yellow-spectrum variant of Fael Fire, expelled through a specialized glandular sac situated on the palatal roof. The species demonstrates both external deployment and internal defensive utilisation of Fael Fire. Zmey can project Fael Fire in a directed stream up to 10 metres, used offensively or for area denial. Fael Fire is continuously secreted beneath the exoskeleton, where it auto-ignites upon contact with air, generating intense radiant heat that can vaporise water and inflict severe thermal injury upon contact. If the exoskeleton is compromised, Fael Fire is forcibly expelled through the breach, acting as a deterrent. The breach is sealed during the next moult cycle.
+Zmey possess a yellow-spectrum variant of Fael Fire, expelled through a specialized glandular sac situated on the palatal roof. The species demonstrates both external deployment and internal defensive utilisation of Fael Fire. Zmey can project Fael Fire in a directed stream up to 10 m, used offensively or for area denial. Fael Fire is continuously secreted beneath the exoskeleton, where it auto-ignites upon contact with air, generating intense radiant heat that can vaporise water and inflict severe thermal injury upon contact. If the exoskeleton is compromised, Fael Fire is forcibly expelled through the breach, acting as a deterrent. The breach is sealed during the next moult cycle.
 
 Reproduction
 

@@ -2,7 +2,7 @@
 
 Wolf Tags are a standardised form of personal identification employed by Ultraviolet Operators, functioning both as physical ID and limited-access data storage devices. The system is modelled on conventional military dog tags, with the addition of modern technological and accessibility enhancements.
 
-Physical Description
+Design
 
 Each tag is ellipsoidal in shape, measuring approximately 5 cm in length and 3 cm in width. The tag is double-sided, with the following information engraved on the front in standard Latin script and mirrored on the reverse in Unified International Braille:
 

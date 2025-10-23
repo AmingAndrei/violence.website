@@ -8,7 +8,7 @@ The true biological form of a Soma, colloquially termed its heart, is a compact 
 
 Shell
 
-To overcome the limitations of their vulnerable primary form, Somas utilise advanced humanoid mechanical shells, into which they interface via the chest cavity. Upon entry, the heart disperses its Voxels throughout the chassis, establishing complete motor and sensory control. These shells are typically between 1.9 and 2 metres in height and constructed from durable white-metal alloys, with signature yellow LED eyes serving as primary visual interfaces, with the advanced visual and auditory sensors far surpassing the baseline heart. Modular components allow for shell upgrades and repairs. Once linked, the shell effectively functions as an extension of the Soma’s body and nervous system.
+To overcome the limitations of their vulnerable primary form, Somas utilise advanced humanoid mechanical shells, into which they interface via the chest cavity. Upon entry, the heart disperses its Voxels throughout the chassis, establishing complete motor and sensory control. These shells are typically between 1.9 and 2 m in height and constructed from durable white-metal alloys, with signature yellow LED eyes serving as primary visual interfaces, with the advanced visual and auditory sensors far surpassing the baseline heart. Modular components allow for shell upgrades and repairs. Once linked, the shell effectively functions as an extension of the Soma’s body and nervous system.
 
 Vulnerabilities
 
