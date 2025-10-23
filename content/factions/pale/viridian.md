@@ -5,7 +5,7 @@ Viridian is an operational department within the governing structure of the Pale
 Core Responsibilities
 
 1. Agriculture
-    - Oversees all farmland, hydroponic zones, and vertical grow systems within the Chromatican City and its controlled perimeter.
+    - Oversees all farmland, hydroponic zones, and vertical grow systems within the Chromatican City and its controlled perimetre.
     - Implements and enforces food safety protocols, soil purity standards, and nutritional baselines for both processed and raw consumables.
     - Continuously works to maximise crop yield and bio-efficiency.
 

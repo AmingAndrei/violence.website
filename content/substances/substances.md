@@ -1,4 +1,4 @@
-[[index|...]]/materials.md
+[[index|...]]/substances.md
 
 Aberrant Matter is a form of exotic matter occurring naturally within the OTHERWHERE, constituting the physical substance of that dimension.
 
@@ -12,6 +12,8 @@ Aberrant Matter exhibits properties that classify it as exotic due to its abilit
 
 ► ls /<br>
 ├── /[[haemocarbon]]/<br>
+├── /[[tar]]/<br>
+├── /[[fael_fire]]/<br>
 ├── /[[varium]]/<br>
 ├── /[[menstruum]]/<br>
-└── /[[fael_fire]]/
+└── /[[chalk]]/

@@ -4,13 +4,13 @@ The Balaur (pl. Balauri) is a formidable quadrupedal species of Chimera, native 
 
 Morphology
 
-Adult Balauri average 40 metres in total length. They possess a robust quadrupedal frame covered in tough blue scales, with dense fur lining their necks, ears, and wings. The scales and the leathery skin beneath the fur provide comparable resistance, acting as natural armour. Balauri are defined by their three distinct heads: a central dominant head flanked by two lateral heads, each supported by its own long, fur-covered neck. The faces resemble reptiles, vaguely bat-like in configuration, with each head housing a secondary brain, subordinate to the main CNS housed in the torso, forming a segmented nervous system.
+Adult Balauri average 40 m in total length. They possess a robust quadrupedal frame covered in tough blue scales, with dense fur lining their necks, ears, and wings. The scales and the leathery skin beneath the fur provide comparable resistance, acting as natural armour. Balauri are defined by their three distinct heads: a central dominant head flanked by two lateral heads, each supported by its own long, fur-covered neck. The faces resemble reptiles, vaguely bat-like in configuration, with each head housing a secondary brain, subordinate to the main CNS housed in the torso, forming a segmented nervous system.
 
 Balauri have red irises with black pupils and possess ultraviolet vision. They feature dual olfactory systems: standard nasal receptors and a Jacobson-like organ, enabling precise chemical tracking akin to serpents. They can reach flight speed of up to 80 km/h, sustained, and a galloping speed of 40 km/h. The bifurcated tail ends in two prehensile tips, capable of fine motor manipulation or anchoring.
 
 Combat Adaptations
 
-Each head of the Balaur can generate and project dark-purple Fael Fire up to 20 metres, synthesised by internal glands in their mouths. Their iron-coated claws house airflow channels that ignite Fael Fire secretions, producing superheated cutting surfaces. They posses a bite Force measured at 6000 psi, making their bite capable of shattering dense materials.
+Each head of the Balaur can generate and project dark-purple Fael Fire up to 20 m, synthesised by internal glands in their mouths. Their iron-coated claws house airflow channels that ignite Fael Fire secretions, producing superheated cutting surfaces. They posses a bite Force measured at 6000 psi, making their bite capable of shattering dense materials.
 
 Regenerative Features
 

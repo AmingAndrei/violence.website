@@ -31,7 +31,7 @@ request 3: timed out
 ├── /[[here]]/ : : HERE research<br>
 ├── /[[species]]/ : : Xenobiological database<br>
 ├── /[[locations]]/ : : Notable locations<br>
-├── /[[materials]]/ : : Notable resources<br>
+├── /[[substances]]/ : : Notable resources<br>
 ├── /[[pathogens]]/ : : Biohazard database<br>
 ├── /[[languages]]/ : : Linguistic database<br>
 ├── /[[absolutes]]/ : : Notable discovered objects<br>

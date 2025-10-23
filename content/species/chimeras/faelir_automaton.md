@@ -4,7 +4,7 @@
 
 Physical Characteristics
 
-Each Faelir Automaton stands approximately 2.6 metres in height and is composed of a metallic alloy resembling brass. Their design closely mirrors traditional Fae armor, with a uniform appearance across units. The head of a Faelir Automaton is featureless apart from a set of eyes and horns, which are consistent in design among all individuals. Their forearms are typically shaped into swords, reflecting their primary role as combat-oriented sentinels.
+Each Faelir Automaton stands approximately 2.6 m in height and is composed of a metallic alloy resembling brass. Their design closely mirrors traditional Fae armour, with a uniform appearance across units. The head of a Faelir Automaton is featureless apart from a set of eyes and horns, which are consistent in design among all individuals. Their forearms are typically shaped into swords, reflecting their primary role as combat-oriented sentinels.
 
 Operational Mechanism
 

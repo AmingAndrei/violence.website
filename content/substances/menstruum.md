@@ -1,6 +1,6 @@
-[[index|...]]/[[materials]]/menstruum.md
+[[index|...]]/[[substances]]/menstruum.md
 
-Menstruum is a translucent, luminescent liquid substance produced by Mosaic species. It plays a fundamental role in the reproductive cycle of these organisms.
+Menstruum is a translucent, luminescent liquid substance produced by Mosaics. It plays a fundamental role in the reproductive cycle of these organisms.
 
 Properties
 

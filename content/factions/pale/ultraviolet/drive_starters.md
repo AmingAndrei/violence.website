@@ -4,9 +4,7 @@ A Drive Starter is a specialised, single-shot weapon engineered specifically to 
 
 Design
 
-Drive Starters are aesthetically and mechanically reminiscent of the Luger P08 pistol, featuring a wooden grip and a widened barrel. These devices are manually operated, requiring a reload after each discharge and capable of chambering only one round at a time.
-
-While theoretically able to fire standard ammunition, Drive Starters are specifically designed to interface with Charges, and Charges are only operable via a Drive Starter.
+Drive Starters are aesthetically and mechanically reminiscent of the Luger P08 pistol, featuring a wooden grip and a widened barrel. These devices are manually operated, requiring a reload after each discharge and capable of chambering only one round at a time. While theoretically able to fire standard ammunition, Drive Starters are specifically designed to interface with Charges, and Charges are only operable via a Drive Starter.
 
 Functionality
 

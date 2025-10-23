@@ -10,7 +10,7 @@ These entities possess a regenerative mechanism activated by engine activity. Ap
 
 Sensory Capabilities
 
-Steel Sharks are completely blind, with no visual processing capability. They detect light through tactile receptors, but possess no conceptual understanding of colour. Their primary perception relies on a multispectral system combining echolocation, thermal imaging, airwave sensitivity and chemoreception. This system achieves an average perceptual accuracy of 90% within a 100-metre radius. Their eyes, although responsive to stimuli, serve no functional purpose and are presumed cosmetic.
+Steel Sharks are completely blind, with no visual processing capability. They detect light through tactile receptors, but possess no conceptual understanding of colour. Their primary perception relies on a multispectral system combining echolocation, thermal imaging, airwave sensitivity and chemoreception. This system achieves an average perceptual accuracy of 90% within a 100 m radius. Their eyes, although responsive to stimuli, serve no functional purpose and are presumed cosmetic.
 
 Behavioural States
 
