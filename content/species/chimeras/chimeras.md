@@ -15,5 +15,4 @@ The method of secretion and manipulation varies inter-specifically, influenced b
 ► ls /<br>
 ├── /[[fae]]/<br>
 ├── /[[balauri]]/<br>
-├── /[[zmey]]/<br>
-└── /[[kobolde]]/
+└── /[[zmey]]/
