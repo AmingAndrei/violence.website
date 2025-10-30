@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[mosaics]]/somas.md
 
-The Soma is a sentient species of Mosaic, originating withing the OTHERWHERE. They represent a unique subclass of Mosaics, distinguished by their symbiotic interaction with external mechanical constructs, referred to as _shells_, which serve as both exoskeleton and interface.
+The Soma is a sentient species of Mosaic, originating withing the OTHERWHERE.
 
 Morphology
 
