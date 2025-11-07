@@ -13,7 +13,3 @@ Ekleipsanthus grows in small, isolated patches, generally composed of a limited 
 Biological Interactions
 
 The plant’s foliar tissue is highly alkaline and toxic to most known species, with decomposition products significantly increasing soil pH. Leaf edges are sharp, while internal leaf structure is fibrous and resistant to mechanical breakdown. The only known species capable of metabolising Ekleipsanthus foliage is the Clutch Beetle.
-
-Oil
-
-Ekleipsanthus produces nutrient-dense seeds, which are non-toxic and edible to humans and other species. The extracted oil is functionally similar to sunflower oil in texture and usability but exhibits a different fatty acid profile, particularly in omega-3 to omega-6 ratio. Notably, the oil lacks adverse effects associated with conventional high-linoleic oils, such as increased cardiovascular risk or neuroinflammation. Furthermore, it contains an unidentified bioactive compound associated with increased bone density, enhanced muscular strength and neuroprotective effects, including prevention of degenerative neural conditions.
