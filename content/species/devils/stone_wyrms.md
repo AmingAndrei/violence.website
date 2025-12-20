@@ -10,7 +10,7 @@ A defining characteristic of Stone Wyrms is the hollow structure of their bodies
 
 Their cellular structure is carbon-based, but with a silicate exterior, forming an outer shell that gives them a rock-like appearance and texture. This composition is further enhanced by specialised chromatophores, allowing the organism to change colour to blend seamlessly with surrounding rock formations.
 
-Unique Abilities
+Abilities
 
 Stone Wyrms exhibit a remarkable ability to pass through solid stone and rock. This is achieved by rapidly shifting their cellular structure and fusing with silicate-based materials, effectively allowing them to "swim" through solid ground without leaving a trace.
 
