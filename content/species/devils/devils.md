@@ -23,6 +23,7 @@ _Diavolos_ species are uniquely adapted to environments saturated with fear stim
 ► ls /<br>
 ├── /[[clutch_beetles]]/<br>
 ├── /[[crimson_nymphs]]/<br>
+├── /[[tyndall_hounds]]/<br>
 ├── /[[stone_wyrms]]/<br>
 ├── /[[steel_sharks]]/<br>
 └── /[[circuit_titans]]/

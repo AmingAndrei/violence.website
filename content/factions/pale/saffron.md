@@ -1,6 +1,6 @@
 [[index|...]]/[[factions]]/[[pale]]/saffron.md
 
-Saffron is an operational department within the governing structure of the Pale, tasked with  the oversight, production, regulation, and distribution of energy and material resources across the Chromatican City, as well as the management and containment of waste by-products.
+Saffron is an operational department within the governing structure of the Pale, tasked with the oversight, production, regulation, and distribution of energy and material resources across the Chromatican City, as well as the management and containment of waste by-products.
 
 Core Responsibilities
 
