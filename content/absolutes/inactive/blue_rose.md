@@ -16,4 +16,4 @@ The Blue Rose is believed to have utilised custom-forged silver rounds, distinct
 
 Status
 
-The Blue Rose is classified as inactive. The prevailing theory posits that the revolver was ultimately absorbed or integrated into the structure of 0x7468652052656420517565656e, following her confirmed encounter with the weapon.
+The Blue Rose is classified as inactive. The prevailing theory posits that the revolver was ultimately absorbed or integrated into the structure of `the Red Queen`, following her confirmed encounter with the weapon.
