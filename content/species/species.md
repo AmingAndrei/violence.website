@@ -15,7 +15,7 @@ Despite appearing organic in structure, possessing anatomical features analogous
 ├── /[[chimeras]]/<br>
 ├── /[[mosaics]]/<br>
 ├── /[[flora]]/<br>
-└── /[[0x616e67656c73]]/
+└── /[[𓆩𓆪]]/
 
 ► ln --context<br>
 └── /[[anima]]/
