@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/balauri.md
 
-The Balaur (pl. Balauri) is a formidable quadrupedal species of Chimera, native to the OTHERWHERE. These multi-headed, lizard-like beings are renowned for their powerful physiology and distinctive tripartite neuroanatomy.
+The Balaur (pl. Balauri) is a formidable quadrupedal species of Chimera, native to the OTHERWHERE. 
 
 Morphology
 

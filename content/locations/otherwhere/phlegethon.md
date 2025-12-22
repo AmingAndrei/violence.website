@@ -1,6 +1,6 @@
 [[index|...]]/[[locations]]/phlegethon.md
 
-The Phlegethon is a large, fluvial phenomenon located within the OTHERWHERE, notable for its highly unstable geography and unique biochemical composition.
+The Phlegethon is a large, fluvial phenomenon located within the OTHERWHERE.
 
 Characteristics
 

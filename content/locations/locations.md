@@ -1,11 +1,14 @@
 [[index|...]]/locations.md
 
-► ls /ashspace<br>
-└── /[[chromatican_city]]/
+► ls /here<br>
+├── /[[chromatican_city]]/<br>
+└── /[[dragon_veins]]/
 
-► ls /otherwhere/proximal_circle<br>
-└── /[[phlegethon]]/
-
-► ls /otherwhere/distal_circle<br>
+► ls /otherwhere/proximal_ring<br>
 ├── /[[phlegethon]]/<br>
+└── /[[ghost_houses]]/
+
+► ls /otherwhere/distal_ring<br>
+├── /[[phlegethon]]/<br>
+├── /[[ghost_houses]]/<br>
 └── /[[hephaestus]]/

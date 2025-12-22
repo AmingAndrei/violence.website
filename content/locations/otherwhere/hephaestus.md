@@ -1,6 +1,6 @@
 [[index|...]]/[[locations]]/hephaestus.md
 
-Hephaestus is a major structural landmark located within the Outer Dark region of the OTHERWHERE, notable for its scale, composition, and primary function as the origin and repair facility for Steel Sharks.
+Hephaestus is a major structural landmark located within the Distal Ring region of the OTHERWHERE.
 
 Structure
 
