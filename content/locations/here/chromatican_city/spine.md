@@ -5,6 +5,3 @@ The Spine is a monumental, metaphysical structure located at the exact geographi
 Structure
 
 Externally, the Spine appears as a towering mass of jagged, interwoven metals and exotic alloys, exhibiting a chaotic, haphazardly-welded appearance that belies its structural stability. The interior of the Spine is notoriously unstable, labyrinthine, and hostile, with its inner architecture only partially mapped.
-
-► ln --context<br>
-└── /[[𓄀]]/

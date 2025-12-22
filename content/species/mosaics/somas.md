@@ -15,5 +15,4 @@ Vulnerabilities
 Somas, while formidable within their shells, exhibit significant biological and operational weaknesses. The heart remains the single point of failure. Although it is housed within the chest cavity of the shell, a direct strike to the torso can fatally compromise the organism. Trauma to the shell can transfer partial damage to the internal organism. This makes indirect attacks (e.g., blunt force or high-impact collisions) potentially lethal over time. In many cases, decapitating a Soma shell does not kill the entity, but renders it catatonic, due to the severance of primary sensory and motor control conduits.
 
 ► ln --context<br>
-├── /[[vexers]]/<br>
-└── /[[⟳]]/
+└── /[[vexers]]/

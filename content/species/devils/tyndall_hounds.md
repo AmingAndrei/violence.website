@@ -4,7 +4,7 @@ The Tyndall Hound is a species of canine Devil, endemic to the OTHERWHERE.
 
 Morphology
 
-Tyndall Hounds are quadrupedal, with an average shoulder height of ~120 cm and a body length of ~160 cm. They possess a distinctly canine skeletal morphology, closely resembling the bone structure of terrestrial canids. All skeletal edges, including the teeth, are sharp and pointed. Notably, Tyndall Hounds lack a tail. The organism’s body is entirely skeletal in appearance, with no visible skin, musculature, or internal organs. Instead, all biological functions are performed by specialized super-cells, which resemble semi-opaque glass, also serving structural, sensory, and metabolic roles.
+Tyndall Hounds are quadrupedal, with an average shoulder height of ~120 cm and a body length of ~160 cm. They possess a distinctly canine skeletal morphology, closely resembling the bone structure of terrestrial canids. All skeletal edges, including the teeth, are sharp and pointed. Notably, Tyndall Hounds lack a tail. The organism’s body is entirely skeletal in appearance, with no visible skin, musculature, or internal organs. Instead, all biological functions are performed by specialised super-cells, which resemble semi-opaque glass, also serving structural, sensory, and metabolic roles.
 
 Abilities
 
