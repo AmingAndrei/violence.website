@@ -12,7 +12,7 @@ Combat Adaptations
 
 Each head of the Balaur can generate and project dark-purple Fael Fire up to 20 m, synthesised by internal glands in their mouths. Their iron-coated claws house airflow channels that ignite Fael Fire secretions, producing superheated cutting surfaces. They posses a bite Force measured at 6000 psi, making their bite capable of shattering dense materials.
 
-Regenerative Features
+Regeneration
 
 Each head's brain is semi-autonomous, allowing independent thought and behaviour. All brains remain coordinated through the central spinal-brain hub, maintaining unified motor control and survival intent. Severed heads can regenerate over time, the new head retains memories via main-brain backup, but personality may differ. If all three heads are destroyed, the organism will die, as critical autonomic functions (respiration, circulation) are regulated through the secondary brains.
 

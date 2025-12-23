@@ -1,6 +1,6 @@
 [[index|...]]/[[substances]]/tar.md
 
-Tar is a viscous, black substance produced as a metabolic by-product of Devils. It manifests as a thick, dark liquid with iridescent streaks that display rainbow-like coloration. Despite its appearance, Tar exhibits complex chemical and energetic properties distinct from naturally occurring tars or hydrocarbons.
+Tar is a viscous, black substance produced as a metabolic by-product of Devils. It manifests as a thick, dark liquid with iridescent streaks that display rainbow-like colouration. Despite its appearance, Tar exhibits complex chemical and energetic properties distinct from naturally occurring tars or hydrocarbons.
 
 Properties
 
