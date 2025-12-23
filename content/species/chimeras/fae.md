@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/fae.md
 
-The Fae are an intelligent, humanoid species of Chimera, native to the OTHERWHERE. Known for their mastery of Fael Fire and advanced biological and cultural adaptations, the Fae occupy a distinct role among the sapient species of the OTHERWHERE.
+The Fae are an intelligent, humanoid species of Chimera, native to the OTHERWHERE.
 
 Morphology
 
