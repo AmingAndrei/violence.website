@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/stone_wyrms.md
 
-The Stone Wyrm is a highly intelligent and aggressive species of pseudo-silicate Devil, endemic to the OTHERWHERE.
+The Stone Wyrm is a species of pseudo-silicate Devil, endemic to the OTHERWHERE.
 
 Morphology
 
@@ -31,7 +31,3 @@ Stone Wyrms sustain themselves by absorbing organic matter from soil and plant l
 Reproduction
 
 Stone Wyrms reproduce asexually, laying irregularly shaped eggs that resemble common boulders. These eggs are abandoned after being laid, and over time, they undergo a gradual transformation into juvenile Stone Wyrms rather than hatching in a traditional sense.
-
-Intelligence
-
-Stone Wyrms are exceptionally intelligent, displaying advanced cognitive abilities, including strategic thinking and complex problem-solving. However, they exhibit little to no interest in social interaction and remain solitary throughout their lifespan. Their lack of social bonds suggests either an inability or a disinterest in communal behaviour.
