@@ -7,35 +7,41 @@ Faevael is the language spoken natively by the Fae.
 - Plurality: Absent; singular and plural forms are identical, with contextual clarification
 - Gender: Absent; no grammatical gender distinctions
 
-IPA Chart
-
-|                         | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal |
+| CONSONANTS              | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal |
 | ----------------------- | -------- | ----------- | ------ | -------- | ------------ | --------- | ------- | ----- | ------ | ---------- | ------- |
 | **Plosive**             |          |             |        |          |              |           |         |       |        |            |         |
 | **Nasal**               |          |             |        |          |              |           |         |       |        |            |         |
-| **Trill**               |          |             |        |          |              |           |         |       |        |            |         |
+| **Trill**               |          |             |        | r        |              |           |         |       |        |            |         |
 | **Tap or Flap**         |          |             |        |          |              |           |         |       |        |            |         |
-| **Fricative**           |          |             |        |          |              |           |         |       |        |            |         |
+| **Fricative**           |          | f   v       |        |          |              |           |         |       |        |            |         |
 | **Lateral Fricative**   |          |             |        |          |              |           |         |       |        |            |         |
 | **Approximant**         |          |             |        |          |              |           |         |       |        |            |         |
-| **Lateral Approximant** |          |             |        |          |              |           |         |       |        |            |         |
+| **Lateral Approximant** |          |             |        | l        |              |           |         |       |        |            |         |
 
-| Root Morpheme |                 |
-| ------------- | --------------- |
-| fae           | person / people |
-| fael          | fire / warmth   |
+| VOWELS         | Front | Central | Back |
+| -------------- | ----- | ------- | ---- |
+| **Close**      | i     |         |      |
+| **Near-close** |       |         |      |
+| **Close-mid**  | e     |         |      |
+| **Mid**        |       |         |      |
+| **Open-mid**   |       |         |      |
+| **Near-open**  |       |         |      |
+| **Open**       |       |         |      |
 
-| Affixes |        |
-| ------- | ------ |
-| -ir     | tool   |
-| -vael   | speech |
+| Root Morpheme |       |                 |
+| ------------- | ----- | --------------- |
+| fae           | [fe]  | person / people |
+| fael          | [fel] | fire / warmth   |
+
+| Affixes |       |        |
+| ------- | ----- | ------ |
+| -ir     | [ir]  | tool   |
+| -vael   | [vel] | speech |
 
 
-| Lexicon |                   |
-| ------- | ----------------- |
-| fae     | person / people   |
-| fael    | fire / warmth     |
-| faelir  | automaton         |
-| faevael | language / tongue |
-
-
+| Lexicon |         |                   |
+| ------- | ------- | ----------------- |
+| fae     | [fe]    | person / people   |
+| fael    | [fel]   | fire / warmth     |
+| faelir  | [felir] | automaton         |
+| faevael | [fevel] | language / tongue |
