@@ -4,9 +4,7 @@ Chalk is a matte, fine white dust resembling ash in both appearance and texture 
 
 Toxicity
 
-Chalk is highly toxic to most known forms of life. Inhalation results in immediate respiratory distress, characterised by severe coughing, choking, and rapid asphyxiation. Ingestion causes perforation of the digestive tract and damage to blood vessels, leading to internal haemorrhaging. Even microorganisms are susceptible to its effects, and the substance has demonstrated the capacity to penetrate surfaces and disperse through aquatic environments, with traces recorded at depths of up to 11,000 m below the ocean surface.
-
-Prolonged exposure leads to acute Chalk poisoning, a condition marked by bronchiole necrosis and systemic toxicity as Chalk particles enter the bloodstream, progressively damaging internal organs. Notably, Chalk can bypass the blood–brain barrier, resulting in neurological deterioration in advanced cases.
+Chalk is highly toxic to most known forms of life. Inhalation results in immediate respiratory distress, characterised by severe coughing, choking, and rapid asphyxiation. Ingestion causes perforation of the digestive tract and damage to blood vessels, leading to internal haemorrhaging. Even microorganisms are susceptible to its effects, and the substance has demonstrated the capacity to penetrate surfaces and disperse through aquatic environments, with traces recorded at depths of up to 11,000 m below the ocean surface. Prolonged exposure leads to acute Chalk poisoning, a condition marked by bronchiole necrosis and systemic toxicity as Chalk particles enter the bloodstream, progressively damaging internal organs. Notably, Chalk can bypass the blood–brain barrier, resulting in neurological deterioration in advanced cases.
 
 Impact
 

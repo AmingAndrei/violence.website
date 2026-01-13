@@ -34,7 +34,6 @@ request 3: timed out
 ├── /[[locations]]/⠀⠀⠀: : Notable locations<br>
 ├── /[[substances]]/⠀⠀: : Notable resources<br>
 ├── /[[pathogens]]/⠀⠀ : : Biohazard database<br>
-├── /[[languages]]/⠀⠀ : : Linguistic database<br>
 ├── /[[absolutes]]/ ⠀⠀: : Notable discovered objects<br>
 └── /[[factions]]/ ⠀⠀ : : Notable groups
 
