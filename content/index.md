@@ -28,15 +28,15 @@ request 2: timed out<br>
 request 3: timed out
 
 ► ls /<br>
-├── /[[otherwhere]]/ : : OTHERWHERE research<br>
-├── /[[here]]/ : : HERE research<br>
-├── /[[species]]/ : : Xenobiological database<br>
-├── /[[locations]]/ : : Notable locations<br>
-├── /[[substances]]/ : : Notable resources<br>
-├── /[[pathogens]]/ : : Biohazard database<br>
-├── /[[languages]]/ : : Linguistic database<br>
-├── /[[absolutes]]/ : : Notable discovered objects<br>
-└── /[[factions]]/ : : Notable groups
+├── /[[otherwhere]]/⠀⠀: : OTHERWHERE research<br>
+├── /[[here]]/⠀⠀⠀⠀⠀⠀⠀: : HERE research<br>
+├── /[[species]]/  ⠀⠀⠀ : : Xenobiological database<br>
+├── /[[locations]]/⠀⠀⠀: : Notable locations<br>
+├── /[[substances]]/⠀⠀: : Notable resources<br>
+├── /[[pathogens]]/⠀⠀ : : Biohazard database<br>
+├── /[[languages]]/⠀⠀ : : Linguistic database<br>
+├── /[[absolutes]]/ ⠀⠀: : Notable discovered objects<br>
+└── /[[factions]]/ ⠀⠀ : : Notable groups
 
 ► <span style="
   animation: blink 1s steps(2, start) infinite;
