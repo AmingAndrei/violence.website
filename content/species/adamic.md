@@ -1,6 +1,6 @@
-[[index|...]]/[[languages]]/adamic.md
+[[index|...]]/[[species]]/adamic.md
 
-Adamic is a naturally occurring, anomalous language spoken exclusively by entities native to the OTHERWHERE. The language is notable for its perfect mutual intelligibility.
+Adamic is a naturally occurring, anomalous language spoken exclusively by entities native to the OTHERWHERE.
 
 Linguistic Properties
 

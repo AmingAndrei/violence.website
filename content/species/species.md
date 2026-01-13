@@ -17,4 +17,5 @@ Despite appearing organic in structure, possessing anatomical features analogous
 └── /[[flora]]/
 
 ► ln --context<br>
-└── /[[anima]]/
+├── /[[anima]]/<br>
+└── /[[adamic]]/
