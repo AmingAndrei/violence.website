@@ -26,3 +26,7 @@ article hr::before,
   text-overflow: clip;
   color: var(--secondary);
 }
+
+article + hr {
+  display: none;
+}
