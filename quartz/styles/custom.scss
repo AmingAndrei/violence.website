@@ -26,8 +26,3 @@ article hr::before,
   text-overflow: clip;
   color: var(--secondary);
 }
-
-footer hr {
-  all: unset;
-  display: none;
-}
