@@ -3,8 +3,9 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
-
-hr {
+article hr,
+.page-content hr,
+.content hr {
   overflow: visible;
   padding: 0;
   height: 0;
@@ -12,19 +13,6 @@ hr {
   border: none;
   text-align: center;
   width: 100%;
-
-  &:after {
-    content: "";
-    display: inline-block;
-  }
-}
-
-
-
-article hr,
-.page-content hr,
-.content hr {
-  border: none;
 }
 
 article hr::before,
