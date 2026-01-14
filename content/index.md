@@ -2,13 +2,15 @@
 aliases:
   - ...
 ---
-![[acheron_logo.png]]
+
+<p align="center">
+  <img src="/assets/acheron_logo.png" />
+</p>
 
 ==================================================================================================
-
-: : ACHERON DATABASE INTERFACE : :<br>
-: : VERSION 4.8.1-BETA : :
-
+<p align="center">
+  <img src="/assets/acheron_small_logo.png" />
+</p>
 ==================================================================================================
 
 
