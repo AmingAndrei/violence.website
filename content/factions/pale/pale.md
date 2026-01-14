@@ -12,9 +12,7 @@ The Pale is headquartered within the lower levels of the Spine. This positioning
 
 Organisational Structure
 
-The Pale is divided into multiple specialised departments, each tasked with managing a distinct aspect of city operations. At the apex of the Pale's hierarchy is the Executive, the de facto head of government and chief administrator. The Executive is vested with broad authority, including oversight of all departmental operations and direct management of city-scale policy decisions.
-
-The role of Executive is both powerful and burdensome, requiring constant supervision of not only bureaucratic functions but also the unpredictable interactions between the city, its citizens, and the outside. The Pale exercises total governance over the Chromatican City and maintains extraterritorial authority in all zones within operational reach.
+The Pale is divided into multiple specialised departments, each tasked with managing a distinct aspect of city operations. At the apex of the Pale's hierarchy is the Executive, the de facto head of government and chief administrator. The Executive is vested with broad authority, including oversight of all departmental operations and direct management of city-scale policy decisions. The Pale exercises total governance over the Chromatican City and maintains extraterritorial authority in all zones within operational reach.
 
 ► ls /<br>
 ├── /[[infrared]]/<br>
