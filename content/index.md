@@ -2,18 +2,18 @@
 aliases:
   - ...
 ---
-
 <p align="center">
   <img src="/assets/acheron_logo.png" />
 </p>
 
-==================================================================================================
+---
+<br>
 <p align="center">
   <img src="/assets/acheron_small_logo.png" />
 </p>
-==================================================================================================
 
-
+---
+<br>
 ► initialising system... : : OK<br>
 ► mounting volumes... : : OK<br>
 ► loading users... : : GUEST
