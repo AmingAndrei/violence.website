@@ -18,3 +18,23 @@ hr {
     display: inline-block;
   }
 }
+
+
+
+article hr,
+.page-content hr,
+.content hr {
+  border: none;
+}
+
+article hr::before,
+.page-content hr::before,
+.content hr::before {
+   content: "=================================================================================================";
+  display: block;
+  font-family: var(--mono);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  color: var(--secondary);
+}
