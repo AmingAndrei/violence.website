@@ -13,7 +13,6 @@ aliases:
 </p>
 
 ---
-<br>
 ► initialising system... : : OK<br>
 ► mounting volumes... : : OK<br>
 ► loading users... : : GUEST
