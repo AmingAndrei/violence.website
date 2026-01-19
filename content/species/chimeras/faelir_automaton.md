@@ -8,7 +8,7 @@ Each Faelir Automaton stands approximately 2.6 m in height and is composed of a 
 
 Operational Mechanism
 
-Faelir Automatons are powered by a Fael Fire core. The activation status of an Automaton is indicated by the illumination of its eyes, which serve as a visual marker of its operational state. These constructs are animated through an advanced yet rigid system that allows for movement and task execution. However, their cognitive capacity is significantly limited, restricting them to simple commands and preventing them from engaging in complex problem-solving or independent decision-making.
+Faelir Automatons are powered by a Phlogiston core. The activation status of an Automaton is indicated by the illumination of its eyes, which serve as a visual marker of its operational state. These constructs are animated through an advanced yet rigid system that allows for movement and task execution. However, their cognitive capacity is significantly limited, restricting them to simple commands and preventing them from engaging in complex problem-solving or independent decision-making.
 
 Function
 

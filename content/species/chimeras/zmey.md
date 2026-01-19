@@ -10,7 +10,7 @@ This exoskeleton exhibits micro-gapped panelling, permitting passive air circula
 
 Defence Mechanisms
 
-Zmey possess a yellow-spectrum variant of Fael Fire, expelled through a specialized glandular sac situated on the palatal roof. The species demonstrates both external deployment and internal defensive utilisation of Fael Fire. Zmey can project Fael Fire in a directed stream up to 10 m, used offensively or for area denial. Fael Fire is continuously secreted beneath the exoskeleton, where it auto-ignites upon contact with air, generating intense radiant heat that can vaporise water and inflict severe thermal injury upon contact. If the exoskeleton is compromised, Fael Fire is forcibly expelled through the breach, acting as a deterrent. The breach is sealed during the next moult cycle.
+Zmey possess a yellow-spectrum variant of Phlogiston, expelled through a specialized glandular sac situated on the palatal roof. The species demonstrates both external deployment and internal defensive utilisation of Phlogiston. Zmey can project Phlogiston in a directed stream up to 10 m, used offensively or for area denial. Phlogiston is continuously secreted beneath the exoskeleton, where it auto-ignites upon contact with air, generating intense radiant heat that can vaporise water and inflict severe thermal injury upon contact. If the exoskeleton is compromised, Phlogiston is forcibly expelled through the breach, acting as a deterrent. The breach is sealed during the next moult cycle.
 
 Reproduction
 

@@ -1,6 +1,7 @@
 [[index|...]]/[[factions]]/[[pale]]/ultraviolet.md
 
-Ultraviolet is a paramilitary division operating under the direct oversight of the Pale. Its primary function is to provide defence, reconnaissance, and response operations beyond the urban boundaries. While technically a department of the Pale, Ultraviolet reports exclusively to the Executive, bypassing other bureaucratic channels.
+<img src="/assets/ultraviolet_skull_minimalist.png" style="float:left; max-width:200px; margin: 0 0 2em 2em;" />
+Ultraviolet is a military division operating under the direct oversight of the Pale. Its primary function is to provide defence, reconnaissance, and response operations beyond the urban boundaries. While technically a department of the Pale, Ultraviolet reports exclusively to the Executive, bypassing other bureaucratic channels.
 
 Personnel Structure
 
