@@ -39,9 +39,9 @@ Faevael is the language spoken natively by the Fae.
 | -vael   | [vel] | speech |
 
 
-| Lexicon |         |                   |
-| ------- | ------- | ----------------- |
-| fae     | [fe]    | person / people   |
-| fael    | [fel]   | fire / warmth     |
-| faelir  | [felir] | automaton         |
-| faevael | [fevel] | language / tongue |
+| Lexicon |         |                    |
+| ------- | ------- | ------------------ |
+| fae     | [fe]    | person / people    |
+| fael    | [fel]   | fire / warmth      |
+| faelir  | [felir] | automaton/automata |
+| faevael | [fevel] | language / tongue  |

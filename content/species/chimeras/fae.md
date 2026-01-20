@@ -24,4 +24,4 @@ One of the most striking anomalies is the genomic similarity between Fae and hum
 
 ► ln --context<br>
 ├── /[[faevael]]/<br>
-└── /[[faelir_automaton]]/
+└── /[[automata]]/
