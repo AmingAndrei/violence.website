@@ -4,7 +4,7 @@ The Nightmare Shackle is an Absolute, resembling a network of chains.
 
 Design
 
-In its inactive state, the Nightmare Shackle presents as an intricately constructed mechanical device with a cubical form. Upon activation, the device undergoes a rapid unfolding process during which a series of chains emerge from the structure. These chains may deploy in random directions unless a target has been designated.
+In its inactive state, the Nightmare Shackle presents as a smooth, cubical black stone, displaying a ferrous appearance with a green sheen. Upon activation, the device undergoes a rapid transformation process during which a series of chains emerge from the structure. These chains may deploy in random directions unless a target has been designated.
 
 Characteristics
 
