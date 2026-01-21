@@ -6,5 +6,4 @@ Absolutes are a group of anomalous objects originating from the OTHERWHERE. Thes
 └── /[[nightmare_shackle]]/
 
 ► ls /absolutes/inactive<br>
-├── /[[black_box]]/<br>
-└── /[[blue_rose]]/
+└── /[[black_box]]/
