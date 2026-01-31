@@ -8,7 +8,7 @@ The Phlegethon typically measures approximately 1.5 km in width and maintains an
 
 Composition
 
-The Phlegethon is composed entirely of blood. Analytical sampling has confirmed the presence of haemoglobin and deoxyribonucleic acid (DNA) from a wide variety of iron-based lifeforms, including currently living species, extinct organisms and entities with no known biological counterparts. Human DNA is frequently detected among its components, and individual blood samples do not appear to cohere to any singular biological donor. The river maintains a constant temperature of 38°C. Notably, blood samples from the Phlegethon are immune to Haemolacerosis, and is universally compatible with all blood types in case of transfusion, regardless of species.
+The Phlegethon is composed entirely of blood. Analytical sampling has confirmed the presence of haemoglobin and deoxyribonucleic acid (DNA) from a wide variety of iron-based lifeforms, including currently living species, extinct organisms and entities with no known biological counterparts. Human DNA is frequently detected among its components, and individual blood samples do not appear to cohere to any singular biological donor. The river maintains a constant temperature of 38°C. Notably, blood samples from the Phlegethon are universally compatible with all blood types in case of transfusion, regardless of species.
 
 Behaviour
 
