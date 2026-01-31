@@ -36,7 +36,6 @@ request 3: timed out
 ├── /[[species]]/  ⠀⠀⠀ : : Xenobiological database<br>
 ├── /[[locations]]/⠀⠀⠀: : Notable locations<br>
 ├── /[[substances]]/⠀⠀: : Notable resources<br>
-├── /[[pathogens]]/⠀⠀ : : Biohazard database<br>
 ├── /[[absolutes]]/ ⠀⠀: : Notable discovered objects<br>
 └── /[[factions]]/ ⠀⠀ : : Notable groups
 

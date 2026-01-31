@@ -10,7 +10,7 @@ Faevael is the language spoken natively by the Fae.
 | CONSONANTS              | Bilabial | Labiodental | Dental | Alveolar | Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal |
 | ----------------------- | -------- | ----------- | ------ | -------- | ------------ | --------- | ------- | ----- | ------ | ---------- | ------- |
 | **Plosive**             |          |             |        |          |              |           |         |       |        |            |         |
-| **Nasal**               |          |             |        |          |              |           |         |       |        |            |         |
+| **Nasal**               | m        |             |        |          |              |           |         |       |        |            |         |
 | **Trill**               |          |             |        | r        |              |           |         |       |        |            |         |
 | **Tap or Flap**         |          |             |        |          |              |           |         |       |        |            |         |
 | **Fricative**           |          | f   v       |        |          |              |           |         |       |        |            |         |
