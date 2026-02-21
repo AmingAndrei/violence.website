@@ -30,7 +30,7 @@
 		{"id":"4c73ae3e7e1a8289","type":"file","file":"here/here.md","x":960,"y":-80,"width":400,"height":400},
 		{"id":"5f8253439ace5d4c","type":"file","file":"factions/pale/pale.md","x":960,"y":-1880,"width":400,"height":400,"color":"#edeade"},
 		{"id":"c863e049af300eee","type":"file","file":"factions/pale/vermilion/oasys.md","x":-280,"y":-2280,"width":400,"height":400,"color":"#e34234"},
-		{"id":"571a6cf0f5907f3a","type":"file","file":"factions/pale/vermilion/vermilion.md","x":320,"y":-2280,"width":400,"height":400,"color":"#e34234"},
+		{"id":"571a6cf0f5907f3a","type":"file","file":"factions/pale/vermilion.md","x":320,"y":-2280,"width":400,"height":400,"color":"#e34234"},
 		{"id":"5f56c83ce191d07f","type":"file","file":"factions/pale/saffron.md","x":520,"y":-2840,"width":400,"height":400,"color":"#f4c430"},
 		{"id":"b39cd22e9a756791","type":"file","file":"factions/pale/viridian.md","x":1360,"y":-2840,"width":400,"height":400,"color":"#40826d"},
 		{"id":"be5ab90299973240","type":"file","file":"factions/pale/cerulean.md","x":1640,"y":-2280,"width":400,"height":400,"color":"#007ba7"},

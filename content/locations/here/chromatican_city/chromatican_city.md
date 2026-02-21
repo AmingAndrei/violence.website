@@ -14,5 +14,4 @@ Uniquely among Ashen Winter locations, the Chromatican City occupies a climatica
 
 ► ln --context<br>
 ├── /[[spine]]/<br>
-├── /[[undercities]]/<br>
-└── /[[silo]]/
+└── /[[undercities]]/
