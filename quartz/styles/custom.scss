@@ -1,3 +1,32 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@use "./variables.scss" as *;
+
+article hr,
+.page-content hr,
+.content hr {
+  overflow: visible;
+  padding: 0;
+  height: 0;
+  margin: 2em auto;
+  border: none;
+  text-align: center;
+  width: 100%;
+}
+
+article hr::before,
+.page-content hr::before,
+.content hr::before {
+   content: "==============================================================================================================";
+  display: block;
+  font-family: var(--mono);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  color: var(--secondary);
+}
+
+article + hr {
+  display: none;
+}
