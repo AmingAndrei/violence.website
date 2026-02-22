@@ -14,7 +14,7 @@ Effects
 - A Chalk precipitation event commenced. This led to severe, respiratory asphyxiation, plant failure and infrastructure collapse under accumulated toxic particulates.
 - Early phases of the incident resulted in an estimated 1–2 billion human deaths, with additional global-scale losses in non-human life, including entire ecosystems.
 - The AWI is marked by the largest recorded intrusion HERE, with a rapid emergence of multiple _allokaryote_ species, primarily Devils. These intrusions precipitated an additional 6–7 billion human fatalities, the mass extinction of flora and fauna in vast geographic zones, and the full ecological collapse of numerous biomes. During this period, the Chromatican City manifested physically HERE.
-- `Contrary to initial theories positing nebulous obstruction, it was confirmed that the Sun, stars, and all known planetary and celestial bodies and phenomena, with the exception of a few observed exoplanets, had entirely vanished. Outer space is now described as a complete vacuum, devoid of observable matter or radiation.`
+- `Contrary to initial theories positing nebulous obstruction, it was confirmed that the Sun, stars, and all known planetary and celestial bodies and phenomena. Outer space is now described as a complete vacuum, devoid of observable matter or radiation.`
 - `Empirical evidence indicates a disruption in the flow of time between the Golden Autumn and Ashen Winter eras. Reports include subjective time gaps, memory loss, inconsistencies between objective and subjective temporal measurements, and apparent non-linearity of temporal progression during the incident itself.`
 
 Causation

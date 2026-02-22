@@ -1,6 +1,6 @@
-[[index|...]]/[[factions]]/[[pale]]/viridian.md
+[[index|...]]/[[factions]]/[[pale]]/viride.md
 
-Viridian is an operational department within the governing structure of the Pale, tasked with the oversight of agriculture, food production, ecological stability, and plant-based research within and around the Chromatican City.
+Viride is an operational department within the governing structure of the Pale, tasked with the oversight of agriculture, food production, ecological stability, and plant-based research within and around the Chromatican City.
 
 Core Responsibilities
 
@@ -21,4 +21,4 @@ Core Responsibilities
 
 Organisational Hierarchy
 
-Viridian is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.
+Viride is directed by a single Administrator, appointed internally and confirmed by the Executive. The Administrator reports directly to the Executive.
