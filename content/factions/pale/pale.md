@@ -16,11 +16,11 @@ Organisational Structure
 The Pale is divided into multiple specialised departments, each tasked with managing a distinct aspect of city operations. At the apex of the Pale's hierarchy is the Executive, the de facto head of government and chief administrator. The Executive is vested with broad authority, including oversight of all departmental operations and direct management of city-scale policy decisions. The Pale exercises total governance over the Chromatican City and maintains extraterritorial authority in all zones within operational reach.
 
 ► ls /<br>
-├── /[[infrared]]/<br>
-├── /[[vermilion]]/<br>
-├── /[[saffron]]/<br>
-├── /[[viridian]]/<br>
-├── /[[cerulean]]/<br>
+├── /[[rubrum]]/<br>
+├── /[[luteum]]/<br>
+├── /[[flavum]]/<br>
+├── /[[viride]]/<br>
+├── /[[caeruleus]]/<br>
 └── /[[ultraviolet]]/
 
 ► ln --context<br>
