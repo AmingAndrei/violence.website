@@ -20,6 +20,6 @@ Behaviour
 
 While classified as an OTHERWHERE species, all currently observed Circuit Titans are present HERE. Their sheer scale and widespread distribution make them visible from nearly any geographic vantage point.
 
-Circuit Titans are hypothesised to play a critical thermoregulatory role in the post-AWI environment. `In the absence of a solar body, these entities are capable of passively emitting or modulating thermal energy, thereby preventing planetary temperatures from reaching uninhabitable lows.`
+Circuit Titans are hypothesised to play a critical thermoregulatory role in the post-Hunt environment. `In the absence of a solar body, these entities are capable of passively emitting or modulating thermal energy, thereby preventing planetary temperatures from reaching uninhabitable lows.`
 
 In addition, Circuit Titans are capable of passively generating and manipulating electromagnetic fields, producing persistent and severe electrical storms in their immediate vicinity. These atmospheric disturbances manifest as frequent lightning activity.
