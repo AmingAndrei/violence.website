@@ -13,7 +13,7 @@ Core Responsibilities
     - Conducts ongoing studies into OTHERWHERE-native flora, examining their potential applications, under the supervision of Ultraviolet.
 
 3. Ecological Recovery
-    - Leads efforts to restore flora and fauna lost during the Ashen Winter Incident, focusing on genetic adaptation of extinct or endangered species and controlled reintroduction into stabilised zones.
+    - Leads efforts to restore flora and fauna lost during the Hunt, focusing on genetic adaptation of extinct or endangered species and controlled reintroduction into stabilised zones.
     - Works to maintain environmental habitability in the city and its outlying sectors for both humans and other species HERE.
 
 4. Environmental Monitoring

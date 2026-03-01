@@ -12,4 +12,4 @@ Upon activation, the Black Box undergoes a structural transformation in which al
 
 Status
 
-The Black Box was formerly under the control of Acheron. However, the object was lost during the Ashen Winter Incident, and its current location is unknown.
+The Black Box was formerly under the control of Acheron. However, the object was lost during the Hunt, and its current location is unknown.

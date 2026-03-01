@@ -8,4 +8,4 @@ In its inactive state, the Nightmare Shackle presents as a smooth, cubical black
 
 Characteristics
 
-The Nightmare Shackle exhibits the capacity to bind and restrain any targeted entity with no exception. During the targeting sequence, the chains emit a green luminescent glow along their length. Once attached, the chains demonstrate near-absolute binding integrity. Any attempt by the restrained entity to escape results in the redirection of exerted energy back into the chains. If any chain is damaged or broken during the initial trapping stage, it will reform and reattempt attachment. After the binding process has concluded, the chains cease to regenerate, maintaining their final configuration until deactivated.
+The Nightmare Shackle exhibits the capacity to bind and restrain any targeted entity with no exception. During the targeting sequence, the chains emit a green luminescent glow along their length. Once attached, the chains demonstrate near-absolute binding integrity. Any attempt by the restrained entity to escape results in the redirection of exerted energy back into the chains. If any chain is damaged or broken, it will reform and reattempt attachment.
