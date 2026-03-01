@@ -9,3 +9,6 @@ Chalk is highly toxic to most known forms of life. Inhalation results in immedia
 Impact
 
 Since the AWI, Chalk has become ubiquitous in the atmosphere, soil, and oceanic layers. Its persistent fall and high toxicity have rendered most ecosystems uninhabitable, leading to massive biodiversity loss. Despite this, certain _allokaryotic_ organisms exhibit partial resistance to Chalk’s degenerative effects. These species can survive in heavily contaminated environments without experiencing long-term physiological damage. Mosaics, notably, are not included in that category.
+
+► ln --context<br>
+└── /[[chalk_creatures]]/

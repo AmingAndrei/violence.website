@@ -21,6 +21,7 @@ The Pale is divided into multiple specialised departments, each tasked with mana
 ├── /[[flavum]]/<br>
 ├── /[[viride]]/<br>
 ├── /[[caeruleus]]/<br>
+├── /[[purpureum]]/<br>
 └── /[[ultraviolet]]/
 
 ► ln --context<br>
