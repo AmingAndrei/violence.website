@@ -56,7 +56,7 @@
 		{"id":"5fa8c1b9456ce466","type":"file","file":"locations/otherwhere/phlegethon.md","x":560,"y":960,"width":400,"height":400},
 		{"id":"19625ce4e9164842","type":"file","file":"substances/haemocarbon.md","x":-160,"y":1880,"width":400,"height":400},
 		{"id":"5171e09c7ad2ba71","type":"file","file":"species/chimeras/automata.md","x":-880,"y":1880,"width":400,"height":400,"color":"#ffbf00"},
-		{"id":"f88d0599235a6809","type":"file","file":"substances/chalk.md","x":1120,"y":1880,"width":400,"height":400},
+		{"id":"f88d0599235a6809","type":"file","file":"substances/chalk/chalk.md","x":1120,"y":1880,"width":400,"height":400},
 		{"id":"7d7558cc07136acb","type":"file","file":"substances/substances.md","x":480,"y":1880,"width":400,"height":400},
 		{"id":"d3ef3be5baecec84","type":"file","file":"substances/menstruum.md","x":40,"y":2707,"width":400,"height":400},
 		{"id":"c4e900a44adf564c","type":"file","file":"substances/tar.md","x":1040,"y":2707,"width":400,"height":400},
