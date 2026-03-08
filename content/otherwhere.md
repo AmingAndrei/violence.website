@@ -10,13 +10,13 @@ Gravity within the OTHERWHERE exists in a conceptual rather than conventional fo
 
 Geography
 
-At the geometric and magnetic core of the OTHERWHERE lies the Luxtree, around which the rest of the dimension orbits or arranges itself. The surrounding landmasses form a vast, generally planar disc of suspended islands. While most islands are located on this plane, some can be found at altitudes significantly above or below it.
+The OTHERWHERE is a vast, generally planar disc of suspended islands. While most islands are located on this plane, some can be found at altitudes significantly above or below it.
 
 These islands vary widely in both size and separation, with the largest exceeding 8,000 km in length. Depending on terrain, some islands are capable of supporting lakes, seas, or oceans.
 
 The Empty Line
 
-Beginning at a radial distance of approximately 20 million km from the Luxtree is the Empty Line. This region is defined by a near-complete absence of matter, including both solid landmasses and air particulates. Functionally, it acts as a barrier that cannot be traversed by non-specialised or non-self-propelled craft. The Empty Line stretches for 700,000 km, beyond which the dimensional conditions appear to reset, giving rise to two distinct regions: the Proximal Ring and the Distal Ring.
+Beginning at a radial distance of approximately 20 million km from the "centre" of the dimension is the Empty Line. This region is defined by a near-complete absence of matter, including both solid landmasses and air particulates. Functionally, it acts as a barrier that cannot be traversed by non-specialised or non-self-propelled craft. The Empty Line stretches for 700,000 km, beyond which the dimensional conditions appear to reset, giving rise to two distinct regions: the Proximal Ring and the Distal Ring.
 
 The only known method of traversing the Empty Line is through the occurrence of a naturally forming, temporary gravitational corridor where pressure and force equalise between the Sides. These corridors form habitable bridges that allow matter and vessels to safely traverse the otherwise impassable region.
 
