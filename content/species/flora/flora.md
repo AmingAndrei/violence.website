@@ -11,7 +11,6 @@ Atmospheric Contribution
 A majority of _Allokaryota_ flora engage in carbon intake and oxygen release, mimicking the gas exchange processes of plant life HERE. However, unlike ecosystems HERE, this function is non-essential to atmospheric viability in the OTHERWHERE. The air within the OTHERWHERE is inherently breathable, with no observable dependence on biological oxygen production or atmospheric filtration systems.
 
 ► ls /<br>
-├── /[[luxtree]]/<br>
 ├── /[[light_fields]]/<br>
 ├── /[[blood_lilies]]/<br>
 └── /[[ekleipsanthus]]/

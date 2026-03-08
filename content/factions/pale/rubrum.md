@@ -1,6 +1,6 @@
 [[index|...]]/[[factions]]/[[pale]]/rubrum.md
 
-<img src="/assets/infrared_skull_minimalist.png" style="float:left; max-width:200px; margin: 0 0 2em 2em;" />
+<img src="/assets/rubrum_skull_minimalist.png" style="float:left; max-width:200px; margin: 0 0 2em 2em;" />
 Rubrum is an operational department within the governing structure of the Pale, tasked with internal surveillance, civic enforcement, and the maintenance of containment systems.
 
 Core Responsibilities
