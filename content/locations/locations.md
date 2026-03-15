@@ -11,5 +11,4 @@
 
 ► ls /otherwhere/distal_ring<br>
 ├── /[[phlegethon]]/<br>
-├── /[[ghost_houses]]/<br>
-└── /[[hephaestus]]/
+└── /[[ghost_houses]]/<br>
