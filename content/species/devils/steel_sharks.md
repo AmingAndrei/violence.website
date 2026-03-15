@@ -39,4 +39,4 @@ Steel Sharks are categorised into several functional morphotypes, known as _kat
 
 Reproduction
 
-Steel Sharks do not reproduce biologically. Fabrication is restricted exclusively to Hephaestus, suggesting external, artificial manufacturing rather than natural replication. They display sexual dimorphism and gender cognition, though the biological function of these traits remains symbolic or vestigial.
+Steel Sharks do not reproduce biologically. They display sexual dimorphism and gender cognition, though the biological function of these traits remains symbolic or vestigial.
