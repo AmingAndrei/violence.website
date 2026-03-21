@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[mosaics]]/somas.md
 
-The Soma is a sentient species of Mosaic, originating withing the OTHERWHERE.
+The Soma is a sentient species of Mosaic, originating withing the FLIPSIDE.
 
 Morphology
 

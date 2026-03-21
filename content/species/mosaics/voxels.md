@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[mosaics]]/voxels.md
 
-Voxels are microscopic, pseudo-technological entities native to the OTHERWHERE, typically measuring only a few nanometres in diameter. Despite their biological origin, Voxels exhibit characteristics more consistent with artificial or synthetic constructs.
+Voxels are microscopic, pseudo-technological entities native to the FLIPSIDE, typically measuring only a few nanometres in diameter. Despite their biological origin, Voxels exhibit characteristics more consistent with artificial or synthetic constructs.
 
 Morphology
 

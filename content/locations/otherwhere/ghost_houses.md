@@ -1,6 +1,6 @@
 [[index|...]]/[[locations]]/ghost_houses.md
 
-A Ghost House is a type of anomalous structure sporadically encountered within the OTHERWHERE, appearing in both the Proximal and Distal Rings.
+A Ghost House is a type of anomalous structure sporadically encountered within the FLIPSIDE, appearing in both the Proximal and Distal Rings.
 
 Exterior
 

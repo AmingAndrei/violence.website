@@ -1,10 +1,10 @@
  [[index|...]]/[[species]]/chimeras.md
 
-The _Chimaeria_ class, commonly referred to as "Chimeras", comprises a group of entities within the _Allokaryota_ domain of the OTHERWHERE.
+The _Chimaeria_ class, commonly referred to as "Chimeras", comprises a group of entities within the _Allokaryota_ domain of the FLIPSIDE.
 
 Taxonomic Characteristics
 
-_Chimaeria_ entities are characterised by chimeric anatomy, incorporating biological features from multiple phyla. This anatomical hybridisation results in organisms with compound features. All _Chimaeria_ species are endothermic, possessing complex thermoregulatory mechanisms suited for the OTHERWHERE's variable environmental conditions, and many display tetradactyl limbs.
+_Chimaeria_ entities are characterised by chimeric anatomy, incorporating biological features from multiple phyla. This anatomical hybridisation results in organisms with compound features. All _Chimaeria_ species are endothermic, possessing complex thermoregulatory mechanisms suited for the FLIPSIDE's variable environmental conditions, and many display tetradactyl limbs.
 
 Phlogiston Manipulation
 

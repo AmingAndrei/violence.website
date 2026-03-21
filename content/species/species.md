@@ -1,6 +1,6 @@
 [[index|...]]/species.md
 
-_Allokaryota_ is the taxonomic domain assigned to all known life forms native to the OTHERWHERE. These entities exist entirely outside the biological principles and phylogenetic lineages recognised HERE, rendering conventional classification systems inapplicable.
+_Allokaryota_ is the taxonomic domain assigned to all known life forms native to the FLIPSIDE. These entities exist entirely outside the biological principles and phylogenetic lineages recognised HERE, rendering conventional classification systems inapplicable.
 
 Taxonomic Structure
 

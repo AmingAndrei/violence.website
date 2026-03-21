@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[mosaics]]/mimics.md
 
-The Mimic is a hostile, non-sentient species of Mosaic, originating within the OTHERWHERE.
+The Mimic is a hostile, non-sentient species of Mosaic, originating within the FLIPSIDE.
 
 Morphology
 

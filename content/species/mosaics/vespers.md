@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[mosaics]]/vespers.md
 
-The Vesper is a hostile, sentient species of Mosaic, originating within the OTHERWHERE.
+The Vesper is a hostile, sentient species of Mosaic, originating within the FLIPSIDE.
 
 Morphology
 

@@ -1,6 +1,6 @@
 [[index|...]]/[[substances]]/haemocarbon.md
 
-Haemocarbon is a crystalline-metallic substance native to the OTHERWHERE. It is visually identifiable by its deep red colouration, ranging from translucent crimson to opaque maroon, which gives the material its common designation. Despite its metallic lustre and superficial resemblance to hematite or iron, Haemocarbon exhibits structural characteristics more consistent with diamond-like carbon materials.
+Haemocarbon is a crystalline-metallic substance native to the FLIPSIDE. It is visually identifiable by its deep red colouration, ranging from translucent crimson to opaque maroon, which gives the material its common designation. Despite its metallic lustre and superficial resemblance to hematite or iron, Haemocarbon exhibits structural characteristics more consistent with diamond-like carbon materials.
 
 Properties
 

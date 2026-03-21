@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/naga.md
 
-The Naga are a species of amphibious Chimera, native to the OTHERWHERE. 
+The Naga are a species of amphibious Chimera, native to the FLIPSIDE. 
 
 Morphology
 

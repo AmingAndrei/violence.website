@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/fae.md
 
-The Fae are an intelligent, humanoid species of Chimera, native to the OTHERWHERE.
+The Fae are an intelligent, humanoid species of Chimera, native to the FLIPSIDE.
 
 Morphology
 

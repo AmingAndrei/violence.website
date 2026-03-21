@@ -5,10 +5,6 @@
 ├── /[[signal_stations]]/<br>
 └── /[[dragon_veins]]/
 
-► ls /otherwhere/proximal_ring<br>
+► ls /flipside<br>
 ├── /[[phlegethon]]/<br>
 └── /[[ghost_houses]]/
-
-► ls /otherwhere/distal_ring<br>
-├── /[[phlegethon]]/<br>
-└── /[[ghost_houses]]/<br>

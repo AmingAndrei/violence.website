@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/balauri.md
 
-The Balaur (pl. Balauri) is a formidable quadrupedal species of Chimera, native to the OTHERWHERE. 
+The Balaur (pl. Balauri) is a formidable quadrupedal species of Chimera, native to the FLIPSIDE. 
 
 Morphology
 
