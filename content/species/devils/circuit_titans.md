@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/circuit_titans.md
 
-The Circuit Titan is a species of colossal Devil, endemic to the OTHERWHERE, recognised as the largest recorded _allokaryote_ fauna species recorded.
+The Circuit Titan is a species of colossal Devil, endemic to the FLIPSIDE, recognised as the largest recorded _allokaryote_ fauna species recorded.
 
 Morphology
 
@@ -18,7 +18,7 @@ Internally, the eye cavity is lined with a substrate of photoreceptive-digestive
 
 Behaviour
 
-While classified as an OTHERWHERE species, all currently observed Circuit Titans are present HERE. Their sheer scale and widespread distribution make them visible from nearly any geographic vantage point.
+While classified as an FLIPSIDE species, all currently observed Circuit Titans are present HERE. Their sheer scale and widespread distribution make them visible from nearly any geographic vantage point.
 
 Circuit Titans are hypothesised to play a critical thermoregulatory role in the post-Hunt environment. `In the absence of a solar body, these entities are capable of passively emitting or modulating thermal energy, thereby preventing planetary temperatures from reaching uninhabitable lows.`
 

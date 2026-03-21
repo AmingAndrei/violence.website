@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/stone_wyrms.md
 
-The Stone Wyrm is a species of pseudo-silicate Devil, endemic to the OTHERWHERE.
+The Stone Wyrm is a species of pseudo-silicate Devil, endemic to the FLIPSIDE.
 
 Morphology
 

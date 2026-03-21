@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/flora.md
 
-Flora within the OTHERWHERE forms an integral part of the dimension’s ecological framework, fulfilling roles broadly analogous to those of plant life HERE. However, significant structural, metabolic, and functional differences distinguish _Allokaryota_ flora from conventional botanical taxa.
+Flora within the FLIPSIDE forms an integral part of the dimension’s ecological framework, fulfilling roles broadly analogous to those of plant life HERE. However, significant structural, metabolic, and functional differences distinguish _Allokaryota_ flora from conventional botanical taxa.
 
 Energy Acquisition
 
@@ -8,7 +8,7 @@ While many _Allokaryota_ plant species display traits consistent with photosynth
 
 Atmospheric Contribution
 
-A majority of _Allokaryota_ flora engage in carbon intake and oxygen release, mimicking the gas exchange processes of plant life HERE. However, unlike ecosystems HERE, this function is non-essential to atmospheric viability in the OTHERWHERE. The air within the OTHERWHERE is inherently breathable, with no observable dependence on biological oxygen production or atmospheric filtration systems.
+A majority of _Allokaryota_ flora engage in carbon intake and oxygen release, mimicking the gas exchange processes of plant life HERE. However, unlike ecosystems HERE, this function is non-essential to atmospheric viability in the FLIPSIDE. The air within the FLIPSIDE is inherently breathable, with no observable dependence on biological oxygen production or atmospheric filtration systems.
 
 ► ls /<br>
 ├── /[[light_fields]]/<br>

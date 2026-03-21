@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[chimeras]]/zmey.md
 
-The Zmey are a species of large, hexapodal, lizard-like Chimeras, native to the OTHERWHERE. 
+The Zmey are a species of large, hexapodal, lizard-like Chimeras, native to the FLIPSIDE. 
 
 Morphology
 

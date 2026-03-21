@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/crismon_nymphs.md
 
-The Crimson Nymph is a semi-vegetal, sentient species of Devil, endemic to the OTHERWHERE. 
+The Crimson Nymph is a semi-vegetal, sentient species of Devil, endemic to the FLIPSIDE. 
 
 Morphology
 

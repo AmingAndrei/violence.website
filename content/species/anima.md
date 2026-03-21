@@ -1,10 +1,10 @@
 [[index|...]]/[[species]]/anima.md
 
-The Anima is a radiation-like phenomenon that permeates the entirety of the OTHERWHERE and exists in trace concentrations HERE. Classified as a non-ionising, biologically integrated field, the Anima is regarded as one of the most foundational elements of the OTHERWHERE's anomalous ecosystem.
+The Anima is a radiation-like phenomenon that permeates the entirety of the FLIPSIDE and exists in trace concentrations HERE. Classified as a non-ionising, biologically integrated field, the Anima is regarded as one of the most foundational elements of the FLIPSIDE's anomalous ecosystem.
 
 Distribution
 
-In the OTHERWHERE, the Anima is uniformly distributed, saturating all known zones and structures. HERE, the Anima exists at measurably lower concentrations, generally undetectable without specialised equipment. However, its presence is consistent and verifiable in all known biomes HERE.
+In the FLIPSIDE, the Anima is uniformly distributed, saturating all known zones and structures. HERE, the Anima exists at measurably lower concentrations, generally undetectable without specialised equipment. However, its presence is consistent and verifiable in all known biomes HERE.
 
 Genetic Properties
 

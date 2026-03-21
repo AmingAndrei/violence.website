@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/steel_sharks.md
 
-The Steel Shark (Kinzokuzame: 金属鮫, "Metal Shark") is a sentient, highly intelligent, and overtly hostile species of pseudo-mechanical Devil, endemic to the OTHERWHERE.
+The Steel Shark (Kinzokuzame: 金属鮫, "Metal Shark") is a sentient, highly intelligent, and overtly hostile species of pseudo-mechanical Devil, endemic to the FLIPSIDE.
 
 Morphology
 
@@ -17,7 +17,7 @@ Behavioural States
 Steel Sharks operate in two distinct forms:
 
 - Low Power State: Inactive or resting form, resembling a mechanical weapon. Designs vary but are typically complex and symbolic of heavy machinery. In this state, they remain conscious and alert, even when un-fuelled, though catatonic. Despite functional weakness to water (due to mechanical analogues), they cannot be killed unless the engine core is fully destroyed.
-- Default State: Triggered upon consumption of blood or by being present in the OTHERWHERE, Steel Sharks undergo extensive reconfiguration, assuming fully humanoid shapes. These forms retain human-like anatomical structure, including limbs, facial features, hair, and musculature, while maintaining their alloy-based composition. This form is sustained only while blood is available, or, notably, when in the OTHERWHERE, requiring no fuel to sustain a humanoid form but it still being necessary for other functions. Upon depletion of blood, Steel Sharks revert to their low power state.
+- Default State: Triggered upon consumption of blood or by being present in the FLIPSIDE, Steel Sharks undergo extensive reconfiguration, assuming fully humanoid shapes. These forms retain human-like anatomical structure, including limbs, facial features, hair, and musculature, while maintaining their alloy-based composition. This form is sustained only while blood is available, or, notably, when in the FLIPSIDE, requiring no fuel to sustain a humanoid form but it still being necessary for other functions. Upon depletion of blood, Steel Sharks revert to their low power state.
 
 Technology Interaction
 

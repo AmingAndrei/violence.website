@@ -1,10 +1,10 @@
 [[index|...]]/substances.md
 
-Aberrant Matter is a form of exotic matter occurring naturally within the OTHERWHERE, constituting the physical substance of that dimension.
+Aberrant Matter is a form of exotic matter occurring naturally within the FLIPSIDE, constituting the physical substance of that dimension.
 
 Appearance
 
-In its most stable and prevalent form, Aberrant Matter presents as black marble interlaced with golden vein-like striations. This form accounts for approximately 90% of the total substance present within the OTHERWHERE.
+In its most stable and prevalent form, Aberrant Matter presents as black marble interlaced with golden vein-like striations. This form accounts for approximately 90% of the total substance present within the FLIPSIDE.
 
 Properties
 

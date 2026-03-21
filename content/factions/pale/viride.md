@@ -10,7 +10,7 @@ Core Responsibilities
     - Continuously works to maximise crop yield and bio-efficiency.
 
 2. Botanical Research
-    - Conducts ongoing studies into OTHERWHERE-native flora, examining their potential applications, under the supervision of Ultraviolet.
+    - Conducts ongoing studies into FLIPSIDE-native flora, examining their potential applications, under the supervision of Ultraviolet.
 
 3. Ecological Recovery
     - Leads efforts to restore flora and fauna lost during the Hunt, focusing on genetic adaptation of extinct or endangered species and controlled reintroduction into stabilised zones.

@@ -31,7 +31,7 @@ request 2: timed out<br>
 request 3: timed out
 
 ► ls /<br>
-├── /[[otherwhere]]/⠀⠀: : OTHERWHERE research<br>
+├── /[[flipside]]/⠀⠀: : FLIPSIDE research<br>
 ├── /[[here]]/⠀⠀⠀⠀⠀⠀⠀: : HERE research<br>
 ├── /[[species]]/  ⠀⠀⠀ : : Xenobiological database<br>
 ├── /[[locations]]/⠀⠀⠀: : Notable locations<br>

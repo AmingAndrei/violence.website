@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/adamic.md
 
-Adamic is a naturally occurring, anomalous language spoken exclusively by entities native to the OTHERWHERE.
+Adamic is a naturally occurring, anomalous language spoken exclusively by entities native to the FLIPSIDE.
 
 Linguistic Properties
 

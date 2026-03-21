@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[flora]]/ekleipsanthus.md
 
-Ekleipsanthus is a flowering plant species natives to the OTHERWHERE, noted for its morphological similarity to _Helianthus annuus_ (common sunflower), from which its name is derived.
+Ekleipsanthus is a flowering plant species natives to the FLIPSIDE, noted for its morphological similarity to _Helianthus annuus_ (common sunflower), from which its name is derived.
 
 Morphology
 

@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/tyndall_hounds.md
 
-The Tyndall Hound is a species of canine Devil, endemic to the OTHERWHERE.
+The Tyndall Hound is a species of canine Devil, endemic to the FLIPSIDE.
 
 Morphology
 

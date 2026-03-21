@@ -1,6 +1,6 @@
 [[index|...]]/[[species]]/[[devils]]/clutch_beetles.md
 
-The Clutch Beetle is an insectoid, invertebrate species of Devil, endemic to the OTHERWHERE.
+The Clutch Beetle is an insectoid, invertebrate species of Devil, endemic to the FLIPSIDE.
 
 Morphology
 
