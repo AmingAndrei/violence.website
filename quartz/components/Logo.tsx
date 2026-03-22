@@ -12,12 +12,13 @@ Logo.css = `
 .site-logo {
   display: flex;
   justify-content: center;
-  align-items: center;
-  padding: 1.5rem 0 0.5rem;
+  width: 100%;
 }
+
 .site-logo img {
-  max-height: 72px;
+  height: 117px;
   width: auto;
+  max-height: none;
 }
 `
 
