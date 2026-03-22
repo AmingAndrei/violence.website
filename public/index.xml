@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Acheron Database</title>
+      <link>https://acheron-database.pages.dev</link>
+      <description>Last 10 notes on Acheron Database</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://acheron-database.pages.dev/</link>
+    <guid>https://acheron-database.pages.dev/</guid>
+    <description> ► initialising system.. : : OK ► mounting volumes.. : : OK ► loading users..</description>
+    <pubDate>Sun, 22 Mar 2026 20:28:21 GMT</pubDate>
+  </item><item>
+    <title>absolutes</title>
+    <link>https://acheron-database.pages.dev/absolutes/absolutes</link>
+    <guid>https://acheron-database.pages.dev/absolutes/absolutes</guid>
+    <description>…/absolutes.md Absolutes are a group of anomalous objects originating from the FLIPSIDE.</description>
+    <pubDate>Sat, 21 Mar 2026 12:57:50 GMT</pubDate>
+  </item><item>
+    <title>acheron</title>
+    <link>https://acheron-database.pages.dev/factions/pale/acheron</link>
+    <guid>https://acheron-database.pages.dev/factions/pale/acheron</guid>
+    <description>…/factions/pale/acheron.md Acheron was a clandestine, multidisciplinary research programme headquartered in the Carpathian Mountains, formed by a coalition of nine private research entities.</description>
+    <pubDate>Sat, 21 Mar 2026 12:57:50 GMT</pubDate>
+  </item><item>
+    <title>viride</title>
+    <link>https://acheron-database.pages.dev/factions/pale/viride</link>
+    <guid>https://acheron-database.pages.dev/factions/pale/viride</guid>
+    <description>…/factions/pale/viride.md Viride is an operational department within the governing structure of the Pale, tasked with the oversight of agriculture, food production, ecological stability, and plant-based research within and around the Chromatican City.</description>
+    <pubDate>Sat, 21 Mar 2026 12:57:50 GMT</pubDate>
+  </item><item>
+    <title>flipside</title>
+    <link>https://acheron-database.pages.dev/flipside</link>
+    <guid>https://acheron-database.pages.dev/flipside</guid>
+    <description>…/flipside.md The FLIPSIDE is an anomalous dimension.</description>
+    <pubDate>Sat, 21 Mar 2026 12:57:50 GMT</pubDate>
+  </item><item>
+    <title>dragon_veins</title>
+    <link>https://acheron-database.pages.dev/locations/here/dragon_veins</link>
+    <guid>https://acheron-database.pages.dev/locations/here/dragon_veins</guid>
+    <description>…/locations/dragon_veins.md Dragon Veins are anomalous geographical phenomena characterised by intensified interaction between HERE and the FLIPSIDE.</description>
+    <pubDate>Sat, 21 Mar 2026 12:57:50 GMT</pubDate>
+  </item><item>
+    <title>locations</title>
+    <link>https://acheron-database.pages.dev/locations/locations</link>
+    <guid>https://acheron-database.pages.dev/locations/locations</guid>
+    <description>…/locations.md ► ls /here ├── /chromatican_city/ ├── /signal_stations/ └── /dragon_veins/ ► ls /flipside ├── /phlegethon/ └── /ghost_houses/.</description>
+    <pubDate>Sat, 21 Mar 2026 12:57:50 GMT</pubDate>
+  </item><item>
+    <title>ghost_houses</title>
+    <link>https://acheron-database.pages.dev/locations/otherwhere/ghost_houses</link>
+    <guid>https://acheron-database.pages.dev/locations/otherwhere/ghost_houses</guid>
+    <description>…/locations/ghost_houses.md A Ghost House is a type of anomalous structure sporadically encountered within the FLIPSIDE, appearing in both the Proximal and Distal Rings.</description>
+    <pubDate>Sat, 21 Mar 2026 12:57:50 GMT</pubDate>
+  </item><item>
+    <title>phlegethon</title>
+    <link>https://acheron-database.pages.dev/locations/otherwhere/phlegethon</link>
+    <guid>https://acheron-database.pages.dev/locations/otherwhere/phlegethon</guid>
+    <description>…/locations/phlegethon.md The Phlegethon is a large, fluvial phenomenon located within the FLIPSIDE.</description>
+    <pubDate>Sat, 21 Mar 2026 12:57:50 GMT</pubDate>
+  </item><item>
+    <title>adamic</title>
+    <link>https://acheron-database.pages.dev/species/adamic</link>
+    <guid>https://acheron-database.pages.dev/species/adamic</guid>
+    <description>…/species/adamic.md Adamic is a naturally occurring, anomalous language spoken exclusively by entities native to the FLIPSIDE.</description>
+    <pubDate>Sat, 21 Mar 2026 12:57:50 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
