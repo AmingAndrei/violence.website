@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor } from "./types"
 const Logo: QuartzComponent = () => {
   return (
     <div class="site-logo">
-      <img src="/static/logo.png" alt="VIOLENCE" />
+      <img src="/logo.png" alt="VIOLENCE" />
     </div>
   )
 }
