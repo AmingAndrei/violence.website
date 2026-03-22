@@ -25,7 +25,7 @@ export default (() => {
   return () => (
     <div class="site-logo">
       <a href="/">
-        <img src="/static/logo.png" alt="VIOLENCE" />
+        <img src="static/logo.png" alt="VIOLENCE" />
       </a>
     </div>
   )
