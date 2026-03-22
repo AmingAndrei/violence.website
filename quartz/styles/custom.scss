@@ -30,3 +30,15 @@ article hr::before,
 article + hr {
   display: none;
 }
+
+.site-logo {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.site-logo img {
+  height: 117px;
+  width: auto;
+  max-height: none;
+}
