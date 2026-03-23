@@ -2,6 +2,7 @@
 .gitignore
 node_modules
 prof
+public
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
