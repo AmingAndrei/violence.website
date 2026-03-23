@@ -6,6 +6,7 @@ export default (() => {
       <a href="/">
         <img src="/static/logo.png" alt="VIOLENCE" />
       </a>
+      <div class="header-rule"></div>
     </div>
   )
 
