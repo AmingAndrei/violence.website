@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Acheron Database",
-    pageTitleSuffix: " - Acheron Database",
+    pageTitle: "VIOLENCE",
+    pageTitleSuffix: " // VIOLENCE",
     enableSPA: true,
     enablePopovers: false,
     analytics: {
