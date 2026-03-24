@@ -70,13 +70,13 @@ export default (() => {
       }
 
       ctx.fillStyle = 'rgba(0,0,0,1)';
-ctx.fillRect(0, 0, W, hy - 30);
+ctx.fillRect(0, 0, W, hy + 2);
 
-const sky = ctx.createLinearGradient(0, hy - 30, 0, hy + 2);
+const sky = ctx.createLinearGradient(0, hy + 2, 0, hy + 18);
 sky.addColorStop(0, 'rgba(0,0,0,1)');
 sky.addColorStop(1, 'rgba(0,0,0,0)');
 ctx.fillStyle = sky;
-ctx.fillRect(0, hy - 30, W, 32);
+ctx.fillRect(0, hy + 2, W, 16);
     }
 
     function frame(ts) {
