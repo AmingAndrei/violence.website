@@ -5,14 +5,13 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [Component.Logo()],
-  afterBody: [],
+  afterBody: [Component.GridBackground()],
   footer: Component.Footer(),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-  ],
+  beforeBody: [Component.GridBackground()],
   left: [
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({

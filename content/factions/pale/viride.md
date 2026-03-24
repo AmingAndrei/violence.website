@@ -14,7 +14,7 @@ Core Responsibilities
 
 3. Ecological Recovery
     - Leads efforts to restore flora and fauna lost during the Hunt, focusing on genetic adaptation of extinct or endangered species and controlled reintroduction into stabilised zones.
-    - Works to maintain environmental habitability in the city and its outlying sectors for both humans and other species HERE.
+    - Works to maintain environmental habitability in the city and its outlying sectors for both humans and other species.
 
 4. Environmental Monitoring
     - Continuously evaluates air quality, soil composition, and biome health within city zones.

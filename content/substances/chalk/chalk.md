@@ -1,6 +1,6 @@
 [[index|...]]/[[substances]]/chalk.md
 
-Chalk is a matte, fine white dust resembling ash in both appearance and texture found extensively HERE, now distributed across the entire world. Following the Hunt, Chalk became a pervasive environmental hazard, responsible for widespread fatalities and the near-complete sterilisation of the planet. Its precise origin remains unknown, as it continues to fall indefinitely with no identifiable source. Its primary component is calcium carbonate, though the remainder of its composition remains unidentified. It has been confirmed, however, that Chalk is composed of Aberrant Matter.
+Chalk is a matte, fine white dust resembling ash in both appearance and texture, now distributed across the entire world. Following the Hunt, Chalk became a pervasive environmental hazard, responsible for widespread fatalities and the near-complete sterilisation of the planet. Its precise origin remains unknown, as it continues to fall indefinitely with no identifiable source. Its primary component is calcium carbonate, though the remainder of its composition remains unidentified. It has been confirmed, however, that Chalk is composed of Aberrant Matter.
 
 Toxicity
 

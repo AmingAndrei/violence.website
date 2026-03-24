@@ -1,5 +1,3 @@
 [[index|...]]/flipside.md
 
-The FLIPSIDE is an anomalous dimension. The atmosphere in the FLIPSIDE is breathable and chemically analogous to that HERE, breathable by species HERE. All organisms indigenous to this dimension are classified under the _Allokaryota_ domain.
-
-The FLIPSIDE exhibits a hostile reaction to the presence of any object not composed of Aberrant Matter. When such foreign matter enters the dimension, it is violently destroyed. This process leaves no physical remnants and produces no detectable release of energy. The rate of destruction is proportional to the size and mass of the intruding object, with smaller objects and organisms being eradicated more rapidly than larger ones.
+The FLIPSIDE is an anomalous dimension. All organisms indigenous to this dimension are classified under the _Allokaryota_ domain. The FLIPSIDE exhibits a hostile reaction to the presence of any object not composed of Aberrant Matter. When such foreign matter enters the dimension, it is violently destroyed. This process leaves no physical remnants and produces no detectable release of energy. The rate of destruction is proportional to the size and mass of the intruding object, with smaller objects and organisms being eradicated more rapidly than larger ones.

@@ -2,7 +2,7 @@
 aliases:
   - ...
 ---
-► initialising system... : : OK<br>
+h► initialising system... : : OK<br>
 ► mounting volumes... : : OK<br>
 ► loading users... : : GUEST
 
@@ -20,13 +20,13 @@ request 2: timed out<br>
 request 3: timed out
 
 ► ls /<br>
-├── /[[flipside]]/  ⠀⠀: : FLIPSIDE research<br>
-├── /[[here]]/⠀⠀⠀⠀⠀⠀⠀: : HERE research<br>
+├── /[[flipside]]/  ⠀   ⠀: : FLIPSIDE research<br>
+├── /[[the_hunt]]/⠀⠀⠀: : Information about the Hunt<br>
 ├── /[[species]]/  ⠀⠀⠀ : : Xenobiological database<br>
 ├── /[[locations]]/⠀⠀⠀: : Notable locations<br>
 ├── /[[substances]]/⠀⠀: : Notable resources<br>
-├── /[[absolutes]]/ ⠀⠀: : Notable discovered objects<br>
-└── /[[factions]]/ ⠀⠀ : : Notable groups
+├── /[[absolutes]]/  ⠀⠀: : Notable discovered objects<br>
+└── /[[factions]]/ ⠀⠀   : : Notable groups
 
 ► <span style="
   animation: blink 1s steps(2, start) infinite;
