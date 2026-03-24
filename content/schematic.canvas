@@ -46,7 +46,7 @@
 		{"id":"61b408e31cf988f5","type":"file","file":"locations/here/chromatican_city/undercities.md","x":1160,"y":720,"width":400,"height":400},
 		{"id":"a2dda69fe0493ac4","type":"file","file":"locations/here/chromatican_city/undercities.md","x":1640,"y":1240,"width":400,"height":400},
 		{"id":"fa10dd21d5547f9d","type":"file","file":"species/𓆩𓆪.md","x":-3960,"y":-1080,"width":400,"height":400},
-		{"id":"aadeff3bcc6ede37","type":"file","file":"here/the_hunt.md","x":400,"y":320,"width":400,"height":400},
+		{"id":"aadeff3bcc6ede37","type":"file","file":"the_hunt.md","x":400,"y":320,"width":400,"height":400},
 		{"id":"75c96fe59b5adf84","type":"file","file":"factions/pale/acheron.md","x":560,"y":-800,"width":400,"height":400,"color":"#ffd700"},
 		{"id":"ccc3624c76f6d0f1","type":"text","text":" acherondatabase.xyz","x":360,"y":-105,"width":200,"height":50,"color":"#ffd700"},
 		{"id":"21491fc5d9c5c11a","type":"file","file":"factions/pale/ultraviolet/lam.md","x":2280,"y":-1160,"width":400,"height":400,"color":"#da70d6"},

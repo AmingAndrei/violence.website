@@ -1,6 +1,6 @@
 [[index|...]]/locations.md
 
-► ls /here<br>
+► ls /home<br>
 ├── /[[chromatican_city]]/<br>
 ├── /[[signal_stations]]/<br>
 └── /[[dragon_veins]]/

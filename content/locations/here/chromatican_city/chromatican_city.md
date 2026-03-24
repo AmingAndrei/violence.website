@@ -1,6 +1,6 @@
 [[index|...]]/[[locations]]/chromatican_city.md
 
-The Chromatican City is a vast, anomalous metropolitan construct that manifested HERE spontaneously during the events of the Hunt. Encompassing an estimated area of 7,125 km², with an approximate population of 100 million citizens, including non-human inhabitants.
+The Chromatican City is a vast, anomalous metropolitan construct that manifested spontaneously during the events of the Hunt. Encompassing an estimated area of 7,125 km², with an approximate population of 100 million citizens, including non-human inhabitants.
 
 Manifestation
 

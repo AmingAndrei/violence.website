@@ -1,6 +1,6 @@
 [[index|...]]/[[locations]]/dragon_veins.md
 
-Dragon Veins are anomalous geographical phenomena characterised by intensified interaction between HERE and the FLIPSIDE.
+Dragon Veins are anomalous geographical phenomena characterised by intensified interaction between our world and the FLIPSIDE.
 
 Properties
 

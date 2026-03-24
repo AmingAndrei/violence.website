@@ -1,6 +1,6 @@
 [[index|...]]/[[substances]]/phlogiston.md
 
-Phlogiston is an anomalous, highly volatile substance exclusively synthesised and wielded by the Chimeras. Functioning as both a biological weapon and defensive mechanism, Phlogiston exhibits characteristics comparable to a hybrid of kerosene and napalm, while also displaying unique properties not replicable in chemistry HERE.
+Phlogiston is an anomalous, highly volatile substance exclusively synthesised and wielded by the Chimeras. Functioning as both a biological weapon and defensive mechanism, Phlogiston exhibits characteristics comparable to a hybrid of kerosene and napalm, while also displaying unique properties not replicable in chemistry.
 
 Properties
 
