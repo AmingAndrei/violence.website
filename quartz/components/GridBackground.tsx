@@ -49,24 +49,25 @@ export default (() => {
         ctx.stroke();
       }
 
-      const speed  = 0.38;
+      const speed  = 0.6;
       const offset = (elapsed / 1000 * speed) % 1;
-      const nh     = 26;
+      const nh     = 80;
       const hw     = spd / 2;
       ctx.lineWidth = 0.55;
 
       for (let i = 0; i < nh; i++) {
-        const w = (i + 1) - offset;
-        if (w <= 0.01) continue;
-        const sy = hy + (H - hy) / w;
-        if (sy < hy || sy > H + 2) continue;
-        const f  = (sy - hy) / (H - hy);
-        const op = f * 0.45 + 0.08;
-        ctx.beginPath();
-        ctx.moveTo(Math.max(-40, vx - hw * f), sy);
-        ctx.lineTo(Math.min(W + 40, vx + hw * f), sy);
-        ctx.strokeStyle = 'rgba(255,255,255,' + op + ')';
-        ctx.stroke();
+          const w = Math.pow(1.25, (nh - i) - offset);
+          if (w <= 0.01) continue;
+          const sy = hy + (H - hy) / w;
+          if (sy < hy || sy > H + 2) continue;
+          const f  = (sy - hy) / (H - hy);
+          const op = f * 0.45 + 0.08;
+          ctx.beginPath();
+          ctx.moveTo(Math.max(-40, vx - hw * f), sy);
+          ctx.lineTo(Math.min(W + 40, vx + hw * f), sy);
+          ctx.strokeStyle = 'rgba(255,255,255,' + op + ')';
+          ctx.lineWidth = 0.55;
+          ctx.stroke();
       }
 
       ctx.fillStyle = 'rgba(0,0,0,1)';
