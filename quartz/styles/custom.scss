@@ -39,3 +39,19 @@ article + hr {
   max-height: none;
 }
 
+.page > .page-header,
+.page > #quartz-body,
+.page > footer {
+  margin: 0 auto;
+  max-width: 1800px;
+  width: 100%;
+}
+
+#quartz-body {
+  display: block !important;
+}
+
+.sidebar.left,
+.sidebar.right {
+  display: none !important;
+}
