@@ -1,8 +1,9 @@
 ---
 aliases:
   - ...
+title: HOME
 ---
-h► initialising system... : : OK<br>
+► initialising system... : : OK<br>
 ► mounting volumes... : : OK<br>
 ► loading users... : : GUEST
 
