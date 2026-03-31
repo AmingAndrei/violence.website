@@ -25,6 +25,10 @@ article + hr {
   color: var(--secondary);
 }
 
+a.anchor {
+  display: none;
+}
+
 .site-logo {
   display: flex;
   flex-direction: column;
@@ -54,4 +58,11 @@ article + hr {
 .sidebar.left,
 .sidebar.right {
   display: none !important;
+}
+
+article p,
+article li,
+article td {
+  font-size: 1.3rem;
+  line-height: 1.8;
 }

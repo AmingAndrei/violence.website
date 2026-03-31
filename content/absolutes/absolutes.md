@@ -1,9 +1,0 @@
-[[index|...]]/absolutes.md
-
-Absolutes are a group of anomalous objects originating from the FLIPSIDE. These items are distinguished by the presence of unique, irreproducible properties or abilities that cannot be reliably replicated through known means.
-
-► ls /absolutes/active<br>
-└── /[[nightmare_shackle]]/
-
-► ls /absolutes/inactive<br>
-└── /[[black_box]]/
