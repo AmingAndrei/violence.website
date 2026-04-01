@@ -56,7 +56,7 @@ export default (() => {
         ctx.moveTo(vx, hy);
         ctx.lineTo(bx, H);
         ctx.strokeStyle = 'rgba(255,255,255,' + op + ')';
-        ctx.lineWidth = 0.55;
+        ctx.lineWidth = 0.7;
         ctx.stroke();
       }
 
@@ -64,7 +64,7 @@ export default (() => {
       const offset = (elapsed / 1000 * speed) % 1;
       const nh     = 80;
       const hw     = spd / 2;
-      ctx.lineWidth = 0.55;
+      ctx.lineWidth = 0.7;
 
       for (let i = 0; i < nh; i++) {
         const w = Math.pow(1.25, (nh - i) - offset);
@@ -77,7 +77,7 @@ export default (() => {
         ctx.moveTo(Math.max(-40, vx - hw * f), sy);
         ctx.lineTo(Math.min(W + 40, vx + hw * f), sy);
         ctx.strokeStyle = 'rgba(255,255,255,' + op + ')';
-        ctx.lineWidth = 0.55;
+        ctx.lineWidth = 0.7;
         ctx.stroke();
       }
 

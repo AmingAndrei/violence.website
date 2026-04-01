@@ -4,7 +4,7 @@ aliases:
 title: HOME
 ---
 
-VIOLENCE is a science fantasy and horror multimedia series and worldbuilding project created by Andrei "Aming" Cristian, revolving around the interaction between two alternate dimensions and its inhabitants. Viewer discretion is advised, as this series contains scenes and mentions of explicit gore, blood, and violence. Obviously.
+VIOLENCE is a science fantasy and horror multimedia series and worldbuilding project first created by Andrei "Aming" Cristian, revolving around the interaction between two alternate dimensions and its inhabitants. Viewer discretion is advised, as this series contains scenes and mentions of explicit gore, blood, and violence. Obviously.
 <br>
 
 ---
@@ -34,3 +34,20 @@ VIOLENCE is a science fantasy and horror multimedia series and worldbuilding pro
 </div>
 
 ---
+
+# CREDITS<br>
+<br>
+<img src="assets/aming.png" style="float:left;width:190px;margin:30px 20px 8px 0;" />
+
+# .aming // director, writer
+
+Hello! I am the creator of this series, that is me. It originally started as a crackfic between... I want to say Control, Devil May Cry and... Evangelion, I think? The worldbuilding went through multiple stages, most of which were kitchen sinks. The version you're currently seeing is the most refined yet. I am also the writer of the VIOLENCE books and stories.
+<div style="clear:left;"></div>
+<br><br><br><br>
+
+<img src="assets/jackyzha0.png" style="float:left;width:190px;margin:30px 20px 8px 0;" />
+
+# .jackyzha0 // quartz
+
+If you were wondering: yes, this site is made using Quartz, or rather a highly customised (and butchered) version of it. For those not in the known, it's allows me to directly turn Markdown files into HTMLs, and then into a functioning website. Legally, I'm pretty sure I can omit mentioning him, but it didn't sit right, so here he is.
+<div style="clear:left;"></div>
