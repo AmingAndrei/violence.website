@@ -41,7 +41,7 @@ VIOLENCE is a science fantasy and horror multimedia series and worldbuilding pro
 
 # .aming // director, writer
 
-Hello! I am the creator of this series, that is me. It originally started as a crackfic between... I want to say Control, Devil May Cry and... Evangelion, I think? The worldbuilding went through multiple stages, most of which were kitchen sinks. The version you're currently seeing is the most refined yet. I am also the writer of the VIOLENCE books and stories.
+Hello! I am the creator of this series, that is me. It originally started as a crackfic between... I want to say Control, Devil May Cry and... Evangelion, I think? The worldbuilding and writing went through multiple stages, most of which were kitchen sinks, to be entirely honest. The versions you're currently seeing are the most refined yet, and unfortunately, the sky's the limit and I'm Icarus.
 <div style="clear:left;"></div>
 <br><br><br><br>
 
