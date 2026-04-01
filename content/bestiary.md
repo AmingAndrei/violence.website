@@ -1,0 +1,4 @@
+---
+title: BESTIARY
+---
+[[index|BACK]]
