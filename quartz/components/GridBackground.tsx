@@ -18,6 +18,38 @@ export default (() => {
   let _gridAnimId = null;
   let _gridResizeHandler = null;
 
+  const GRID_COLORS = {
+    'grid-red':     '255,40,40',
+    'grid-blue':    '40,140,255',
+    'grid-green':   '40,220,100',
+    'grid-purple':  '160,80,255',
+    'grid-gold':    '220,160,40',
+    'grid-cyan':    '40,220,220',
+    'devil': 'rainbow',
+  };
+  const DEFAULT_COLOR = '255,255,255';
+
+  function getGridColor() {
+    const targets = [
+      document.documentElement,
+      document.body,
+      document.querySelector('.page'),
+      document.querySelector('article'),
+      document.querySelector('#quartz-body'),
+    ];
+    for (const el of targets) {
+      if (!el) continue;
+      for (const [cls, rgb] of Object.entries(GRID_COLORS)) {
+        if (el.classList.contains(cls)) return rgb;
+      }
+    }
+    return DEFAULT_COLOR;
+  }
+
+  function hsl(h, s, l, a) {
+    return 'hsla(' + (h % 360) + ',' + s + '%,' + l + '%,' + a + ')';
+  }
+
   function initGrid() {
     if (_gridAnimId !== null) {
       cancelAnimationFrame(_gridAnimId);
@@ -39,7 +71,20 @@ export default (() => {
       H = canvas.height = canvas.offsetHeight;
     }
 
+    function lineColor(rgb, index, total, elapsed, op) {
+      if (rgb !== 'rainbow') return 'rgba(' + rgb + ',' + op + ')';
+      const hue = ((index / total) * 360 + elapsed * 0.1) % 360;
+      return hsl(hue, 100, 65, op);
+    }
+
+    function hLineColor(rgb, depth, total, elapsed, op) {
+      if (rgb !== 'rainbow') return 'rgba(' + rgb + ',' + op + ')';
+      const hue = ((depth / total) * 360 + elapsed * 0.1 + 180) % 360;
+      return hsl(hue, 100, 65, op);
+    }
+
     function draw(elapsed) {
+      const rgb = getGridColor();
       ctx.clearRect(0, 0, W, H);
       const hy  = H * 0.496;
       const vx  = W * 0.5;
@@ -55,8 +100,8 @@ export default (() => {
         ctx.beginPath();
         ctx.moveTo(vx, hy);
         ctx.lineTo(bx, H);
-        ctx.strokeStyle = 'rgba(255,255,255,' + op + ')';
-        ctx.lineWidth = 0.7;
+        ctx.strokeStyle = lineColor(rgb, i, nv, elapsed, op);
+        ctx.lineWidth = 0.8;
         ctx.stroke();
       }
 
@@ -64,7 +109,6 @@ export default (() => {
       const offset = (elapsed / 1000 * speed) % 1;
       const nh     = 80;
       const hw     = spd / 2;
-      ctx.lineWidth = 0.7;
 
       for (let i = 0; i < nh; i++) {
         const w = Math.pow(1.25, (nh - i) - offset);
@@ -76,8 +120,8 @@ export default (() => {
         ctx.beginPath();
         ctx.moveTo(Math.max(-40, vx - hw * f), sy);
         ctx.lineTo(Math.min(W + 40, vx + hw * f), sy);
-        ctx.strokeStyle = 'rgba(255,255,255,' + op + ')';
-        ctx.lineWidth = 0.7;
+        ctx.strokeStyle = hLineColor(rgb, i, nh, elapsed, op);
+        ctx.lineWidth = 0.8;
         ctx.stroke();
       }
 
