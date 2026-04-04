@@ -9,7 +9,6 @@ const NotFound: QuartzComponent = () => {
 }
 
 NotFound.afterDOMLoaded = `
-  document.title = "MISSING // VIOLENCE";
   const el = document.getElementById('not-found');
   if (el) {
     const img = el.querySelector('img');

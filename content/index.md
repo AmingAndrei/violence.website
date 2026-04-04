@@ -37,7 +37,7 @@ VIOLENCE is a science fantasy and horror multimedia series and worldbuilding pro
 
 # CREDITS<br>
 <br>
-<img src="assets/aming.png" style="float:left;width:190px;margin:30px 20px 8px 0;" />
+<img src="assets/credits/aming.png" style="float:left;width:190px;margin:30px 20px 8px 0;" />
 
 # .aming // director, writer
 
@@ -45,7 +45,7 @@ Hello! I am the creator of this series, that is me. It originally started as a c
 <div style="clear:left;"></div>
 <br><br><br><br>
 
-<img src="assets/jackyzha0.png" style="float:left;width:190px;margin:30px 20px 8px 0;" />
+<img src="assets/credits/jackyzha0.png" style="float:left;width:190px;margin:30px 20px 8px 0;" />
 
 # .jackyzha0 // quartz
 
