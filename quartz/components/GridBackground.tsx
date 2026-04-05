@@ -25,7 +25,8 @@ export default (() => {
     'grid-purple':  '160,80,255',
     'grid-gold':    '220,160,40',
     'grid-cyan':    '40,220,220',
-    'devil': 'rainbow',
+    'devil':        'rainbow',
+    'mosaic':  'pastel',
   };
   const DEFAULT_COLOR = '255,255,255';
 
@@ -72,20 +73,31 @@ export default (() => {
     }
 
     function lineColor(rgb, index, total, elapsed, op) {
-      if (rgb !== 'rainbow') return 'rgba(' + rgb + ',' + op + ')';
-      const hue = ((index / total) * 360 + elapsed * 0.1) % 360;
-      return hsl(hue, 100, 65, op);
+      if (rgb === 'rainbow') {
+        const hue = ((index / total) * 360 + elapsed * 0.1) % 360;
+        return hsl(hue, 100, 65, op);
+      }
+      if (rgb === 'pastel') {
+        const hue = ((index / total) * 360 + elapsed * 0.1) % 360;
+        return hsl(hue, 60, 82, op);
+      }
+      return 'rgba(' + rgb + ',' + op + ')';
     }
 
     function hLineColor(rgb, depth, total, elapsed, op) {
-      if (rgb !== 'rainbow') return 'rgba(' + rgb + ',' + op + ')';
-      const hue = ((depth / total) * 360 + elapsed * 0.1 + 180) % 360;
-      return hsl(hue, 100, 65, op);
+      if (rgb === 'rainbow') {
+        const hue = ((depth / total) * 360 + elapsed * 0.1 + 180) % 360;
+        return hsl(hue, 100, 65, op);
+      }
+      if (rgb === 'pastel') {
+        const hue = ((depth / total) * 360 + elapsed * 0.1 + 180) % 360;
+        return hsl(hue, 60, 82, op);
+      }
+      return 'rgba(' + rgb + ',' + op + ')';
     }
 
     function draw(elapsed) {
       const rgb = getGridColor();
-      if (rgb === 'rainbow') window._rainbowHue = (elapsed * 0.1) % 360;
       ctx.clearRect(0, 0, W, H);
       const hy  = H * 0.496;
       const vx  = W * 0.5;
@@ -134,6 +146,10 @@ export default (() => {
       sky.addColorStop(1, 'rgba(0,0,0,0)');
       ctx.fillStyle = sky;
       ctx.fillRect(0, hy + 2, W, 16);
+
+      if (rgb === 'rainbow' || rgb === 'pastel') {
+        window._rainbowHue = (elapsed * 0.1) % 360;
+      }
     }
 
     function frame(ts) {

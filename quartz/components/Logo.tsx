@@ -44,6 +44,11 @@ export default (() => {
       text-overflow: clip;
       color: var(--logo-rule-color, var(--secondary));
     }
+
+    @keyframes logo-rainbow {
+      0%   { filter: grayscale(100%) brightness(50%) sepia(100%) saturate(1000%) hue-rotate(0deg); }
+      100% { filter: grayscale(100%) brightness(50%) sepia(100%) saturate(1000%) hue-rotate(360deg); }
+    }
   `
 
   Logo.afterDOMLoaded = `
@@ -57,6 +62,7 @@ export default (() => {
     'grid-gold':   { color: 'rgba(220,160,40,0.9)',  rule: 'rgba(220,160,40,0.8)' },
     'grid-cyan':   { color: 'rgba(40,220,220,0.9)',  rule: 'rgba(40,220,220,0.8)' },
     'devil':       { color: 'rainbow', rule: 'rainbow' },
+    'mosaic':      { color: 'pastel',  rule: 'pastel' },
   };
 
   function getTheme() {
@@ -95,9 +101,14 @@ export default (() => {
     if (theme.color === 'rainbow') {
       _rainbowId = setInterval(() => {
         const hue = (window._rainbowHue || 0);
-        const color = 'hsla(' + hue + ',100%,55%,0.9)';
-        if (overlay) overlay.style.background = color;
+        if (overlay) overlay.style.background = 'hsla(' + hue + ',100%,55%,0.9)';
         setRule('hsla(' + hue + ',100%,65%,0.8)');
+      }, 16);
+    } else if (theme.color === 'pastel') {
+      _rainbowId = setInterval(() => {
+        const hue = (window._rainbowHue || 0);
+        if (overlay) overlay.style.background = 'hsla(' + hue + ',60%,82%,0.9)';
+        setRule('hsla(' + hue + ',60%,82%,0.8)');
       }, 16);
     } else {
       if (overlay) overlay.style.background = theme.color;
