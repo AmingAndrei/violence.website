@@ -85,6 +85,7 @@ export default (() => {
 
     function draw(elapsed) {
       const rgb = getGridColor();
+      if (rgb === 'rainbow') window._rainbowHue = (elapsed * 0.1) % 360;
       ctx.clearRect(0, 0, W, H);
       const hy  = H * 0.496;
       const vx  = W * 0.5;

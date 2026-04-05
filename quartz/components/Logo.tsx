@@ -3,8 +3,9 @@ import { QuartzComponentConstructor } from "./types"
 export default (() => {
   const Logo = () => (
     <div class="site-logo">
-      <a href="/">
+      <a href="/" style="position:relative;display:inline-block;">
         <img src="/static/logo.png" alt="VIOLENCE" />
+        <div class="logo-color-overlay"></div>
       </a>
       <div class="header-rule"></div>
     </div>
@@ -22,7 +23,16 @@ export default (() => {
       height: 117px;
       width: auto;
       max-height: none;
-      transition: filter 0.3s ease;
+      display: block;
+    }
+
+    .logo-color-overlay {
+      position: absolute;
+      inset: 0;
+      mix-blend-mode: color;
+      pointer-events: none;
+      background: transparent;
+      transition: background 0.3s ease;
     }
 
     .header-rule::before {
@@ -40,13 +50,13 @@ export default (() => {
   let _rainbowId = null;
 
   const THEMES = {
-    'grid-red':    { filter: 'grayscale(100%) brightness(50%) sepia(100%) hue-rotate(-50deg) saturate(1000%)', rule: 'rgba(255,0,0,0.8)' },
-    'grid-blue':   { filter: 'grayscale(100%) brightness(50%) sepia(100%) hue-rotate(-50deg) saturate(1000%)', rule: 'rgba(40,140,255,0.8)' },
-    'grid-green':  { filter: 'grayscale(100%) brightness(50%) sepia(100%) hue-rotate(-50deg) saturate(1000%)', rule: 'rgba(40,220,100,0.8)' },
-    'grid-purple': { filter: 'grayscale(100%) brightness(50%) sepia(100%) hue-rotate(-50deg) saturate(1000%)', rule: 'rgba(160,80,255,0.8)' },
-    'grid-gold':   { filter: 'grayscale(100%) brightness(50%) sepia(100%) hue-rotate(-50deg) saturate(1000%)', rule: 'rgba(220,160,40,0.8)' },
-    'grid-cyan':   { filter: 'grayscale(100%) brightness(50%) sepia(100%) hue-rotate(-50deg) saturate(1000%)', rule: 'rgba(40,220,220,0.8)' },
-    'devil':       { filter: 'rainbow', rule: 'rainbow' },
+    'grid-red':    { color: 'rgba(255,0,0,0.9)',     rule: 'rgba(255,0,0,0.8)' },
+    'grid-blue':   { color: 'rgba(40,140,255,0.9)',  rule: 'rgba(40,140,255,0.8)' },
+    'grid-green':  { color: 'rgba(40,220,100,0.9)',  rule: 'rgba(40,220,100,0.8)' },
+    'grid-purple': { color: 'rgba(160,80,255,0.9)',  rule: 'rgba(160,80,255,0.8)' },
+    'grid-gold':   { color: 'rgba(220,160,40,0.9)',  rule: 'rgba(220,160,40,0.8)' },
+    'grid-cyan':   { color: 'rgba(40,220,220,0.9)',  rule: 'rgba(40,220,220,0.8)' },
+    'devil':       { color: 'rainbow', rule: 'rainbow' },
   };
 
   function getTheme() {
@@ -69,30 +79,28 @@ export default (() => {
   function applyTheme() {
     if (_rainbowId !== null) { clearInterval(_rainbowId); _rainbowId = null; }
 
-    const img   = document.querySelector('.site-logo img');
+    const overlay = document.querySelector('.logo-color-overlay');
     const theme = getTheme();
 
-    const setRule = (color) => {
-      document.documentElement.style.setProperty('--logo-rule-color', color);
+    const setRule = (val) => {
+      document.documentElement.style.setProperty('--logo-rule-color', val);
     };
 
     if (!theme) {
-      if (img) img.style.filter = '';
+      if (overlay) overlay.style.background = 'transparent';
       setRule('');
       return;
     }
 
-    if (theme.filter === 'rainbow') {
-      let hue = 0;
+    if (theme.color === 'rainbow') {
       _rainbowId = setInterval(() => {
-        hue = (hue + 2) % 360; 
-        if (img) {
-          img.style.filter = 'grayscale(100%) brightness(50%) sepia(100%) saturate(1000%) hue-rotate(' + hue + 'deg)';
-        }
-        setRule('hsla(' + hue + ', 100%, 65%, 0.8)');
-      }, 30);
+        const hue = (window._rainbowHue || 0);
+        const color = 'hsla(' + hue + ',100%,55%,0.9)';
+        if (overlay) overlay.style.background = color;
+        setRule('hsla(' + hue + ',100%,65%,0.8)');
+      }, 16);
     } else {
-      if (img) img.style.filter = theme.filter;
+      if (overlay) overlay.style.background = theme.color;
       setRule(theme.rule);
     }
   }
