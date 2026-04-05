@@ -6,11 +6,11 @@ cssclasses:
 <br><a href="/bestiary" style="border:5px solid #444;padding:18px 30px;...">← BESTIARY</a>
 <br><br>
 
-Mosaics, or species belonging to the _Mosaica_ class, are a very deceiving group of species. Their entire anatomy is composed entirely out of Voxels, with colonies forming Mosaic individuals.
+Mosaics, or species belonging to the _Mosaica_ class, are a very... deceiving bunch. This is in part due to their unique anatomy, as Mosaics are composed entirely out of Voxels, with colonies forming species individuals.
 
 Due to their nature as colonial organisms, Mosaics can vary drastically in appearance. Their outer appearance remains mostly the same, having a surface that displays traits similar to crystals or, at times, kinetic sand. The properties of Voxels also mean that Mosaic anatomy isn't necessarily restricted to a 'functional' or even fixed body plan. Their Voxels can coalesce into forming highly developed eyes and ears, along with a general ability to sense touch, although they entirely lack the ability to sense smell or taste.
 
-Due to the crystalline physiology of Voxels, damage in one part of the body can resonate across the entire organism, which can lead to the Mosaic shattering and dying. Upon death, all Voxels begin dissolving and forming pools of Menstruum, allowing more individuals of the same species to propagate.
+Because of the crystalline physiology of Voxels, damage in one part of the body can resonate across the entire organism, which can lead to the Mosaic shattering and dying. Upon death, all Voxels begin dissolving and forming pools of Menstruum, allowing more individuals of the same species to propagate.
 
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:80px;width:65%;margin:2rem auto;">
 
