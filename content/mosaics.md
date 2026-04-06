@@ -6,11 +6,11 @@ cssclasses:
 <br><a href="/bestiary" style="border:5px solid #444;padding:18px 30px;...">← BESTIARY</a>
 <br><br>
 
-Mosaics, or species belonging to the _Mosaica_ class, are a very... deceiving bunch. This is in part due to their unique anatomy, as Mosaics are composed entirely out of Voxels, with colonies forming species individuals.
+Mosaics, or species belonging to the _Mosaica_ class, are a very... deceiving bunch. They're seemingly reliant on the existence of other species to properly function at a base level.
 
-Due to their nature as colonial organisms, Mosaics can vary drastically in appearance. Their outer appearance remains mostly the same, having a surface that displays traits similar to crystals or, at times, kinetic sand. The properties of Voxels also mean that Mosaic anatomy isn't necessarily restricted to a 'functional' or even fixed body plan. Their Voxels can coalesce into forming highly developed eyes and ears, along with a general ability to sense touch, although they entirely lack the ability to sense smell or taste.
+Mosaic cells are very unique, having a greater degree of similarity to cyanobacteria than to regular animal cells. Structurally, they resemble crystalline structures found in minerals such as quartz, which extends to the surface appearance of the Mosaic, although their texture can alter at times to resemble kinetic sand. Each cell is also individualised, putting Mosaics in a group between regular and colonial organisms, as each cell is capable of mostly independent behaviour while simultaneously acting as part of the whole organism. While Mosaic cells regularly behave as a mix between a neuron, myocytes and bone cell,  when grouped together, they can form visual and auditory systems. Mosaics lack senses such as smell or taste.
 
-Because of the crystalline physiology of Voxels, damage in one part of the body can resonate across the entire organism, which can lead to the Mosaic shattering and dying. Upon death, all Voxels begin dissolving and forming pools of Menstruum, allowing more individuals of the same species to propagate.
+The anatomy of Mosaics isn't necessarily fixed. Their unique cells allows grants them a greater degree of fluidity or freedom with their body plans, not restricted by general biological rules. Mosaics use ambient radiation or electromagnetism as sustenance, or even local Anima in certain situations, and are capable of entering a catatonic state in deprived of them for long periods of time, capable of remaining like this indefinitely. However, due to the structure of their cells, damage in one part of the body can resonate across the entire organism, which can lead to the Mosaic shattering and ultimately dying.
 
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:80px;width:65%;margin:2rem auto;">
 
