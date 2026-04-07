@@ -44,25 +44,16 @@ export default (() => {
       text-overflow: clip;
       color: var(--logo-rule-color, var(--secondary));
     }
-
-    @keyframes logo-rainbow {
-      0%   { filter: grayscale(100%) brightness(50%) sepia(100%) saturate(1000%) hue-rotate(0deg); }
-      100% { filter: grayscale(100%) brightness(50%) sepia(100%) saturate(1000%) hue-rotate(360deg); }
-    }
   `
 
   Logo.afterDOMLoaded = `
   let _rainbowId = null;
 
   const THEMES = {
-    'grid-red':    { color: 'rgba(255,0,0,0.9)',     rule: 'rgba(255,0,0,0.8)' },
-    'grid-blue':   { color: 'rgba(40,140,255,0.9)',  rule: 'rgba(40,140,255,0.8)' },
-    'grid-green':  { color: 'rgba(40,220,100,0.9)',  rule: 'rgba(40,220,100,0.8)' },
-    'grid-purple': { color: 'rgba(160,80,255,0.9)',  rule: 'rgba(160,80,255,0.8)' },
-    'grid-gold':   { color: 'rgba(220,160,40,0.9)',  rule: 'rgba(220,160,40,0.8)' },
-    'grid-cyan':   { color: 'rgba(40,220,220,0.9)',  rule: 'rgba(40,220,220,0.8)' },
-    'devil':       { color: 'rainbow', rule: 'rainbow' },
-    'mosaic':      { color: 'pastel',  rule: 'pastel' },
+    'template': { color: 'rgba(255,0,0,0.9)',   rule: 'rgba(255,0,0,0.8)' },
+    'devil':    { color: 'devil',  rule: 'devil' },
+    'mosaic':   { color: 'mosaic', rule: 'mosaic' },
+    'chimera':  { color: 'chimera', rule: 'chimera' },
   };
 
   function getTheme() {
@@ -82,6 +73,12 @@ export default (() => {
     return null;
   }
 
+  function chimeraColor(t, lightness, alpha) {
+    const hue = 15 + Math.sin(t) * 20;
+    const sat = 85 + Math.sin(t * 1.3) * 10;
+    return 'hsla(' + hue + ',' + sat + '%,' + lightness + '%,' + alpha + ')';
+  }
+
   function applyTheme() {
     if (_rainbowId !== null) { clearInterval(_rainbowId); _rainbowId = null; }
 
@@ -98,17 +95,23 @@ export default (() => {
       return;
     }
 
-    if (theme.color === 'rainbow') {
+    if (theme.color === 'devil') {
       _rainbowId = setInterval(() => {
         const hue = (window._rainbowHue || 0);
         if (overlay) overlay.style.background = 'hsla(' + hue + ',100%,55%,0.9)';
         setRule('hsla(' + hue + ',100%,65%,0.8)');
       }, 16);
-    } else if (theme.color === 'pastel') {
+    } else if (theme.color === 'mosaic') {
       _rainbowId = setInterval(() => {
         const hue = (window._rainbowHue || 0);
         if (overlay) overlay.style.background = 'hsla(' + hue + ',60%,82%,0.9)';
         setRule('hsla(' + hue + ',60%,82%,0.8)');
+      }, 16);
+    } else if (theme.color === 'chimera') {
+      _rainbowId = setInterval(() => {
+        const t = (window._chimeraT || 0);
+        if (overlay) overlay.style.background = chimeraColor(t, 55, 0.9);
+        setRule(chimeraColor(t, 65, 0.8));
       }, 16);
     } else {
       if (overlay) overlay.style.background = theme.color;

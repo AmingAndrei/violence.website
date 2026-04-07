@@ -16,6 +16,8 @@ Their nature is a result of their close link to Anima, as Devils themselves are 
 
 ¹ This rule is bypassed by some species by reworking parts of their biology into somewhat functional eyes, although true eyes are still absent.
 
+---
+
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:16px;width:100%;margin:2rem 0;">
 
 <a href="/species" style="display:block;border-radius:10px;background:conic-gradient(from 0deg,#ff0000,#ff8800,#ffff00,#00ff00,#00ffff,#0088ff,#8800ff,#ff00ff,#ff0000);padding:15px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">

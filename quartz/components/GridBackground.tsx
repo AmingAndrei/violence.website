@@ -19,14 +19,10 @@ export default (() => {
   let _gridResizeHandler = null;
 
   const GRID_COLORS = {
-    'grid-red':     '255,40,40',
-    'grid-blue':    '40,140,255',
-    'grid-green':   '40,220,100',
-    'grid-purple':  '160,80,255',
-    'grid-gold':    '220,160,40',
-    'grid-cyan':    '40,220,220',
-    'devil':        'rainbow',
-    'mosaic':  'pastel',
+    'template': '255,0,0',
+    'devil':    'devil',
+    'mosaic':   'mosaic',
+    'chimera':  'chimera',
   };
   const DEFAULT_COLOR = '255,255,255';
 
@@ -51,6 +47,45 @@ export default (() => {
     return 'hsla(' + (h % 360) + ',' + s + '%,' + l + '%,' + a + ')';
   }
 
+  function chimeraColor(t, op) {
+    const hue = 15 + Math.sin(t) * 20;
+    const sat = 85 + Math.sin(t * 1.3) * 10;
+    const lit = 42 + Math.sin(t * 0.7) * 18;
+    return 'hsla(' + hue + ',' + sat + '%,' + lit + '%,' + op + ')';
+  }
+
+  function lineColor(rgb, index, total, elapsed, op) {
+    if (rgb === 'devil') {
+      const hue = ((index / total) * 360 + elapsed * 0.1) % 360;
+      return hsl(hue, 100, 65, op);
+    }
+    if (rgb === 'mosaic') {
+      const hue = ((index / total) * 360 + elapsed * 0.1) % 360;
+      return hsl(hue, 60, 82, op);
+    }
+    if (rgb === 'chimera') {
+      const t = (index / total) * Math.PI * 2 + elapsed * 0.0008;
+      return chimeraColor(t, op);
+    }
+    return 'rgba(' + rgb + ',' + op + ')';
+  }
+
+  function hLineColor(rgb, depth, total, elapsed, op) {
+    if (rgb === 'devil') {
+      const hue = ((depth / total) * 360 + elapsed * 0.1 + 180) % 360;
+      return hsl(hue, 100, 65, op);
+    }
+    if (rgb === 'mosaic') {
+      const hue = ((depth / total) * 360 + elapsed * 0.1 + 180) % 360;
+      return hsl(hue, 60, 82, op);
+    }
+    if (rgb === 'chimera') {
+      const t = (depth / total) * Math.PI * 2 + elapsed * 0.0008 + Math.PI;
+      return chimeraColor(t, op);
+    }
+    return 'rgba(' + rgb + ',' + op + ')';
+  }
+
   function initGrid() {
     if (_gridAnimId !== null) {
       cancelAnimationFrame(_gridAnimId);
@@ -70,30 +105,6 @@ export default (() => {
     function resize() {
       W = canvas.width  = canvas.offsetWidth;
       H = canvas.height = canvas.offsetHeight;
-    }
-
-    function lineColor(rgb, index, total, elapsed, op) {
-      if (rgb === 'rainbow') {
-        const hue = ((index / total) * 360 + elapsed * 0.1) % 360;
-        return hsl(hue, 100, 65, op);
-      }
-      if (rgb === 'pastel') {
-        const hue = ((index / total) * 360 + elapsed * 0.1) % 360;
-        return hsl(hue, 60, 82, op);
-      }
-      return 'rgba(' + rgb + ',' + op + ')';
-    }
-
-    function hLineColor(rgb, depth, total, elapsed, op) {
-      if (rgb === 'rainbow') {
-        const hue = ((depth / total) * 360 + elapsed * 0.1 + 180) % 360;
-        return hsl(hue, 100, 65, op);
-      }
-      if (rgb === 'pastel') {
-        const hue = ((depth / total) * 360 + elapsed * 0.1 + 180) % 360;
-        return hsl(hue, 60, 82, op);
-      }
-      return 'rgba(' + rgb + ',' + op + ')';
     }
 
     function draw(elapsed) {
@@ -147,8 +158,11 @@ export default (() => {
       ctx.fillStyle = sky;
       ctx.fillRect(0, hy + 2, W, 16);
 
-      if (rgb === 'rainbow' || rgb === 'pastel') {
+      if (rgb === 'devil' || rgb === 'mosaic') {
         window._rainbowHue = (elapsed * 0.1) % 360;
+      }
+      if (rgb === 'chimera') {
+        window._chimeraT = elapsed * 0.0008;
       }
     }
 

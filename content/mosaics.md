@@ -12,6 +12,8 @@ Mosaic cells are very unique, having a greater degree of similarity to cyanobact
 
 The anatomy of Mosaics isn't necessarily fixed. Their unique cells allows grants them a greater degree of fluidity or freedom with their body plans, not restricted by general biological rules. Mosaics use ambient radiation or electromagnetism as sustenance, or even local Anima in certain situations, and are capable of entering a catatonic state in deprived of them for long periods of time, capable of remaining like this indefinitely. However, due to the structure of their cells, damage in one part of the body can resonate across the entire organism, which can lead to the Mosaic shattering and ultimately dying.
 
+---
+
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:80px;width:65%;margin:2rem auto;">
 
 <a href="/species" style="display:block;border-radius:10px;background:conic-gradient(from 0deg,#ffb3b3,#b3d4ff,#b3ecff,#b3f0f8,#b3ecff,#b3f0c8,#fffab3,#b3ecff,#ffb3b3);padding:15px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
