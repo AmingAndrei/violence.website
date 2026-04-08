@@ -47,11 +47,31 @@ export default (() => {
     return 'hsla(' + (h % 360) + ',' + s + '%,' + l + '%,' + a + ')';
   }
 
+  const CHIMERA_STOPS = [
+    [255, 80,  60 ],
+    [255, 90,  0  ],
+    [255, 154, 0  ],
+    [255, 120, 0  ],
+    [255, 140, 0  ],
+    [255, 140, 0  ],
+    [255, 140, 0  ],
+    [255, 120, 0  ],
+    [255, 120, 0  ],
+    [255, 154, 0  ],
+    [255, 90,  0  ],
+    [255, 80,  60 ],
+  ];
   function chimeraColor(t, op) {
-    const hue = 15 + Math.sin(t) * 20;
-    const sat = 85 + Math.sin(t * 1.3) * 10;
-    const lit = 42 + Math.sin(t * 0.7) * 18;
-    return 'hsla(' + hue + ',' + sat + '%,' + lit + '%,' + op + ')';
+    const n = CHIMERA_STOPS.length - 1;
+    const pos = ((t % 1) + 1) % 1 * n;
+    const i = Math.floor(pos);
+    const f = pos - i;
+    const a = CHIMERA_STOPS[i];
+    const b = CHIMERA_STOPS[Math.min(i + 1, n)];
+    const r = Math.round(a[0] + (b[0] - a[0]) * f);
+    const g = Math.round(a[1] + (b[1] - a[1]) * f);
+    const bl = Math.round(a[2] + (b[2] - a[2]) * f);
+    return 'rgba(' + r + ',' + g + ',' + bl + ',' + op + ')';
   }
 
   function lineColor(rgb, index, total, elapsed, op) {
@@ -64,7 +84,7 @@ export default (() => {
       return hsl(hue, 60, 82, op);
     }
     if (rgb === 'chimera') {
-      const t = (index / total) * Math.PI * 2 + elapsed * 0.0008;
+      const t = (elapsed * 0.0003) % 1;
       return chimeraColor(t, op);
     }
     return 'rgba(' + rgb + ',' + op + ')';
@@ -80,7 +100,7 @@ export default (() => {
       return hsl(hue, 60, 82, op);
     }
     if (rgb === 'chimera') {
-      const t = (depth / total) * Math.PI * 2 + elapsed * 0.0008 + Math.PI;
+      const t = (elapsed * 0.0003) % 1;
       return chimeraColor(t, op);
     }
     return 'rgba(' + rgb + ',' + op + ')';
@@ -162,7 +182,7 @@ export default (() => {
         window._rainbowHue = (elapsed * 0.1) % 360;
       }
       if (rgb === 'chimera') {
-        window._chimeraT = elapsed * 0.0008;
+        window._chimeraT = (elapsed * 0.0003) % 1;
       }
     }
 

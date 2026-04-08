@@ -73,10 +73,31 @@ export default (() => {
     return null;
   }
 
-  function chimeraColor(t, lightness, alpha) {
-    const hue = 15 + Math.sin(t) * 20;
-    const sat = 85 + Math.sin(t * 1.3) * 10;
-    return 'hsla(' + hue + ',' + sat + '%,' + lightness + '%,' + alpha + ')';
+  const CHIMERA_STOPS = [
+    [255, 80,  60 ],
+    [255, 90,  0  ],
+    [255, 154, 0  ],
+    [255, 120, 0  ],
+    [255, 140, 0  ],
+    [255, 140, 0  ],
+    [255, 140, 0  ],
+    [255, 120, 0  ],
+    [255, 120, 0  ],
+    [255, 154, 0  ],
+    [255, 90,  0  ],
+    [255, 80,  60 ],
+  ];
+  function chimeraColor(t, alpha) {
+    const n = CHIMERA_STOPS.length - 1;
+    const pos = ((t % 1) + 1) % 1 * n;
+    const i = Math.floor(pos);
+    const f = pos - i;
+    const a = CHIMERA_STOPS[i];
+    const b = CHIMERA_STOPS[Math.min(i + 1, n)];
+    const r = Math.round(a[0] + (b[0] - a[0]) * f);
+    const g = Math.round(a[1] + (b[1] - a[1]) * f);
+    const bl = Math.round(a[2] + (b[2] - a[2]) * f);
+    return 'rgba(' + r + ',' + g + ',' + bl + ',' + alpha + ')';
   }
 
   function applyTheme() {
@@ -110,8 +131,8 @@ export default (() => {
     } else if (theme.color === 'chimera') {
       _rainbowId = setInterval(() => {
         const t = (window._chimeraT || 0);
-        if (overlay) overlay.style.background = chimeraColor(t, 55, 0.9);
-        setRule(chimeraColor(t, 65, 0.8));
+        if (overlay) overlay.style.background = chimeraColor(t, 0.9);
+        setRule(chimeraColor(t, 0.8));
       }, 16);
     } else {
       if (overlay) overlay.style.background = theme.color;
