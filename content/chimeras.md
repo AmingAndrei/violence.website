@@ -6,7 +6,9 @@ cssclasses:
 <br><a href="/bestiary" style="border:5px solid #444;padding:18px 30px;...">← BESTIARY</a>
 <br><br>
 
-Chimeras, or species belonging to the _Chimaeria_ class, are
+Chimeras, or species belonging to the _Chimaeria_ class, are, as their name suggests, beings displaying chimeric traits. The extent of these traits aren't restricted to one class or order, meaning Chimeras can have features seemingly incompatible with the rest of their anatomy. Although, some common traits among Chimeras are them being endothermic or being tetradactyl, i.e. having four fingers.
+
+The second defining trait of Chimera is their ability to use Phlogiston, as all species have at least one method of expelling Phlogiston. Chimera tissue is also completely unaffected by Phlogiston, being the only species that cannot be harmed by it. Regular fire can still harm Chimeras, though.
 
 ---
 <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:160px;width:100%;margin:2rem 0 60px;">
