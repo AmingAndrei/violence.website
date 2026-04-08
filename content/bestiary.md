@@ -3,7 +3,7 @@ title: BESTIARY
 ---
 <br><a href="/" style="border:5px solid #444;padding:18px 30px;...">← HOME</a>
 <br>
-<div style="display:flex;flex-direction:column;gap:100px;width:60%;margin:1rem auto;">
+<div style="display:flex;flex-direction:column;gap:100px;width:70%;margin:1rem auto;">
 
 <a href="/bestiary/species" style="display:flex;align-items:center;justify-content:center;padding:50px 40px;background:rgba(95,96,95,0.2);border:15px solid rgba(35, 35, 35);border-radius:27px;color:#ccc;text-decoration:none;font-size:1.5rem;letter-spacing:0.22em;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">✖</a><br>
 <a href="/bestiary/species" style="display:flex;align-items:center;justify-content:center;padding:50px 40px;background:rgba(95,96,95,0.2);border:15px solid rgba(35, 35, 35);border-radius:27px;color:#ccc;text-decoration:none;font-size:1.5rem;letter-spacing:0.22em;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">✖</a><br>
