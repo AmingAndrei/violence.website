@@ -1,5 +1,7 @@
 ---
 title: BESTIARY
+tags:
+  - bestiary
 ---
 <br><a href="/" style="border:5px solid #444;padding:18px 30px;...">← HOME</a>
 <br>

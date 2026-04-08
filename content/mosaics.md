@@ -2,6 +2,9 @@
 title: MOSAICS
 cssclasses:
   - mosaic
+tags:
+  - bestiary
+  - mosaic
 ---
 <br><a href="/bestiary" style="border:5px solid #444;padding:18px 30px;...">← BESTIARY</a>
 <br><br>
@@ -16,7 +19,7 @@ The anatomy of Mosaics isn't necessarily fixed. Their unique cells allows grants
 
 <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:80px;width:65%;margin:2rem auto;">
 
-<a href="/species" style="display:block;border-radius:10px;background:conic-gradient(from 0deg,#ffb3b3,#b3d4ff,#b3ecff,#b3f0f8,#b3ecff,#b3f0c8,#fffab3,#b3ecff,#ffb3b3);padding:15px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<a href="/mimics" style="display:block;border-radius:10px;background:conic-gradient(from 0deg,#ffb3b3,#b3d4ff,#b3ecff,#b3f0f8,#b3ecff,#b3f0c8,#fffab3,#b3ecff,#ffb3b3);padding:15px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:6px;overflow:hidden;">
     <div style="aspect-ratio:1/1;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:6px;background:conic-gradient(from 0deg,#ffb3b3,#b3d4ff,#b3ecff,#b3f0f8,#b3ecff,#b3f0c8,#fffab3,#b3ecff,#ffb3b3);flex-shrink:0;"></div>
