@@ -20,6 +20,8 @@ export default (() => {
 
   const GRID_COLORS = {
     'template': '255,0,0',
+    'yellow':   '255,255,0',
+    'cyan':   '0,255,255',
     'devil':    'devil',
     'mosaic':   'mosaic',
     'chimera':  'chimera',

@@ -51,6 +51,8 @@ export default (() => {
 
   const THEMES = {
     'template': { color: 'rgba(255,0,0,0.9)',   rule: 'rgba(255,0,0,0.8)' },
+    'yellow':   { color: 'rgba(255,255,0,1)',   rule: 'rgba(255,255,0,1)' },
+    'cyan':     { color: 'rgba(0,255,255,1)',   rule: 'rgba(0,255,255,1)' },
     'devil':    { color: 'devil',  rule: 'devil' },
     'mosaic':   { color: 'mosaic', rule: 'mosaic' },
     'chimera':  { color: 'chimera', rule: 'chimera' },

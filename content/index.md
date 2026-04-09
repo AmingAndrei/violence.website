@@ -28,7 +28,7 @@ VIOLENCE is a science fantasy and horror multimedia series and worldbuilding pro
 
   <a href="/" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:64px 24px;border:1px solid white;border-radius:8px;background:transparent;color:white;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">
     <img src="assets/icons/dossier.svg" width="80" height="80" style="object-fit:contain;filter:invert(1);" alt="Dossier"/>
-    <span style="font-size:1.5rem;letter-spacing:0.22em;font-weight:400;">DOSSIER</span>
+    <span style="font-size:1.5rem;letter-spacing:0.22em;font-weight:400;">CHARACTERS</span>
   </a>
 
 </div>
