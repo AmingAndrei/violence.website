@@ -14,4 +14,174 @@ tags:
 
   <a href="/books/yellow/chapter-3" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">3 <span style="color:inherit;">// </span>Channels on TV →</a>
   
+</div><br><br>
+<div style="border:2px solid rgb(255,255,255,1);padding:40px 48px;margin:2rem 0;" id="workskin">
+
+<h1 style="text-align:center;font-size:2.5rem;letter-spacing:0.2em;margin:0 0 2rem;">Chapter 2: Save Yourself</h1>
+
+<p>The mass of metal twisted, its plates snapping into place as it emerged from Jacques' torso, showing little concern for his well-being. Whatever the thing now standing before Jacques was, it was no longer just an axe; rising to its feet, turning to face him, the sound of an engine purring overlaid its growly voice.</p><blockquote class="right">
+
+<p class="Steelshark">"Oh, yeah, finally! Tell you what, I'd hazard a guess that we'll finish this in four, maybe five minutes. Tops."</p></blockquote><blockquote class="left">
+
+<p class="Human">"Velos…" croaked the dying man, lying on the ground, wheezing as his lungs filled with blood.</p></blockquote><blockquote class="right">
+
+<p class="Steelshark">"Uh-huh, wait a sec."</p></blockquote>
+
+<p>Velos stood tall in front of a soon-to-be-dead Jacques. His bluish metal body, with gaps between the plates showing his interior, had an engine roaring deep in his chest. Although his metal eyes lacked that spark, that light in one's eyes. When you stared him in the eye, you felt as if you were looking into the eyes of a corpse.</p>
+
+<p>His engine's sound mixed with his growling voice, overlapping each word. Kicking the gun up from near Jacques, he snatched it from mid-air. The gun disintegrated in his hand, its components separating and getting dragged into his arm.</p>
+
+<p>In less than a second, he rebuilt the previously disassembled gun around his other hand, the red bullet already chambered. He aimed a finger at Jacques in a mock pistol gesture and fired the bullet straight into his chest.</p>
+
+<p>Jacques felt the charge pierce his flesh; his entire nervous system flared in agony, unable to process what was happening. Was he set on fire? Was he getting electrocuted on a live wire? Every vein, every artery, every capillary, every blood vessel in his body was bursting open, his blood boiling.</p>
+
+<p>Lost in the pain, he barely noticed that his arm had regenerated. The sight of his newly formed hand made him forget that moments earlier he'd been begging for death.</p><blockquote class="right">
+
+<p class="Steelshark">"So, what's the plan?"</p></blockquote><blockquote class="left">
+
+<p class="Human">"We sent it the other way around. You get its attention; I'll sneak on top."</p></blockquote><blockquote class="right">
+
+<p class="Steelshark">"Sure thing."</p></blockquote>
+
+<p>Jacques and Velos split ways.</p>
+
+<p>Velos approached the Zmey, grinning from ear to ear, his serrated teeth gnashing together. As he approached it, he growled, his engine revving as fast as possible. The Zmey froze, turned around, and was absolutely terrified, trying to make itself look bigger and more threatening, roaring to scare away the thing slowly approaching it.</p>
+
+<p>But Velos knew this. He knew the giant, metal-scaled dragon was afraid of him. He could smell it; its adrenaline, its cortisol, its fear. And it only made him rev faster, his teeth and claws sharpening, his reflexes getting more agile. He continued to approach the Zmey, with the beast backing away. The creature inhaled and, in a single breath, spewed fire from its mouth as a last-ditch effort to defend itself.</p>
+
+<p>Meanwhile, Jacques was looking through the debris, trying to find a chain, or a long rope, or anything for that matter. The plan was simple: Velos gets the Zmey's attention, Jacques anchors himself to it, and they both guide it out of the city through the evacuated area. And after enough looking, he had to settle for a hose. Hopefully, it would hold.</p>
+
+<p>All the while, Velos was running circles around the Zmey, trying to avoid the column of yellow fire trailing him. Jacques made his way toward the distracted Zmey, attempting to climb onto its neck unnoticed.</p>
+
+<p>But the beast saw him, and as it knew what he could do, diverted its attention to the man climbing its leg. Velos jumped after Jacques, pushing him out of the way just in time, as the Zmey engulfed the area in flame. And while Jacques was unharmed, Velos wasn't so lucky.</p><blockquote class="left">
+
+<p class="Human">"You good?" asked Jacques sarcastically, gazing at Velos, half of whose body was left molten and malformed.</p></blockquote><blockquote class="right">
+
+<p class="Human"><span class="Steelshark">"Oh yeah, everything's dandy! Who could have predicted this happening?! Not me!"</span> he answered, trying to gesture with his misshapen arm, sparks flying from within, the metal trying and failing to grow and reform itself.</p></blockquote><blockquote class="left">
+
+<p class="Human">"Okay, I'm sorry. I take full responsibility for this. I promise I won't let you get burned again until the Phlogiston wears off."</p></blockquote>
+
+<p>The Zmey redirected its attention again, enraged at the fact that it had missed. Before it could attempt once more, Velos grabbed Jacques with his remaining arm and flung him on top of the Zmey. Jacques shoved the hose into the beast's mouth and used it as makeshift reins while the Zmey thrashed its head, trying to shake him loose. Velos roared once again, gritting his teeth, and with Jacques pulling on its mouth, the Zmey forcefully lifted from the ground, trying desperately to get away.</p>
+
+<p>Jacques pulled on the makeshift reins, trying to guide the flying beast out of the city. He clung tight, the wind shear and blood loss pushing him to the edge of consciousness more than one should experience. Velos was still on the ground, running after them, easily matching the Zmey's speed. Reaching the city's edge, Jacques let go of the hose, letting himself fall.</p>
+
+<p>Velos, standing just below, jumped across the buildings, catching Jacques mid-air, helping him not break his neck when touching the ground.</p>
+
+<p>As they landed, they watched as the Zmey flew away, heading back in the direction it had come from. Or rather, Jacques watched as the Zmey flew away, as Velos simply faced the direction, his eyes faking focus.</p>
+
+<p>But they hadn't had the time to lower their guard. Jacques' radio crackled to life, the voice on the other end frantically trying to reach them.</p><blockquote class="right">
+
+<p class="Human"><i>"-I don't care who, send someone there, NOW! Ahem, Jacques, do you copy?"</i> the woman on the radio asked in a rush. <i>"That Zmey wasn't the only one to take advantage of that opening. Velos, how much fuel you got?"</i></p></blockquote><blockquote class="right">
+
+<p class="Steelshark">"10 minutes, more or less."</p></blockquote><blockquote class="right">
+
+<p class="Human"><i>"Perfect. It should be headed directly to your location. Buy as much time as possible for backup to arrive."</i></p></blockquote><blockquote class="left">
+
+<p class="Human">"Nice timing," responded Jacques, looking over at a nearby tree.</p></blockquote>
+
+<p>The formerly lush maple stood mighty near the entrance of a bookstore, but right in front of them, the two could see its green leaves turning brown, then black, falling one after the other. The empty branches followed, as they too appeared to dry and rot from the inside. What remained was less than a husk of the tree that had stood there minutes before, contrasting with the still green and blooming petunias planted on the windowsill.</p>
+
+<p>Jacques and Velos looked at each other knowingly. Jacques took a few steps backward.</p>
+
+<p>Velos knelt, placing his hand on the concrete below. He stood still, appearing to analyse... something. He sensed it a few metres away, on the road, a single pebble, so small you wouldn't observe it unless purposefully so, moved ever so slightly.</p>
+
+<p>This was the cue he needed. This single movement allowed Velos to pinpoint the thing's location, and, more importantly, its trajectory. He got up in a swift movement and ran along the path he had predicted, before stopping, now much further away than he was before.</p>
+
+<p>He raised his still-intact hand into the air as his engine roared. The plates in his arm shifted, re-configuring, and all the torque of his engine sent into it, just as his fist hit the ground, like a hydraulic press hitting the ground.</p>
+
+<p>The concrete split wide open, forming a deep crater, the slabs jagged and misaligned. He looked at his still deformed half, sparks still flying from the molten parts, a look of annoyance visible on his face.</p>
+
+<p>Jacques approached the cavity, easily describable as a crater, slowly, looking around, as if waiting for something to happen.</p><blockquote class="left">
+
+<p class="Human">"So?"</p></blockquote><blockquote class="right">
+
+<p class="Steelshark">"Give it a second; maybe it's lower than I thought. Still, I should've caught its atte-"</p></blockquote>
+
+<p>A giant serpentine creature emerged from the ground right below Velos, taking him and thrashing him into the ground before descending back into the ground. Velos got back up, his functional arm now shattered into many pieces, and, in a single, booming rev, it appeared to grow back, the metal still red-hot, with the bits on the ground breaking down into a fine red dust. The molten side of his body still spewed sparks.</p><blockquote class="right">
+
+<p class="Steelshark">"I caught its attention alright!"</p></blockquote>
+
+<p>The two stood back to back, looking around for any sign of the creature. Jacques could feel the heat from Velos' body, on the verge of burning him just from the proximity. The ground remained utterly motionless, not a single tremor. The spots where it emerged from and dived back were untouched, every stone perfectly in place.</p>
+
+<p>The creature appeared once again, but this time, it went not for them, but for one of the nearby buildings. It went headfirst into its support beams, destroying them with ease. The skyscraper buckled under its own weight, hurtling down right on top of Jacques and Velos.</p>
+
+<p>From the smoke and dust, only debris and rubble were visible. The two stood a few metres nearby, overlooking the disaster, having emerged unscathed thanks to Velos' reaction speed.</p><blockquote class="left">
+
+<p class="Human">"So, what do we do about the Wyrm now?" asked Jacques, arms crossed, absolutely unfazed.</p></blockquote><blockquote class="right">
+
+<p class="Steelshark">"Bastard got more careful with its movements now that it knows we're searching."</p></blockquote>
+
+<p>The two heard a release of air from the debris of the broken building. Chunks of black rock and concrete turned more beige as the creature's silhouette became more visible, reverting from its camouflage, readying itself to pounce.</p><blockquote class="left">
+
+<p class="Human">"I'll bait it, you kill it."</p></blockquote><blockquote class="right">
+
+<p class="Steelshark">"Sounds good."</p></blockquote>
+
+<p>The creature lunged at them, Velos sucker-punching Jacques out of the way while retreating himself. The beast landed silently and melted into the ground, gliding through the solid earth like water.</p>
+
+<p>Jacques ran into as open an area as he could, reaching for his radio.</p><blockquote class="left">
+
+<p class="Human">"We intercepted the Stone Wyrm; Velos is dealing with it right now."</p></blockquote><blockquote class="right">
+
+<p class="Human"><i>"Roger. Just hold on. Wait for Lorand to arrive,"</i> responded the woman on the other side, slightly distracted, the sound of rustling paper and keyboard typing almost drowning out her voice.</p></blockquote>
+
+<p>Jacques, meanwhile, calmly walked, occasionally dodging the Wyrm's attacks from below. He didn't know where it was or when it would resurface. He just kept counting in his head, and that appeared to have been working so far.</p><blockquote class="left">
+
+<p class="Human">"Mihaela says we should wait for Lorand!" he yelled at Velos, jumping a few steps forward, the Stone Wyrm appearing and missing to pull him under.</p></blockquote><blockquote class="right">
+
+<p class="Human"><span class="Steelshark">"TELL THE HAG WE GOT THIS!"</span> he yelled, louder, constantly revving his engine, appearing irritated at the sparks that flew from his misshapen half.</p></blockquote>
+
+<p>The Wyrm lunged upwards, far above the ground, roaring. Jacques could perfectly see its skin, calcareous and rock-like, and its wings, too small and solid and made of rock to support any sort of flight, according to the laws of aviation. But the Stone Wyrm didn't care about the laws of aviation, because he flew anyway.</p>
+
+<p>Roughly twelve metres long, the serpentine creature circled Jacques from above before plunging back into the concrete.</p>
+
+<p>When it resurfaced, it didn't attack him. It simply stared, waving its head, analysing Jacques. It was curious. Why was he so calm? For it and Velos were of a kind; both could smell fear, but this human that stood before it, he didn't smell at all. Why was that?</p>
+
+<p>Jacques stood in front of the Wyrm, hands in pockets, staring back into its eye... -holes. The Stone Wyrm lacked a mouth, nose, or eyes; its horned, rock head had only two large holes, allowing Jacques to see inside it. The Wyrm was hollow, only a glorified tube made of stone, its interior ever so slightly darker.</p>
+
+<p>The Wyrm, apparently satisfied, coiled back and lunged toward Jacques—</p>
+
+<p>—And just as the two were about to make contact, along came Velos.</p>
+
+<p>He pushed Jacques out of the way, and with one hand grappled its head. As his claws contacted its rocky exterior, he smiled widely, his serrated, shark-like teeth glinting in the light.</p>
+
+<p>Jacques lifted his head from where he'd landed, blinked, and saw Velos already on the far side of the Wyrm, strolling with his hands behind his head. The Wyrm was stunned, immense cracks appearing on its skin, miniature explosions painfully splitting it open.</p><blockquote class="right">
+
+<p class="Steelshark">"See? Told you I could-"</p></blockquote><blockquote class="left">
+
+<p class="Human">"It's still alive."</p></blockquote><blockquote class="right">
+
+<p class="Steelshark">"Itsstillwhat?"</p></blockquote>
+
+<p>The Wyrm collapsed, slipping back into the earth as though it had never been there.</p><blockquote class="left">
+
+<p class="Human">"You didn't discharge deep enough."</p></blockquote><blockquote class="right">
+
+<p class="Steelshark">"SHUT UP! I'll get it this time!"</p></blockquote>
+
+<p>The two stood back to back once more. Velos revved his engine to full, sparks spitting wildly from his molten half. Jacques could only think about how great it was that he could heal his eardrums, with Velos being so loud.</p>
+
+<p>The Wyrm re-emerged, snaking its way to them, up and down, picking up speed.</p>
+
+<p>And in a stroke of opportune luck, the effects of the Zmey's fire wore off. The molten and misshapen part of Velos' body stopped spewing sparks, heated, and regenerated itself, now red-hot. Now, Velos could slash deep enough.</p>
+
+<p>He charged towards the Stone Wyrm, dragging his claws across the concrete, sharpening them. He needed to kill this thing, right here, right now.</p>
+
+<p>He grinned wide, ready to—</p><blockquote class="right">
+
+<p class="Soma">"Swords Dance..."</p></blockquote>
+
+<p>...was all they heard before a giant, crystalline sword pierced the Stone Wyrm cleanly. Seconds later, a wave of smaller blades pierced the Wyrm's entire body. The beast collapsed, now definitively, its rock exterior quickly breaking apart, turning into a fine, red dust. Velos didn't move. He stood there, frozen. Still ready to pounce on the Wyrm. On his face, only an unreadable expression remained, something between a frown and a grimace, his jaw hanging loose.</p>
+
+<p>Jacques looked back, and there he saw him approaching. A robotic being, his skin a clean, polished white metal, his eyes large, yellow LEDs, his hair silver strands neatly stilled. He approached, smiling awkwardly.</p><blockquote class="right">
+
+<p class="Soma">"Hope I didn't get here too late!"</p></blockquote>
+
+</div><br><br>
+<div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
+
+  <a href="/books/yellow/chapter-1" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">← 1 <span style="color:inherit;">// </span>Peachy</a>
+
+  <a href="/books/yellow/chapter-3" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">3 <span style="color:inherit;">// </span>Channels on TV →</a>
+  
 </div>
