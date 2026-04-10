@@ -15,6 +15,7 @@ tags:
 <a href="/books/yellow/chapter-2" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">2 <span style="color:inherit;">// </span>Save Youself →</a>
 
 </div><br><br>
+<div style="background:#000;padding:20px;margin:0rem 0;">
 <div style="border:2px solid rgb(255,255,255,1);padding:40px 48px;margin:2rem 0;" id="workskin">
 
 <h1 style="text-align:center;font-size:2.5rem;letter-spacing:0.2em;margin:0 0 2rem;">Chapter 1: Peachy</h1>
@@ -121,7 +122,7 @@ tags:
 
 <p>As blood flowed through the axe’s structure, it got hotter, its engine throttling uncontrollably, its entire frame shifting around, reaching a level of efficiency unattainable with regular fuel. Jacques felt the plates moving around in his torso before a mechanical hand emerged out of the metal mass, clawing its way out.</p>
 
-</div><br><br><div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
+</div></div><br><br><div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
 <a></a>
 

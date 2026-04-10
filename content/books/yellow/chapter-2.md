@@ -15,6 +15,7 @@ tags:
   <a href="/books/yellow/chapter-3" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">3 <span style="color:inherit;">// </span>Channels on TV →</a>
   
 </div><br><br>
+<div style="background:#000;padding:20px;margin:0rem 0;">
 <div style="border:2px solid rgb(255,255,255,1);padding:40px 48px;margin:2rem 0;" id="workskin">
 
 <h1 style="text-align:center;font-size:2.5rem;letter-spacing:0.2em;margin:0 0 2rem;">Chapter 2: Save Yourself</h1>
@@ -177,7 +178,7 @@ tags:
 
 <p class="Soma">"Hope I didn't get here too late!"</p></blockquote>
 
-</div><br><br>
+</div></div><br><br>
 <div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
   <a href="/books/yellow/chapter-1" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">← 1 <span style="color:inherit;">// </span>Peachy</a>
