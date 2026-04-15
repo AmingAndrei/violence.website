@@ -20,8 +20,7 @@ _2. something really fun to do_
 _Ten years ago, the world ended. One city was left standing, becoming the last stronghold of humanity and its newfound allies._
 _When a half-human Operator and his Devil partner are tasked with protecting a seemingly innocuous girl, they find themselves targets of a conspiracy that insists her death is the only thing preventing catastrophe._<br><br><br><style>
 .ch-tl { display:flex; flex-direction:column; width:fit-content; padding-left:40px; border-left:2px solid #444; margin:1rem 0; }
-.ch-tl a { display:flex; align-items:center; gap:20px; padding:20px 0 20px 32px; text-decoration:none; position:relative; }
-.ch-tl a::before { content:''; position:absolute; left:-9px; width:16px; height:16px; border-radius:50%; background:#666; border:3px solid #000; flex-shrink:0; }
+.ch-tl a { display:flex; align-items:center; gap:20px; padding:20px 0 20px 32px; text-decoration:none; }
 .ch-tl a .ch-text { font-size:2rem; letter-spacing:0.12em; color:#fff; transition:color 0.15s ease; display:flex; align-items:center; gap:20px; }
 .ch-tl a .ch-num { font-size:2rem; min-width:52px; }
 </style>
