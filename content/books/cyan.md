@@ -16,3 +16,16 @@ _noun_
 
 _1. behaviour involving physical force intended to hurt, damage, or kill someone or something._<br>
 _2. something really fun to do_
+
+_Years before the end of the world, one woman finds a friend on the other side, leaving her to understand both herself and the new world she was thrust into._<br><br><br><br><br>
+<style>
+.ch-tl { display:flex; flex-direction:column; width:fit-content; padding-left:40px; border-left:2px solid #444; margin:1rem 0; }
+.ch-tl a { display:flex; align-items:center; gap:20px; padding:20px 0 20px 32px; text-decoration:none; position:relative; }
+.ch-tl a::before { content:''; position:absolute; left:-9px; width:16px; height:16px; border-radius:50%; background:#666; border:3px solid #000; flex-shrink:0; }
+.ch-tl a .ch-text { font-size:2rem; letter-spacing:0.12em; color:#fff; transition:color 0.15s ease; display:flex; align-items:center; gap:20px; }
+.ch-tl a .ch-num { font-size:2rem; min-width:52px; }
+</style>
+
+<div class="ch-tl">
+  <a href="/books/cyan/chapter-1" onmouseover="this.querySelector('.ch-text').style.color='rgb(0,255,255)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">1 //</span>Consequences  ̶ ̶d̶o̶n̶'̶t̶  Accompany Choice</div></a><br>
+</div>

@@ -12,7 +12,7 @@ tags:
 
 <a></a>
 
-<a href="/books/yellow/chapter-2" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">2 <span style="color:inherit;">// </span>Save Youself →</a>
+<a href="/books/yellow/chapter-2" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">2 <span style="color:inherit;">// </span>Save Yourself →</a>
 
 </div><br><br>
 <div style="background:#000;padding:20px;margin:0rem 0;">
@@ -126,7 +126,7 @@ tags:
 
 <a></a>
 
-<a href="/books/yellow/chapter-2" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">2 <span style="color:inherit;">// </span>Save Youself →</a>
+<a href="/books/yellow/chapter-2" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">2 <span style="color:inherit;">// </span>Save Yourself →</a>
 
 </div>
 
