@@ -22,7 +22,7 @@ tags:
 
 <p>The mass of metal twisted, its plates snapping into place as it emerged from Jacques' torso, showing little concern for his well-being. Whatever the thing now standing before Jacques was, it was no longer just an axe; rising to its feet, turning to face him, the sound of an engine purring overlaid its growly voice.</p><blockquote class="right">
 
-<p class="Steelshark">"Oh, yeah, finally! Tell you what, I'd hazard a guess that we'll finish this in four, maybe five minutes. Tops."</p></blockquote><blockquote class="left">
+<p class="Steelshark">"Finally! Tell you what, I'd hazard a guess that we'll finish this in four, maybe five minutes. Tops."</p></blockquote><blockquote class="left">
 
 <p class="Human">"Velos…" croaked the dying man, lying on the ground, wheezing as his lungs filled with blood.</p></blockquote><blockquote class="right">
 
