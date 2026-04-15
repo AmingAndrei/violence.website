@@ -18,7 +18,7 @@ tags:
 <div style="background:#000;padding:20px;margin:0rem 0;">
 <div style="border:2px solid rgb(255,255,255,1);padding:40px 48px;margin:2rem 0;" id="workskin">
 
-<h1 style="text-align:center;font-size:2.5rem;letter-spacing:0.2em;margin:0 0 2rem;">Chapter 1: Consequences  ̶ ̶d̶o̶n̶'̶t̶  Accompany Choice</h1>
+<h1 style="text-align:center;font-size:2.5rem;letter-spacing:0.2em;margin:0 0 2rem;">Chapter 1: Consequences  ̶d̶o̶n̶'̶t̶  Accompany Choice</h1>
 
 <p>…I never knew how to start these things.</p>
 

@@ -27,5 +27,5 @@ _Years before the end of the world, one woman finds a friend on the other side, 
 </style>
 
 <div class="ch-tl">
-  <a href="/books/cyan/chapter-1" onmouseover="this.querySelector('.ch-text').style.color='rgb(0,255,255)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">1 //</span>Consequences  ̶ ̶d̶o̶n̶'̶t̶  Accompany Choice</div></a><br>
+  <a href="/books/cyan/chapter-1" onmouseover="this.querySelector('.ch-text').style.color='rgb(0,255,255)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">1 //</span>Consequences  ̶d̶o̶n̶'̶t̶  Accompany Choice</div></a><br>
 </div>
