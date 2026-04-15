@@ -35,7 +35,10 @@ VIOLENCE is a science fantasy and horror multimedia series and worldbuilding pro
 </div>
 
 ---
+# IMPORTANT LINKS<br>
+- />:3/
 
+---
 # CREDITS<br>
 <br>
 <img src="assets/credits/aming.png" style="float:left;width:190px;margin:30px 20px 8px 0;" />
