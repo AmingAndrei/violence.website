@@ -10,20 +10,20 @@ VIOLENCE is a science fantasy and horror multimedia series and worldbuilding pro
 
 ---
 
-<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;width:100%;margin:2rem 0;">
+<div style="display:grid;grid-template-columns:repeat(1,1fr);gap:16px;width:100%;margin:2rem 0;">
 
   <a href="/books" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:64px 24px;border:1px solid white;border-radius:8px;background:transparent;color:white;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
     <img src="assets/icons/books.svg" width="80" height="80" style="object-fit:contain;" alt="Stories"/>
     <span style="font-size:1.5rem;letter-spacing:0.22em;font-weight:400;">BOOKS</span>
   </a>
 
-<a href="/" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:64px 24px;border:1px solid white;border-radius:8px;background:transparent;color:white;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+</div>
+<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:16px;width:100%;margin:2rem 0;">
+
+<a href="/" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:64px 24px;border:1px solid white;border-radius:8px;background:transparent;color:white;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="assets/icons/characters.svg" width="80" height="80" style="object-fit:contain;filter:invert(1);" alt="Characters"/>
     <span style="font-size:1.5rem;letter-spacing:0.22em;font-weight:400;">CHARACTERS</span>
   </a>
-
-</div>
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;width:100%;margin:2rem 0;">
 
   <a href="/bestiary" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:64px 24px;border:1px solid white;border-radius:8px;background:transparent;color:white;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="assets/icons/bestiary.svg" width="80" height="80" style="object-fit:contain;filter:invert(1);" alt="Bestiary"/>
