@@ -27,7 +27,7 @@ Their nature is a result of their close link to Anima, as Devils themselves are 
   <div style="display:flex;flex-direction:column;border-radius:6px;overflow:hidden;">
     <div style="aspect-ratio:1/1;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:6px;background:conic-gradient(from 0deg,#ff0000,#ff8800,#ffff00,#00ff00,#00ffff,#0088ff,#8800ff,#ff00ff,#ff0000);flex-shrink:0;"></div>
-    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">Crimson Nymphs</div>
+    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">CRIMSON NYMPHS</div>
   </div>
 </a>
 
@@ -40,7 +40,7 @@ Their nature is a result of their close link to Anima, as Devils themselves are 
   <div style="display:flex;flex-direction:column;border-radius:6px;overflow:hidden;">
     <div style="aspect-ratio:1/1;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:6px;background:conic-gradient(from 0deg,#ff0000,#ff8800,#ffff00,#00ff00,#00ffff,#0088ff,#8800ff,#ff00ff,#ff0000);flex-shrink:0;"></div>
-    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">Clutch Beetles</div>
+    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">CLUTCH BEETLES</div>
   </div>
 </a>
 
@@ -48,7 +48,7 @@ Their nature is a result of their close link to Anima, as Devils themselves are 
   <div style="display:flex;flex-direction:column;border-radius:6px;overflow:hidden;">
     <div style="aspect-ratio:1/1;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:6px;background:conic-gradient(from 0deg,#ff0000,#ff8800,#ffff00,#00ff00,#00ffff,#0088ff,#8800ff,#ff00ff,#ff0000);flex-shrink:0;"></div>
-    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">Tyndall Hounds</div>
+    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">TYNDAL HOUNDS</div>
   </div>
 </a>
 
@@ -71,7 +71,7 @@ Their nature is a result of their close link to Anima, as Devils themselves are 
   <div style="display:flex;flex-direction:column;border-radius:6px;overflow:hidden;">
     <div style="aspect-ratio:1/1;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:6px;background:conic-gradient(from 0deg,#ff0000,#ff8800,#ffff00,#00ff00,#00ffff,#0088ff,#8800ff,#ff00ff,#ff0000);flex-shrink:0;"></div>
-    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">Stone Wyrms</div>
+    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">STONE WYRMS</div>
   </div>
 </a>
 
@@ -79,7 +79,7 @@ Their nature is a result of their close link to Anima, as Devils themselves are 
   <div style="display:flex;flex-direction:column;border-radius:6px;overflow:hidden;">
     <div style="aspect-ratio:1/1;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:6px;background:conic-gradient(from 0deg,#ff0000,#ff8800,#ffff00,#00ff00,#00ffff,#0088ff,#8800ff,#ff00ff,#ff0000);flex-shrink:0;"></div>
-    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">Circuit Titans</div>
+    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">CIRCUIT TITANS</div>
   </div>
 </a>
 
@@ -87,7 +87,7 @@ Their nature is a result of their close link to Anima, as Devils themselves are 
   <div style="display:flex;flex-direction:column;border-radius:6px;overflow:hidden;">
     <div style="aspect-ratio:1/1;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:6px;background:conic-gradient(from 0deg,#ff0000,#ff8800,#ffff00,#00ff00,#00ffff,#0088ff,#8800ff,#ff00ff,#ff0000);flex-shrink:0;"></div>
-    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">Steel Sharks</div>
+    <div style="padding:12px 8px;background:#000;text-align:center;color:#ccc;font-size:1.5rem;letter-spacing:0.18em;">STEEL SHARKS</div>
   </div>
 </a>
 
