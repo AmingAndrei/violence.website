@@ -3,6 +3,10 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
+html {
+  scrollbar-gutter: stable;
+}
+
 article + hr {
   display: none;
 }
