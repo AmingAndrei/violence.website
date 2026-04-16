@@ -10,7 +10,7 @@ VIOLENCE is a science fantasy and horror multimedia series and worldbuilding pro
 
 ---
 
-<div style="display:grid;grid-template-columns:repeat(1,1fr);gap:16px;width:100%;margin:2rem 0;">
+<div style="display:grid;grid-template-columns:repeat(1,1fr);gap:10px;width:100%;margin:2rem 0;">
 
   <a href="/books" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:64px 24px;border:1px solid white;border-radius:8px;background:transparent;color:white;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
     <img src="assets/icons/books.svg" width="80" height="80" style="object-fit:contain;" alt="Stories"/>
