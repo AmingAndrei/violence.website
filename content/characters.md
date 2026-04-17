@@ -9,6 +9,7 @@ tags:
 # VIOLENT INDIVIDUALS (ACTUALLY PLOT-RELEVANT CHARACTERS)
 ---
 # ULTRAVIOLET
+The Pale's military branch, deals with everything FLIPSIDE-related.
 
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
@@ -63,7 +64,8 @@ tags:
 
 </div>
 
-# CLEAN-UP CREW
+# NIKI'S CLEAN-UP CREW
+They deal with Serpents before they become a problem.
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
@@ -85,6 +87,7 @@ tags:
 </div>
 
 # SERPENTS
+What remains after a Soma dies.
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
@@ -105,26 +108,28 @@ tags:
 
 </div>
 
-# FAE
+# FAE KINGDOM
+The Fae have their own long and bloody history. Hardship and convenience are the reason they have consistently stayed united under one ruler.
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">FAELINAR</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">FAELINAR, THE FAE QUEEN</div>
   </div>
 </a>
 
 </div>
 
-# SUPREME ACT OF VIOLENCE-ADJACENT
+# VITALISTS
+Servants to the Supreme Acts of Violence
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">CHARON</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">CHARON, CHALK LORD</div>
   </div>
 </a>
 
