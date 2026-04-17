@@ -8,13 +8,15 @@ tags:
 <br><br>
 # VIOLENT INDIVIDUALS (ACTUALLY PLOT-RELEVANT CHARACTERS)
 ---
+# ULTRAVIOLET
+
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">JACQUES REN</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">JACQUES REN</div>
   </div>
 </a>
 
@@ -22,7 +24,7 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">AZURIA VELOS</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">AZURIA VELOS</div>
   </div>
 </a>
 
@@ -30,7 +32,7 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">MIHAELA REBREANU</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">MIHAELA REBREANU</div>
   </div>
 </a>
 
@@ -38,7 +40,16 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">RADEK PREDA</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">RADEK PREDA</div>
+  </div>
+</a>
+
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">LORAND AORELLO</div>
   </div>
 </a>
 
@@ -46,17 +57,14 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">SIGNE</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VICTOR</div>
   </div>
 </a>
 
-<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
-    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">LORAND AORELLO</div>
-  </div>
-</a>
+</div>
+
+# VESPER CELL
+<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
@@ -70,7 +78,20 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">THE SERPENT</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">EDVA</div>
+  </div>
+</a>
+
+</div>
+
+# SERPENTS
+<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">THE SERPENT</div>
   </div>
 </a>
 
@@ -78,31 +99,32 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">VICTOR</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">SIGNE</div>
   </div>
 </a>
+
+</div>
+
+# FAE KINGDOM
+<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">EDVA</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">FAELINAR</div>
   </div>
 </a>
 
+</div>
+
+# CHALK
+<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">FAELINAR</div>
-  </div>
-</a>
-
-<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
-    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">CHARON</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">CHARON</div>
   </div>
 </a>
 
@@ -116,7 +138,7 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">GERRY</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">GERRY</div>
   </div>
 </a>
 
@@ -124,7 +146,7 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">MARCO</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">MARCO</div>
   </div>
 </a>
 
@@ -132,7 +154,7 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">TONI</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">TONI</div>
   </div>
 </a>
 
@@ -140,7 +162,7 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:2rem;">CARLO</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">CARLO</div>
   </div>
 </a>
 
@@ -148,13 +170,15 @@ tags:
 
 # THE SUPREME ACTS OF VIOLENCE
 ---
+The Supreme Acts of Violence represent the apex of violence as a concept, the most powerful beings ever seen, able to brutalise and force the logic of the world in their favour. They each embody one of the most grievous acts of violence that can be committed, and thus are virtually immortal, as they do not age and killing one will result in it reviving three days later, somewhere in the FLIPSIDE.
+
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:10px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.9rem;">VIOLENCE AGAINST GOD</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VIOLENCE AGAINST GOD</div>
   </div>
 </a>
 
@@ -162,7 +186,7 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.9rem;">VIOLENCE AGAINST ART</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VIOLENCE AGAINST ART</div>
   </div>
 </a>
 
@@ -170,6 +194,6 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.66rem;">VIOLENCE AGAINST NATURE</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VIOLENCE AGAINST NATURE</div>
   </div>
 </a>
