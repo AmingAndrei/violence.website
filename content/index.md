@@ -40,7 +40,7 @@ VIOLENCE is a science fantasy and horror multimedia series and worldbuilding pro
     <span style="font-size:1.5rem;letter-spacing:0.22em;font-weight:400;">TIMELINE</span>
   </a>
 
-<a href="/" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:64px 24px;border:1px solid white;border-radius:8px;background:transparent;color:white;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<a href="/inventory" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:64px 24px;border:1px solid white;border-radius:8px;background:transparent;color:white;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <img src="assets/icons/inventory.svg" width="120" height="120" style="object-fit:contain;filter:invert(1);" alt="Inventory"/>
     <span style="font-size:1.5rem;letter-spacing:0.22em;font-weight:400;">INVENTORY</span>
   </a>
