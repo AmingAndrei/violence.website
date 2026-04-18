@@ -26,7 +26,7 @@ _When a half-human Operator and his Devil partner are tasked with protecting a s
 </style>
 
 <div class="ch-tl">
-  <a href="/books/yellow/chapter-1" onmouseover="this.querySelector('.ch-text').style.color='rgb(255,255,0)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">1 //</span>Peachy</div></a><br>
+  <a href="/books/yellow/chapter-1" onmouseover="this.querySelector('.ch-text').style.color='rgb(255,255,0)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">1 //</span>Peachy ★</div></a><br>
   <a href="/books/yellow/chapter-2" onmouseover="this.querySelector('.ch-text').style.color='rgb(255,255,0)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">2 //</span>Save Yourself</div></a><br>
   <a href="/books/yellow/chapter-3" onmouseover="this.querySelector('.ch-text').style.color='rgb(255,255,0)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">3 //</span>Channels on TV</div></a><br>
   <a href="/books/yellow/chapter-4" onmouseover="this.querySelector('.ch-text').style.color='rgb(255,255,0)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">4 //</span>Burn My House Down</div></a><br>
