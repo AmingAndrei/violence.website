@@ -9,7 +9,6 @@ tags:
 # VIOLENT INDIVIDUALS (ACTUALLY PLOT-RELEVANT CHARACTERS)
 ---
 # ULTRAVIOLET
-The Pale's military branch, deals with everything FLIPSIDE-related.
 
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
@@ -65,7 +64,6 @@ The Pale's military branch, deals with everything FLIPSIDE-related.
 </div>
 
 # NIKI'S CLEAN-UP CREW
-They deal with Serpents before they become a problem.
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
@@ -87,7 +85,6 @@ They deal with Serpents before they become a problem.
 </div>
 
 # SERPENTS
-What remains after a Soma dies.
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
@@ -109,7 +106,6 @@ What remains after a Soma dies.
 </div>
 
 # FAE KINGDOM
-The Fae have their own long and bloody history. Hardship and convenience are the reason they have consistently stayed united under one ruler.
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
@@ -122,8 +118,7 @@ The Fae have their own long and bloody history. Hardship and convenience are the
 
 </div>
 
-# VITALISTS
-Servants to the Supreme Acts of Violence
+# others idk
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
