@@ -8,7 +8,7 @@ tags:
 <br><a href="/mosaics" style="border:5px solid #444;padding:18px 30px;...">← MOSAICS</a>
 <br><br>
 
-<div style="float:left;margin:0 28px 16px 0;padding:12px;border:2px solid rgb(255,255,0,1);display:inline-block;line-height:0;"> <img src="/placeholder.png" alt="Soma" style="display:block;width:300px;height:auto;" /> </div>
+<div style="float:left;margin:0 28px 16px 0;padding:12px;border:2px solid rgb(255,255,0,1);display:inline-block;line-height:0;"> <img src="/placeholder.gif" alt="Soma" style="display:block;width:300px;height:auto;" /> </div>
 
 Soma (_Mosaica soma_) are the outlier when it comes to Mosaics. By default, Somas are completely helpless, resembling what can be described as a yellow slug, averaging around 30 cm in length. Their senses aren't much better, with the vision of a Soma being equivalent to 144p resolution. You'd expect more from a species directly descendant from Vespers, as Somas are, more or less, corrupted Vespers, with the base code handling Vesper behaviour is still integrated within Somas, with the outer Soma code being a sort of 'vessel', all the while the two lines of code run intertwined. This is also what allows Vespers to take control of a dead Soma and become a Vulture.
 

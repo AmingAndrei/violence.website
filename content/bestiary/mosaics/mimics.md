@@ -8,7 +8,7 @@ tags:
 <br><a href="/mosaics" style="border:5px solid #444;padding:18px 30px;...">← MOSAICS</a>
 <br><br>
 
-<div style="float:left;margin:0 28px 16px 0;padding:12px;border:2px solid rgb(0,255,255,1);display:inline-block;line-height:0;"> <img src="/placeholder.png" alt="Mimic" style="display:block;width:300px;height:auto;" /> </div>
+<div style="float:left;margin:0 28px 16px 0;padding:12px;border:2px solid rgb(0,255,255,1);display:inline-block;line-height:0;"> <img src="/placeholder.gif" alt="Mimic" style="display:block;width:300px;height:auto;" /> </div>
 
 Mimics (_Mosaica mimisis_) are a species entirely composed of character actors. By default, Mimics appear as light-blue humanoids, roughly 2 m in height, with a generally gangly look, their only real defining feature being their glowing eyes. They are openly hostile, and will attack unprovoked.
 

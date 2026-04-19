@@ -12,23 +12,15 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">DRIVE STARTERS</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">STARTERS</div>
   </div>
 </a>
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
-    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">WOLF TAGS</div>
-  </div>
-</a>
-
-<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">FAE AUTOMATA</div>
   </div>
@@ -36,32 +28,9 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">PHLOGISTON CORE</div>
-  </div>
-</a>
-
-</div>
-
-
-# POWER SYSTEMS
----
-<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
-
-<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
-    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">DRIVES</div>
-  </div>
-</a>
-
-<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
-    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VECTORS</div>
   </div>
 </a>
 
@@ -73,7 +42,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">ANIMA</div>
   </div>
@@ -81,7 +50,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">TAR</div>
   </div>
@@ -89,7 +58,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">PHLOGISTON</div>
   </div>
@@ -97,7 +66,15 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VECTOR</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">HELLFIRE</div>
   </div>
@@ -105,7 +82,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">CHALK</div>
   </div>
@@ -113,7 +90,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">HAEMOCARBON</div>
   </div>
@@ -129,7 +106,7 @@ Absolutes are various items which display the anomalous behaviour of having tota
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">NIGHTMARE SHACKLES</div>
   </div>
@@ -137,7 +114,7 @@ Absolutes are various items which display the anomalous behaviour of having tota
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">BLACK BOX</div>
   </div>
@@ -145,7 +122,7 @@ Absolutes are various items which display the anomalous behaviour of having tota
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">SHAPER</div>
   </div>
@@ -153,7 +130,7 @@ Absolutes are various items which display the anomalous behaviour of having tota
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">RING A RING O' ROSES</div>
   </div>
@@ -161,7 +138,7 @@ Absolutes are various items which display the anomalous behaviour of having tota
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">DAEMONOMICON</div>
   </div>
@@ -169,7 +146,7 @@ Absolutes are various items which display the anomalous behaviour of having tota
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">HOLY NAILS</div>
   </div>
@@ -184,7 +161,7 @@ Curses are conditions, diseases, effects which present anomalous behavious. They
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">SAWBLOOD</div>
   </div>
@@ -192,7 +169,7 @@ Curses are conditions, diseases, effects which present anomalous behavious. They
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">BLUE ROSE</div>
   </div>

@@ -14,7 +14,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">JACQUES REN</div>
   </div>
@@ -22,7 +22,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">AZURIA VELOS</div>
   </div>
@@ -30,7 +30,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">MIHAELA REBREANU</div>
   </div>
@@ -38,7 +38,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">RADEK PREDA</div>
   </div>
@@ -47,7 +47,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">LORAND AORELLO</div>
   </div>
@@ -55,7 +55,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VICTOR</div>
   </div>
@@ -68,7 +68,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;letter-spacing:0em;">NIKITA 'NIKI' ███████</div>
   </div>
@@ -76,7 +76,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">EDVA</div>
   </div>
@@ -89,7 +89,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">THE SERPENT</div>
   </div>
@@ -97,7 +97,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">SIGNE</div>
   </div>
@@ -110,7 +110,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">FAELINAR, THE FAE QUEEN</div>
   </div>
@@ -122,7 +122,7 @@ tags:
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">CHARON, CHALK LORD</div>
   </div>
@@ -136,7 +136,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">GERRY</div>
   </div>
@@ -144,7 +144,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">MARCO</div>
   </div>
@@ -152,7 +152,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">TONI</div>
   </div>
@@ -160,7 +160,7 @@ tags:
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">CARLO</div>
   </div>
@@ -176,7 +176,7 @@ The Supreme Acts of Violence represent the apex of violence as a concept, the mo
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VIOLENCE AGAINST GOD</div>
   </div>
@@ -184,7 +184,7 @@ The Supreme Acts of Violence represent the apex of violence as a concept, the mo
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VIOLENCE AGAINST ART</div>
   </div>
@@ -192,7 +192,7 @@ The Supreme Acts of Violence represent the apex of violence as a concept, the mo
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.png') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">VIOLENCE AGAINST NATURE</div>
   </div>
