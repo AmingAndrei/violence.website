@@ -100,7 +100,7 @@ tags:
 
 # ABSOLUTES
 ---
-Absolutes are various items which display the anomalous behaviour of having total control over different concepts. This means that there are no
+Absolutes are various items which display the anomalous behaviour of having total control over different concepts. There is virtually nothing that can do something better than them.
 
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
@@ -156,7 +156,7 @@ Absolutes are various items which display the anomalous behaviour of having tota
 
 # CURSES
 ---
-Curses are conditions, diseases, effects which present anomalous behavious. They are not random, as all curses obey a series of internal rules.
+Curses are conditions, diseases, effects which present anomalous behavious. They are not random, with each curse obeying its own set of rules.
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
