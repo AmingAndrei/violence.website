@@ -44,7 +44,7 @@ tags:
 
 <p class="Human"><em>“Good. I've placed the relocation cage on a nearby street. Keep me posted.”</em></p></blockquote>
 
-<p>The man appeared to be pushing thirty, clean-shaven, hair not particularly styled but obviously well taken care of. The clothes he wore were nothing to write home about, with the only exception being the surprisingly stylish coat that was part of his uniform. From his belt hung a small pouch, a faint glow emanating from within whenever a ray of light passed over the opening. But most striking was the massive slab of metal strapped to his back, an axe too big to be used as a weapon. Its looks might've suggested it once served as a motorcycle's engine, but that couldn't be further from the truth.</p>
+<p>The man appeared to be pushing thirty, clean-shaven, hair not particularly styled but obviously well taken care of. The only notable piece of clothing he wore was the surprisingly stylish coat that was part of his uniform. From his belt hung a small pouch, a faint glow emanating from within whenever a ray of light passed over the opening. But most striking was the massive slab of metal strapped to his back, an axe too big to be used as a weapon. Its looks might've suggested it once served as a motorcycle's engine, but that couldn't be further from the truth.</p>
 
 <p>Jacques pulled out a bottle of gasoline from his many pockets and poured it directly on the axe's surface, the pilot's face turning into a scowl from the smell.</p>
 
