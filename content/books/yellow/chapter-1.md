@@ -20,7 +20,7 @@ tags:
 
 <h1 style="text-align:center;font-size:2.5rem;letter-spacing:0.2em;margin:0 0 2rem;">Chapter 1: Peachy</h1>
 
-<p><strong>10.03.10 AW, 07:59, CHROMATICAN CITY</strong></p>
+<p><strong>10.03.10, 07:59, CHROMATICAN CITY</strong></p>
 
 <p>Quiet. Only the howling winds outside the city and the crackling electricity filled the silence. Then the clock struck 8. The streetlight dimmed ever so slightly as power surged, illuminating the streets in artificial daylight. And the city awoke, obsidian skyscrapers as far as the eye could see, searchlights darting all around the dark sky. This was the Chromatican City, which came to be known as the last stronghold of human civilization.</p>
 
