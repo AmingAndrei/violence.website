@@ -22,13 +22,13 @@ tags:
 
 <p><strong>10.03.10 AW, 07:59, CHROMATICAN CITY</strong></p>
 
-<p>Quiet. Only the howling winds outside the city and the crackling electricity filled the silence. Then the clock struck 8. The streetlight dimmed ever so slightly as power surged, illuminating the streets in artificial daylight. And the city awoke, obsidian skyscrapers as long as the eye could see, searchlights darting all around the dark sky. This was the Chromatican City, what came to be known as the last stronghold of human civilization.</p>
+<p>Quiet. Only the howling winds outside the city and the crackling electricity filled the silence. Then the clock struck 8. The streetlight dimmed ever so slightly as power surged, illuminating the streets in artificial daylight. And the city awoke, obsidian skyscrapers as far as the eye could see, searchlights darting all around the dark sky. This was the Chromatican City, what came to be known as the last stronghold of human civilization.</p>
 
 <p>In its very heart stood a spire, mere sheets and chunks of metal grafted upon each other, reaching far above the clouds as if to hold the firmament itself. The Spine, and within it sat the Pale, the new powers that be.</p>
 
-<p>But good things don't last. The emergency broadcast screamed, warnings for the citizens to evacuate the area now! The searchlights homed in on the approaching threat, its silhouette now visible in front of the black clouds.</p>
+<p>But good things don't last. The emergency broadcast screamed, warnings for the citizens to evacuate the area now! The searchlights homed in on the approaching threat, its silhouette now visible against the black clouds.</p>
 
-<p>The beast landed in the middle of a large boulevard, the concrete cracking under its immense weight. A large, draconic being, metal scales shimmering in the light, nearly 30 meters from head to tail. Its roar deafened all who dared be near it, stomping across all that stood in its proximity.</p>
+<p>The beast landed in the middle of a large boulevard, the concrete cracking under its immense weight. A large, draconic being, metal scales shimmering in the light. Its roar deafened all who dared be near it, stomping across all that stood in its proximity.</p>
 
 <p>And high above, a single helicopter circled the area, surveying the situation. Its large door opened, and from within dangled a man, loosely holding himself in with one hand.</p><blockquote class="left">
 
@@ -118,7 +118,7 @@ tags:
 
 <p>He could see the second cage, but what of more concern were the civilians that were still in the area. And even more concerning, the small group hiding behind a statue, throwing rubbish at the Zmey, most of which started burning the second it made contact. Even if its scales were too thick for it too notice, it would not hold back if it were to notice them.</p>
 
-<p>Jacques pinched the bridge of his nose, inhaling deep to keep himself awake, then started running toward the Zmey. He grabbed the axe's handle, revving it's engine so loud his ears hurt. The Zmey flinched, loosing its balance, backing away ever so slightly.</p>
+<p>Jacques pinched the bridge of his nose, inhaling deep to keep himself awake, then started running toward the Zmey. He grabbed the axe's handle, revving its engine so loud his ears hurt. The Zmey flinched, loosing its balance, backing away ever so slightly.</p>
 
 <p>But it didn't take long to regain its composure, snapping back, threatening to incinerate Jacques. It opened its maw, smoke floating out of his throat, and Jacques threw inside a brick he picked from the ground.</p>
 
@@ -128,13 +128,15 @@ tags:
 
 <p>He looked up, seeing the Zmey ready itself again, but he fell to the ground, barely dodging the flame. It was shock that saved him; he couldn't get up even if he wanted to.</p>
 
-<p>Jacques reached behind him with his remaining arm, grabbing a small Luger-like gun that was spat out of the axe's mass. He reached to his belt pouch, yanking it and emptying the insides on the ground.</p>
+<p>Jacques reached to the pouch on his belt, yanking and emptying the insides on the ground.</p>
 
 <p>From the pouch, a mix of liquids spilt out, seeping into the cracked concrete, leaving behind bits of glass and metal. Jacques picked with trembling fingers a single bullet, the red liquid inside glinting in the streetlight.</p><blockquote class="left">
 
 <p class="Human">“Your turn.”</p></blockquote>
 
-<p>The axe on his back seemed to whirl in excitement, aware of what was to follow.  Jacques used his remaining strength to lift the weapon, driving it into his stomach, twisting the handle. The engine roared to life.</p>
+<p>The axe on his back seemed to whirl in excitement, aware of what was to follow.  Jacques forced himself to lift the weapon, propping it into the ground. He rose up, his legs straining, blood freely flowing out of his mouth.</p>
+
+<p>He sprung up, using the last of his strength to jump into the axe's blade, driving it deep into his stomach. Its engine roared to life.</p>
 
 <p>As blood flowed through the axe’s structure, its engine throttled uncontrollably, its entire frame morphing.  Jacques' felt the weapon tearing through his torso, with a mechanical hand emerging out of the metal mass, clawing its way out.</p>
 
