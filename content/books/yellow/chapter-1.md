@@ -34,7 +34,7 @@ tags:
 
 <p class="Human">“I’ve got visuals on the Zmey. How did it even get this close?"</p></blockquote><blockquote class="right">
 
-<p class="Human"><i>"One of my Signal Station technicians 'forgot' about his broken. Poor bastard."</i> responded a woman on a radio, tired and monotonous.</p></blockquote><blockquote class="left">
+<p class="Human"><i>"One of my Signal Station technicians 'forgot' about his broken air filter. Poor bastard."</i> responded a woman on a radio, tired and monotonous.</p></blockquote><blockquote class="left">
 
 <p class="Human">"That's a shame. I should inform you right now I'm declining the spot."</p></blockquote><blockquote class="right">
 
