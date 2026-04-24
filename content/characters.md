@@ -6,7 +6,7 @@ tags:
 ---
 <br><a href="/" style="border:5px solid #444;padding:18px 30px;...">← HOME</a>
 <br><br>
-# VIOLENT INDIVIDUALS (ACTUALLY PLOT-RELEVANT CHARACTERS)
+# ACTUALLY PLOT-RELEVANT CHARACTERS
 ---
 # ULTRAVIOLET
 
@@ -125,7 +125,7 @@ tags:
 
 </div><br><br>
 
-# NON-VIOLENT INDIVIDUALS
+# FODDER
 ---
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:10px;width:100%;margin:2rem 0 60px;">
 
