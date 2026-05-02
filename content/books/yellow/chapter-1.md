@@ -34,7 +34,7 @@ tags:
 
 <p class="Human">“I’ve got visuals on the Zmey. How did it even get this close?"</p></blockquote><blockquote class="right">
 
-<p class="Human"><em>"One of my Signal Station technicians 'forgot' about his broken air filter. Poor bastard,"</em> responded a woman on the radio, tired and monotonous.</p></blockquote><blockquote class="left">
+<p class="Human"><em>"One of the Signal Station technicians 'forgot' about his broken air filter. Poor bastard,"</em> responded a woman on the radio, tired and monotonous.</p></blockquote><blockquote class="left">
 
 <p class="Human">"That's a shame. I should inform you right now I'm declining the spot."</p></blockquote><blockquote class="right">
 
@@ -98,25 +98,21 @@ tags:
 
 <p>Jacques pushed himself up, just in time to see the Zmey leering at him through the broken glass, its stance more unbalanced. It puffed, spread its wings, and flew out of sight.</p>
 
-<p>Jacques ran outside, with some of his bones broken and his back full of bleeding wooden splinters, seeing the dragon fly deeper into the city.</p><blockquote class="left">
-
-<p class="Human">“This is all your fault, by the way!“ he screamed at the people still hiding in the destroyed café.</p></blockquote>
-
-<p>But how to catch up to the Zmey? He looked back at the hiding people.</p><blockquote class="left">
+<p>Jacques ran outside, with some of his bones broken and his back full of bleeding wooden splinters, seeing the dragon fly deeper into the city. He needed desperately to catch up to it. But how?</p><blockquote class="left">
 
 <p class="Human">“Any of you have a still functional car nearby? Car? Auto?"</p></blockquote>
 
 <p>One man rose, keys in hand.</p>
 
-<p>Jacques drove as fast as the engine could, trying to follow the Zmey scraping against the buildings as it flew past. To his left was his axe, strapped with a safety belt on the passenger seat.</p><blockquote class="left">
+<p>Jacques drove as fast as the engine could, trying to follow the Zmey scraping against the buildings as it flew past. To his left was the axe, strapped with a safety belt on the passenger seat.</p><blockquote class="left">
 
 <p class="Human">“I messed up, the Zmey is going deeper into the city,” he coughed into the radio, blood splattering the car's insides.</p></blockquote><blockquote class="right">
 
 <p class="Human"><em>“I know. I'll set another cage ahead,”</em> responded the woman.</p></blockquote>
 
-<p>The Zmey landed in a large plaza, with Jacques right behind, guards still trying to evacuate the area. Jacques had to act now.</p>
+<p>The Zmey landed in a large plaza, with Jacques right behind, guards still trying to evacuate the area. He had to act now.</p>
 
-<p>He could see the second cage, but what was of more concern were the civilians who were still in the area. And even more concerning, the small group hiding behind a statue, throwing rubbish at the Zmey, most of which started burning the second it made contact. Even if its scales were too thick for it to notice, it would not hold back if it were to notice them.</p>
+<p>He saw the second cage, but what was of more concern were the civilians who were still in the area. And even more concerning, the small group hiding behind a statue, throwing rubbish at the Zmey, most of which started burning the second it made contact. Even if its scales were too thick for it to notice, it would not hold back if it were to notice them.</p>
 
 <p>Jacques pinched the bridge of his nose, inhaling deeply to keep himself awake, then started running toward the Zmey. He grabbed the axe's handle, revving its engine so loud his ears hurt. The Zmey flinched, losing its balance, backing away ever so slightly.</p>
 
@@ -126,7 +122,7 @@ tags:
 
 <p>Jacques stood still for a second, then staggered upright, his head pounding as blood trickled down his face and seeped deep into his chest, his lungs slowly caving in. He tried to grab his head, but he realised all too late that his arm was no longer connected to his body, sitting on the ground a few metres away.</p>
 
-<p>He looked up, seeing the Zmey ready itself again, but he fell to the ground, barely dodging the flame. It was shock that saved him; he couldn't get up even if he wanted to.</p>
+<p>The Zmey readied itself again, but he fell to the ground, barely dodging the flame. It was shock that saved him; he couldn’t get up even if he wanted to.</p>
 
 <p>Jacques reached for the pouch on his belt, yanking and emptying the insides on the ground.</p>
 

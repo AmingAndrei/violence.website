@@ -20,21 +20,19 @@ tags:
 
 <h1 style="text-align:center;font-size:2.5rem;letter-spacing:0.2em;margin:0 0 2rem;">Chapter 2: Save Yourself</h1>
 
-<p>The mass of metal twisted, its plates snapping into place as it emerged from Jacques' torso, showing little concern for his well-being. Whatever the thing now standing before Jacques was, it was no longer just an axe; rising to its feet, turning to face him, the sound of an engine purring overlaid its growly voice.</p><blockquote class="right">
+<p>The mass of metal shifted and twisted out of Jacques' body, paying no mind to the tears and wounds left behind. The Devil reshaping itself out of the axe rose to its feet, the sound of its engine purring accompanying its growly voice.</p><blockquote class="right">
 
-<p class="Steelshark">"Finally! Tell you what, I'd hazard a guess that we'll finish this in four, maybe five minutes. Tops."</p></blockquote><blockquote class="left">
+<p class="Steelshark">"Finally! I'd hazard a guess we would've finished here much earlier if I went in first."</p></blockquote><blockquote class="left">
 
-<p class="Human">"Velos…" croaked the dying man, lying on the ground, wheezing as his lungs filled with blood.</p></blockquote><blockquote class="right">
+<p class="Human">"Velos…" the dying man forced himself to whisper, barely raising his head, blood pooling around him.</p></blockquote><blockquote class="right">
 
-<p class="Steelshark">"Uh-huh, wait a sec."</p></blockquote>
+<p><span class="Steelshark">"Don't worry!"</span> purred the Devil, taking the liquid bullet from Jacques' fingers and throwing it in the air, his serrated teeth creating sparks as they snapped shut around the bullet, swallowing it. <span class="Steelshark">"I gotcha~"</span></p></blockquote>
 
-<p>Velos stood tall in front of a soon-to-be-dead Jacques. His bluish metal body, with gaps between the plates showing his interior, had an engine roaring deep in his chest. Although his metal eyes lacked that spark, that light in one's eyes. When you stared him in the eye, you felt as if you were looking into the eyes of a corpse.</p>
+<p>Out of his bluish metal wrist flung out pieces, metal plates moving out of the way, snapping into place in Velos' palm, forming a Luger-like pistol, the bullet already loaded into the chamber.</p>
 
-<p>His engine's sound mixed with his growling voice, overlapping each word. Kicking the gun up from near Jacques, he snatched it from mid-air. The gun disintegrated in his hand, its components separating and getting dragged into his arm.</p>
+<p>With his dead, cold eyes, Velos looked over at the corpse of a man in front of him, although both their gazes were just as glassy. He aimed the gun towards Jacques' head, and fired, smiling ear to ear.</p>
 
-<p>In less than a second, he rebuilt the previously disassembled gun around his other hand, the red bullet already chambered. He aimed a finger at Jacques in a mock pistol gesture and fired the bullet straight into his chest.</p>
-
-<p>Jacques felt the charge pierce his flesh; his entire nervous system flared in agony, unable to process what was happening. Was he set on fire? Was he getting electrocuted on a live wire? Every vein, every artery, every capillary, every blood vessel in his body was bursting open, his blood boiling.</p>
+<p>Jacques felt the shot pierce his flesh; his entire nervous system flared in agony, unable to process what was happening. Was he set on fire? Was he getting electrocuted on a live wire? Every vein, every artery, every capillary, every blood vessel in his body was bursting open, his blood boiling.</p>
 
 <p>Lost in the pain, he barely noticed that his arm had regenerated. The sight of his newly formed hand made him forget that moments earlier he'd been begging for death.</p><blockquote class="right">
 
@@ -72,11 +70,11 @@ tags:
 
 <p>But they hadn't had the time to lower their guard. Jacques' radio crackled to life, the voice on the other end frantically trying to reach them.</p><blockquote class="right">
 
-<p class="Human"><i>"-I don't care who, send someone there, NOW! Ahem, Jacques, do you copy?"</i> the woman on the radio asked in a rush. <i>"That Zmey wasn't the only one to take advantage of that opening. Velos, how much fuel you got?"</i></p></blockquote><blockquote class="right">
+<p class="Human"><em>"-I don't care who, send someone there, NOW! Ahem, Jacques, do you copy?"</em> the woman on the radio asked in a rush. <em>"That Zmey wasn't the only one to take advantage of that opening. Velos, how much fuel you got?"</em></p></blockquote><blockquote class="right">
 
 <p class="Steelshark">"10 minutes, more or less."</p></blockquote><blockquote class="right">
 
-<p class="Human"><i>"Perfect. It should be headed directly to your location. Buy as much time as possible for backup to arrive."</i></p></blockquote><blockquote class="left">
+<p class="Human"><em>"Perfect. It should be headed directly to your location. Buy as much time as possible for backup to arrive."</em></p></blockquote><blockquote class="left">
 
 <p class="Human">"Nice timing," responded Jacques, looking over at a nearby tree.</p></blockquote>
 
@@ -124,7 +122,7 @@ tags:
 
 <p class="Human">"We intercepted the Stone Wyrm; Velos is dealing with it right now."</p></blockquote><blockquote class="right">
 
-<p class="Human"><i>"Roger. Just hold on. Wait for Lorand to arrive,"</i> responded the woman on the other side, slightly distracted, the sound of rustling paper and keyboard typing almost drowning out her voice.</p></blockquote>
+<p class="Human"><em>"Roger. Just hold on. Wait for Lorand to arrive,"</em> responded the woman on the other side, slightly distracted, the sound of rustling paper and keyboard typing almost drowning out her voice.</p></blockquote>
 
 <p>Jacques, meanwhile, calmly walked, occasionally dodging the Wyrm's attacks from below. He didn't know where it was or when it would resurface. He just kept counting in his head, and that appeared to have been working so far.</p><blockquote class="left">
 
