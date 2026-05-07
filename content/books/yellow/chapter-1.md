@@ -54,7 +54,7 @@ tags:
 
 <p class="Human">“Okay, listen, I- No, you- I can't understand you when you- NO, YOU LISTEN- Will you let me just-”</p></blockquote>
 
-<p>But to no avail. The man was stuck arguing with the buzzing noise on the other end, the axe on his back braking and clanking. Until...</p><blockquote class="right">
+<p>But to no avail. The man was stuck arguing with the buzzing noise on the other end, the axe on his back clanking in unison. Until...</p><blockquote class="right">
 
 <p class="Human"><em>“Jacques,”</em> the radio woman interrupted, much more impatient. <em>“I can see the Zmey destroying the city's infrastructure. What I can't see is you. Why is that?"</em></p></blockquote><blockquote class="left">
 
@@ -104,7 +104,7 @@ tags:
 
 <p>One man rose, keys in hand.</p>
 
-<p>Jacques drove as fast as the engine could, trying to follow the Zmey scraping against the buildings as it flew past. To his left was the axe, strapped with a safety belt on the passenger seat.</p><blockquote class="left">
+<p>Jacques drove as fast as the engine would allow, trying to follow the Zmey scraping against the buildings as it flew past. To his left was the axe, strapped with a safety belt on the passenger seat.</p><blockquote class="left">
 
 <p class="Human">“I messed up, the Zmey is going deeper into the city,” he coughed into the radio, blood splattering the car's insides.</p></blockquote><blockquote class="right">
 
