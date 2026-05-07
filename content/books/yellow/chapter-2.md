@@ -20,7 +20,7 @@ tags:
 
 <h1 style="text-align:center;font-size:2.5rem;letter-spacing:0.2em;margin:0 0 2rem;">Chapter 2: Save Yourself</h1>
 
-<p>The mass of metal shifted and twisted out of Jacques' body, paying no mind to the tears and wounds left behind. The Devil reshaping itself out of the axe rose to its feet, the sound of its engine purring accompanying its growly voice.</p><blockquote class="right">
+<p>The mass of bluish metal shifted and twisted out of Jacques' body, paying no mind to the tears and wounds left behind. The Devil reshaping itself out of the axe rose to its feet, the sound of its engine purring accompanying its growly voice.</p><blockquote class="right">
 
 <p class="Steelshark">"Finally! I'd hazard a guess we would've finished here much earlier if I went in first."</p></blockquote><blockquote class="left">
 
@@ -28,19 +28,19 @@ tags:
 
 <p><span class="Steelshark">"Don't worry!"</span> purred the Devil, taking the liquid bullet from Jacques' fingers and throwing it in the air, his serrated teeth creating sparks as they snapped shut around the bullet, swallowing it. <span class="Steelshark">"I gotcha~"</span></p></blockquote>
 
-<p>Out of his bluish metal wrist flung out pieces, metal plates moving out of the way, snapping into place in Velos' palm, forming a Luger-like pistol, the bullet already loaded into the chamber.</p>
+<p>Out of his metal wrist flung out pieces, metal plates moving out of the way, snapping into place in Velos' palm, forming a Luger-like pistol, the bullet already loaded into the chamber.</p>
 
-<p>With his dead, cold eyes, Velos looked over at the corpse of a man in front of him, although both their gazes were just as glassy. He aimed the gun towards Jacques' head, and fired, smiling ear to ear.</p>
+<p>With his dead, cold eyes, Velos looked over at the corpse of a man in front of him, although both their gazes were just as glassy. He aimed the gun towards Jacques' head, smiling ear to ear.</p>
 
-<p>Jacques felt the shot pierce his flesh; his entire nervous system flared in agony, unable to process what was happening. Was he set on fire? Was he getting electrocuted on a live wire? Every vein, every artery, every capillary, every blood vessel in his body was bursting open, his blood boiling.</p>
+<p>Bang! The bullet tore through the air, landing deep in Jacques' cranium. But it wasn't merciful enough to end his suffering. He could feel his nervous system firing up every single neuron in his body, sending waves of electricity with each pulse, the blood in his veins boiling within his own body, his body engulfed within a growing column of steam.</p>
 
-<p>Lost in the pain, he barely noticed that his arm had regenerated. The sight of his newly formed hand made him forget that moments earlier he'd been begging for death.</p><blockquote class="right">
+<p>A second passed, and it was all over.</p><blockquote class="right">
 
-<p class="Steelshark">"So, what's the plan?"</p></blockquote><blockquote class="left">
+<p><span class="Steelshark">"Better?~"</span> asked Velos, holding a finger below the previously dying man's chin, lifting his gaze.</p></blockquote><blockquote class="left">
 
-<p class="Human">"We sent it the other way around. You get its attention; I'll sneak on top."</p></blockquote><blockquote class="right">
+<p class="Human">"Yeah," he coughed, "I'm fine."</p></blockquote><blockquote class="right">
 
-<p class="Steelshark">"Sure thing."</p></blockquote>
+<p class="Steelshark">"Lovely."</p></blockquote>
 
 <p>Jacques and Velos split ways.</p>
 
