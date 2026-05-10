@@ -60,6 +60,22 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">GAS</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">HELLFIRE</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">PHLOGISTON</div>
   </div>
 </a>
@@ -76,15 +92,7 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">HELLFIRE</div>
-  </div>
-</a>
-
-<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
-    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">CHALK</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">BLOOD</div>
   </div>
 </a>
 
@@ -106,7 +114,7 @@ Absolutes are various items which display the anomalous behaviour of having tota
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/absolutes/nightmare_shackles.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">NIGHTMARE SHACKLES</div>
   </div>
