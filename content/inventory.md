@@ -114,16 +114,16 @@ Absolutes are various items which display the anomalous behaviour of having tota
 
 <a href="/" style="display:block;border-radius:2px;outline:3px solid white;outline-offset:-3px;background:transparent;padding:0;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:url('/assets/absolutes/nightmare_shackles.gif') calc(50% - 3px) calc(50% - 2px) / cover no-repeat;"></div>
+    <div style="aspect-ratio:3/3.5;background:url('/assets/absolutes/nightmare_shackles.gif') calc(50% - 3px) / cover no-repeat;"></div>
     <div style="height:3px;background:white;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">NIGHTMARE SHACKLES</div>
   </div>
 </a>
 
-<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<a href="/" style="display:block;border-radius:2px;outline:3px solid white;outline-offset:-3px;background:transparent;padding:0;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
-    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="aspect-ratio:3/3.5;background:url('/assets/absolutes/black_box.gif') calc(50% + 10px)/cover no-repeat;"></div>
+    <div style="height:3px;background:white;flex-shrink:0;"></div>
     <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">BLACK BOX</div>
   </div>
 </a>
