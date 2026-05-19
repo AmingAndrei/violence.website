@@ -78,7 +78,7 @@ tags:
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
     <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
     <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">EDVA</div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">EDVA SEBASTIEN</div>
   </div>
 </a>
 
@@ -97,15 +97,8 @@ tags:
 
 </div>
 
-# others idk
+# ⟳
 <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
-<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
-    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
-    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
-    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">CHARON, CHALK LORD</div>
-  </div>
-</a>
 
 <a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
