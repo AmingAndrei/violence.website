@@ -124,3 +124,35 @@ article td {
 #workskin .right {
   text-align: right;
 }
+
+// ─── Mobile ───────────────────────────────────────────────────────────────────
+@media (max-width: 768px) {
+  // Scale down the logo so it doesn't eat vertical space on narrow screens
+  .site-logo img {
+    height: clamp(40px, 15vw, 80px);
+  }
+
+  // The main fix: 1.5rem is desktop-sized; 1rem reads comfortably on phones
+  article p,
+  article li,
+  article td {
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+
+  // Give the content some breathing room on the sides
+  .page > .page-header,
+  .page > #quartz-body,
+  .page > footer {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-sizing: border-box;
+  }
+
+  // Tighten workskin dialogue lines so they don't overflow
+  #workskin .left,
+  #workskin .right {
+    line-height: 1.7;
+    padding: 2px 8px;
+  }
+}
