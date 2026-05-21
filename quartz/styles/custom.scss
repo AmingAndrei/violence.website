@@ -60,6 +60,8 @@ article td {
   line-height: 1.8;
 }
 
+// ─── Workskin ──────────────────────────────────────────────────────────────
+
 #workskin .Steelshark {
   font-weight: 400;
   font-style: normal;
@@ -154,5 +156,20 @@ article td {
   #workskin .right {
     line-height: 1.7;
     padding: 2px 8px;
+  }
+}
+
+// ─── Nav Buttons ──────────────────────────────────────────────────────────────
+.nav-button {
+  display: inline-block;
+  border: 5px solid #444;
+  padding: 18px 30px !important;
+  text-decoration: none;
+  // ...rest of your button styles
+
+  @media (max-width: 768px) {
+    padding: 10px 16px !important;
+    font-size: 0.9rem;
+    border-width: 3px;
   }
 }

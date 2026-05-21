@@ -4,7 +4,7 @@ tags:
   - books
   - homepage
 ---
-<br><a href="/" style="border:5px solid #444;padding:18px 30px;...">← HOME</a>
+<br><a href="/" class="nav-button">← HOME</a>
 <br><br>
 <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:15px;width:100%;margin:2rem 0;">
 
