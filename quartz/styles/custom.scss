@@ -184,3 +184,85 @@ article td {
     font-size: 1rem;
   }
 }
+
+// ─── Book Cover Buttons ───────────────────────────────────────────────────────
+.book-cover {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 3/4;
+  border-width: 15px;
+  border-style: solid;
+  border-radius: 10px;
+  color: #ccc;
+  text-decoration: none;
+  font-size: 1.5rem;
+  letter-spacing: 0.15em;
+  text-align: center;
+  padding: 20px;
+  transition: transform 0.15s ease;
+
+  &:hover {
+    transform: scale(1.04);
+  }
+
+  @media (max-width: 768px) {
+    border-width: 5px;
+    border-radius: 6px;
+    font-size: 1rem;
+    letter-spacing: 0.08em;
+    padding: 10px;
+  }
+}
+
+// ─── Chapter List ─────────────────────────────────────────────────────────────
+.ch-tl {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  padding-left: 40px;
+  border-left: 2px solid #444;
+  margin: 1rem 0;
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 0 20px 32px;
+    text-decoration: none;
+
+    .ch-text {
+      font-size: 2rem;
+      letter-spacing: 0.12em;
+      color: #fff;
+      transition: color 0.15s ease;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .ch-num {
+      font-size: 2rem;
+      min-width: 52px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    padding-left: 16px;
+
+    a {
+      padding: 10px 0 10px 16px;
+      gap: 10px;
+
+      .ch-text {
+        font-size: 1.2rem;
+        gap: 10px;
+      }
+
+      .ch-num {
+        font-size: 1.2rem;
+        min-width: 32px;
+      }
+    }
+  }
+}
