@@ -42,7 +42,7 @@ export default (() => {
       white-space: nowrap;
       overflow: hidden;
       text-overflow: clip;
-      color: var(--logo-rule-color, var(--secondary));
+      color: var(--logo-rule-color, var(--lightgray));
     }
   `
 

@@ -36,6 +36,8 @@ a.anchor {
   max-height: none;
 }
 
+
+
 .page > .page-header,
 .page > #quartz-body,
 .page > footer {
@@ -117,6 +119,8 @@ article td {
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
+  --secondary: #ffffff;
+  color: var(--secondary);
 }
 
 #workskin .left {
@@ -164,11 +168,19 @@ article td {
   display: inline-block;
   border: 5px solid #444;
   padding: 18px 30px !important;
-  // ...rest of your button styles
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5rem;
+  letter-spacing: 0.18em;
+  transition: border-color 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    border-color: #fff;
+    color: rgb(255, 255, 0);
+  }
 
   @media (max-width: 768px) {
-    border: 3px solid #444;
     padding: 10px 16px !important;
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
 }

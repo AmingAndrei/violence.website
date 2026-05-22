@@ -6,13 +6,13 @@ tags:
   - books
   - yellow
 ---
- <br><a href="/books/yellow" style="border:5px solid #444;padding:18px 30px;...">← CHAPTERS</a>
+ <br><a href="/books/yellow" class="nav-button">← CHAPTERS</a>
 <br><br>
 <div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
-  <a href="/books/yellow/chapter-2" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">← 2 <span style="color:inherit;">// </span>Save Yourself</a>
+<a href="/books/yellow/chapter-2" class="nav-button">← 2 <span style="color:inherit;">// </span>Save Yourself</a>
 
-  <a href="/books/yellow/chapter-4" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">4 <span style="color:inherit;">// </span>Burn My House Down →</a>
+  <a href="/books/yellow/chapter-4" class="nav-button">4 <span style="color:inherit;">// </span>Burn My House Down →</a>
   
 </div><br><br>
 <div style="background:#000;padding:20px;margin:0rem 0;">
@@ -289,10 +289,10 @@ tags:
 </div></div><br><br>
 <div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
-  <a href="/books/yellow/chapter-2" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">← 2 <span style="color:inherit;">// </span>Save Yourself</a>
+  <a href="/books/yellow/chapter-2" class="nav-button">← 2 <span style="color:inherit;">// </span>Save Yourself</a>
 
-  <a href="/books/yellow/chapter-4" style="border:5px solid #444;padding:18px 30px;color:#fff;text-decoration:none;font-size:1.5rem;letter-spacing:0.18em;transition:border-color 0.15s ease,color 0.15s ease;" onmouseover="this.style.borderColor='#fff';this.style.color='rgb(255,255,0)'" onmouseout="this.style.borderColor='#444';this.style.color='#fff'">4 <span style="color:inherit;">// </span>Burn My House Down →</a>
+  <a href="/books/yellow/chapter-4" class="nav-button">4 <span style="color:inherit;">// </span>Burn My House Down →</a>
   
 </div>
 
-<style> #workskin .Steelshark { font-weight:400; font-style:normal; color:#818589; letter-spacing:0.4px; font-family:Helvetica,sans-serif; } #workskin .Soma { color:#FFDE21; letter-spacing:0.5px; font-family:"Trebuchet MS",sans-serif; } #workskin .Vesper { color:#FD3DB5; letter-spacing:0.5px; font-family:"Trebuchet MS",sans-serif; } #workskin .Vulture { color:#FD3DB5; text-shadow:1px 1px 0 #FFDE21; letter-spacing:0.5px; font-family:"Trebuchet MS",sans-serif; } #workskin .Mimic { color:#5CB8E4; letter-spacing:0.5px; font-family:"Trebuchet MS",sans-serif; } #workskin .Signe { letter-spacing:0.5px; font-family:"Trebuchet MS",sans-serif; } #workskin .Maniac { color:#00FFFF; letter-spacing:0.5px; font-family:"Trebuchet MS",sans-serif; } #workskin .left { display:block; max-width:100%; padding:4px 12px; margin:10px 0; line-height:2; text-align:left; } #workskin .right { display:block; max-width:100%; padding:4px 12px; margin:10px 0; line-height:2; text-align:right; } </style>
+<style>#workskin .Steelshark { font-weight: 400; font-style: normal; color: #818589; letter-spacing: 0.4px; font-family: Helvetica, sans-serif; } #workskin .Soma { color: #FFDE21; letter-spacing: 0.5px; font-family: "Trebuchet MS", sans-serif; } #workskin .Vesper { color: #FD3DB5; letter-spacing: 0.5px; font-family: "Trebuchet MS", sans-serif; } #workskin .Vulture { color: #FD3DB5; text-shadow: 1px 1px 0 #FFDE21; letter-spacing: 0.5px; font-family: "Trebuchet MS", sans-serif; } #workskin .Mimic { color: #5CB8E4; letter-spacing: 0.5px; font-family: "Trebuchet MS", sans-serif; } #workskin .Signe { letter-spacing: 0.5px; font-family: "Trebuchet MS", sans-serif; } #workskin .Maniac { color: #00FFFF; letter-spacing: 0.5px; font-family: "Trebuchet MS", sans-serif; } #workskin .left, #workskin .right { display: block; max-width: 100%; padding: 4px 12px; margin: 10px 0; line-height: 2; margin-block-start: 0; margin-block-end: 0; margin-inline-start: 0; margin-inline-end: 0; --secondary: #ffffff; color: var(--secondary); } #workskin .left { margin-right: auto; } #workskin .right { text-align: right; }</style>
