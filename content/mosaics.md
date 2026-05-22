@@ -6,7 +6,7 @@ tags:
   - bestiary
   - mosaic
 ---
-<br><a href="/bestiary" style="border:5px solid #444;padding:18px 30px;...">← BESTIARY</a>
+<br><a href="/bestiary" class="nav-button">← BESTIARY</a>
 <br><br>
 
 Mosaics, or species belonging to the _Mosaica_ class, are a very... deceiving bunch. They're seemingly reliant on the existence of other species to properly function at a base level.

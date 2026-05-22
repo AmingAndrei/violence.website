@@ -6,7 +6,7 @@ tags:
   - bestiary
   - devil
 ---
- <br><a href="/bestiary" style="border:5px solid #444;padding:18px 30px;...">← BESTIARY</a>
+ <br><a href="/bestiary" class="nav-button">← BESTIARY</a>
 <br><br>
 
 Devils, or species belonging to the _Diavolos_ class, are considered the most dangerous and violent species that the FLIPSIDE has to offer, representing one of it's biggest threats to date. All Devils should be considered hostile and should never be voluntarily engaged.

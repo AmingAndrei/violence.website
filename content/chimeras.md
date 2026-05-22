@@ -6,7 +6,7 @@ tags:
   - bestiary
   - chimera
 ---
-<br><a href="/bestiary" style="border:5px solid #444;padding:18px 30px;...">← BESTIARY</a>
+<br><a href="/bestiary" class="nav-button">← BESTIARY</a>
 <br><br>
 
 Chimeras, or species belonging to the _Chimaeria_ class, are, as their name suggests, beings displaying chimeric traits. The extent of these traits aren't restricted to one class or order, meaning Chimeras can have features seemingly incompatible with the rest of their anatomy. Although, some common traits among Chimeras are them being endothermic or being tetradactyl, i.e. having four fingers.
