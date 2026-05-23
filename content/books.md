@@ -6,7 +6,7 @@ tags:
 ---
 <br><a href="/" class="nav-button">← HOME</a>
 <br><br>
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:15px;width:100%;margin:2rem 0;">
+<div class="book-grid">
 
 <a href="/books/yellow" class="book-cover"
    style="background:url('/assets/bookCovers/yellow.png') center/cover no-repeat;border-color:rgba(255,255,0);"></a>

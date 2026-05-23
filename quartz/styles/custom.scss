@@ -1,14 +1,41 @@
 @use "./base.scss";
-
-// put your custom CSS here!
 @use "./variables.scss" as *;
 
+// ─── Base ─────────────────────────────────────────────────────────────────────
 html {
   scrollbar-gutter: stable;
 }
 
 article + hr {
   display: none;
+}
+
+a.anchor {
+  display: none;
+}
+
+// ─── Layout ───────────────────────────────────────────────────────────────────
+.page > .page-header,
+.page > #quartz-body,
+.page > footer {
+  margin: 0 auto;
+  max-width: 1800px;
+  width: 100%;
+
+  @media (max-width: 768px) {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    box-sizing: border-box;
+  }
+}
+
+#quartz-body {
+  display: block !important;
+}
+
+.sidebar.left,
+.sidebar.right {
+  display: none !important;
 }
 
 .header-rule {
@@ -18,10 +45,7 @@ article + hr {
   line-height: 1;
 }
 
-a.anchor {
-  display: none;
-}
-
+// ─── Site Logo ────────────────────────────────────────────────────────────────
 .site-logo {
   display: flex;
   flex-direction: column;
@@ -34,36 +58,26 @@ a.anchor {
   height: clamp(60px, 10vw, 117px);
   width: auto;
   max-height: none;
+
+  @media (max-width: 768px) {
+    height: clamp(40px, 15vw, 80px);
+  }
 }
 
-
-
-.page > .page-header,
-.page > #quartz-body,
-.page > footer {
-  margin: 0 auto;
-  max-width: 1800px;
-  width: 100%;
-}
-
-#quartz-body {
-  display: block !important;
-}
-
-.sidebar.left,
-.sidebar.right {
-  display: none !important;
-}
-
+// ─── Typography ───────────────────────────────────────────────────────────────
 article p,
 article li,
 article td {
   font-size: 1.5rem;
   line-height: 1.8;
+
+  @media (max-width: 768px) {
+    font-size: 0.9rem;
+    line-height: 1.7;
+  }
 }
 
-// ─── Workskin ──────────────────────────────────────────────────────────────
-
+// ─── Workskin ─────────────────────────────────────────────────────────────────
 #workskin .Steelshark {
   font-weight: 400;
   font-style: normal;
@@ -121,6 +135,11 @@ article td {
   margin-inline-end: 0;
   --secondary: #ffffff;
   color: var(--secondary);
+
+  @media (max-width: 768px) {
+    line-height: 1.7;
+    padding: 2px 8px;
+  }
 }
 
 #workskin .left {
@@ -131,52 +150,19 @@ article td {
   text-align: right;
 }
 
-// ─── Mobile ───────────────────────────────────────────────────────────────────
-@media (max-width: 768px) {
-  // Scale down the logo so it doesn't eat vertical space on narrow screens
-  .site-logo img {
-    height: clamp(40px, 15vw, 80px);
-  }
-
-  // The main fix: 1.5rem is desktop-sized; 1rem reads comfortably on phones
-  article p,
-  article li,
-  article td {
-    font-size: 1rem;
-    line-height: 1.7;
-  }
-
-  // Give the content some breathing room on the sides
-  .page > .page-header,
-  .page > #quartz-body,
-  .page > footer {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    box-sizing: border-box;
-  }
-
-  // Tighten workskin dialogue lines so they don't overflow
-  #workskin .left,
-  #workskin .right {
-    line-height: 1.7;
-    padding: 2px 8px;
-  }
-}
-
 // ─── Nav Buttons ──────────────────────────────────────────────────────────────
 .nav-button {
   display: inline-block;
-  border: 5px solid #444;
+  border: 3px solid #444;
   padding: 18px 30px !important;
   color: #fff;
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   letter-spacing: 0.18em;
   transition: border-color 0.15s ease, color 0.15s ease;
 
   &:hover {
     border-color: #fff;
-    color: rgb(255, 255, 0);
   }
 
   @media (max-width: 768px) {
@@ -185,7 +171,20 @@ article td {
   }
 }
 
-// ─── Book Cover Buttons ───────────────────────────────────────────────────────
+// ─── Book Grid & Covers ───────────────────────────────────────────────────────
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  width: 100%;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+}
+
 .book-cover {
   display: flex !important;
   align-items: center;
@@ -264,5 +263,90 @@ article td {
         min-width: 32px;
       }
     }
+  }
+}
+
+// ─── Bestiary ─────────────────────────────────────────────────────────────────
+.bestiary-nav,
+.bestiary-nav p {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 1.5rem !important;
+}
+
+.bestiary-nav {
+  gap: 2rem !important;
+  width: 70%;
+  margin: 1em auto;
+
+  @media (max-width: 768px) {
+    width: 90%;
+    gap: 1rem !important;
+  }
+}
+
+.bestiary-nav p {
+  margin: 0 !important;
+}
+
+.bestiary-btn {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 50px 40px !important;
+  border-radius: 27px !important;
+  border-width: 15px !important;
+  border-style: solid !important;
+  font-size: 1.5rem !important;
+  letter-spacing: 0.22em;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+
+  @media (max-width: 768px) {
+    padding: 16px 20px !important;
+    font-size: 1rem !important;
+    border-width: 8px !important;
+    border-radius: 16px !important;
+  }
+}
+
+.bestiary-btn--chimeras {
+  border-color: transparent !important;
+  background: linear-gradient(#ad5e18, #ad5e18) padding-box,
+              linear-gradient(135deg, #ffcc44, #e8761a, #c44a3a, #7a1a08) border-box !important;
+  color: #e6ce1c !important;
+}
+
+.bestiary-btn--devils {
+  border-color: transparent !important;
+  background: linear-gradient(#000, #000) padding-box,
+              conic-gradient(from 0deg, #ff0000, #ff8800, #ffff00, #00ff00, #00ffff, #0088ff, #8800ff, #ff00ff, #ff0000) border-box !important;
+  color: #ccc !important;
+}
+
+.bestiary-btn--mosaics {
+  border-color: transparent !important;
+  background: linear-gradient(#b5d7e6, #b5d7e6) padding-box,
+              conic-gradient(from 0deg, #ffb3b3, #ffb3e6, #d4b3ff, #b3c8ff, #b3ecff, #b3f0c8, #fffab3, #ffd9b3, #ffb3b3) border-box !important;
+  color: #7aa8b8 !important;
+}
+
+// ─── Credits ──────────────────────────────────────────────────────────────────
+.credits-img {
+  float: left;
+  width: 190px;
+  margin: 1px 20px 8px 0;
+
+  @media (max-width: 768px) {
+    width: 90px;
+    margin: 16px 12px 4px 0;
+  }
+}
+
+.credits-entry h1 {
+  font-size: 2rem;
+
+  @media (max-width: 768px) {
+    font-size: 1.3rem;
   }
 }
