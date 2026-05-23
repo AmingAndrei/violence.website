@@ -20,10 +20,10 @@ tags:
 [[books/yellow/chapter-5]]
 
 </div><br>
-<div style="background:#000;padding:20px;margin:0rem 0;">
-<div style="border:2px solid rgb(255,255,255,1);padding:40px 48px;margin:2rem 0;" id="workskin">
+<div class="chapter-outer">
+<div class="chapter-inner" id="workskin">
 
-<h1 style="text-align:center;font-size:2.5rem;letter-spacing:0.2em;margin:0 0 2rem;">Chapter 4: Burn My House Down</h1>
+<h1 class="chapter-title">Chapter 4: Burn My House Down</h1>
 
 <p>The bullet tore from the barrel, spinning through the air. Jacques stood directly in its path, eyes straining to follow its trajectory. Out of the corner of his vision, he caught the faint silhouette of the Vesper lunging, perhaps towards him, perhaps towards the bullet itself.</p>
 
