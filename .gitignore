@@ -6,6 +6,7 @@ public
 tsconfig.tsbuildinfo
 .obsidian
 .unused
+.tba
 .quartz-cache
 private/
 .replit
