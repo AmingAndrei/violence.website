@@ -72,7 +72,7 @@ article td {
   line-height: 1.8;
 
   @media (max-width: 768px) {
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     line-height: 1.7;
   }
 }
@@ -166,8 +166,8 @@ article td {
   }
 
   @media (max-width: 768px) {
-    padding: 10px 16px !important;
-    font-size: 1rem;
+    padding: 8px 14px !important;
+    font-size: 0.9rem;
   }
 }
 
@@ -303,7 +303,7 @@ article td {
   transition: transform 0.15s ease;
 
   @media (max-width: 768px) {
-    padding: 16px 20px !important;
+    padding: 18px 20px !important;
     font-size: 1rem !important;
     border-width: 8px !important;
     border-radius: 16px !important;
@@ -339,7 +339,7 @@ article td {
 
   @media (max-width: 768px) {
     width: 90px;
-    margin: 16px 12px 4px 0;
+    margin: 16x 12px 4px 0;
   }
 }
 
