@@ -2,10 +2,15 @@
 title: BOOKS
 tags:
   - books
-  - homepage
 ---
 <br><a href="/" class="nav-button">← HOME</a>
-<br><br>
+<br><div style="display:none">
+
+[[index]]
+[[yellow]]
+[[cyan]]
+
+</div><br>
 <div class="book-grid">
 
 <a href="/books/yellow" class="book-cover"

@@ -3,11 +3,15 @@ title: CYAN
 cssclasses:
   - cyan
 tags:
-  - books
   - cyan
 ---
  <br><a href="/books" class="nav-button">← BOOKS</a>
-<br><br>
+<br><div style="display:none">
+
+[[books]]
+[[books/cyan/chapter-1|chapter-1]]
+
+</div><br>
 
 <div style="float:left;margin:0 60px 16px 0;padding:12px;border:2px solid rgb(0,255,255,1);display:inline-block;line-height:0;"> <img src="/assets/bookCovers/cyan.png" alt="CYAN" style="display:block;width:250px;height:auto;" /> </div>
 

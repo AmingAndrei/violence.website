@@ -3,11 +3,20 @@ title: YELLOW
 cssclasses:
   - yellow
 tags:
-  - books
   - yellow
 ---
  <br><a href="/books" class="nav-button">← BOOKS</a>
-<br><br>
+<br><div style="display:none">
+
+[[books]]
+[[books/yellow/chapter-1|chapter-1]]
+[[books/yellow/chapter-2|chapter-2]]
+[[books/yellow/chapter-3|chapter-3]]
+[[books/yellow/chapter-4|chapter-4]]
+[[books/yellow/chapter-5|chapter-5]]
+[[books/yellow/chapter-6|chapter-6]]
+
+</div><br>
 
 <div style="float:left;margin:0 60px 16px 0;padding:12px;border:2px solid rgb(255,255,0,1);display:inline-block;line-height:0;"> <img src="/assets/bookCovers/yellow.png" alt="YELLOW" style="display:block;width:250px;height:auto;" /> </div>
 

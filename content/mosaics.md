@@ -3,13 +3,19 @@ title: MOSAICS
 cssclasses:
   - mosaic
 tags:
-  - bestiary
   - mosaic
 ---
 <br><a href="/bestiary" class="nav-button">← BESTIARY</a>
-<br><br>
+<br><div style="display:none">
 
-Mosaics, or species belonging to the _Mosaica_ class, are a very... deceiving bunch. They're seemingly reliant on the existence of other species to properly function at a base level.
+[[bestiary]]
+[[mimics]]
+[[vespers]]
+[[somas]]
+
+</div><br>
+
+Mosaics (_Mosaica_ class) are a very... deceiving bunch. They're seemingly reliant on the existence of other species to properly function at a base level.
 
 Mosaic cells are very unique, having a greater degree of similarity to cyanobacteria than to regular animal cells. Structurally, they resemble crystalline structures found in minerals such as quartz, which extends to the surface appearance of the Mosaic, although their texture can alter at times to resemble kinetic sand. Each cell is also individualised, putting Mosaics in a group between regular and colonial organisms, as each cell is capable of mostly independent behaviour while simultaneously acting as part of the whole organism. Genetically, all Mosaic cells are essentially the same between species, with the only thing separating them being a secondary line of code handling species-specific behaviours. While Mosaic cells regularly behave as a mix between a neuron, myocytes and bone cell, when grouped together, they can form visual and auditory systems. Mosaics lack senses such as smell or taste.
 

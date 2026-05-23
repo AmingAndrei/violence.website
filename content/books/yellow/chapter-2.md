@@ -3,7 +3,6 @@ title: SAVE YOURSELF
 cssclasses:
   - yellow
 tags:
-  - books
   - yellow
 ---
 <br><a href="/books/yellow" class="nav-button">← CHAPTERS</a>
@@ -14,7 +13,13 @@ tags:
 
   <a href="/books/yellow/chapter-3" class="nav-button">3 <span style="color:inherit;">// </span>Channels on TV →</a>
   
-</div><br><br>
+</div><br><div style="display:none">
+
+[[books/yellow]]
+[[books/yellow/chapter-1]]
+[[books/yellow/chapter-3]]
+
+</div><br>
 <div style="background:#000;padding:20px;margin:0rem 0;">
 <div style="border:2px solid rgb(255,255,255,1);padding:40px 48px;margin:2rem 0;" id="workskin">
 

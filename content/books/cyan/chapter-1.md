@@ -3,7 +3,6 @@ title: CONSEQUENCES  ̶D̶O̶N̶'̶T̶  ACCOMPANY CHOICE
 cssclasses:
   - cyan
 tags:
-  - books
   - cyan
 ---
  <br><a href="/books/cyan" class="nav-button">← CHAPTERS</a><br><br>
@@ -13,7 +12,11 @@ tags:
 
 <a></a>
 
-</div><br><br>
+</div><br><div style="display:none">
+
+[[cyan]]
+
+</div><br>
 <div style="background:#000;padding:20px;margin:0rem 0;">
 <div style="border:2px solid rgb(255,255,255,1);padding:40px 48px;margin:2rem 0;" id="workskin">
 
