@@ -4,21 +4,14 @@ cssclasses:
   - devil
 tags:
   - devil
+  - bestiary
+aliases:
+  - Devils
 ---
  <br><a href="/bestiary" class="nav-button">← BESTIARY</a>
-<br><div style="display:none">
+<br><br>
 
-[[bestiary]]
-[[crimson_nymphs]]
-[[clutch_beetles]]
-[[tyndal_hounds]]
-[[stone_wyrms]]
-[[circuit_titans]]
-[[steel_sharks]]
-
-</div><br>
-
-Devils (_Diavolos_ class) are considered the most dangerous and violent species that the FLIPSIDE has to offer, representing one of it's biggest threats to date. All Devils should be considered hostile and should never be voluntarily engaged.
+Devils (_Diavolos_ class) are considered the most dangerous and violent species that the [[FLIPSIDE]] has to offer, representing one of it's biggest threats to date. All Devils should be considered hostile and should never be voluntarily engaged.
 
 As a group, Devils share little to no similarity with each other. No two Devil species are alike, with the differences being so extreme no sane taxonomist would even attempt to classify them on the same branch of life, or even on a branch of life at all. Despite this, Devil biology does obey some common rules.
 
@@ -29,8 +22,9 @@ As a group, Devils share little to no similarity with each other. No two Devil s
 - Devil speech has the property of being automatically translated, meaning the hearer will perceive Devil speech in their mother tongue, with no exception. This also works in reverse, with Devils being capable of understanding all languages, although they are unable to distinguish between them.
 - Devils can sense and metabolise the fear of other life forms, with beings experiencing fear in the immediate vicinity of a Devil invariably increasing the reflexes, senses, speed and strength of said Devil. This extends to all species that are considered alive and that are capable of experiencing fear, including other Devils.
 - Devils can consume fresh [[blood]] to regenerate almost instantaneously, being capable of completely recovering from multiple fatal wounds in a matter of seconds.
+- A Devil's base strength is directly proportionate with the local Anima density, getting weaker or stronger based on surrounding [[Anima]] levels.
 
-Devils are entirely [[Anima]]-based entities, explaining all of their unique traits. One of the best indicators of Devil activity is the local Anima level, with each individual Devil creating a noticeable sink effect compared to other lifeforms. A visual indicator of this effect is [[Tar]], which can be used to determine how many or how active the Devil in an area is.
+All of these traits are because, unlike regular lifeforms, Devils are entirely Anima-based entities. One of the best indicators of Devil activity is the local Anima level, with each individual Devil creating a noticeable sink effect compared to other lifeforms. A visual indicator of this effect is [[Tar]], which can be used to determine how many or how active the Devil in an area is. All of these effects can be best observed in [[Pandiavolum]], where the largest, most diverse and most active Devil population is located.
 
 ¹ This rule is bypassed by some species by reworking parts of their biology into somewhat functional eyes, although true eyes are still absent.
 

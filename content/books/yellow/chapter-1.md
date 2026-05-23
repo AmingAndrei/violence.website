@@ -14,12 +14,7 @@ tags:
 
 <a href="/books/yellow/chapter-2" class="nav-button"> 2 <span>// </span>Save Yourself → </a>
 
-</div><br><div style="display:none">
-
-[[books/yellow]]
-[[books/yellow/chapter-2|chapter-2]]
-
-</div><br>
+</div><br><br>
 <div class="chapter-outer">
 <div class="chapter-inner" id="workskin">
 

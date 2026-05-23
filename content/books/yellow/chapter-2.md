@@ -13,13 +13,7 @@ tags:
 
   <a href="/books/yellow/chapter-3" class="nav-button">3 <span style="color:inherit;">// </span>Channels on TV →</a>
   
-</div><br><div style="display:none">
-
-[[books/yellow]]
-[[books/yellow/chapter-1]]
-[[books/yellow/chapter-3]]
-
-</div><br>
+</div><br><br>
 <div class="chapter-outer">
 <div class="chapter-inner" id="workskin">
 

@@ -13,13 +13,7 @@ tags:
 
   <a href="/books/yellow/chapter-6" class="nav-button">6 <span style="color:inherit;">// </span>Eye's Aimed At You →</a>
   
-</div><br><div style="display:none">
-
-[[books/yellow]]
-[[books/yellow/chapter-4]]
-[[books/yellow/chapter-6]]
-
-</div><br>
+</div><br><br>
 <div class="chapter-outer">
 <div class="chapter-inner" id="workskin">
 

@@ -11,12 +11,7 @@ tags:
 
   <a href="/books/yellow/chapter-5" class="nav-button">← 5 <span style="color:inherit;">// </span>Implicit isn̶'̶t̶ Complicit</a>
   
-</div><br><div style="display:none">
-
-[[books/yellow]]
-[[books/yellow/chapter-5]]
-
-</div><br>
+</div><br><br>
 <div class="chapter-outer">
 <div class="chapter-inner" id="workskin">
 

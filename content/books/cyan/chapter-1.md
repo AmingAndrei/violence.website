@@ -12,11 +12,7 @@ tags:
 
 <a></a>
 
-</div><br><div style="display:none">
-
-[[cyan]]
-
-</div><br>
+</div><br><br>
 <div class="chapter-outer">
 <div class="chapter-inner" id="workskin">
 
