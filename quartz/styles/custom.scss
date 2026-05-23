@@ -72,7 +72,7 @@ article td {
   line-height: 1.8;
 
   @media (max-width: 768px) {
-    font-size: 0.99rem;
+    font-size: 0.9rem;
     line-height: 1.7;
   }
 }
@@ -268,13 +268,13 @@ article td {
 
 // ─── Chapter Container ────────────────────────────────────────────────────────
 .chapter-outer {
-  background: #000;
+  background: #000 !important;
   padding: 20px;
   margin: 0;
 }
 
 .chapter-inner {
-  border: 2px solid rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255) !important;
   padding: 40px 48px;
   margin: 2rem 0;
 

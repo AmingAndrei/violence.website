@@ -424,7 +424,7 @@ tags:
 </div></div><br><br>
 <div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
-  <a href="/books/yellow/chapter-4"class="nav-button">← 4 <span style="color:inherit;">// </span>Burn My House Down</a>
+  <a href="/books/yellow/chapter-4" class="nav-button">← 4 <span style="color:inherit;">// </span>Burn My House Down</a>
 
   <a href="/books/yellow/chapter-6" class="nav-button">6 <span style="color:inherit;">// </span>Eye's Aimed At You →</a>
   
