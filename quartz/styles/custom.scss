@@ -1,3 +1,515 @@
+@use "./base.scss";
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ─── Base ─────────────────────────────────────────────────────────────────────
+html {
+  scrollbar-gutter: stable;
+}
+
+article + hr {
+  display: none;
+}
+
+a.anchor {
+  display: none;
+}
+
+// ─── Layout ───────────────────────────────────────────────────────────────────
+.page > .page-header,
+.page > #quartz-body,
+.page > footer {
+  margin: 0 auto;
+  max-width: 1800px;
+  width: 100%;
+
+  @media (max-width: 768px) {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    box-sizing: border-box;
+  }
+}
+
+#quartz-body {
+  display: block !important;
+}
+
+.sidebar.left,
+.sidebar.right {
+  display: none !important;
+}
+
+.header-rule {
+  width: 100%;
+  overflow: hidden;
+  height: 1em;
+  line-height: 1;
+}
+
+// ─── Site Logo ────────────────────────────────────────────────────────────────
+.site-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  gap: 0.75rem;
+}
+
+.site-logo img {
+  height: clamp(60px, 10vw, 117px);
+  width: auto;
+  max-height: none;
+
+  @media (max-width: 768px) {
+    height: clamp(40px, 15vw, 80px);
+  }
+}
+
+// ─── Typography ───────────────────────────────────────────────────────────────
+article p,
+article li,
+article td {
+  font-size: 1.5rem;
+  line-height: 1.8;
+
+  @media (max-width: 768px) {
+    font-size: 0.9rem;
+    line-height: 1.7;
+  }
+}
+
+// ─── Workskin ─────────────────────────────────────────────────────────────────
+#workskin .Steelshark {
+  font-weight: 400;
+  font-style: normal;
+  color: #818589;
+  letter-spacing: 0.4px;
+  font-family: Helvetica, sans-serif;
+}
+
+#workskin .Soma {
+  color: #FFDE21;
+  letter-spacing: 0.5px;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+#workskin .Vesper {
+  color: #FD3DB5;
+  letter-spacing: 0.5px;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+#workskin .Vulture {
+  color: #FD3DB5;
+  text-shadow: 1px 1px 0 #FFDE21;
+  letter-spacing: 0.5px;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+#workskin .Mimic {
+  color: #5CB8E4;
+  letter-spacing: 0.5px;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+#workskin .Signe {
+  letter-spacing: 0.5px;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+#workskin .Maniac {
+  color: #00FFFF;
+  letter-spacing: 0.5px;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+#workskin .left,
+#workskin .right {
+  display: block;
+  max-width: 100%;
+  padding: 4px 12px;
+  margin: 10px 0;
+  line-height: 2;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  --secondary: #ffffff;
+  color: var(--secondary);
+
+  @media (max-width: 768px) {
+    line-height: 1.7;
+    padding: 2px 8px;
+  }
+}
+
+#workskin .left {
+  margin-right: auto;
+}
+
+#workskin .right {
+  text-align: right;
+}
+
+// ─── Nav Buttons ──────────────────────────────────────────────────────────────
+.nav-button {
+  display: inline-block;
+  border: 3px solid #444;
+  padding: 18px 30px !important;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.25rem;
+  letter-spacing: 0.18em;
+  transition: border-color 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    border-color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    padding: 8px 14px !important;
+    font-size: 0.9rem;
+  }
+}
+
+// ─── Book Grid & Covers ───────────────────────────────────────────────────────
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  width: 100%;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}
+
+.book-cover {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 3/4;
+  border-width: 15px;
+  border-style: solid;
+  border-radius: 10px;
+  color: #ccc;
+  text-decoration: none;
+  font-size: 1.5rem;
+  letter-spacing: 0.15em;
+  text-align: center;
+  padding: 20px;
+  transition: transform 0.15s ease;
+
+  &:hover {
+    transform: scale(1.04);
+  }
+
+  @media (max-width: 768px) {
+    border-width: 5px;
+    border-radius: 6px;
+    font-size: 1rem;
+    letter-spacing: 0.08em;
+    padding: 10px;
+  }
+}
+
+// ─── Chapter List ─────────────────────────────────────────────────────────────
+.ch-tl {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  padding-left: 40px;
+  border-left: 2px solid #444;
+  margin: 1rem 0;
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 0 20px 32px;
+    text-decoration: none;
+
+    .ch-text {
+      font-size: 2rem;
+      letter-spacing: 0.12em;
+      color: #fff;
+      transition: color 0.15s ease;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .ch-num {
+      font-size: 2rem;
+      min-width: 52px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    padding-left: 16px;
+
+    a {
+      padding: 10px 0 10px 16px;
+      gap: 10px;
+
+      .ch-text {
+        font-size: 1.2rem;
+        gap: 10px;
+      }
+
+      .ch-num {
+        font-size: 1.2rem;
+        min-width: 32px;
+      }
+    }
+  }
+}
+
+// ─── Chapter Container ────────────────────────────────────────────────────────
+.chapter-outer {
+  background: #000 !important;
+  padding: 20px;
+  margin: 0;
+}
+
+.chapter-inner {
+  border: 1px solid rgb(255, 255, 255) !important;
+  padding: 40px 48px;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    padding: 20px 16px;
+    margin: 1rem 0;
+  }
+}
+
+.chapter-title {
+  text-align: center;
+  font-size: 2.5rem;
+  letter-spacing: 0.2em;
+  margin: 0 0 2rem;
+
+  @media (max-width: 768px) {
+    font-size: 1.4rem;
+    letter-spacing: 0.1em;
+  }
+}
+
+// ─── Bestiary ─────────────────────────────────────────────────────────────────
+.bestiary-nav,
+.bestiary-nav p {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 1.5rem !important;
+}
+
+.bestiary-nav {
+  gap: 2rem !important;
+  width: 70%;
+  margin: 1em auto;
+
+  @media (max-width: 768px) {
+    width: 90%;
+    gap: 1rem !important;
+  }
+}
+
+.bestiary-nav p {
+  margin: 0 !important;
+}
+
+.bestiary-btn {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 50px 40px !important;
+  border-radius: 27px !important;
+  border-width: 15px !important;
+  border-style: solid !important;
+  font-size: 1.5rem !important;
+  letter-spacing: 0.22em;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+
+  @media (max-width: 768px) {
+    padding: 18px 20px !important;
+    font-size: 1rem !important;
+    border-width: 8px !important;
+    border-radius: 16px !important;
+  }
+}
+
+.bestiary-btn--sirens {
+  border-color: rgb(160, 14, 165) !important;
+  background: rgb(112, 9, 133) !important;
+  color: #d478f8 !important;
+}
+
+.bestiary-btn--leviathans {
+  border-color: rgb(45, 68, 161) !important;
+  background: rgb(2, 26, 87) !important;
+  color: #1d8eb1 !important;
+}
+
+.bestiary-btn--chimeras {
+  border-color: transparent !important;
+  background: linear-gradient(#ad5e18, #ad5e18) padding-box,
+              linear-gradient(135deg, #ffcc44, #e8761a, #c44a3a, #7a1a08) border-box !important;
+  color: #e6ce1c !important;
+}
+
+.bestiary-btn--devils {
+  border-color: transparent !important;
+  background: linear-gradient(#000, #000) padding-box,
+              conic-gradient(from 0deg, #ff0000, #ff8800, #ffff00, #00ff00, #00ffff, #0088ff, #8800ff, #ff00ff, #ff0000) border-box !important;
+  color: #ccc !important;
+}
+
+.bestiary-btn--mosaics {
+  border-color: transparent !important;
+  background: linear-gradient(#b5d7e6, #b5d7e6) padding-box,
+              conic-gradient(from 0deg, #ffb3b3, #ffb3e6, #d4b3ff, #b3c8ff, #b3ecff, #b3f0c8, #fffab3, #ffd9b3, #ffb3b3) border-box !important;
+  color: #7aa8b8 !important;
+}
+
+.bestiary-btn--kaiju {
+  border-color: transparent !important;
+  background: linear-gradient(#939da7, #939da7) padding-box,
+              conic-gradient(from 0deg, #a8aeb8, #a4aabb, #9daebf, #98aac2, #9db8c2, #a0b4ba, #aab0b0, #aaacb0, #a8aeb8) border-box !important;
+  color: #5c7a88 !important;
+}
+// ─── Bestiary Grid ────────────────────────────────────────────────────────────
+.bestiary-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  width: 100%;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}
+
+// ─── Devil Cards ──────────────────────────────────────────────────────────────
+.devil-card {
+  display: block !important;
+  border-radius: 10px !important;
+  background: conic-gradient(from 0deg,#ff0000,#ff8800,#ffff00,#00ff00,#00ffff,#0088ff,#8800ff,#ff00ff,#ff0000);
+  padding: 15px !important;
+  transition: transform 0.15s ease;
+
+  &:hover { transform: scale(1.05); }
+
+  @media (max-width: 768px) {
+    padding: 8px !important;
+    border-radius: 7px !important;
+  }
+}
+
+.devil-card__inner {
+  display: flex;
+  flex-direction: column;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.devil-card__image {
+  aspect-ratio: 1/1;
+  background: #000 center/cover no-repeat;
+}
+
+.devil-card__bar {
+  height: 6px;
+  flex-shrink: 0;
+  background: conic-gradient(from 0deg,#ff0000,#ff8800,#ffff00,#00ff00,#00ffff,#0088ff,#8800ff,#ff00ff,#ff0000);
+
+  @media (max-width: 768px) { height: 4px; }
+}
+
+.devil-card__name {
+  padding: 12px 8px;
+  background: #000;
+  text-align: center;
+  color: #ccc;
+  font-size: 1.5rem;
+  letter-spacing: 0.18em;
+
+  @media (max-width: 768px) {
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+    padding: 8px 4px;
+  }
+}
+
+// ─── Placeholder Card ─────────────────────────────────────────────────────────
+.bestiary-card--placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  padding: 0; // kill any default padding on the <a>
+  border: 15px solid rgba(35,35,35,1);
+  border-radius: 10px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+  box-sizing: border-box;
+
+  &:hover { transform: scale(1.05); }
+
+  @media (max-width: 768px) {
+    border-width: 6px;
+    border-radius: 7px;
+  }
+}
+
+.bestiary-card--placeholder__image {
+  aspect-ratio: 1/1;
+  width: 100%;
+  margin: 0; // kill any default margin
+  background: rgba(95,96,95,0.2) center/cover no-repeat;
+  box-sizing: border-box;
+}
+
+.bestiary-card--placeholder__label {
+  width: 100%;
+  margin: 0;
+  flex: 1;
+  border-top: 6px solid rgba(35,35,35,1);
+  padding: 12px 8px;
+  background: rgba(20,20,20,0.9);
+  text-align: center;
+  color: #ccc;
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  box-sizing: border-box;
+
+  @media (max-width: 768px) {
+    border-top-width: 3px;
+    padding: 6px 4px;
+  }
+}
+
+// ─── Credits ──────────────────────────────────────────────────────────────────
+.credits-img {
+  float: left;
+  width: 190px;
+  margin: 1px 20px 8px 0;
+
+  @media (max-width: 768px) {
+    width: 90px;
+    margin: 16x 12px 4px 0;
+  }
+}
+
+.credits-entry h1 {
+  font-size: 2rem;
+
+  @media (max-width: 768px) {
+    font-size: 1.3rem;
+  }
+}

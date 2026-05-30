@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: VIOLENCE
+  pageTitleSuffix: " // VIOLENCE"
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
@@ -16,33 +16,33 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Share Tech Mono
+      body: Share Tech Mono
+      code: Share Tech Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#000000"
+        lightgray: "#ffffff"
+        gray: "#ffffff"
+        darkgray: "#ffffff"
+        dark: "#ffffff"
+        secondary: "#FF10f0"
+        tertiary: "#ffffff"
+        highlight: rgba(0, 0, 0, 0.15)
+        textHighlight: "#61616188"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#000000"
+        lightgray: "#ffffff"
+        gray: "#ffffff"
+        darkgray: "#ffffff"
+        dark: "#ffffff"
+        secondary: "#FF10f0"
+        tertiary: "#ffffff"
+        highlight: rgba(0, 0, 0, 0.15)
+        textHighlight: "#61616188"
 plugins:
   - source: github:quartz-community/created-modified-date
-    enabled: true
+    enabled: false
     options:
       defaultDateType: modified
       priority:
@@ -69,16 +69,18 @@ plugins:
       parseTags: true
       parseArrows: true
       parseBlockReferences: true
-      enableInHtmlEmbed: false
+      enableInHtmlEmbed: true
       enableYouTubeEmbed: true
       enableVideoEmbed: true
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
     enabled: true
+    options:
+      linkHeadings: false
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -89,7 +91,7 @@ plugins:
       markdownLinkResolution: shortest
     order: 60
   - source: github:quartz-community/description
-    enabled: true
+    enabled: false
     order: 70
   - source: github:quartz-community/latex
     enabled: true
@@ -100,7 +102,7 @@ plugins:
     enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
-    enabled: true
+    enabled: false
     order: 90
   - source: github:quartz-community/ox-hugo
     enabled: false
@@ -141,15 +143,15 @@ plugins:
   - source: github:quartz-community/og-image
     enabled: true
   - source: github:quartz-community/cname
-    enabled: true
+    enabled: false
   - source: github:quartz-community/canvas-page
     enabled: true
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/tag-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/explorer
     enabled: true
     layout:
@@ -220,7 +222,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -236,7 +238,7 @@ plugins:
       priority: 25
       display: mobile-only
   - source: github:quartz-community/bases-page
-    enabled: true
+    enabled: false
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
@@ -248,7 +250,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
@@ -260,38 +262,62 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
     order: 50
+#  - source: local:quartz/components/Logo
+#    enabled: true
+#    layout:
+#      position: header
+#      priority: 10
+#  - source: local:quartz/components/CRTEffect
+#    enabled: true
+#    layout:
+#      position: header
+#      priority: 20
+#  - source: local:quartz/components/GridBackground
+#    enabled: true
+#    layout:
+#      position: afterBody
+#      priority: 10
 layout:
   groups:
     toolbar:
       priority: 35
       direction: row
       gap: 0.5rem
+    crt:
+      priority: 999
   byPageType:
     "404":
       positions:
-        beforeBody: []
+        beforeBody:
+          - Component.CRTEffect
         left: []
         right: []
-    content: {}
+    content:
+      positions:
+        beforeBody: []
     folder:
       exclude:
         - reader-mode
       positions:
+        beforeBody:
+          - Component.CRTEffect
         right: []
     tag:
       exclude:
         - reader-mode
       positions:
+        beforeBody:
+          - Component.CRTEffect
         right: []
     canvas: {}
     bases: {}
