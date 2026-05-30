@@ -9,11 +9,11 @@ tags:
 <div class="book-grid">
 
 <a href="/books/yellow" class="book-cover"
-   style="background-image:url('/assets/bookCovers/yellow.png');background-position:center;background-size:cover;background-repeat:no-repeat;border-color:rgba(255,255,0,1);">
+   style="background-image:url('/assets/book_covers/yellow.gif');background-position:center;background-size:cover;background-repeat:no-repeat;border-color:rgba(255,255,0,1);">
 </a>
 
 <a href="/books/cyan" class="book-cover"
-   style="background-image:url('/assets/bookCovers/cyan.gif');background-position:center;background-size:cover;background-repeat:no-repeat;border-color:rgba(0,255,255,1);">
+   style="background-image:url('/assets/book_covers/cyan.gif');background-position:center;background-size:cover;background-repeat:no-repeat;border-color:rgba(0,255,255,1);">
 </a>
 
 <a href="/books" class="book-cover"
