@@ -229,7 +229,7 @@ article td {
   }
 
   @media (max-width: 768px) {
-    margin: 0 16px 16px 0;
+    margin: 0 16px 4px 0;
     padding: 5px;
     border-width: 1px !important;
 
@@ -237,6 +237,11 @@ article td {
       width: 110px;
     }
   }
+}
+
+.book-image + p,
+.book-image ~ p {
+  text-indent: 0;
 }
 
 // ─── Chapter List ─────────────────────────────────────────────────────────────
