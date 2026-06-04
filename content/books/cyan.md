@@ -9,7 +9,7 @@ tags:
  <br><a href="/books" class="nav-button">← BOOKS</a>
 <br><br>
 
-<div class="book-image-cyan">
+<div class="book-image" style="border-color: rgb(0,255,255);">
   <img src="/assets/book_covers/cyan.png" alt="CYAN" />
 </div>
 
