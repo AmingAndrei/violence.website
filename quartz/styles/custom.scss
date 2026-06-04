@@ -214,6 +214,56 @@ article td {
   }
 }
 
+.book-image-yellow {
+  float: left;
+  margin: 0 60px 16px 0;
+  padding: 12px;
+  border: 2px solid rgb(255, 255, 0);
+  display: inline-block;
+  line-height: 0;
+
+  img {
+    display: block;
+    width: 250px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    float: none;
+    display: block;
+    margin: 0 auto 24px auto;
+
+    img {
+      width: 150px;
+    }
+  }
+}
+
+.book-image-cyan {
+  float: left;
+  margin: 0 60px 16px 0;
+  padding: 12px;
+  border: 2px solid rgb(0, 255, 255);
+  display: inline-block;
+  line-height: 0;
+
+  img {
+    display: block;
+    width: 250px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    float: none;
+    display: block;
+    margin: 0 auto 24px auto;
+
+    img {
+      width: 150px;
+    }
+  }
+}
+
 // ─── Chapter List ─────────────────────────────────────────────────────────────
 .ch-tl {
   display: flex;
