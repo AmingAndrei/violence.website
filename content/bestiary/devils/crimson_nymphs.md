@@ -29,7 +29,7 @@ Crimson Nymphs are sapient and very intelligent. They are mostly solitary and wi
 
 # Abilities
 
-Crimson Nymphs can produce large quantities of spores, appearing as a red gas, expelled from the red markings along their body. These spores, once inhaled, will cause nightmarish hallucinations with the sole purpose of triggering an extreme fear response in the target. The appearance and severity of the hallucinations can be directly influenced by the Crimson Nymph through singing, although a Crimson Nymph can only control the hallucinations provoked by its own spores. The singing alone 
+Crimson Nymphs can produce large quantities of spores, appearing as a red gas, expelled from the red markings along their body. These spores, once inhaled, will cause nightmarish hallucinations with the sole purpose of triggering an extreme fear response in the target. The appearance and severity of the hallucinations can be directly influenced by the Crimson Nymph through singing, although a Crimson Nymph can only control the hallucinations provoked by its own spores.
 
 Crimson Nymphs have the ability to directly create Haemocarbide constructs, either out of consumed blood or out of their own blood-like sap, emerging out the red indentations along their bodies, which are highly vascularised. They can directly control the shape and size of these constructs, and in some cases even the momentum, with the only real limit being the available blood. 
 
