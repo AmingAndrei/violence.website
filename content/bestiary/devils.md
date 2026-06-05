@@ -7,6 +7,7 @@ tags:
   - bestiary
 aliases:
   - Devils
+  - Devil
 ---
  <br><a href="/bestiary" class="nav-button">← BESTIARY</a>
 <br><br>
@@ -33,7 +34,7 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
 
 <div class="bestiary-grid">
 
-<a href="/bestiary/devils" class="devil-card">
+<a href="/bestiary/devils/crimson_nymphs" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>

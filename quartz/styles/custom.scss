@@ -398,6 +398,33 @@ article td {
   color: #ccc !important;
 }
 
+.bestiary-image--devil {
+  float: left;
+  margin: 0 60px 16px 0;
+  padding: 12px;
+  display: inline-block;
+  line-height: 0;
+  border: 2px solid transparent;
+  background: linear-gradient(#000, #000) padding-box,
+              conic-gradient(from 0deg, #ff0000, #ff8800, #ffff00, #00ff00, #00ffff, #0088ff, #8800ff, #ff00ff, #ff0000) border-box;
+
+  img {
+    display: block;
+    width: 280px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    margin: 0 16px 4px 0;
+    padding: 5px;
+    border-width: 1px;
+
+    img {
+      width: 110px;
+    }
+  }
+}
+
 .bestiary-btn--mosaics {
   border-color: transparent !important;
   background: linear-gradient(#b5d7e6, #b5d7e6) padding-box,
