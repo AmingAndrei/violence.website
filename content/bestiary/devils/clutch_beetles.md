@@ -47,7 +47,7 @@ This active state is actively maintained by the hybrid's own blood, which will b
 
 Clutch Beetles reproduce asexually. They lay thousands of eggs at a time, out of which only a handful of larvae hatch. All larvae are identical at birth, and will eat all the eggs that have yet to hatch. Differentiation begins during pupation, during which the larvae are at their most sensitive to environmental Anima. An overwhelming majority of larvae do not reach adulthood due to developmental failures. Adult Clutch Beetles are extremely rare.
 
-Hybrids will always give birth to other hybrids, as long as at least one of the parents is a hybrid, regardless of sex. The only exception is if one of the parents is a half-breed, in which case the child be also be a half-breed. The abilities of the parent cannot be used to predict the abilities of the child. 
+Hybrids will always give birth to other hybrids, as long as at least one of the parents is a hybrid, regardless of sex. The only exception is if one of the parents is a Fae/half-breed, in which case the child will be a half-breed/regular human. The abilities of the parent cannot be used to predict the abilities of the child. 
 # .diet
 <div class="bestiary-divider"></div>
 
