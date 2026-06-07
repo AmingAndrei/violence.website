@@ -208,7 +208,7 @@ plugins:
       priority: 25
       display: mobile-only
   - source: github:quartz-community/bases-page
-    enabled: false
+    enabled: true
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
