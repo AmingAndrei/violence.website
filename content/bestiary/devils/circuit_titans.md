@@ -17,7 +17,7 @@ Circuit Titans (_Diavolos colossus_) are a species of gigantic Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Circuit Titans are the biggest Devil species, reaching a total height of ~6 km. Their bodies are made out high-tensile fibre optic cables, forming a central torso and two bilateral appendages. They fractally split into smaller and smaller tentacle bundles at regular intervals, which they can control individually with great dexterity. Their head is ellipsoidal, adorned with asymmetrical, differently sized horns. Most of their face is occupied by a single, large, glowing eye, strong enough to clearly illuminate large areas at a time.
+Circuit Titans are the biggest Devil species, reaching a total height of ~6 km. Their bodies are made out black, high-tensile fibre optic cables, forming a central torso and two bilateral appendages. They fractally split into smaller and smaller tentacle bundles at regular intervals, which they can control individually with great dexterity. Their head is ellipsoidal, adorned with asymmetrical, differently sized horns. Most of their face is occupied by a single, large, glowing eye, strong enough to clearly illuminate large areas at a time.
 
 # .behaviour
 <div class="bestiary-divider"></div>
