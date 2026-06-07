@@ -18,12 +18,10 @@ Stone Wyrms (_Diavolos saxumvermis_) are a species of silicate Devil.
 <div class="bestiary-divider"></div>
 
 Stone Wyrms have a serpentine body plan, reaching ~30 m in length, possessing a pair of wings, with a wing span of ~12 m. Their heads are mostly featureless, with the exception of several pairs of horns and two eyeholes. The inside of a Stone Wyrm is completely hollow, their entire bodies being an empty rock cylinder. Their entire bodies are made out stone, with variable chemical composition based on location.
-
 # .behaviour
 <div class="bestiary-divider"></div>
 
 Stone Wyrms are solitary creatures. They spend most of their time in the ground, using vibrations to sense fauna above them, ambushing them and dragging them below ground. They do require air to breathe, making them susceptible to flooding, which will force them to resurface, although they can syphon air through the roots of nearby plants to bypass this.
-
 # .abilities
 <div class="bestiary-divider"></div>
 

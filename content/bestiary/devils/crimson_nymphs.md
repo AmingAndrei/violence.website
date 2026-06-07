@@ -22,12 +22,10 @@ Crimson Nymphs are, despite their appearance, plants, their entire bodies being 
 The lower, quadrupedal half is covered in a black bark, marked with multiple large red indentations along the legs, and possesses a long tail, at the tip of which is located a red water lily bloom.
 
 The upper, humanoid half is covered in comparatively smoother epidermis, along with significantly more red indentations along the torso and arms. Their arms are long and thin, segmented joints, terminating in clawed hands. They posses a pair of red wings, although they are unusable for flight. The head is similar to that of a human female, having pale white skin and long black hair, although they lack a nose and their eyes have a black sclera and red irises. They possess a vocal organ similar to that of a four-lobed syrinx, which allows them to copy voices, with the sound passively boosting the development of flora in their vicinity.
-
 # .behaviour
 <div class="bestiary-divider"></div>
 
 Crimson Nymphs are sapient and very intelligent. They are mostly solitary and will establish large territories called 'gardens'. These gardens act as their hunting grounds, and as such they will keep them in utmost shape, managing the terrain and flora in such a way that it will provide an inherent advantage to the Crimson Nymph and its surrounding ecosystem. Crimson Nymphs will go out of their way to remove any elements which might provide hazardous to their gardens.
-
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -38,12 +36,10 @@ Crimson Nymphs have the ability to directly create Haemocarbide constructs, eith
 Crimson Nymphs can see, with their eyes being formed out of a specialised form of chlorophyll, repurposed to capture light and convert it into information to be later interpreted into a high definition image of their surroundings. Their other senses, such as hearing and smell, are also extremely developed.
 
 Some plant species are exclusively found in Crimson Nymph gardens, their seeds being exclusively created by the Crimson Nymph, developing from the flower at the tip of its tail. Crimson Nymphs can interact with them and all other plants thought the root network established throughout the garden, which can even be used to locate fauna within the territory or diagnose and interface with individual plants.
-
 # .reproduction
 <div class="bestiary-divider"></div>
 
 Crimson Nymphs reproduce through seeding. Crimson Nymphs in their infancy appear as red lilies with black stems. At this point, it will require a constant supply of blood in order to further develop, slowly growing into a functional Crimson Nymph. Once fully matured, the Crimson Nymph will produce 3-4 Crimson Nymph seeds per year from the flower at the tip of its tail, which will grow into other individuals.
-
 # .diet
 <div class="bestiary-divider"></div>
 

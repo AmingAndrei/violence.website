@@ -18,12 +18,10 @@ Tyndall Hounds (_Diavolos occultus_) are a species of canine Devil.
 <div class="bestiary-divider"></div>
 
 Tyndall Hounds are vaguely canine, reaching a shoulder height of ~120 cm and a length of ~160 cm. They are entirely skeletal in appearance, lacking any and all organs and muscles, leaving them as only a skeleton. All of their bones are sharp, pointed, and made of semi-opaque glass. Their head and jaws are also slightly oversized when compared to their body.
-
 # .behaviour
 <div class="bestiary-divider"></div>
 
 Tyndall Hounds are pack hunters, living in packs of three to four individuals, with an intelligence similar to that of a grey wolf. They can remain hidden and hibernating for years at a time, remaining semi-aware of their surroundings, able to return to full capacity within seconds. Due to the glass structure of their skeleton, a moderately strong impact is enough to cripple if not outright kill one.
-
 # .abilities
 <div class="bestiary-divider"></div>
 
