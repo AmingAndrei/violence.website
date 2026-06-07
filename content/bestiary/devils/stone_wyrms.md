@@ -13,26 +13,30 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STONE WYRM" /> </div>
 
-Tyndall Hounds (_Diavolos occultus_) are a species of canine Devil.
+Stone Wyrms (_Diavolos saxumvermis_) are a species of silicate Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds are vaguely canine, reaching a shoulder height of ~120 cm and a length of ~160 cm. They are entirely skeletal in appearance, lacking any and all organs and muscles, leaving them as only a skeleton. All of their bones are sharp, pointed, and made of resembles semi-opaque glass. Their head and jaws are also slightly oversized when compared to their body.
+Stone Wyrms have a serpentine body plan, reaching ~30 m in length, possessing a pair of wings, with a wing span of ~12 m. Their heads are mostly featureless, with the exception of several pairs of horns and two eyeholes. The inside of a Stone Wyrm is completely hollow, their entire bodies being an empty rock cylinder. Their entire bodies are made out stone, with variable chemical composition based on location.
 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds are pack hunters, living in packs of three to four individuals, with an intelligence similar to that of a grey wolf. They can remain hidden and hibernating for years at a time, remaining semi-aware of their surroundings, able to return to full capacity within seconds. Due to the glass structure of their skeleton, a moderately strong impact is enough to cripple if not outright kill one.
+Stone Wyrms are solitary creatures. They spend most of their time in the ground, using vibrations to sense fauna above them, ambushing them and dragging them below ground. They do require air to breathe, making them susceptible to flooding, which will force them to resurface, although they can syphon air through the roots of nearby plants to bypass this.
 
 # .abilities
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds have the ability to become completely transparent across the entire light spectrum, to mimic the exact air temperature, to interface with the air and sound waves, to manipulate other electromagnetic radiation types on a cellular level, essentially become totally invisible and impossible to track. While hidden, they can also manipulate their density, mass and state of matter, which means they can essentially reduce their weight and can even allow other objects to phase through them for a short time without causing distress to the organism. And while they remain untrackable, they can still clearly perceive their environment through sound, smell and temperature. In order to actually attack, however, Tyndall Hounds need to reveal themselves. 
+Stone Wyrms have the ability to phase through solid ground and rock. They achieve this by binding to silicates in surrounding material to their own cells, expelling them to create thrust. This allows them to swim through the ground without producing any sort of visual disturbance. 
+
+Flight is achieved through a similar method, by using their eyeholes to create a strong vacuum right directly in front of them and expelling all the air inside their body through surrounding cell walls, they can propel themselves forward. Their wings are too small and rigid to actually be useful for flight.
+
+Stone Wyrms have the ability to camouflage themselves by sensing the chemical composition of surrounding silicate structures. This, in turn, allows their own cells to copy the appearance of the surrounding rock. They can also collapse their own bodies to flatten themselves, further blending in with the surrounding stone.
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds reproduce asexually. Mature Tyndall Hounds will regurgitate a juvenile Tyndall Hound, measuring ~20 cm, around once/year. The juvenile will reach adulthood in ~6 months, and will often split from its family pack once it does so, unless one of its original members dies.
+Stone Wyrms reproduce asexually. They lay irregularly shaped eggs resembling local boulders, usually one per clutch, which are promptly abandoned. The egg will then gradually morph into a juvenile Stone Wyrm for the next few months, after which it will be completely independent.
 # .diet
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds are carnivorous. Most of their eating process is just chewing, since they have no way of swallowing or stomach to store the food. They chew the food into a liquid a paste as possible, which will then get absorbed by the cells in their mouth and transported through the bone structure throughout their entire bodies.
+Stone Wyrms can consume any organic matter. The inside of their bodies is lined with digestive cells which will absorb any nutrients that enter. Their most common way of eating is by passively moving through the ground, absorbing all of the organic compounds in the soil, or the nutrients of nearby plants, syphoning their nutrients through their root system, drying and killing the plant on the spot. They can also force food into their eyeholes, which will be broken down by the friction of moving through the ground, but that is less common.

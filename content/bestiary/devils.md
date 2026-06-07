@@ -81,7 +81,7 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
   </div>
 </a>
 
-<a href="/bestiary/devils" class="devil-card">
+<a href="/bestiary/devils/stone_wyrms" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>

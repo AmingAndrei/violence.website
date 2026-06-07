@@ -17,7 +17,7 @@ Tyndall Hounds (_Diavolos occultus_) are a species of canine Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds are vaguely canine, reaching a shoulder height of ~120 cm and a length of ~160 cm. They are entirely skeletal in appearance, lacking any and all organs and muscles, leaving them as only a skeleton. All of their bones are sharp, pointed, and made of resembles semi-opaque glass. Their head and jaws are also slightly oversized when compared to their body.
+Tyndall Hounds are vaguely canine, reaching a shoulder height of ~120 cm and a length of ~160 cm. They are entirely skeletal in appearance, lacking any and all organs and muscles, leaving them as only a skeleton. All of their bones are sharp, pointed, and made of semi-opaque glass. Their head and jaws are also slightly oversized when compared to their body.
 
 # .behaviour
 <div class="bestiary-divider"></div>
@@ -31,7 +31,7 @@ Tyndall Hounds have the ability to become completely transparent across the enti
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds reproduce asexually. Mature Tyndall Hounds will regurgitate a juvenile Tyndall Hound, measuring ~20 cm, around once/year. The juvenile will reach adulthood in ~6 months, and will often split from its family pack once it does so, unless one of its original members dies.
+Tyndall Hounds reproduce asexually. Mature Tyndall Hounds will regurgitate a juvenile Tyndall Hound, measuring ~20 cm, around once per year. The juvenile will reach adulthood in ~6 months, and will often split from its family pack once it does so, unless one of its original members dies.
 # .diet
 <div class="bestiary-divider"></div>
 

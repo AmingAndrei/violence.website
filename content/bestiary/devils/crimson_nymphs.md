@@ -42,7 +42,7 @@ Some plant species are exclusively found in Crimson Nymph gardens, their seeds b
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Crimson Nymphs reproduce through seeding. Crimson Nymphs in their infancy appear as red lilies with black stems. At this point, it will require a constant supply of blood in order to further develop, slowly growing into a functional Crimson Nymph. Once fully matured, the Crimson Nymph will produce 3-4 Crimson Nymph seeds/year from the flower at the tip of its tail, which will grow into other individuals.
+Crimson Nymphs reproduce through seeding. Crimson Nymphs in their infancy appear as red lilies with black stems. At this point, it will require a constant supply of blood in order to further develop, slowly growing into a functional Crimson Nymph. Once fully matured, the Crimson Nymph will produce 3-4 Crimson Nymph seeds per year from the flower at the tip of its tail, which will grow into other individuals.
 
 # .diet
 <div class="bestiary-divider"></div>
