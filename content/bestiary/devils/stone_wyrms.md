@@ -1,17 +1,17 @@
 ---
-title: TYNDALL HOUNDS
+title: STONE WYRMS
 cssclasses:
   - devil
 tags:
   - devil
 aliases:
-  - Tyndall Hounds
-  - Tyndall Hound
+  - Stone Wyrms
+  - Stone Wyrm
 ---
  <br><a href="/bestiary/devils" class="nav-button">← DEVILS</a>
 <br><br>
 
-<div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="TYNDALL HOUND" /> </div>
+<div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STONE WYRM" /> </div>
 
 Tyndall Hounds (_Diavolos occultus_) are a species of canine Devil.
 # .anatomy

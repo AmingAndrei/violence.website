@@ -21,7 +21,7 @@ Crimson Nymphs are, despite their appearance, plants, their entire bodies being 
 
 The lower, quadrupedal half is covered in a black bark, marked with multiple large red indentations along the legs, and possesses a long tail, at the tip of which is located a red water lily bloom.
 
-The upper, humanoid half is covered in comparatively smoother epidermis, along with significantly more red indentations along the torso and arms. Their arms are long and thin, segmented joints, terminating in clawed hands. They posses a pair of red wings, although they are unusable for flight. The head is similar to that of a human female, having pale white skin and long black hair, although they lack a nose and their eyes have a black sclera and red irises. They possess a vocal organ similar to that of a syrinx, which allows them to copy voices, with the sound passively boosting the development of flora in their vicinity.
+The upper, humanoid half is covered in comparatively smoother epidermis, along with significantly more red indentations along the torso and arms. Their arms are long and thin, segmented joints, terminating in clawed hands. They posses a pair of red wings, although they are unusable for flight. The head is similar to that of a human female, having pale white skin and long black hair, although they lack a nose and their eyes have a black sclera and red irises. They possess a vocal organ similar to that of a four-lobed syrinx, which allows them to copy voices, with the sound passively boosting the development of flora in their vicinity.
 
 # .behaviour
 <div class="bestiary-divider"></div>
