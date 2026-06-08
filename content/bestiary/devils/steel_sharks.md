@@ -21,13 +21,13 @@ Steel Sharks are extremely humanoid in appearance, standing at ~2 m tall. Their 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Steel Sharks sapient, voluntarily aggressive and find pleasure in causing as much violence as possible. They hunt exclusively for sport. Steel Sharks are the most Anima-dependent Devil species. If they lack the large enough Anima necessary, only found within the FLIPSIDE, they will eventually collapse into a low energy state, vaguely resembling large weaponry, although they remain conscious during this state, and their surface temperature cools down from 200°C to ~20°C above room temperature.
+Steel Sharks sapient, voluntarily aggressive and find pleasure in causing as much violence as possible. They hunt exclusively for sport. Steel Sharks are the most Anima-dependent Devil species. If they lack the large enough Anima necessary, only found within the FLIPSIDE, they will eventually collapse into a low energy state, vaguely resembling large weaponry, although they remain conscious during this state, and their surface temperature cools down from 200°C to ~20°C above room temperature. While they do display sexual dimorphism similar to humans, they have no inherent concept of gender or sex.
 # .abilities
 <div class="bestiary-divider"></div>
 
 The rule of thumb is that there is nothing other Devils can do that Steel Sharks can't also do, if not better.
 
-Steel Sharks have extremely developed senses, capable of pinpoint precision echolocation, thermal imaging, chemoreception, and airwave sensitivity. This makes them near omniscient of their surroundings up to 100 m. This, combined with their extreme speed, intelligence, and strength, makes a single Steel Shark a one man army.
+Steel Sharks have extremely developed senses, capable of pinpoint precision echolocation, thermal imaging, chemoreception, and airwave sensitivity. This makes them near omniscient of their surroundings up to 100 m. This, combined with their extreme speed, intelligence, and strength, makes a single Steel Shark a one man army. And while they're normally loud and explosive, they can choose to become completely silent, which combined with their dexterity and speed, makes them impossible to track.
 
 Steel Sharks are absurdly durable. The metal their cells are composed off is harder than tungsten carbide, have a melting point of ~5000°C, are self-sharpening, self-healing, are completely chemically inert, block radiation, and all while having a density similar to silver. The only way to kill one is to damage its engine. All other types of damage will not affect their senses and only partially slow them down, with a single engine rev being capable of regenerating one third of their body mass. Damage to the engine will redirect all healing towards the engine, and if severe enough, will either require to Anima density of Pandiavolum to heal, or kill the Steel Shark.
 
@@ -39,14 +39,14 @@ To combat their obvious weakness of requiring a large Anima density to do anythi
 
 Steel Sharks are not omnipotent, as they fall into several categories, determining their general abilities, fighting style, and to a slight degree their appearance:
 
-|                       |                                                                                                  |
-| --------------------- | ------------------------------------------------------------------------------------------------ |
-| Onokatachi (斧形)       | Can discharge enormous quantities of energy at once                                              |
-| Hakatachi (刃形)        | Can absorb and redirect the energy of an impact                                                  |
-| Juyarikatachi (重槍形)   | Can create short-ranged, very high-damage bursts                                                 |
-| Naginatakatachi (薙刀形) | Can create and control different types of bio-agents                                             |
-| Oyumikatachi (大弓形)    | Can use short and long-range shelling                                                            |
-| Kenkatachi (剣形)       | Can do all of the above + has precise control over it's body structure, down to a cellular level |
+|                       |                                                                                                                                                    |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Onokatachi (斧形)       | Can discharge enormous quantities of energy at once, either offensively or to parry attacks. Parrying is its only real method of blocking attacks. |
+| Hakatachi (刃形)        | Can block and absorb incoming attacks, redirecting the energy offensively.                                                                         |
+| Juyarikatachi (重槍形)   | Can block attacks and create short-ranged, very high-damage bursts, with a short delay between attacks.                                            |
+| Naginatakatachi (薙刀形) | Can create and control different types of bio-agents, such as insects or microscopic organisms.                                                    |
+| Oyumikatachi (大弓形)    | Can use short and long-range shelling, with a delay between shots dependent on the strength of the attack. Can also block attacks.                 |
+| Kenkatachi (剣形)       | Can do all of the above + has cellular-level control over it's body structure.                                                                     |
 
 # .reproduction
 <div class="bestiary-divider"></div>
