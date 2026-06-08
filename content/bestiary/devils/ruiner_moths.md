@@ -17,11 +17,11 @@ Ruiner Moths (_Diavolos dragotinea_) are a species of draconic Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Ruiner Moths have a lepidopteran appearance, reaching ~12 m in length. They have a carbon-fibre exoskeleton to support their weight, covered in soot-like setae that constantly shed. Their legs are bulky, with flexible claws on their tarsus. Their wings are very flexible and have a tattered cloth appearance. Their mouth has a jaw-like outer structure, with both a mandible and a maxilla, their fangs being serrated extension of their exoskeleton, while also having an insect mandibular structure inner structure, Their main sensory organs are a pair or retractable, forward facing horn-like antennae, located where the eyes would normally be.
+Ruiner Moths have a lepidopteran appearance, reaching ~12 m in length. They have a carbon-fibre exoskeleton to support their weight, covered in soot-like setae that constantly shed. Their legs are bulky, with flexible claws on their tarsus. Their wings are very flexible and have a tattered cloth appearance, allowing the reach ~200 km/h in flight. Their mouth has a jaw-like outer structure, with both a mandible and a maxilla, their fangs being serrated extension of their exoskeleton, while also having an insect mandibular structure inner structure. Their main sensory organs are a pair or retractable, forward facing horn-like antennae, located where the eyes would normally be.
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Ruiner Moths are naturally extremely aggressive, as will attack anything that is within perception range. This isn't territorial behaviour, as they will periodically relocate themselves if they find themselves in a safe area. They will go out of their way just to attack things, stopping whatever they were doing and reordering their priorities just to jump other creatures. They're solitary, will attack each other, and are capable of vocalisations such as roaring. The average speed of a flying Ruiner Moth is ~200 km/h.
+Ruiner Moths are naturally extremely aggressive, as will attack anything that is within perception range. This isn't territorial behaviour, as they will periodically relocate themselves if they find themselves in a safe area. They will go out of their way just to attack things, stopping whatever they were doing and reordering their priorities just to jump other creatures. They're solitary, will attack each other, and are capable of vocalisations such as roaring.
 # .abilities
 <div class="bestiary-divider"></div>
 
