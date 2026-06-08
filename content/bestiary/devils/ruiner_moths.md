@@ -21,7 +21,7 @@ Ruiner Moths have a lepidopteran appearance, reaching ~12 m in length. They have
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Ruiner Moths are naturally extremely aggressive, as will attack anything that is within perception range. This isn't territorial behaviour, as they will periodically relocate themselves if they find themselves in a safe area. They will go out of their way just to attack things, stopping whatever they were doing and reordering their priorities just to jump other creatures. They're solitary, and will attack each other. They are capable of vocalisations such as roaring.
+Ruiner Moths are naturally extremely aggressive, as will attack anything that is within perception range. This isn't territorial behaviour, as they will periodically relocate themselves if they find themselves in a safe area. They will go out of their way just to attack things, stopping whatever they were doing and reordering their priorities just to jump other creatures. They're solitary, will attack each other, and are capable of vocalisations such as roaring. The average speed of a flying Ruiner Moth is ~200 km/h.
 # .abilities
 <div class="bestiary-divider"></div>
 
