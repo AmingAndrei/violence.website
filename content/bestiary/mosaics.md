@@ -10,11 +10,11 @@ aliases:
  <br><a href="/bestiary" class="nav-button">← BESTIARY</a>
 <br><br>
 
-// Mosaics (_Mosaica_ class) are a very... deceiving bunch. They're seemingly reliant on the existence of other species to properly function at a base level.
+Mosaics (_Mosaica_ class) are a semi-class of semi-colonial species, representing the virtually most diverse group of beings in the FLIPSIDE.
 
-// Mosaic cells are very unique, having a greater degree of similarity to cyanobacteria than to regular animal cells. Structurally, they resemble crystalline structures found in minerals such as quartz, which extends to the surface appearance of the Mosaic, although their texture can alter at times to resemble kinetic sand. Each cell is also individualised, putting Mosaics in a group between regular and colonial organisms, as each cell is capable of mostly independent behaviour while simultaneously acting as part of the whole organism. Genetically, all Mosaic cells are essentially the same between species, with the only thing separating them being a secondary line of code handling species-specific behaviours. While Mosaic cells regularly behave as a mix between a neuron, myocytes and bone cell, when grouped together, they can form visual and auditory systems. Mosaics lack senses such as smell or taste.
+Mosaic cells are their most unique trait. These microorganisms are, in truth, their own individual being, capable of acting and surviving on their own, while simultaneously acting as components of a greater organism. They have a general appearance and anatomy similar to cyanobacteria, possessing a crystalline structure similar to quartz. They function as a mix between myocytes and osteocytes, although they can coalesce to form audio-visual sensors. Due to their structure, damage in one part of the body can resonate across the entire organism, causing the rest of the cells to shatter and die. Genetically, these cells do not present any changes between different species or individuals. 
 
-// The anatomy of Mosaics isn't necessarily fixed. Their unique cells allows grants them a greater degree of fluidity or freedom with their body plans, not restricted by general biological rules. Mosaics use ambient radiation or electromagnetism as sustenance, or even local Anima in certain situations, and are capable of entering a catatonic state in deprived of them for long periods of time, capable of remaining like this indefinitely. However, due to the structure of their cells, damage in one part of the body can resonate across the entire organism, which can lead to the Mosaic shattering and ultimately dying.
+Mosaics feed on local Anima and ambient radiation. If deprived for long enough periods, they will enter an indefinite catatonic state until these resources return. They lack all sense of smell and taste.
 
 ---
 
