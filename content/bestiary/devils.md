@@ -32,7 +32,7 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
 
 ---
 
-<div class="bestiary-grid">
+<div class="bestiary-grid--devils">
 
 <a href="/bestiary/devils/crimson_nymphs" class="devil-card">
   <div class="devil-card__inner">
