@@ -544,13 +544,13 @@ article td {
 
   &:hover { transform: scale(1.05); }
 
-  &--mimics {
+  &--cyan {
     background: conic-gradient(from 0deg,#a8edfc,#b3d4ff,#c2e8ff,#a0f0f8,#7de8f5,#a8edfc,#b8e8ff,#d0f4ff,#a8edfc);
   }
-  &--vespers {
+  &--magenta {
     background: conic-gradient(from 0deg,#ff3d9a,#ff6ec7,#ff00aa,#e6007a,#ff3d9a,#ff85d0,#cc0066,#ff6ec7,#ff3d9a);
   }
-  &--somas {
+  &--yellow {
     background: conic-gradient(from 0deg,#ffe566,#ffd700,#ffec80,#ffc200,#ffe566,#fff0a0,#ffb700,#ffed99,#ffe566);
   }
 
@@ -576,13 +576,13 @@ article td {
   height: 6px;
   flex-shrink: 0;
 
-  .mosaic-card--mimics & {
+  .mosaic-card--cyan & {
     background: conic-gradient(from 0deg,#a8edfc,#b3d4ff,#c2e8ff,#a0f0f8,#7de8f5,#a8edfc,#b8e8ff,#d0f4ff,#a8edfc);
   }
-  .mosaic-card--vespers & {
+  .mosaic-card--magenta & {
     background: conic-gradient(from 0deg,#ff3d9a,#ff6ec7,#ff00aa,#e6007a,#ff3d9a,#ff85d0,#cc0066,#ff6ec7,#ff3d9a);
   }
-  .mosaic-card--somas & {
+  .mosaic-card--yellow & {
     background: conic-gradient(from 0deg,#ffe566,#ffd700,#ffec80,#ffc200,#ffe566,#fff0a0,#ffb700,#ffed99,#ffe566);
   }
 
