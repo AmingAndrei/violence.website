@@ -60,7 +60,7 @@ Mosaics feed on local Anima and ambient radiation. If deprived for long enough p
     </div>
   </a>
 
-<a href="/bestiary/mosaics" class="mosaic-card mosaic-card--magenta">
+<a href="/bestiary/mosaics" class="mosaic-card mosaic-card--magenta-to-yellow">
     <div class="mosaic-card__inner">
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>
@@ -81,6 +81,14 @@ Mosaics feed on local Anima and ambient radiation. If deprived for long enough p
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>
       <div class="mosaic-card__name">SOMAS</div>
+    </div>
+  </a>
+  
+<a href="/bestiary/mosaics" class="mosaic-card mosaic-card--yellow-to-magenta">
+    <div class="mosaic-card__inner">
+      <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+      <div class="mosaic-card__bar"></div>
+      <div class="mosaic-card__name">SPECTRES</div>
     </div>
   </a>
 

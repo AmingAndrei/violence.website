@@ -553,6 +553,12 @@ article td {
   &--yellow {
     background: conic-gradient(from 0deg,#ffe566,#ffd700,#ffec80,#ffc200,#ffe566,#fff0a0,#ffb700,#ffed99,#ffe566);
   }
+  &--magenta-to-yellow {
+  background: conic-gradient(from 0deg,#ffe566,#ffd700,#ffcc00,#ffaa44,#ff6ec7,#ff3d9a,#e6007a,#ff85d0,#ffe566);
+  }
+  &--yellow-to-magenta {
+  background: conic-gradient(from 0deg,#ff85d0,#e6007a,#ff3d9a,#ff6ec7,#ffaa44,#ffcc00,#ffd700,#ffe566,#ff85d0);
+  }
 
   @media (max-width: 768px) {
     padding: 8px !important;
@@ -584,6 +590,12 @@ article td {
   }
   .mosaic-card--yellow & {
     background: conic-gradient(from 0deg,#ffe566,#ffd700,#ffec80,#ffc200,#ffe566,#fff0a0,#ffb700,#ffed99,#ffe566);
+  }
+  .mosaic-card--magenta-to-yellow & {
+  background: conic-gradient(from 0deg,#ffe566,#ffd700,#ffcc00,#ffaa44,#ff6ec7,#ff3d9a,#e6007a,#ff85d0,#ffe566);
+  }
+  .mosaic-card--yellow-to-magenta & {
+  background: conic-gradient(from 0deg,#ff85d0,#e6007a,#ff3d9a,#ff6ec7,#ffaa44,#ffcc00,#ffd700,#ffe566,#ff85d0);
   }
 
   @media (max-width: 768px) { height: 4px; }
