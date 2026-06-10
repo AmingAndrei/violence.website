@@ -413,33 +413,6 @@ article td {
   color: #ccc !important;
 }
 
-.bestiary-image--devil {
-  float: left;
-  margin: 0 60px 16px 0;
-  padding: 12px;
-  display: inline-block;
-  line-height: 0;
-  border: 2px solid transparent;
-  background: linear-gradient(#000, #000) padding-box,
-              conic-gradient(from 0deg, #ff0000, #ff8800, #ffff00, #00ff00, #00ffff, #0088ff, #8800ff, #ff00ff, #ff0000) border-box;
-
-  img {
-    display: block;
-    width: 300px;
-    height: auto;
-  }
-
-  @media (max-width: 768px) {
-    margin: 0 16px 4px 0;
-    padding: 5px;
-    border-width: 1px;
-
-    img {
-      width: 140px;
-    }
-  }
-}
-
 .bestiary-btn--mosaics {
   border-color: transparent !important;
   background: linear-gradient(#b5d7e6, #b5d7e6) padding-box,
@@ -518,7 +491,32 @@ article td {
   }
 }
 
-// ─── Mosaic Cards ──────────────────────────────────────────────────────────────
+.bestiary-image--devil {
+  float: left;
+  margin: 0 60px 16px 0;
+  padding: 12px;
+  display: inline-block;
+  line-height: 0;
+  border: 2px solid transparent;
+  background: linear-gradient(#000, #000) padding-box,
+              conic-gradient(from 0deg, #ff0000, #ff8800, #ffff00, #00ff00, #00ffff, #0088ff, #8800ff, #ff00ff, #ff0000) border-box;
+
+  img {
+    display: block;
+    width: 300px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    margin: 0 16px 4px 0;
+    padding: 5px;
+    border-width: 1px;
+
+    img {
+      width: 140px;
+    }
+  }
+}
 
 // ─── Mosaic Cards ────────────────────────────────────────────────────────────
 .bestiary-grid--mosaics {
@@ -613,6 +611,52 @@ article td {
     font-size: 0.85rem;
     letter-spacing: 0.1em;
     padding: 8px 4px;
+  }
+}
+
+.bestiary-image--mosaic {
+  float: left;
+  margin: 0 60px 16px 0;
+  padding: 12px;
+  display: inline-block;
+  line-height: 0;
+  border: 2px solid transparent;
+
+  &.mosaic--cyan {
+    background: linear-gradient(#000, #000) padding-box,
+                conic-gradient(from 0deg,#00FFFF) border-box;
+  }
+  &.mosaic--magenta {
+    background: linear-gradient(#000, #000) padding-box,
+                conic-gradient(from 0deg,#FF00FF) border-box;
+  }
+  &.mosaic--yellow {
+    background: linear-gradient(#000, #000) padding-box,
+                conic-gradient(from 0deg,#FFFF00) border-box;
+  }
+  &.mosaic--magenta-to-yellow {
+    background: linear-gradient(#000, #000) padding-box,
+                conic-gradient(from 0deg,#ffe566,#ffd700,#ffcc00,#ffaa44,#ff6ec7,#ff3d9a,#e6007a,#ff85d0,#ffe566) border-box;
+  }
+  &.mosaic--yellow-to-magenta {
+    background: linear-gradient(#000, #000) padding-box,
+                conic-gradient(from 0deg,#ff85d0,#e6007a,#ff3d9a,#ff6ec7,#ffaa44,#ffcc00,#ffd700,#ffe566,#ff85d0) border-box;
+  }
+
+  img {
+    display: block;
+    width: 300px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    margin: 0 16px 4px 0;
+    padding: 5px;
+    border-width: 1px;
+
+    img {
+      width: 140px;
+    }
   }
 }
 
