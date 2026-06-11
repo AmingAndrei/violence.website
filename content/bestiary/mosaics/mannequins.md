@@ -17,7 +17,7 @@ Mannequins (_Mosaica mosaica mannekijn_) are a species of purpose-built Mosaics.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Mannequins have no set anatomy. Each individual is created on the spot, usually taking advantage of nearby materials and objects by incorporating them into their own frame. Their appearance is dependent on Violence Against Art's creativity at the time and available materials.
+Mannequins have no set anatomy. Each individual is created on the spot, usually taking advantage of nearby materials and objects by incorporating them into their own frame. Although. their cells do retain a cyan to light blue colouration. Their appearance is dependent on Violence Against Art's creativity at the time and available materials.
 # .behaviour
 <div class="bestiary-divider"></div>
 

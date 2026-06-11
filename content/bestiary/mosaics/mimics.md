@@ -17,7 +17,7 @@ Mimics (_Mosaica mosaica mimisis_) are a species of copycat Mosaics.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-In their base form, Mimics have a gangly, roughly humanoid appearance, reaching a height of 2 m. Their bodies are cyan to light blue surface. Their faces are smooth, their only feature being a pair of glowing eyes.
+In their base form, Mimics have a gangly, roughly humanoid appearance, reaching a height of 2 m. Their bodies are cyan to light blue. Their faces are smooth, their only feature being a pair of glowing eyes.
 # .behaviour
 <div class="bestiary-divider"></div>
 
