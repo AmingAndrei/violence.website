@@ -28,7 +28,7 @@ Mosaics feed on local Anima and ambient radiation. If deprived for long enough p
     </div>
   </a>
   
- <a href="/bestiary/mosaics" class="mosaic-card mosaic-card--cyan">
+ <a href="/bestiary/mosaics/mannequins" class="mosaic-card mosaic-card--cyan">
     <div class="mosaic-card__inner">
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>

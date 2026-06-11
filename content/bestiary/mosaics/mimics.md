@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--mosaic mosaic--cyan"> <img src="/assets/placeholder.gif" alt="MIMIC" /> </div>
 
-Mimics (_Mosaica mimisis_) are a species of copycat Mosaics.
+Mimics (_Mosaica mosaica mimisis_) are a species of copycat Mosaics.
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -21,7 +21,7 @@ In their base form, Mimics have a gangly, roughly humanoid appearance, reaching 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Mimics are always aggressive and will attack unprovoked. They were created by Violence Against Art primarily as data storage, meant to absorb and catalogue all the information about nearby creatures. They have no higher thought and a extremely limited intelligence, working entirely within their programming.
+Mimics are always aggressive and will attack unprovoked. They were created by Violence Against Art as crawler drones, designed observe and catalogue all the information about surrounding creatures and individuals, which is later used in the creation of Mannequins. They have no higher thought or individuality, and have an extremely limited intelligence, working entirely within their programming.
 # .abilities
 <div class="bestiary-divider"></div>
 

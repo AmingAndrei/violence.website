@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STEEL SHARK" /> </div>
 
-Steel Sharks (_Diavolos diavolos_, <ruby>金属鮫<rt>すてぃーるしゃーく</rt></ruby>) are a the most dangerous and violent species of Devil, the kin of Violence Against Nature.
+Steel Sharks (_Diavolos diavolos_, <ruby>金属鮫<rt>スティール・シャーク</rt></ruby>) are a the most dangerous and violent species of Devil, the kin of Violence Against Nature.
 # .anatomy
 <div class="bestiary-divider"></div>
 
