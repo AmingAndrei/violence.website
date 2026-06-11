@@ -21,7 +21,7 @@ In their base form, Mimics have a gangly, roughly humanoid appearance, reaching 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Mimics are always aggressive and will attack unprovoked. They were created by Violence Against Art as crawler drones, designed observe and catalogue all the information about surrounding creatures and individuals, which is later used in the creation of Mannequins. They have no higher thought or individuality, and have an extremely limited intelligence, working entirely within their programming.
+Mimics are always aggressive and will attack unprovoked. They were created by Violence Against Art as crawler drones, designed observe and catalogue all the information about surrounding creatures and individuals, which is later used to streamline the creation of Mannequins. They have no higher thought or individuality, and have an extremely limited intelligence, working entirely within their programming.
 # .abilities
 <div class="bestiary-divider"></div>
 

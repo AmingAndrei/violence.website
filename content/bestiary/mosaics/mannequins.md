@@ -21,7 +21,7 @@ Mannequins have no set anatomy. Each individual is created on the spot, usually 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Mannequins have no free will, individuality, higher thought, or intelligence beside the one programmed into them. They are created to serve Violence Against Art, and cannot divert from that programming. The information scraped by Mimics is used in the creation of more advanced Mannequins.
+Mannequins have no free will, individuality, higher thought, or intelligence beside the one programmed into them. They are created to serve Violence Against Art, and cannot divert from that programming. The information scraped by Mimics is used to streamline the creation of Mannequins.
 # .abilities
 <div class="bestiary-divider"></div>
 
