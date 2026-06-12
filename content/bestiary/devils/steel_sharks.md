@@ -21,7 +21,7 @@ Steel Sharks are extremely humanoid in appearance, standing at ~2 m tall. Their 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Steel Sharks sapient, voluntarily aggressive and find pleasure in causing as much violence as possible. They hunt exclusively for sport. Steel Sharks are the most Anima-dependent Devil species. If they lack the large enough Anima necessary, only found within the FLIPSIDE, they will eventually collapse into a low energy state, vaguely resembling large weaponry, although they remain conscious during this state, and their surface temperature cools down from 200°C to ~20°C above room temperature. While they do display sexual dimorphism similar to humans, they have no inherent concept of gender or sex.
+Steel Sharks sapient, voluntarily aggressive and find pleasure in causing as much violence as possible. They hunt exclusively for sport. Steel Sharks are the most Anima-dependent Devil species. If they lack the large enough Anima necessary, only found within the FLIPSIDE, they will eventually collapse into a low energy state, vaguely resembling large weaponry, although they remain conscious during this state. While they do display sexual dimorphism similar to humans, they have no inherent concept of gender or sex.
 # .abilities
 <div class="bestiary-divider"></div>
 
