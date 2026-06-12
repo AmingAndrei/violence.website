@@ -10,7 +10,7 @@ aliases:
  <br><a href="/bestiary" class="nav-button">← BESTIARY</a>
 <br><br>
 
-Mosaics (_Mosaica_ class) are a class of semi-colonial artificial species, representing the virtually most diverse group of beings in the FLIPSIDE, created by Violence Against Art.
+Mosaics (_Mosaica_ class) are a class of semi-colonial artificial species, representing the virtually most diverse group of beings in the FLIPSIDE, created by the King in Cyan from his own cells.
 
 Mosaic cells are their most unique trait. These microorganisms are, in truth, their own individual being, capable of acting and surviving on their own, while simultaneously acting as components of a greater organism. They have a general appearance and anatomy similar to cyanobacteria, possessing a crystalline structure similar to quartz. They function as a mix between myocytes and osteocytes, although they can coalesce to form audio-visual sensors. Due to their structure, damage in one part of the body can resonate across the entire organism, causing the rest of the cells to shatter and die. Genetically, these cells do not present any changes between different species or individuals. 
 
