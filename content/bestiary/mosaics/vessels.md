@@ -17,17 +17,15 @@ Vessels (_Mosaica vespera vas_) are artificial containment Mosaics.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Vessels are humanoid in appearance, with white metallic skin and silver hair. Their eyes are comprised of LED screens with embedded cameras, usually displaying only a white iris, turning magenta when occupied. Their faces, although capable of displaying emotion, will often remain completely blank. They resemble children, and have a height of 150 cm. They possess a circulatory system that loops Mosaic cells throughout their body.
+Vessels are humanoid in appearance, resembling an average 12 year old, reaching a height of 150 cm. They have white metallic skin and silver hair, and their eyes are comprised of LED screens with embedded cameras, usually displaying only a white iris, turning magenta when occupied. Their faces, although capable of displaying the entire range of emotions, will often remain completely blank.
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vessels were created by Ultraviolet, basing them off of Somas, designed with the intent of capturing Vespers in possession of key Vectors. And compared to Somas, Vessels have intentionally stunted personal development capabilities, leaving most of them without any real personality.
+Vessels were created by Ultraviolet to capture and permanently contain Vespers. They do this by enforcing arbitrary code into the Vesper's own cells, which allows Vessels to use them as its own. Vessels have little personality, not by design, with small influences from the captured Vespers.
 # .abilities
 <div class="bestiary-divider"></div>
 
-Vessels can capture and contain Vespers within themselves. Each Vessel is created to hold one Vesper, with no intended mechanism of letting the Vesper out. Brute force and attempts at destroying the Vessel from outside will 9/10 times kill the Vesper within. Although, escape is an extremely slim possibility, since any alteration to their mental profiles can allow the Vesper access into the Vessel's mainframe and ultimately a way out.
-
-Vessels can use the stored Vespers' Vectors, able to control them with the same finesse and strength as their original users. Although this ability is seldom used, as most Vessels are put in cold storage after a successful capture, with their only opportunities at using their new powers being when released for a job. Some more advanced Vessels, created to capture very powerful Vespers, can sometimes come with preexisting Vectors.
+Vessels can contain Vespers within themselves, each having the capacity to hold one. They can then use the stored Vesper's Vector, and even mimic its stance and fighting style. This also means whatever ticks the Vesper might've had will also show themselves in the Vessel. Attempts at brute-forcing the Vessels open will result in the Vesper dying, and the only way a Vesper can escape is by somehow creating a window in which it can retake control of its own cells.
 # .reproduction
 <div class="bestiary-divider"></div>
 
