@@ -8,7 +8,7 @@ aliases:
   - Vespers
   - Vesper
 ---
-d <br><a href="/bestiary/mosaics" class="nav-button">← MOSAICS</a>
+<br><a href="/bestiary/mosaics" class="nav-button">← MOSAICS</a>
 <br><br>
 
 <div class="bestiary-image--mosaic mosaic--magenta"> <img src="/assets/placeholder.gif" alt="VESPER" /> </div>

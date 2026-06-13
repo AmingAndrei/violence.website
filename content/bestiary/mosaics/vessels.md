@@ -21,7 +21,7 @@ Vessels are humanoid in appearance, resembling an average 12 year old, reaching 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vessels were created by Ultraviolet to capture and permanently contain Vespers. They do this by enforcing arbitrary code into the Vesper's own cells, which allows Vessels to use them as its own. Vessels have little personality, not by design, with small influences from the captured Vespers.
+Vessels were created by Ultraviolet to capture and permanently contain Vespers, by reverse engineering Soma shells. They do this by enforcing arbitrary code into the Vesper's own cells, which allows Vessels to use them as its own. Vessels have little personality, not by design, with small influences from the captured Vespers.
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -29,4 +29,4 @@ Vessels can contain Vespers within themselves, each having the capacity to hold 
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Vessels are entirely manufactured by Ultraviolet.
+Vessels are entirely manufactured by Ultraviolet. Their fabrication process is extremely expensive and time-consuming, so only a limited number is produced at a time.

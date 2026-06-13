@@ -29,4 +29,4 @@ Marionettes retain all the abilities they previously possessed.
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Marionettes are created directly by the King in Cyan by forcefully reverting Mosaics to their base settings. This cannot be done remotely.
+Marionettes are created directly by the King in Cyan by forcefully reverting Mosaics to their base settings. The process is continuous and complicated, and cannot be done remotely.
