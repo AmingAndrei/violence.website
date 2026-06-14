@@ -39,4 +39,4 @@ Vectors are the most powerful asset Vespers have. They can be interpreted as a s
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Vespers are the direct descendants of Devil-corrupt Mosaics, taking and imitating traits found originally in Devils. Vespers leave behind anchor spores, which will coalesce when in high quantities and when detecting a high enough Anima density, becoming a larva-like womb. The womb will then absorb the local Anima over periods of time, reaching a critical point after which it will become a mature Vesper.
+Vespers are Devil-corrupt Mosaics, taking and imitating traits found originally in Devils. They can reproduce either by corruption of base Mosaics into Vespers, or through the leaving behind anchor spores, which will coalesce when in high quantities and when detecting a high enough Anima density, becoming a larva-like womb. The womb will then absorb the local Anima over periods of time, reaching a critical point after which it will become a mature Vesper.
