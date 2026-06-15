@@ -21,7 +21,7 @@ Vespers have no set anatomy. Each individual can very drastically in appearance,
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vespers are self-aware and extremely intelligent. They're social beings, and usually enjoy company. They're not exactly malevolent, but are known to play tricks on random people. Even thought they are not downright aggressive and instead surprisingly reasonable, they are still capable of extreme violence. Their speech has the same auto-translating capabilities as Devils.
+Vespers are self-aware and extremely intelligent. They trace their origins to Devils, as it was Devil-corrupted Mosaics that eventually became the first Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will sometimes display certain physical traits found in Devils. They are otherwise mostly calm, reasonable and cooperative.
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -39,4 +39,4 @@ Vectors are the most powerful asset Vespers have. They can be interpreted as a s
 # .reproduction
 <div class="bestiary-divider"></div>
 
-[WIP] Vespers are Devil-corrupt Mosaics, taking and imitating traits found originally in Devils. They reproduce through the leaving behind anchor cells, which will coalesce when in high quantities and when detecting a high enough Anima density, becoming a larva-like womb. The womb will then absorb the local Anima over periods of time, reaching a critical point after which it will become a mature Vesper.
+Vespers reproduce through light. As they consume and emanate light, they leave behind certain imperceptible frequencies and wavelengths of light that, in the presence of a high enough density of Anima, will crystallise into a womb-like larva, around 3 cm in size. This larva will then absorb the surrounding Anima and radiation, eventually reaching a point of saturation which will create a mature Vesper.
