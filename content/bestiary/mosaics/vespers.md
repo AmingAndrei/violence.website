@@ -21,7 +21,7 @@ Vespers have no set anatomy. Each individual can very drastically in appearance,
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vespers are self-aware and extremely intelligent. They trace their origins to Devils, as it was Devil-corrupted Mosaics that eventually became the first Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will sometimes display certain physical traits found in Devils. They are otherwise mostly calm, reasonable and cooperative.
+Vespers are self-aware and extremely intelligent. They trace their origins to Devil-corrupted Mosaics that became copies of Devils and, eventually, the first Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits found in Devils. They are otherwise mostly calm, reasonable and cooperative.
 # .abilities
 <div class="bestiary-divider"></div>
 
