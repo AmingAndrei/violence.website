@@ -29,7 +29,7 @@ Vesper cells can expel infrared light for movement, using the momentum of the ph
 
 Vespers can similarly use strong electric currents as a means of transport, able to use cables or electric arcs to transpose their entire bodies. This also extends to electronic devices, which they can inhabit indefinitely as long as it has a current actively running through it, and can even alter the currents in such a way they can control the device from inside.
 
-Vectors are the most powerful asset Vespers have. They can be interpreted as a set of instructions which alter how their individual cells function, allowing them to achieve feats downright impossible. Deployment of Vectors requires Anima, which will consume the surrounding Anima based on individual mastery and base strength. They fall into two large categories:
+Vectors are the most powerful asset Vespers have. They can be interpreted as a set of instructions which alter how their individual cells function and their capabilities. Vector use requires a form of processed Anima stored in the Vesper's cells, which siphons surrounding Anima to slowly replenish. They fall into two large categories:
 
 |                |                                                                                                                                                                                                                                                                                                          |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,4 +39,4 @@ Vectors are the most powerful asset Vespers have. They can be interpreted as a s
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Vespers are Devil-corrupt Mosaics, taking and imitating traits found originally in Devils. They can reproduce either by passive or active corruption of Mosaics into Vespers, or through the leaving behind anchor spores, which will coalesce when in high quantities and when detecting a high enough Anima density, becoming a larva-like womb. The womb will then absorb the local Anima over periods of time, reaching a critical point after which it will become a mature Vesper.
+[WIP] Vespers are Devil-corrupt Mosaics, taking and imitating traits found originally in Devils. They reproduce through the leaving behind anchor cells, which will coalesce when in high quantities and when detecting a high enough Anima density, becoming a larva-like womb. The womb will then absorb the local Anima over periods of time, reaching a critical point after which it will become a mature Vesper.
