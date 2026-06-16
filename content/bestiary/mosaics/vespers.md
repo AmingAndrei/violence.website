@@ -28,13 +28,19 @@ Vespers are self-aware and extremely intelligent. They are corrupt remnants of t
 Vesper cells can expel infrared light for movement, using the momentum of the photons to reach extreme speeds. The process is done on an individual cellular level, with each cell negating air friction, and with the ability to instantaneously switch the direction of the emission, allows them extremely precise control in movement, bordering on teleportation. They can, similarly, use surrounding light sources for a similar effect, although this way their direction of travel is imposed by the light source and its intensity, while being considerably much easier to master and less mentally exhausting.
 
 Vespers can similarly use strong electric currents as a means of transport, able to use cables or electric arcs to transpose their entire bodies. This also extends to electronic devices, which they can inhabit indefinitely as long as it has a current actively running through it, and can even alter the currents in such a way they can control the device from inside.
+# .vectors
+<div class="bestiary-divider"></div>
 
-Vectors are the most powerful asset Vespers have. They can be interpreted as a set of instructions which alter how their individual cells function and their capabilities. Vector use requires a form of processed Anima stored in the Vesper's cells, which siphons surrounding Anima to slowly replenish. They fall into two large categories:
+Vectors are power system unique to Vespers. One can understand them as programs and sets of instructions which alter the behaviour and capabilities of their cells.
 
-|                |                                                                                                                                                                                                                                                                                                          |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Root Vectors   | Vector ingrained into a Vesper's cells, each Root Vector is virtually unique and intrinsically tied to the individual Vesper. Root Vectors are highly specialised and of higher strength. Require more Anima but mastery can reduce their cost and increase their power.                                 |
-| Branch Vectors | Vectors acquired later in life by Vespers. Branch Vectors are generally less powerful, but have a larger use case scenario, being much more flexible and adaptable. They usually have a set Anima requirement. They are modular, and can be learned, transferred, removed, and even patched and updated. |
+Vectors require Anima to function. Vespers siphon Anima from their surroundings, processing and storing it in their cells. The maximum capacity of a Vesper varies per individual, which directly affects the way Vectors are deployed. Concentration can allow Vespers to increase the siphoning speed, which is also influenced by the Anima density, meaning the Anima density will passively affect how fast Vespers can restock. Vespers can use more Anima at a time to increase the Vector's strength and efficiency.
+
+Vectors fall into two categories:
+
+|                |                                                                                                                                                                                                                                                                                  |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Root Vectors   | The one Vector ingrained into a Vesper's cells. Each Root Vector is virtually unique and intrinsically tied to the individual Vesper. Root Vectors are highly specialised and of higher strength. Require more Anima but mastery can reduce their cost and increase their power. |
+| Branch Vectors | Vectors acquired later in life by Vespers. Branch Vectors are less powerful, but have larger use case scenarios. They are modular, and can be learned, transferred, removed, and even patched and updated.                                                                       |
 
 # .reproduction
 <div class="bestiary-divider"></div>

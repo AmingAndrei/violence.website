@@ -28,11 +28,11 @@ Mosaics feed on all types of radiation and Anima. If deprived for long enough pe
     </div>
   </a>
 
-  <a href="/bestiary/mosaics/vessels" class="mosaic-card mosaic-card--magenta">
+<a href="/bestiary/mosaics" class="mosaic-card mosaic-card--yellow">
     <div class="mosaic-card__inner">
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>
-      <div class="mosaic-card__name">VESSELS</div>
+      <div class="mosaic-card__name">SOMAS</div>
     </div>
   </a>
 
@@ -44,27 +44,11 @@ Mosaics feed on all types of radiation and Anima. If deprived for long enough pe
     </div>
   </a>
 
-  <a href="/bestiary/mosaics" class="mosaic-card mosaic-card--yellow">
+<a href="/bestiary/mosaics/vessels" class="mosaic-card mosaic-card--magenta">
     <div class="mosaic-card__inner">
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>
-      <div class="mosaic-card__name">VEXERS</div>
-    </div>
-  </a>
-  
-  <a href="/bestiary/mosaics" class="mosaic-card mosaic-card--yellow">
-    <div class="mosaic-card__inner">
-      <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-      <div class="mosaic-card__bar"></div>
-      <div class="mosaic-card__name">SOMAS</div>
-    </div>
-  </a>
-  
-<a href="/bestiary/mosaics" class="mosaic-card mosaic-card--yellow-to-magenta">
-    <div class="mosaic-card__inner">
-      <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-      <div class="mosaic-card__bar"></div>
-      <div class="mosaic-card__name">SPECTRES</div>
+      <div class="mosaic-card__name">VESSELS</div>
     </div>
   </a>
 
