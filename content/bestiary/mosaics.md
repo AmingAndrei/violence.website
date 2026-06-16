@@ -20,27 +20,11 @@ Mosaics feed on all types of radiation and Anima. If deprived for long enough pe
 
 <div class="bestiary-grid--mosaics">
 
-  <a href="/bestiary/mosaics/mimics" class="mosaic-card mosaic-card--cyan">
+  <a href="/bestiary/mosaics/vespers" class="mosaic-card mosaic-card--magenta">
     <div class="mosaic-card__inner">
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>
-      <div class="mosaic-card__name">MIMICS</div>
-    </div>
-  </a>
-  
- <a href="/bestiary/mosaics/mannequins" class="mosaic-card mosaic-card--cyan">
-    <div class="mosaic-card__inner">
-      <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-      <div class="mosaic-card__bar"></div>
-      <div class="mosaic-card__name">MANNEQUINS</div>
-    </div>
-  </a>
-
- <a href="/bestiary/mosaics/marionettes" class="mosaic-card mosaic-card--cyan">
-    <div class="mosaic-card__inner">
-      <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-      <div class="mosaic-card__bar"></div>
-      <div class="mosaic-card__name">MARIONETTES</div>
+      <div class="mosaic-card__name">VESPERS</div>
     </div>
   </a>
 
@@ -49,14 +33,6 @@ Mosaics feed on all types of radiation and Anima. If deprived for long enough pe
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>
       <div class="mosaic-card__name">VESSELS</div>
-    </div>
-  </a>
-
-  <a href="/bestiary/mosaics/vespers" class="mosaic-card mosaic-card--magenta">
-    <div class="mosaic-card__inner">
-      <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-      <div class="mosaic-card__bar"></div>
-      <div class="mosaic-card__name">VESPERS</div>
     </div>
   </a>
 
