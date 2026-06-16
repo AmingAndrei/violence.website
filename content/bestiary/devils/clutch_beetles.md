@@ -29,7 +29,7 @@ The process begins with the Clutch Beetle attaching itself to the nape of the or
 
 The abilities of individual Clutch Beetles vary. Virtually no two Clutch Beetles have the exact same ability. Hybrids have increased reflexes and senses, some of them even restored if previously missing, with the exception of sight, which remains the same. However, when a hybrid experiences extreme trauma or is on the brink of death, the Clutch Beetle will trigger an active state to save itself and its host.
 
-During this state, the most notable change is that the hybrid t will constantly regenerate, capable of recovering all of its body parts and survive even the most lethal of injuries. The second is that its appearance will change, transforming and generating mass to reflect the abilities of the Clutch Beetle itself, along with an input from the host's own genetic and psychological profile, meaning that even if two hybrids are host to the same Clutch Beetle, their abilities will have the same basis but with different execution. The blood of the hybrid will also turn green.
+During this state, the most notable change is that the hybrid t will constantly regenerate, capable of recovering all of its body parts and survive even the most lethal of injuries. The second is that its appearance will change, transforming and generating mass to reflect the abilities of the Clutch Beetle itself, along with an input from the host's own genetic and psychological profile, meaning that even if two hybrids are host to the same Clutch Beetle, their abilities will have the same basis but with different execution. The blood of the hybrid will also turn neon pink.
 
 Generally, the active state of hybrids will fall into three categories:
 
