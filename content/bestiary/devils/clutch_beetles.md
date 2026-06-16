@@ -23,7 +23,7 @@ Clutch Beetles are extremely Anima-sensitive, and can vary drastically between a
 
 Clutch Beetles are parasitic organisms. While they can survive as independent organisms independently, they will attempt to parasitise a possible host when given the chance, with all non-Devil vertebrates being viable candidates. They will, however, preferer organisms that are injured or dying. Their general behaviour, such as aggressiveness and sociality, also vary drastically between individuals.
 
-The process begins with the Clutch Beetle attaching itself to the name of the organism. It will then painlessly make its way inside, attaching itself to the host's brainstem, before merging to the host's peripheral nervous system, replacing the nerves throughout its body with the Clutch Beetle's. Clutch Beetles are forever fused to their hosts, called 'hybrids'. The process takes less than a second and releases large quantities of heat and light.
+The process begins with the Clutch Beetle attaching itself to the nape of the organism. It will then painlessly make its way inside, attaching itself to the host's brainstem, before merging to the host's peripheral nervous system, replacing the nerves throughout its body with the Clutch Beetle's. Clutch Beetles are forever fused to their hosts, called 'hybrids'. The process takes less than a second and releases large quantities of heat and light.
 # .abilities
 <div class="bestiary-divider"></div>
 
