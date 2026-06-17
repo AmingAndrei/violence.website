@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--mosaic mosaic--magenta"> <img src="/assets/placeholder.gif" alt="VESPER" /> </div>
 
-Vespers (_Mosaica vespera_) are the most diverse species of Mosaic, serving as mascot for the entire class.
+Vespers (_Mosaica vespera_) are the most diverse species of Mosaic, serving as mascot and holotype for the entire class.
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -21,7 +21,7 @@ Vespers have no set anatomy. Each individual can very drastically in appearance,
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vespers are self-aware and extremely intelligent. They are corrupt remnants of the King in Cyan, corrupted by Devil influence, mutating into copies of Devils and, eventually, Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits found in Devils. They are otherwise mostly calm, reasonable and cooperative.
+Vespers are self-aware and extremely intelligent. The existence of their species is incidental, born from the traces of light left by the King in Cyan, influenced by Anima and corrupted by Devil influence. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits found in Devils. They are otherwise mostly calm, reasonable and cooperative.
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -45,4 +45,4 @@ Vectors fall into two categories:
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Vespers reproduce through light. As they consume and emanate light, they leave behind certain imperceptible frequencies and wavelengths of light that, in the presence of a high enough density of Anima, will crystallise into a womb-like larva, around 3 cm in size. This larva will then absorb the surrounding Anima and radiation, eventually reaching a point of saturation which will create a mature Vesper.
+Vespers reproduce through light. They leave behind certain imperceptible frequencies and wavelengths of light that, in the presence of a high enough density of Anima, will crystallise into a womb-like larva. This larva will then absorb the surrounding Anima and radiation, eventually reaching a point of saturation which will create a mature Vesper.
