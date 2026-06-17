@@ -21,7 +21,7 @@ Vespers have no set anatomy. Each individual can very drastically in appearance,
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vespers are self-aware and extremely intelligent. The existence of their species is incidental, born from the traces of light left by the King in Cyan, influenced by Anima and contaminated by Devil influence. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits found in Devils. They are otherwise mostly calm, reasonable and cooperative.
+Vespers are self-aware and extremely intelligent. The existence of their species is incidental, born from the traces of light left by the King in Cyan, influenced and contaminated by Anima, leading to the formation of pseudo-Devils later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits found in Devils. They are otherwise mostly calm, reasonable and cooperative.
 # .abilities
 <div class="bestiary-divider"></div>
 
