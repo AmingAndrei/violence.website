@@ -35,9 +35,9 @@ There are still flaws with the Shells. Damage to the Shell will resonate and dam
 # .vexers
 <div class="bestiary-divider"></div>
 
-Vexers are an anomaly caused by the Serpent's negligence. They are Somas which retain the Vesper ability of using Vectors, which they can use just as efficiently as Vespers. With enough training, Vexers can gain access to other Vesper abilities, albeit much harder for them to perform.
+Vexers are an anomaly where Somas which retain the Vesper ability of using Vectors, directly caused by the Serpent's negligence when overriding the Vesper code. With enough training, Vexers can gain access to other Vesper abilities, albeit much harder for them to perform.
 
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Somas are created when a Vesper womb is corrupted by the Vesper. Instead of following its intended development and accumulating enough Anima to create a Vesper, the womb is instead forced into a state of permanent neoteny, eventually birthing a Soma Heart. No Soma knows how they're born.
+Somas are created when a Vesper womb is corrupted by the Vesper. Instead of following its intended development, the Serpent injects itself as the base code, forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart. No Soma knows how they're born.
