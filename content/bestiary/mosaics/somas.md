@@ -35,7 +35,7 @@ There are still flaws with the Shells. Damage to the Shell will resonate and dam
 # .vexers
 <div class="bestiary-divider"></div>
 
-Vexers are an anomaly where Somas which retain the Vesper ability of using Vectors, directly caused by the Serpent's negligence when overriding the Vesper code. With enough training, Vexers can gain access to other Vesper abilities, albeit much harder for them to perform.
+Vexers are an extremely rare anomaly where Somas which retain the Vesper ability of using Vectors, directly caused by the Serpent's negligence when overriding the Vesper code. With enough training, Vexers can gain access to other Vesper abilities, albeit much harder for them to perform.
 
 # .reproduction
 <div class="bestiary-divider"></div>
