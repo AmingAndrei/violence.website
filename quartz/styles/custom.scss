@@ -664,6 +664,10 @@ article td {
     background: linear-gradient(#000, #000) padding-box,
                 conic-gradient(from 0deg,#ff85d0,#e6007a,#ff3d9a,#ff6ec7,#ffaa44,#ffcc00,#ffd700,#ffe566,#ff85d0) border-box;
   }
+  &.mosaic--key {
+    background: linear-gradient(#000, #000) padding-box,
+                conic-gradient(from 0deg,#222222) border-box;
+  }
 
   img {
     display: block;

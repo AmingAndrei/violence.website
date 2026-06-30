@@ -11,7 +11,7 @@ aliases:
  <br><a href="/bestiary/mosaics" class="nav-button">← MOSAICS</a>
 <br><br>
 
-<div class="bestiary-image--mosaic mosaic--magenta"> <img src="/assets/placeholder.gif" alt="VESSEL" /> </div>
+<div class="bestiary-image--mosaic mosaic--key"> <img src="/assets/placeholder.gif" alt="VESSEL" /> </div>
 
 Vessels (_Mosaica vespera vas_) are artificial containment Mosaics.
 # .anatomy
