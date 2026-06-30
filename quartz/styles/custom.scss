@@ -573,6 +573,9 @@ article td {
   &--yellow-to-magenta {
   background: conic-gradient(from 0deg,#ff85d0,#e6007a,#ff3d9a,#ff6ec7,#ffaa44,#ffcc00,#ffd700,#ffe566,#ff85d0);
   }
+  &--key {
+  background: conic-gradient(from 0deg,#000000,#0d0d0d,#1a1a1a,#262626,#141414,#1f1f1f,#080808,#2b2b2b,#000000);
+  }
 
   @media (max-width: 768px) {
     padding: 8px !important;
@@ -610,6 +613,9 @@ article td {
   }
   .mosaic-card--yellow-to-magenta & {
   background: conic-gradient(from 0deg,#ff85d0,#e6007a,#ff3d9a,#ff6ec7,#ffaa44,#ffcc00,#ffd700,#ffe566,#ff85d0);
+  }
+  .mosaic-card--key & {
+  background: conic-gradient(from 0deg,#000000,#0d0d0d,#1a1a1a,#262626,#141414,#1f1f1f,#080808,#2b2b2b,#000000);
   }
 
   @media (max-width: 768px) { height: 4px; }
