@@ -157,6 +157,22 @@ article td {
   text-align: right;
 }
 
+#workskin details.translate {
+  display: inline;
+
+  summary {
+    display: inline;
+    list-style: none;
+    cursor: pointer;
+    text-decoration: underline dotted;
+
+    &::-webkit-details-marker,
+    &::marker {
+      display: none;
+    }
+  }
+}
+
 // ─── Nav Buttons ──────────────────────────────────────────────────────────────
 .nav-button {
   display: inline-block;
