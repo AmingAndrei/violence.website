@@ -537,9 +537,9 @@ article td {
 // ─── Mosaic Cards ────────────────────────────────────────────────────────────
 .bestiary-grid--mosaics {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 80px;
-  width: 65%;
+  width: 87%;
   margin: 2rem auto;
 
   @media (max-width: 768px) {
