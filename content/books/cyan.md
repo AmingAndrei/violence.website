@@ -30,5 +30,4 @@ _Years before the end of the world, one woman finds a friend on the other side, 
   <a href="/books/cyan" onmouseover="this.querySelector('.ch-text').style.color='rgb(0,255,255)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">7 //</span>...</div></a><br>
   <a href="/books/cyan" onmouseover="this.querySelector('.ch-text').style.color='rgb(0,255,255)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">8 //</span>...</div></a><br>
   <a href="/books/cyan" onmouseover="this.querySelector('.ch-text').style.color='rgb(0,255,255)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">9 //</span>...</div></a><br>
-  <a href="/books/cyan" onmouseover="this.querySelector('.ch-text').style.color='rgb(0,255,255)'" onmouseout="this.querySelector('.ch-text').style.color='#fff'"><div class="ch-text"><span class="ch-num">10 //</span>...</div></a><br>
 </div>

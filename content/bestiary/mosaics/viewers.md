@@ -29,4 +29,4 @@ Viewers cannot communicate, are completely intangible and cannot interact in any
 # .production
 <div class="bestiary-divider"></div>
 
-Viewers are created from humans killed directly by the King in Cyan. They retain their minds and memories. This ability is involuntary, and all victims become Viewers.
+Viewers are created when a human is killed directly by the King in Cyan. They retain their minds and memories.
