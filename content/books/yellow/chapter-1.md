@@ -131,7 +131,7 @@ tags:
 <p>This was the opening he needed. Jacques ran out, whistling to regain the Zmey’s attention. But there was one miscalculation in his plan: a pipe burst beneath his feet, sending him rolling forward. And before he could regain composure, the Zmey caught up. It grabbed him in its maw, flinging him into a nearby café.              
 </p>
 
-<p>His landing was fortunately cushioned by the hard wooden counter, the steel shelves, and the various cutlery and glassware, bless Lady Chroma. Inside, people cowered behind overturned furniture, carefully approaching the man. Through the ringing in ears, Jacques could hear them talking, but was incapable of making out a single word. Although it wouldn’t matter if he could clearly understand them anyway, as they were not speaking a language different from his own.
+<p>His landing was fortunately cushioned by the hard wooden counter, the steel shelves, and the various cutlery and glassware, thank Lady Chroma. Inside, people cowered behind overturned furniture, carefully approaching the man. Through the ringing in ears, Jacques could hear them talking, but was incapable of making out a single word. Although it wouldn’t matter if he could clearly understand them anyway, as they were not speaking a language different from his own.
 </p>
 
 <p>And through his blurry vision, he saw a wall of yellow flame just outside the broken window, and heard Zmey screeching at the top of its lungs. Seconds later, it was gone, sent flying deeper into the city. He forced himself up, running outside, barely holding himself together.                
