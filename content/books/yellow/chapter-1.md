@@ -128,123 +128,13 @@ tags:
 <p>The axe obliged, using the blood to rev its engine as hard as it could. With one final push, Jacques thrust the blade into the ground, all the energy getting channelled all at once into the underground pipes. One after the other, they ruptured like clogged vessels, sending jets of water upward, disorienting the Zmey and subduing its flames. The air sizzled, the droplets of water that landed on its metallic scales fizzling to steam as soon as they landed.                   
 </p>
 
-<p>This was the opening he needed. Jacques ran out, whistling to regain the Zmey’s attention. But there was one miscalculation in his plan: a pipe burst beneath his feet, sending him rolling forward. And before he could regain composure, the Zmey caught up. It grabbed him in its maw, flinging him into a café. His landing was fortunately cushioned by the hard wooden counter, the steel shelves, and the various cutlery and glassware. Inside, people cowered behind overturned furniture, carefully approaching the man.                
+<p>This was the opening he needed. Jacques ran out, whistling to regain the Zmey’s attention. But there was one miscalculation in his plan: a pipe burst beneath his feet, sending him rolling forward. And before he could regain composure, the Zmey caught up. It grabbed him in its maw, flinging him into a nearby café.              
 </p>
 
-<p>
-</p><details class="translate" open="open"><summary>
-    <details class="translate">
-      <summary>
-        <blockquote class="right">
+<p>His landing was fortunately cushioned by the hard wooden counter, the steel shelves, and the various cutlery and glassware, bless Lady Chroma. Inside, people cowered behind overturned furniture, carefully approaching the man. Through the ringing in ears, Jacques could hear them talking, but was incapable of making out a single word. Although it wouldn’t matter if he could clearly understand them anyway, as they were not speaking a language different from his own.
+</p>
 
-<p>“क्या वह जीवित है?”      
-          </p></blockquote>
-      </summary>
-      <blockquote class="right">
-
-<p>("Is he alive?")  
-        </p></blockquote>
-    </details>
-  </summary></details><blockquote class="right">
-
-<p>“Sir, are you alive?”  
-  </p></blockquote><blockquote class="left">
-
-<p>“…Yeah,” he lied, straight through his teeth. Multiple ribs snapped; his back was filled with glass shards; it hurt just to breathe; he couldn’t properly inhale without having a fit, coughing blood everywhere. “I just need to… get up…”            
-  </p></blockquote><details class="translate" open="open"><summary>
-    <details class="translate">
-      <summary>
-        <blockquote class="right">
-
-<p>“आप उसे जाने नहीं दे सकते! देखो उसका कितना खून बह रहा है!”      
-          </p></blockquote>
-      </summary>
-      <blockquote class="right">
-
-<p>("You can't let him go! Look how much he's bleeding!")      
-        </p></blockquote>
-    </details>
-  </summary></details><details class="translate" open="open"><summary>
-    <details class="translate">
-      <summary>
-        <details class="translate">
-          <summary>
-            <blockquote class="right">
-
-<p>“मुझे पता है!”      
-              </p></blockquote>
-          </summary>
-          <blockquote class="right">
-
-<p>("I know!")      
-            </p></blockquote>
-        </details>
-      </summary>
-    </details>
-  </summary><details class="translate" open="open"><summary>
-      <details class="translate">
-        <summary>
-          <blockquote class="right">
-
-<p>“मुझे भी पता है! कुछ करो!”      
-            </p></blockquote>
-        </summary>
-        <blockquote class="right">
-
-<p>("I know it too! Do something!")      
-          </p></blockquote>
-      </details>
-    </summary></details><details class="translate" open="open"><summary>
-      <details class="translate">
-        <summary>
-          <blockquote class="right">
-
-<p>“क्या? आप मुझसे क्या करवाना चाहते हैं?! क्या मैं आपको डॉक्टर जैसा दिखता हूँ?!”      
-            </p></blockquote>
-        </summary>
-        <blockquote class="right">
-
-<p>("What? What do you want me to do?! Do I look like a doctor to you?!")      
-          </p></blockquote>
-      </details>
-    </summary></details><details class="translate"><summary>
-      <details class="translate">
-        <summary>
-          <blockquote class="right">
-
-<p>“अगर आपने अपने भाई की तरह डॉक्टर बनने के लिए पढ़ाई की-”       
-            </p></blockquote>
-        </summary>
-        <blockquote class="right">
-
-<p>(“If you studied to become a doctor like your brother-”)      
-          </p></blockquote>
-      </details>
-    </summary></details><details class="translate"><summary>
-      <details class="translate">
-        <summary>
-          <blockquote class="right">
-
-<p>“फिर वही बात! आप हमेशा मेरे भाई की तुलना मुझसे करते हैं, है ना?!”        
-            </p></blockquote>
-        </summary>
-        <blockquote class="right">
-
-<p>("Same thing again! You always compare my brother to me, don't you?!")      
-          </p></blockquote>
-      </details>
-    </summary></details><blockquote class="left">
-
-<p>“I… I’ll just… leave, so-”            
-    </p></blockquote><blockquote class="right">
-
-<p>“Wait! You’re-”            
-    </p></blockquote><blockquote class="left">
-
-<p>“Oh, I’m dandy.”            
-    </p></blockquote>
-
-<p>He closed his eyes and held his breath, finally forcing himself up. Outside, he expected to see the Zmey leering at him through the broken window. What he saw instead was a wall of yellow flame, and the Zmey screeching at the top of its lungs. Seconds later, it was gone, sent flying deeper into the city. He ran outside, barely holding himself together.                    
+<p>And through his blurry vision, he saw a wall of yellow flame just outside the broken window, and heard Zmey screeching at the top of its lungs. Seconds later, it was gone, sent flying deeper into the city. He forced himself up, running outside, barely holding himself together.                
   </p><blockquote class="left">
 
 <p>“What was that?” he asked on the radio. Maybe despatch knew what happened.            
@@ -283,7 +173,7 @@ tags:
 <p>Now unfreeze. The creature lunged at Jacques, missing him by a hair. His reactions had already started getting delayed; his timer was running out. So, with no hesitation, he bolted directly for the cage, the Zmey breathing down his neck. This… worked out even better than he had expected! He was too far away from the Zmey to be struck by it, but too close for it to even consider spewing any more flames. As long as he kept running at this exact speed, there was nothing that could-                   
   </p>
 
-<p>Ear to the ground, Jacques watched the relocation cage, a mere dozen metres in front of him, with utmost spite. He didn’t even want to look back at what had managed to trip him, to keep some of his dignity intact. And maybe he was imagining things, but he could swear he heard something before his face met the floor: a low scraping sound. The thought of a stone moving by itself, deliberately getting in his way, with its only purpose to make sure he didn’t make it, was the single bit of humour that kept him from sparing the Zmey of the hassle and ending himself right then and there, on principle alone.                   
+<p>Ear to the ground, Jacques watched the relocation cage, a mere dozen metres in front of him, with utmost spite. It was a clear shot, a simple sprint, nothing that could’ve been an obstacle. He didn’t even want to look back at what had managed to trip him. And maybe he was imagining things, but he could swear he heard something before his face met the floor: a low scraping sound. As if the ground itself moved just to stand in his way.         
   </p>
 
 <p>And now, ear to the wall, Jacques was left to reassess his situation. He pushed himself from between the cracks left in the brick and mortar wall, thrown right into it not long after the Zmey caught up. Only one of his arms managed to survive the beast’s jaw, a fact he discovered only when trying to grab his heavily bleeding head. The impact surely didn’t fix his aggravating respiratory problems, with each breath his lungs caving in more and more, the inside of his chest flooding with blood. The few steps he took were the last before the adrenaline rush faded completely, leaving him to lie on the floor as he slowly died in pain…                   
@@ -292,7 +182,7 @@ tags:
 <p>But he was on the clock; he didn’t have time for that. His top priority right now were the glass bullets stored in his belt pouch. Emptying the bag onto the ground, only one iridescent red bullet survived; the rest scattered into small shards, the liquid inside them seeping through the cracks.                   
   </p>
 
-<p>Before he picked it with trembling fingers, he took one last glance at the Zmey. And thank Lady Chroma he did. The entire plaza was covered in yellow flames. The silhouette of the animal was still visible through the curtain of smoke, struggling, snapping at its surroundings. No, he couldn’t, or rather wouldn’t, deal with it on his own. He dragged the axe up, lining it up with his body. And then, he painfully exhaled…                   
+<p>Before he picked it with trembling fingers, a glimmer caught his eye. The entire plaza was covered in yellow flames. The silhouette of the animal was still visible through the curtain of smoke, struggling, snapping at its surroundings. No, he couldn’t, or more accurately wouldn’t, deal with it on his own. He dragged the axe up, lining it up with his body. And then, he painfully exhaled…                 
   </p><blockquote class="left">
 
 <p>“Your turn.”            
@@ -301,12 +191,7 @@ tags:
 <p>…before thrusting its blade directly into his chest, using his own weight to drive it as deep as it would go. The blood pooling up in his torso rushed into the weapon’s frame. And it enjoyed that.                   
   </p>
 
-<p>The engine roared to life, throttling uncontrollably. The parts making up its chassis snapped and slid and melted into place, rearranging themselves into something else entirely, dragging themselves through Jacques and out the other side. And on the other side, from the mass of crooked and misshapen metal, a single mechanical arm burst through, clawing its way out.                   
-  </p>
-
-<p>
-  </p></details>
-
+<p>The engine roared to life, throttling uncontrollably. The parts making up its chassis snapped and slid and melted into place, rearranging themselves into something else entirely, dragging themselves through Jacques and out the other side. And on the other side, from the mass of crooked and misshapen metal, a single mechanical arm burst through, clawing its way out. </p>
 </div></div><br><br><div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
 <a></a>
