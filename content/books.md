@@ -21,6 +21,10 @@ tags:
 </a>
 
 <a href="/books" class="book-cover"
+   style="background-image:url('/assets/book_covers/key.png');background-position:center;background-size:cover;background-repeat:no-repeat;border-color:rgba(255,255,255,1);">
+</a>
+
+<a href="/books" class="book-cover"
    style="background:rgba(95,96,95,0.2);border-color:rgba(35,35,35);">✖</a>
 
 </div>
