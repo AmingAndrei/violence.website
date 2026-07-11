@@ -23,19 +23,18 @@ tags:
 <p><strong>10.03.10 AV / 09:14 / CITY’S EDGE</strong>
 </p>
 
-<p>The wind howled throughout the great, empty expanse. Covered in pitch-blackness, only the strike of lightning illuminated the frozen fields outside the city, ruins blanketed by metres of snow and ash. But just meters beyond the city’s border, people were skittering like ants. Today was a day of celebration; pennants and banners hung from every wall, outfits needed to be tailored. They couldn’t afford a single mistake; everything was supposed to be ready for the parade.                   
-</p>
+<p>The wind howled throughout the great, empty expanse. Covered in pitch-blackness, only the strike of lightning illuminated the frozen fields outside the city, ruins blanketed by metres of snow and ash. But just beyond the city’s border, people were like ants in a swarm. Today was a day of celebration. They couldn’t afford a single mistake; everything was supposed to be ready for the parade.</p>
 
-<p>Far above the city’s skyline sat the Spine, the heart of the city, a citadel of wrought metal grafted with careless abandon, piercing deep into the clouds, as if to hold the firmament itself from collapsing. And within, the Pale took their seat of power, a force to govern the city and the remnants of humanity with an iron gaze.                   
-</p>
+<p>The metropolis constituting the new home for such a displaced population resembled none of the architectural influences they might’ve become accustomed to. The walls, the floors, the furniture, they were all made from the same white, featureless material. There was no single person or group responsible for its existence. For all anyone knew, the building they lived in, the furnishings they used daily, all just blinked into existence.</p>
 
-<p>What followed was a brief moment of panic as the emergency sirens blared. Something was approaching, closing the gap between it and the city’s border faster than one could react. The sirens had barely rung before it stepped within. It was a draconic beast, its jaws wide enough to cleanly bite a man in half, metallic scales shimmering in the streetlight. It snaked its way through the street, its six legs scurrying with enough force to make the ground shake.                   
-</p>
+<p>And stretching far into the dark skyline sat the Spine, anchored in the heart of the city. A citadel of wrought metal grafted together with careless abandon, piercing deep into the clouds, as if to hold the firmament itself from collapsing. The Pale, the new powers that be, took their seat of power inside, a force to govern the city and the remnants of humanity with an iron gaze.</p>
+
+<p>What followed was a brief moment of panic as the emergency sirens blared. Something was approaching, closing the gap between it and the city’s border faster than one could react. The sirens had barely rung before it stepped within. It was a draconic beast, its jaws wide enough to cleanly bite a man in half, metallic scales shimmering in the streetlight. It snaked its way through the street, its six legs scurrying with enough force to make the ground shake.</p>
 
 <p>But the Pale was nothing if not efficient. High above, circled a lone helicopter, a man dangling from within. Jacques Ren, Operator in the Swordsman’s Division of Ultraviolet, the Pale’s fangs.                   
 </p><blockquote class="left">
 
-<p>“Okay, I see the Zmey. Tell me again how it got here?”             
+<p>“Got visual on the Zmey. Tell me again how it got here?”             
   </p></blockquote><blockquote class="right">
 
 <p>“Remember Matteo?” responded a woman through the radio, tired and gravelly.             
@@ -65,8 +64,7 @@ tags:
 <p>“You ready?”            
   </p></blockquote>
 
-<p>He wasn’t addressing the radio anymore. Instead, his attention had been diverted to the large slab of metal strapped to his back, something somewhat bearing the resemblance of an axe, welded from the remnants of a diesel engine. His partner responded, the metal parts making up its frame clanking together. Except…                   
-</p><blockquote class="left">
+<p>He wasn’t addressing the radio anymore. Instead, his attention had been diverted to the large slab of metal hanging on his back, something somewhat bearing the resemblance of an axe, welded from the remnants of a diesel engine. The harness was magnetic, letting the weapon float mere centimetres above it, a weight that would’ve otherwise crippled him long ago. His partner responded, the metal parts making up its frame clanking together. Except…</p><blockquote class="left">
 
 <p>“…What was that?”            
   </p></blockquote>
@@ -113,8 +111,7 @@ tags:
 <p>Jacques jumped, using the axe to scrape across the building’s surface, softening his landing enough not to immediately break his legs. The thump echoed across the street, immediately drawing the Zmey’s attention. Its head whipped backward, roaring at the top of its lungs, spreading its wings to make itself more imposing. Jacques approached, slowly, deliberately, eyeing the creature uninterrupted.                   
 </p>
 
-<p>And they started running. Jacques fell to his knees, sliding just underneath the Zmey’s open jaws, closing with such force he felt it reverberating in his bones. It stomped, trying desperately to crush the creature beneath it, to no avail. Jacques rose to his feet, whistling. The Zmey inhaled deeply, resorting to the one attack it didn’t need precision for. Jacques had seconds to react.                   
-</p>
+<p>And they started running. Jacques fell to his knees, sliding just underneath the Zmey’s open jaws, closing with such force he felt it reverberating in his bones. It stomped, trying desperately to crush the creature beneath it, to no avail. Jacques rose to his feet, whistling. The Zmey inhaled deeply, resorting to the one attack it didn’t need precision for, the back of its throat glowing. Jacques had seconds to react.</p>
 
 <p>Flames consumed the area, a torrent of yellow fire, belched with such force as to blow away things long before it actually turned them to ash. Jacques looked over his shoulder, seeing the car he called defence melt before his eyes, letting the burning sludge seep through its liquefying chassis. He looked around methodically, trying to find a way out, his eyes landing on the maintenance hole beneath his feet.                   
 </p>
@@ -134,8 +131,7 @@ tags:
 <p>His landing was fortunately cushioned by the hard wooden counter, the steel shelves, and the various cutlery and glassware, thank Lady Chroma. Inside, people cowered behind overturned furniture, carefully approaching the man. Through the ringing in ears, Jacques could hear them talking, but was incapable of making out a single word. Although it wouldn’t matter if he could clearly understand them anyway, as they were speaking a language different from his own.
 </p>
 
-<p>And through his blurry vision, he saw a wall of yellow flame just outside the broken window, and heard Zmey screeching at the top of its lungs. Seconds later, it was gone, sent flying deeper into the city. He forced himself up, running outside, barely holding himself together.                
-  </p><blockquote class="left">
+<p>And through his blurry vision, he saw a wall of yellow flame just outside the broken window, and heard Zmey screeching at the top of its lungs. Seconds later, it was gone, sent flying deeper into the city. He forced himself up, running outside, barely holding himself together. Looking behind, he saw nothing out of the ordinary. The city had already patched itself together, all the damage the two of them caused now absent. But he knew was no way that was what caused such a reaction.</p><blockquote class="left">
 
 <p>“What was that?” he asked on the radio. Maybe despatch knew what happened.            
     </p></blockquote><blockquote class="right">
