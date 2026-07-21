@@ -24,14 +24,9 @@ tags:
 
 <p>The wind howled throughout the great, empty expanse. Covered in pitch-blackness, only the strike of lightning illuminated the frozen fields outside the city, ruins blanketed by metres of snow and ash. But just beyond the city’s border, people were like ants in a swarm. Today was a day of celebration. They couldn’t afford a single mistake; everything was supposed to be ready for the parade.</p>
 
-<p>The metropolis constituting the new home for such a displaced population resembled none of the architectural influences they might’ve become accustomed to. The walls, the floors, the furniture, they were all made from the same white, featureless material. There was no single person or group responsible for its existence. For all anyone knew, the building they lived in, the furnishings they used daily, all just blinked into existence.</p>
-
-<p>And stretching far into the dark skyline sat the Spine, anchored in the heart of the city. A citadel of wrought metal grafted together with careless abandon, piercing deep into the clouds, as if to hold the firmament itself from collapsing. The Pale, the new powers that be, took their seat of power inside, a force to govern the city and the remnants of humanity with an iron gaze.</p>
-
 <p>What followed was a brief moment of panic as the emergency sirens blared. Something was approaching, closing the gap between it and the city’s border faster than one could react. The sirens had barely rung before it stepped within. It was a draconic beast, its jaws wide enough to cleanly bite a man in half, metallic scales shimmering in the streetlight. It snaked its way through the street, its six legs scurrying with enough force to make the ground shake.</p>
 
-<p>But the Pale was nothing if not efficient. High above, circled a lone helicopter, a man dangling from within. Jacques Ren, Operator in the Swordsman’s Division of Ultraviolet, the Pale’s fangs.                   
-</p><blockquote class="left">
+<p>But the Pale was nothing if not efficient. High above, circled a lone helicopter, a man dangling from within. Jacques Ren, Operator in the Swordsman’s Division of Ultraviolet.</p><blockquote class="left">
 
 <p>“Got visual on the Zmey. Tell me again how it got here?”             
   </p></blockquote><blockquote class="right">
@@ -120,7 +115,7 @@ tags:
 <p>“Burst them open.”            
   </p></blockquote>
 
-<p>The axe obliged, using the blood to rev its engine as hard as it could. With one final push, Jacques thrust the blade into the ground, all the energy getting channelled all at once into the underground pipes. One after the other, they ruptured like clogged vessels, sending jets of water upward, disorienting the Zmey and subduing its flames. The air sizzled, the droplets of water that landed on its metallic scales fizzling to steam as soon as they landed.                   
+<p>The axe obliged, using the blood to rev its engine as hard as it could. With one final push, Jacques thrust the blade into the ground, all the energy being [channelled]() all at once into the underground pipes. One after the other, they ruptured like clogged vessels, sending jets of water upward, disorienting the Zmey and subduing its flames. The air sizzled, the droplets of water that landed on its metallic scales fizzling to steam as soon as they landed.                   
 </p>
 
 <p>This was the opening he needed. Jacques ran out, whistling to regain the Zmey’s attention. But there was one miscalculation in his plan: a pipe burst beneath his feet, sending him rolling forward. And before he could regain composure, the Zmey caught up. It grabbed him in its maw, flinging him into a nearby café.              
@@ -129,7 +124,9 @@ tags:
 <p>His landing was fortunately cushioned by the hard wooden counter, the steel shelves, and the various cutlery and glassware. Inside, people cowered behind overturned furniture, carefully approaching the man. Through the ringing in ears, Jacques could hear them talking, but was incapable of making out a single word. Although it wouldn’t matter if he could clearly understand them anyway, as they were speaking a language different from his own.
 </p>
 
-<p>And through his blurry vision, he saw a wall of yellow flame just outside the broken window, and heard Zmey screeching at the top of its lungs. Seconds later, it was gone, sent flying deeper into the city. He forced himself up, running outside, barely holding himself together. Looking behind, he saw nothing out of the ordinary. The city had already patched itself together, all the damage the two of them caused now absent. But he knew was no way that was what caused such a reaction.</p><blockquote class="left">
+<p>And through his blurry vision, he saw a wall of yellow flame just outside the broken window, and heard Zmey screeching at the top of its lungs. Seconds later, it was gone, sent flying deeper into the city. He forced himself up, running outside, barely holding himself together.</p>
+
+<p>Looking behind, he saw nothing out of the ordinary. The city that acted as the scene for their encounter was alien in architecture; every surface was made of the same pale, sterile material, sharp edges protruding from the buildings’ façade, the only patches of colour being the decorations set up for the parade. And for all the destruction he had previously caused to the infrastructure, none of it was visible at this point. The city had this charm to it: none of the damage it endured was permanent; everything would snap back into place if you would just wait. But he knew was no way that was what caused such a reaction.</p><blockquote class="left">
 
 <p>“What was that?” he asked on the radio. Maybe despatch knew what happened.            
     </p></blockquote><blockquote class="right">
@@ -140,52 +137,38 @@ tags:
 <p>“The Zmey! It’s flying into the city.”            
     </p></blockquote><blockquote class="right">
 
-<p>“…I thought that was you?”            
-    </p></blockquote><blockquote class="left">
+<p>“…I thought that was you?”</p></blockquote><blockquote class="left">
 
-<p>“Nope.”            
-    </p></blockquote><blockquote class="right">
+<p>“Nope.”</p></blockquote><blockquote class="right">
 
-<p>The woman on the other end fell silent for a few seconds, lost in thought. “…Keep me posted.”            
-    </p></blockquote>
+<p>The woman on the other end fell silent for a few seconds, lost in thought. “…Keep me posted.”</p></blockquote>
 
-<p>The current relocation cage was now bust. No way he could drag the Zmey back here and bait it into it now. Despatch must’ve known this as well; another cage must’ve already been placed ahead. All Jacques needed now was a way to get there. He didn’t have a car, didn’t have the money (despite the digits on his paycheck), but what he did have was a very particular set of skills. One of them was hot-wiring a car.                   
-  </p>
+<p>The current relocation cage was now bust. No way he could drag the Zmey back here and bait it into it now. Despatch must’ve known this as well; another cage must’ve already been placed ahead. All Jacques needed now was a way to get there. He didn’t have a car, didn’t have the money (despite the digits on his paycheck), but what he did have was a very particular set of skills. One of them was hot-wiring a car.</p>
 
-<p>He tailgated the Zmey up to a large plaza, trying to keep his eyes on it even while apologetically coughing up the dashboard full of blood. To his left was the axe, safely strapped in. He had a few seconds to spare to analyse the situation: a second relocation cage had already been placed near the far exit; the entire area was full of festive decorations and stands, too much of a fire hazard, he couldn’t risk the Zmey firing again; people were still running away, at least this problem didn’t require any external input, some might’ve still hidden around the plaza itself. Jacques had to do this fast, fast enough to keep riding the adrenaline. He had a way to revert his injuries, yes, but he preferred to use it as a finishing move.                   
-  </p>
+<p>He tailgated the Zmey up to a large plaza, trying to keep his eyes on it even while apologetically coughing up the dashboard full of blood. To his left was the axe, safely strapped in. He had a few seconds to spare to analyse the situation: a second relocation cage had already been placed near the far exit; the entire area was full of festive decorations and stands, too much of a fire hazard, he couldn’t risk the Zmey firing again; people were still running away, at least this problem didn’t require any external input, some might’ve still hidden around the plaza itself. Jacques had to do this fast, fast enough to keep riding the adrenaline. He had a way to revert his injuries, yes, but he preferred to use it as a finishing move.</p>
 
-<p>So he approached, incrementally, yes, but it was still safer than gunning it in. By the way it moved, it was clear the Zmey had calmed down ever so slightly from whatever spooked it before. When they finally locked eyes again, both froze.                    
-  </p>
+<p>So he approached, incrementally, yes, but it was still safer than gunning it in. By the way it moved, it was clear the Zmey had calmed down ever so slightly from whatever spooked it before. When they finally locked eyes again, both froze.</p>
 
-<p>Jacques stood still, trying to slowly make his way around it. If only he could get between it and the cage, he could beeline it directly into the trap and still have enough juice in him to keep standing up.                   
-  </p>
+<p>Jacques stood still, trying to slowly make his way around it. If only he could get between it and the cage, he could beeline it directly into the trap and still have enough juice in him to keep standing up.</p>
 
-<p>The Zmey, in return, resumed its usually gracious, serpentine movements, analysing the man’s movements. It wasn’t assessing whether or not this was a fight worth fighting for; it had already made up its mind the moment it first caught sight of him; it was simply weighing in the best moment to strike.                   
-  </p>
+<p>The Zmey, in return, resumed its usually gracious, serpentine movements, analysing the man’s movements. It wasn’t assessing whether or not this was a fight worth fighting for; it had already made up its mind the moment it first caught sight of him; it was simply weighing in the best moment to strike.</p>
 
-<p>Now unfreeze. The creature lunged at Jacques, missing him by a hair. His reactions had already started getting delayed; his timer was running out. So, with no hesitation, he bolted directly for the cage, the Zmey breathing down his neck. This… worked out even better than he had expected! He was too far away from the Zmey to be struck by it, but too close for it to even consider spewing any more flames. As long as he kept running at this exact speed, there was nothing that could-                   
-  </p>
+<p>Now unfreeze. The creature lunged at Jacques, missing him by a hair. His reactions had already started getting delayed; his timer was running out. So, with no hesitation, he bolted directly for the cage, the Zmey breathing down his neck. This… worked out even better than he had expected! He was too far away from the Zmey to be struck by it, but too close for it to even consider spewing any more flames. As long as he kept running at this exact speed, there was nothing that could-</p>
 
-<p>Ear to the ground, Jacques watched the relocation cage, a mere dozen metres in front of him, with utmost spite. It was a clear shot, a simple sprint, nothing that could’ve been an obstacle. He didn’t even want to look back at what had managed to trip him. And maybe he was imagining things, but he could swear he heard something before his face met the floor: a low scraping sound. As if the ground itself moved just to stand in his way.         
-  </p>
+<p>Ear to the ground, Jacques watched the relocation cage, a mere dozen metres in front of him, with utmost spite. It was a clear shot, a simple sprint, nothing that could’ve been an obstacle. He didn’t even want to look back at what had managed to trip him. And maybe he was imagining things, but he could swear he heard something before his face met the floor: a low scraping sound. As if the ground itself moved just to stand in his way.</p>
 
-<p>And now, ear to the wall, Jacques was left to reassess his situation. He pushed himself from between the cracks left in the brick and mortar wall, thrown right into it not long after the Zmey caught up. Only one of his arms managed to survive the beast’s jaw, a fact he discovered only when trying to grab his heavily bleeding head. The impact surely didn’t fix his aggravating respiratory problems, with each breath his lungs caving in more and more, the inside of his chest flooding with blood. The few steps he took were the last before the adrenaline rush faded completely, leaving him to lie on the floor as he slowly died in pain…                   
-  </p>
+<p>And now, ear to the wall, Jacques was left to reassess his situation. He pushed himself from between the cracks left in the brick and mortar wall, thrown right into it not long after the Zmey caught up. Only one of his arms managed to survive the beast’s jaw, a fact he discovered only when trying to grab his heavily bleeding head. The impact surely didn’t fix his aggravating respiratory problems, with each breath his lungs caving in more and more, the inside of his chest flooding with blood. The few steps he took were the last before the adrenaline rush faded completely, leaving him to lie on the floor as he slowly died in pain…</p>
 
-<p>But he was on the clock; he didn’t have time for that. His top priority right now were the glass bullets stored in his belt pouch. Emptying the bag onto the ground, only one iridescent red bullet survived; the rest scattered into small shards, the liquid inside them seeping through the cracks.                   
-  </p>
+<p>But he was on the clock; he didn’t have time for that. His top priority right now were the glass bullets stored in his belt pouch. Emptying the bag onto the ground, only one iridescent red bullet survived; the rest scattered into small shards, the liquid inside them seeping through the cracks.</p>
 
 <p>Before he picked it with trembling fingers, he felt his hair rise, his muscles tensing. He was sensing a massive fear spike nearby. The glimmer that caught his eye was the confirmation he needed. The silhouette of the animal was still visible through the curtain of smoke and yellow flame that engulfed the plaza, struggling, snapping at its surroundings. No, he couldn’t, or more accurately wouldn’t, deal with it on his own. He dragged the axe up, lining it up with his body. And then, he painfully exhaled…</p><blockquote class="left">
 
-<p>“Your turn.”            
-    </p></blockquote>
+<p>“Your turn.”</p></blockquote>
 
-<p>…before thrusting its blade directly into his chest, using his own weight to drive it as deep as it would go. The blood pooling up in his torso rushed into the weapon’s frame. And it enjoyed that.                   
-  </p>
+<p>…before thrusting its blade directly into his chest, using his own weight to drive it as deep as it would go. The blood pooling up in his torso rushed into the weapon’s frame. And it enjoyed that.</p>
 
 <p>The engine roared to life, throttling uncontrollably. The parts making up its chassis snapped and slid and melted into place, rearranging themselves into something else entirely, dragging themselves through Jacques and out the other side. And on the other side, from the mass of crooked and misshapen metal, a single mechanical arm burst through, clawing its way out.</p>
-</div></div><br><br><div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
+<br><br><div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
 <a></a>
 
