@@ -647,6 +647,97 @@ article td {
   color: #5c7a88 !important;
 }
 
+// ─── Chimera Cards ───────────────────────────────────────────────────────────
+.bestiary-grid--chimeras {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  width: 62%;
+  margin: 2rem auto;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}
+
+.chimera-card {
+  display: block !important;
+  border-radius: 10px !important;
+  background: linear-gradient(135deg, #ffcc44, #e8761a, #c44a3a, #7a1a08);
+  padding: 15px !important;
+  transition: transform 0.15s ease;
+
+  &:hover { transform: scale(1.05); }
+
+  @media (max-width: 768px) {
+    padding: 8px !important;
+    border-radius: 7px !important;
+  }
+}
+
+.chimera-card__inner {
+  display: flex;
+  flex-direction: column;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.chimera-card__image {
+  aspect-ratio: 1/1;
+  background: #000 center/cover no-repeat;
+}
+
+.chimera-card__bar {
+  height: 6px;
+  flex-shrink: 0;
+  background: linear-gradient(135deg, #ffcc44, #e8761a, #c44a3a, #7a1a08);
+
+  @media (max-width: 768px) { height: 4px; }
+}
+
+.chimera-card__name {
+  padding: 12px 8px;
+  background: #000;
+  text-align: center;
+  color: #ccc;
+  font-size: 1.5rem;
+  letter-spacing: 0.18em;
+
+  @media (max-width: 768px) {
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+    padding: 8px 4px;
+  }
+}
+
+.bestiary-image--chimera {
+  float: left;
+  margin: 0 60px 16px 0;
+  padding: 12px;
+  display: inline-block;
+  line-height: 0;
+  border: 2px solid transparent;
+  background: linear-gradient(#000, #000) padding-box,
+              linear-gradient(135deg, #ffcc44, #e8761a, #c44a3a, #7a1a08) border-box;
+
+  img {
+    display: block;
+    width: 300px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    margin: 0 16px 4px 0;
+    padding: 5px;
+    border-width: 1px;
+
+    img {
+      width: 140px;
+    }
+  }
+}
+
 // ─── Devil Cards ────────────────────────────────────────────────────────────
 .bestiary-grid--devils {
   display: grid;

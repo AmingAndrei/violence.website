@@ -168,7 +168,7 @@ tags:
 <p>…before thrusting its blade directly into his chest, using his own weight to drive it as deep as it would go. The blood pooling up in his torso rushed into the weapon’s frame. And it enjoyed that.</p>
 
 <p>The engine roared to life, throttling uncontrollably. The parts making up its chassis snapped and slid and melted into place, rearranging themselves into something else entirely, dragging themselves through Jacques and out the other side. And on the other side, from the mass of crooked and misshapen metal, a single mechanical arm burst through, clawing its way out.</p>
-<br><br><div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
+</div></div><br><br><div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
 <a></a>
 
