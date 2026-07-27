@@ -14,9 +14,11 @@ aliases:
 
 Chimeras (_Chimaeria_ class) are a class of chimeric beings, displaying traits belonging to all types of animal orders and classes. They universally have a draconic appearance, are endothermic, and are tetradactyl.
 
-The unique characteristic of Chimeras is the presence of real, physical 'soul'. All individuals possess a soul composed entirely of Phlogiston, physically located in and distributed through an internal complex of vessels and nodes around the entire body, similar to a lymphatic system. Unlike other species, which absorb Anima directly into their cellular structure, Chimeras use it as fuel for their soul, with the resulting reaction dispersing through their cells and animating the being. They don't have a genetic code per se, with the soul replacing its function. Theoretically, the soul can be considered an independent entity, although it doesn't display any individuality from the body or any real capacity of surviving without it, burning out shortly after death.
+The unique characteristic of Chimeras is the presence of real, physical 'soul'. All individuals possess a soul composed entirely of Phlogiston, physically located in and distributed through an internal complex of vessels and nodes around the entire body, similar to a lymphatic system. During gestation, the soul forms first, around which the vessels and body form.
 
-Chimeras can expel Phlogiston from their body. This is more efficiently done from locations with higher node densities. Their tissue is also completely unaffected by the Phlogiston expelled by members of the same species, and is otherwise incombustible.
+Unlike other species, which absorb Anima directly into their cellular structure to use as life force, Chimeras first use it as fuel for their soul, with the resulting reaction and heat dispersing through their cells and animating the being. The genetic code of Chimeras is unique in that it's primarily stored in the soul, only being located in their cells due to the soul's influence. Theoretically, the soul can be considered an independent entity, although it doesn't display any individuality from the body or any real capacity of surviving without it, burning out shortly after death.
+
+Chimeras can expel the Phlogiston comprising their soul from their body. This is more efficiently done from locations with higher node densities. Their tissue is completely unaffected by Phlogiston expelled by members of the same species, and is otherwise incombustible.
 
 ---
 
@@ -34,7 +36,7 @@ Chimeras can expel Phlogiston from their body. This is more efficiently done fro
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">NAGA</div>
+    <div class="chimera-card__name">CIPACTIN</div>
   </div>
 </a>
 
