@@ -18,7 +18,7 @@ The unique characteristic of Chimeras is the presence of real, physical 'soul'. 
 
 Unlike other species, which absorb Anima directly into their cellular structure to use as life force, Chimeras first use it as fuel for their soul, with the resulting reaction and heat dispersing through their cells and animating the being. The genetic code, and to some degree the memories of Chimeras are primarily stored in the soul, only partially being found in their cells. Theoretically, the soul can be considered an independent entity, although it doesn't display any individuality from the body or any real capacity of surviving without it, burning out immediately after death.
 
-Chimeras can expel the Phlogiston comprising their soul from their body. This is more efficiently done from locations with higher node densities. Their tissue is completely unaffected by Phlogiston expelled by members of the same species, and is otherwise incombustible.
+Chimeras can expel the Phlogiston comprising their soul from their body. This is more efficiently done from locations with higher node densities. Their tissue is completely unaffected by Phlogiston expelled by members of the same species and other fire sources resulting from Phlogiston.
 
 ---
 

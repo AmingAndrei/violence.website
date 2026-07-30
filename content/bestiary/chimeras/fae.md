@@ -21,7 +21,7 @@ Fae have a humanoid body plan, reaching ~2 m in height. They have bluish-grey sk
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Fae are sapient, and highly social, forming large communities and settlements. Their neural structure is wired in such a way that makes outright lying an extremely taxing task, meaning they prefer lying for omission. This also makes them extremely gullible, as they haven't developed the mental defences for lying.
+Fae are sapient, and highly social, forming large, highly industrialised settlements. Their neural structure is wired in such a way that makes outright lying an extremely taxing task, meaning they prefer lying for omission. This also makes them extremely gullible, as they haven't developed the mental defences for lying. The lingua franca of Fae is Faevael.
 # .abilities
 <div class="bestiary-divider"></div>
 
