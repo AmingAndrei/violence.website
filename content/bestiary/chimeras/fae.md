@@ -12,12 +12,11 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="FAE" /> </div>
 
-Fae (Sg. _Fae_, _Fae sapiens_) are a species of humanoid Chimera.
+Fae (_Fae sapiens_) are a species of humanoid Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 
 Fae have a humanoid body plan, reaching ~2 m in height. They have bluish-grey skin, covered with patches of very fine scales, possess large, circular eyes, digitigrade legs, and sharp, elongated ears. Their body is hairless, with the exception of their scalp, which grows similar to humans. The colour of their Phlogiston is red.
-
 # .behaviour
 <div class="bestiary-divider"></div>
 
