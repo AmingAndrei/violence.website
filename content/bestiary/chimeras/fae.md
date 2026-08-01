@@ -5,14 +5,14 @@ cssclasses:
 tags:
   - chimera
 aliases:
-  - FAE
+  - Fae
 ---
  <br><a href="/bestiary/chimeras" class="nav-button">← CHIMERAS</a>
 <br><br>
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="FAE" /> </div>
 
-Fae (Pl. _Fae_, _Fae sapiens_) are a species of humanoid Chimera.
+Fae (Sg. _Fae_, _Fae sapiens_) are a species of humanoid Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -21,7 +21,9 @@ Fae have a humanoid body plan, reaching ~2 m in height. They have bluish-grey sk
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Fae are sapient, and highly social, forming large, highly industrialised settlements. Their neural structure is wired in such a way that makes outright lying an extremely taxing task, meaning they prefer lying for omission. This also makes them extremely gullible, as they haven't developed the mental defences for lying. The lingua franca of Fae is Faevael.
+Fae are sapient, and highly social, forming large, highly industrialised cities and settlements, along the rims of craters, sinkholes, volcanoes caldera, and general circular depressions in the ground. The lingua franca of Fae is Faevael.
+
+Their neural structure is wired in such a way that makes outright lying an extremely taxing task, meaning they prefer lying for omission. To counteract this, Fae bureaucracy and legislature is incredibly dense and hard to navigate, anticipating every possible edge-case scenario. This also makes them extremely gullible, as they haven't developed the mental defences for lying.
 # .abilities
 <div class="bestiary-divider"></div>
 

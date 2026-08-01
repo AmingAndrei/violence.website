@@ -32,7 +32,7 @@ Chimeras can expel the Phlogiston comprising their soul from their body. This is
   </div>
 </a>
 
-<a href="/bestiary/chimeras" class="chimera-card">
+<a href="/bestiary/chimeras/cipactin" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
