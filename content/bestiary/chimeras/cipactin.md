@@ -31,7 +31,7 @@ On land, Cipactin are surprisingly mobile. Their limbs are thick and muscular, a
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Cipactin reproduce sexually. Females lay 1-2 eggs, collectively guarded by the entire family band. After reaching maturity, males will compete to become the breeding male of other family bands. Bachelors will remain independent and will attempt again during the next mating season. Cipactin usually live ~40 years.
+Cipactin reproduce sexually. Females lay 1-2 eggs, collectively guarded by the entire family band. After reaching maturity, males will compete to become the breeding male of other family bands. Bachelors will remain independent and will attempt again during the next mating season. The average Cipactli life span is ~40 years.
 # .diet
 <div class="bestiary-divider"></div>
 

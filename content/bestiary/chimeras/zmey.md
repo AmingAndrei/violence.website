@@ -30,7 +30,7 @@ Their tails, legs and wings are segmented, linked together through vascularised 
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Zmey reproduce sexually. The scales of female Zmey become golden from the hormone spikes caused by the approaching mating season. Male Zmey court females by embellishing their nests with as many eye-catching objects it can scavenge, even resorting to stealing from other males. The female lays 4 eggs/clutch, which are taken care of by both parents, in shifts. Cipactin usually live ~60 years.
+Zmey reproduce sexually. The scales of female Zmey become golden from the hormone spikes caused by the approaching mating season. Male Zmey court females by embellishing their nests with as many eye-catching objects it can scavenge, even resorting to stealing from other males. The female lays 4 eggs/clutch, which are taken care of by both parents, in shifts. The average Zmey life span is ~60 years.
 # .diet
 <div class="bestiary-divider"></div>
 
