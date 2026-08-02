@@ -27,7 +27,7 @@ Cipactin are highly social, forming large herds composed of multiple family band
 
 The vent-like openings along a Cipactli's body can expel Phlogiston at high pressures, granting it rapid propulsion through water, reaching a maximum speed of 70 km/h. The shape of their head and their tail, which functions as a rudder, also help with water navigation. Other node clusters are located through their frills, through which they can expel Phlogiston in a large area around them. These same frills are also highly vascularised and permit respiration through diffusion, although this form of breathing is less efficient for intensive activity.
 
-On land, Cipactin are surprisingly mobile. Their limbs are thick and muscular, allowing them to support three times their weight, the tail acting as a counter-balance, and casually gallop at ~60 km/h. Their forepaws are also highly dexterous, which aids in climbing and traversing rough terrain.
+On land, Cipactin are surprisingly mobile. Their limbs are thick and muscular, allowing them to support 3× their weight, the tail acting as a counter-balance, and casually gallop at ~60 km/h. Their forepaws are also highly dexterous, which aids in climbing and traversing rough terrain.
 # .reproduction
 <div class="bestiary-divider"></div>
 

@@ -19,7 +19,7 @@ Balauri (Sg. _Balaur_, _Balaur regia_) are a species of draconic Chimera.
 
 Balauri have a reptilian body plan, with males reaching ~60 m in length, while females average ~80 m. They are quadrupeds, along with a pair of wings. Their bodies covered in dark-blue scales, dense fur lining their necks, wings and ears. Their tail is bifurcated into two prehensile tips, used for grasping objects or anchoring themselves.
 
-All Balauri possess 3 individual heads, mostly independent and supported by its own long neck. Their heads are reptilian with bat influences, have eyes with red sclera and no iris, and have a forked tongue. The colour of their Phlogiston is purple.
+All Balauri possess 3 individual heads, mostly independent and supported by its own long neck. Their heads are reptilian with bat influences, have eyes with red sclera and black irises, and have a forked tongue. The colour of their Phlogiston is purple.
 # .behaviour
 <div class="bestiary-divider"></div>
 
