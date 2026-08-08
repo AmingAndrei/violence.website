@@ -26,7 +26,7 @@ tags:
 
 <p>What followed was a brief moment of panic as the emergency sirens blared. Something was approaching, closing the gap between it and the city’s border faster than one could react. The sirens had barely rung before it stepped within. It was a draconic beast, its jaws wide enough to cleanly bite a man in half, metallic scales shimmering in the streetlight. It snaked its way through the street, its six legs scurrying with enough force to make the ground shake.</p>
 
-<p>But the Pale was nothing if not efficient. High above, circled a lone helicopter, a man dangling from within. Jacques Ren, Operator in the Swordsman’s Division of Ultraviolet.</p><blockquote class="left">
+<p>High above, circled a lone helicopter, a man dangling from within. Jacques Ren, Operator in the Swordsman’s Division of Ultraviolet.</p><blockquote class="left">
 
 <p>“Got visual on the Zmey. Tell me again how it got here?”             
   </p></blockquote><blockquote class="right">
@@ -87,14 +87,11 @@ tags:
 <p>“Could you just let me talk for one second-”            
   </p></blockquote>
 
-<p>No. Louder.                   
-</p><blockquote class="left">
+<p>No. Louder.</p><blockquote class="left">
 
-<p>“Please…? Like, I swear I’m going to be careful. I promise, okay?”            
-  </p></blockquote>
+<p>“Please? I swear I’m going to be careful... Okay?”</p></blockquote>
 
-<p>Silence. A single syllable sounded from the earpiece. The axe began revving, sparks flying from inside its frame. Jacques signalled to the pilot to descend.                   
-</p>
+<p>Silence. A single syllable sounded from the earpiece. The axe began revving, sparks flying from inside its frame. Jacques signalled to the pilot to descend.</p>
 
 <p>Jumping on the rooftop of a skyscraper, Jacques examined the area in more detail. The Zmey was slowly acclimatising to its surroundings, its wings held flush against its body. Jacques could feel it was… scared. He could sense it in the air; it was frightened by something, and the constant looking behind confirmed it. Something scared it off in this direction, but what? Just ahead was the relocation cage. It was a simple procedure, really. All Jacques had to do was lure the Zmey inside, after which the problem of releasing it far away from the city would become someone else’s problem. Not that it was a common occurrence, almost nothing got this close to the city without being intercepted.</p>
 
@@ -161,7 +158,7 @@ tags:
 
 <p>But he was on the clock; he didn’t have time for that. His top priority right now were the glass bullets stored in his belt pouch. Emptying the bag onto the ground, only one iridescent red bullet survived; the rest scattered into small shards, the liquid inside them seeping through the cracks.</p>
 
-<p>Before he picked it with trembling fingers, he felt his hair rise, his muscles tensing. He was sensing a massive fear spike nearby. The glimmer that caught his eye was the confirmation he needed. The silhouette of the animal was still visible through the curtain of smoke and yellow flame that engulfed the plaza, struggling, snapping at its surroundings. No, he couldn’t, or more accurately wouldn’t, deal with it on his own. He dragged the axe up, lining it up with his body. And then, he painfully exhaled…</p><blockquote class="left">
+<p>Before he picked it with trembling fingers, he felt his hair rise, his muscles tensing. He was sensing a massive fear spike nearby. The glimmer that caught his eye was the confirmation he needed. The silhouette of the animal was still visible through the curtain of smoke and yellow flame that engulfed the plaza, struggling, snapping at its surroundings. No, he couldn’t, or more accurately, wouldn’t, deal with it on his own. He dragged the axe up, lining it up with his body. And then, he painfully exhaled…</p><blockquote class="left">
 
 <p>“Your turn.”</p></blockquote>
 

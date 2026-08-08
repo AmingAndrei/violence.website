@@ -48,20 +48,14 @@ Chimeras can expel the Phlogiston comprising their soul from their body. This is
   </div>
 </a>
 
-<a href="/bestiary/chimeras" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">GARGOUILLES</div>
-  </div>
+<a href="/bestiary/devils" class="bestiary-card--placeholder">
+	<div class="bestiary-card--placeholder__image"></div>
+	<div class="bestiary-card--placeholder__label">✖</div>
 </a>
 
-<a href="/bestiary/chimeras" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">MARDYKHORHA</div>
-  </div>
+<a href="/bestiary/devils" class="bestiary-card--placeholder">
+	<div class="bestiary-card--placeholder__image"></div>
+	<div class="bestiary-card--placeholder__label">✖</div>
 </a>
 
 <a href="/bestiary/chimeras/balauri" class="chimera-card">
