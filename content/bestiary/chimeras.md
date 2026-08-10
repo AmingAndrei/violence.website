@@ -9,9 +9,7 @@ aliases:
   - Chimeras
   - Chimera
 ---
- <br><a href="/bestiary" class="nav-button">← BESTIARY</a>
-<br><br>
-
+<br><a href="/bestiary" class="nav-button">← BESTIARY</a><br><br>
 Chimeras (_Chimaeria_ class) are a class of chimeric beings, displaying traits belonging to all types of animal orders and classes. They universally have a draconic appearance, are endothermic, and are tetradactyl.
 
 The unique characteristic of Chimeras is the presence of real, physical 'soul'. All individuals possess a soul composed entirely of Phlogiston, physically located in and distributed through an internal complex of vessels and nodes around the entire body, similar to a lymphatic system. During gestation, the soul forms first, around which the vessels and body form.
