@@ -11,7 +11,7 @@ aliases:
 ---
 <br><br>
 
-Devils (_Diavolos_ class) are considered the most dangerous and violent species that the FLIPSIDE has to offer, descendants of Nature, red in tooth and claw, representing one of it's biggest threats to date. All Devils should be considered hostile and should never be voluntarily engaged.
+Devils (_Diavolos_ class) are considered the most dangerous and violent species that the FLIPSIDE has to offer, descendants of Violence Against Nature, representing one of it's biggest threats to date. All Devils should be considered hostile and should never be voluntarily engaged.
 
 As a group, Devils share little to no similarity with each other. No two Devil species are alike, with the differences being so extreme no sane taxonomist would even attempt to classify them on the same branch of life, or even on a branch of life at all. Despite this, Devil biology does obey some common rules:
 
@@ -46,9 +46,12 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
 	<div class="bestiary-card--placeholder__label">✖</div>
 </a>
 
-<a href="/bestiary/devils" class="bestiary-card--placeholder">
-	<div class="bestiary-card--placeholder__image"></div>
-	<div class="bestiary-card--placeholder__label">✖</div>
+<a href="/bestiary/devils/kirlian_mimics" class="devil-card">
+  <div class="devil-card__inner">
+    <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="devil-card__bar"></div>
+    <div class="devil-card__name">KIRLIAN MIMICS</div>
+  </div>
 </a>
 
 <a href="/bestiary/devils/clutch_beetles" class="devil-card">
