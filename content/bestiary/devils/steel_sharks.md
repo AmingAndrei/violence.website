@@ -8,7 +8,7 @@ aliases:
   - Steel Sharks
   - Steel Shark
 ---
- <br><a href="/bestiary/devils" class="nav-button">← DEVILS</a>
+<br><a href="/bestiary/devils" class="nav-button">← DEVILS</a>
 <br><br>
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STEEL SHARK" /> </div>

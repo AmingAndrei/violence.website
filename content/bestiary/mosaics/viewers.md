@@ -8,7 +8,7 @@ aliases:
   - Viewers
   - Viewer
 ---
- <br><a href="/bestiary/mosaics" class="nav-button">← MOSAICS</a>
+<br><a href="/bestiary/mosaics" class="nav-button">← MOSAICS</a>
 <br><br>
 
 <div class="bestiary-image--mosaic mosaic--key"> <img src="/assets/placeholder.gif" alt="VIEWER" /> </div>

@@ -8,7 +8,7 @@ aliases:
   - Cipactin
   - Cipactli
 ---
- <br><a href="/bestiary/chimeras" class="nav-button">← CHIMERAS</a>
+<br><a href="/bestiary/chimeras" class="nav-button">← CHIMERAS</a>
 <br><br>
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="CIPACTLI" /> </div>
