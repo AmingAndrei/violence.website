@@ -31,7 +31,7 @@ Kirlian Mimics lack all senses. They navigate their surroundings by interpreting
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Kirlian Mimics reproduce by leaving behind body parts. If a segment is separated from the main body, it will attempt to regrow into another Kirlian Mimic upon absorbing blood. They will first regenerate the segments adjacent to it, after which it will complete the respective half of the body, with immature Kirlian Mimics often being legless torsos or just pairs of legs. All segments are aware of their surroundings and become individualised upon separation from the main body.
+Kirlian Mimics reproduce by leaving behind body parts. If a segment is separated from the main body and remains intact, it will become a separate individual and attempt to regrow into another Kirlian Mimic upon absorbing blood. They will first regenerate the segments adjacent to it, after which it will complete the respective half of the body, with immature Kirlian Mimics often being legless torsos or just pairs of legs.
 # .diet
 <div class="bestiary-divider"></div>
 
