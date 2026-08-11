@@ -40,4 +40,4 @@ Vexers are an extremely rare anomaly where Somas which retain the Vesper ability
 # .production
 <div class="bestiary-divider"></div>
 
-Somas are created when a Vesper womb is corrupted by the Vesper. Instead of following its intended development, the Serpent injects itself as the base code, forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart.
+Somas are created when a Vesper womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart.
