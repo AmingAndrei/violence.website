@@ -21,12 +21,12 @@ Viewers have a shadowy, humanoid appearance. Their are completely black and feat
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Viewers like to watch. They are everywhere, but gravitate around the King in Cyan.
+Viewers like to watch. They are everywhere, but gravitate around Violence Against Art.
 # .abilities
 <div class="bestiary-divider"></div>
 
-Viewers cannot communicate, are completely intangible and cannot interact in any way with the world. They are completely invisible, only becoming visible when the King in Cyan wants it.
+Viewers cannot communicate, are completely intangible and cannot interact in any way with the world. They are completely invisible, only becoming visible when Violence Against Art wants it.
 # .production
 <div class="bestiary-divider"></div>
 
-Viewers are created when a human is killed directly by the King in Cyan. They retain their minds and memories.
+Viewers are created when a human is killed directly by Violence Against Art. They retain their minds and memories.
