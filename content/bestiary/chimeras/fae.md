@@ -34,7 +34,7 @@ The greatest weakness Fae have is towards iron. Direct contact with elemental ir
 
 Fae reproduce sexually, giving birth to live young, which are nursed for ~2 years. The gestation period is ~9 months, and full sexual maturity is reached in ~18 years, after which the aging rate slows drastically. The average Fae life span is ~120 years, with only a minimal decrease in performance.
 
-Fae are also capable of reproducing with humans. The result, as long as one of the parents is a Fae, is a half-breed, anatomically identical to a human, with the exception of a Phlogiston soul, slower aging and higher muscle strength. Half-breed can only be born between a Fae and a human, or a Fae and a half-breed. Relations between a human and half-breed will result in a regular human. If the human is a Hybrid, the result will always be a half-breed/human.
+Fae are capable of reproducing with humans. The result is a half-breed, anatomically identical to a human, with the exception of a Phlogiston soul, slower aging and higher muscle strength. Half-breed will always be born between a Fae and a human/half-breed. Relations between a human and half-breed will result in a regular human. If the human is a Hybrid and one of the parents is a Fae/half-breed, the result will always be a half-breed/human.
 # .diet
 <div class="bestiary-divider"></div>
 
