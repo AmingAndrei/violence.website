@@ -10,13 +10,23 @@ aliases:
   - Chimera
 ---
 <br><a href="/bestiary" class="nav-button">← BESTIARY</a><br><br>
-Chimeras (_Chimaeria_ class) are a class of chimeric beings, displaying traits belonging to all types of animal orders and classes. They universally have a draconic appearance, are endothermic, and are tetradactyl.
+Chimeras (_Chimaeria_ class) are a class of beings displaying chimeric traits and behaviours.
 
-The unique characteristic of Chimeras is the presence of real, physical 'soul'. All individuals possess a soul composed entirely of Phlogiston, physically located in and distributed through an internal complex of vessels and nodes around the entire body, similar to a lymphatic system. During gestation, the soul forms first, around which the vessels and body form.
+All Chimeras are comprised of two constituents:
 
-Unlike other species, which absorb Anima directly into their cellular structure to use as life force, Chimeras first use it as fuel for their soul, with the resulting reaction and heat dispersing through their cells and animating the being. The genetic code, and to some degree the memories of Chimeras are primarily stored in the soul, only partially being found in their cells. Theoretically, the soul can be considered an independent entity, although it doesn't display any individuality from the body or any real capacity of surviving without it, burning out immediately after death.
+1. The Body:
+- The physical, flesh and blood body of the Chimera. Their anatomy displays characteristics belonging to disparate classes, such as mammals, reptiles, arthropods, etc., without any conflict between traits. All Chimeras have a draconic semblance, are endothermic, and are tetradactyl.
+- Upon death of the soul, the body will enter a vegetative state, dying not long after due to organ failure.
 
-Chimeras can expel the Phlogiston comprising their soul from their body. This is more efficiently done from locations with higher node densities. Their tissue is completely unaffected by Phlogiston expelled by members of the same species and other fire sources resulting from Phlogiston.
+2. The Soul:
+- A physical construct composed entirely of Phlogiston, housed within a complex of vessels and nodes spanning the entire body, similar in structure to a lymphatic system.
+- During gestation, the soul forms first, around which the body follows and forms around. The body will consistently match the shape of the soul.
+- The Phlogiston comprising the soul uses Anima as a fuel source, with the resulting reaction animating the Chimera. This is in contrast to other species, which absorb Anima directly into their cellular structure, with no intermediary step. The soul is also what allows Chimeras to reach extreme sized.
+- Upon death of the body, the soul will immediately burn out.
+- The Phlogiston comprising the soul can be expelled from the body, the efficiency being proportionate with the node density of certain areas.
+- Due to soul similarity, the Phlogiston of one species and all resulting byproducts are inert to other members of the same species.
+
+Chimeras, while still obeying the principles of Darwinian evolution, follow at least partially the rules of Lamarckian evolution, although these changes are not always permanent and will revert in time. 
 
 ---
 
