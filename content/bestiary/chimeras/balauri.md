@@ -23,7 +23,7 @@ All Balauri possess 3 individual heads, mostly independent and supported by its 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Balauri are solitary creatures. And despite their size, they are extremely curious and playful creatures, comparable to a house cat.
+Balauri are solitary creatures. And despite their size, they are extremely curious and playful creatures, comparable to a house cat. They have little to no natural predators, with the exception of Devils.
 # .abilities
 <div class="bestiary-divider"></div>
 
