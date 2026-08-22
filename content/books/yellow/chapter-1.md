@@ -32,7 +32,7 @@ tags:
 
 <p><em>“Remember Jonesy?”</em></p></blockquote><blockquote class="left">
 
-<p>“That one guy from the Signal Station?”</p></blockquote><blockquote class="right">
+<p>“That one new guy you put on Signal Station duty?”</p></blockquote><blockquote class="right">
 
 <p><em>“That’s the one. He’s dead.”</em></p></blockquote><blockquote class="left">
 
@@ -42,7 +42,7 @@ tags:
 
 <p>“Poor bastard.”</p></blockquote><blockquote class="right">
 
-<p><em>“I know. 15 minutes. You’re on the clock.”</em></p></blockquote>
+<p><em>“All died a few years ago. Chromic Rot complications. Worry about it later, you’re on the clock. 15 minutes. After that, I’m sending Lorand.”</em></p></blockquote>
 
 <p>And with that, the radio fell silent. Jacques was pushing thirty, clean-shaven, hair slicked back, wearing nothing of importance save for the stylish coat that made up his uniform. From his belt hung a small pouch, filled to the brim with glass bullets.</p><blockquote class="left">
 
@@ -106,7 +106,7 @@ tags:
 
 <p><em>“…Keep me posted.”</em></p></blockquote>
 
-<p>The woman fell silent for a few seconds, trying to make sense of the situation. There must’ve been a simple answer, but Jacques didn’t have the time to think it through. The current relocation cage was now bust. No way he could drag the Zmey back here now. Despatch must’ve known this as well; another cage must’ve already been placed ahead. All Jacques needed now was a way to get there. He didn’t have a car, didn’t have the money, despite the digits on his paycheck, but what he did have was a very particular set of skills. One of them was hot-wiring a car.</p>
+<p>The woman fell silent for a few seconds, trying to make sense of the situation. There must’ve been a simple answer, but Jacques didn’t have the time to think it through. The current relocation cage was now bust. No way he could drag the Zmey back here now. Despatch must’ve known this as well; another cage must’ve already been placed ahead. All Jacques needed now was a way to get there. He didn’t have a car, didn’t have the money to spare, but he did have knowledge, particularly how to hot-wire one.</p>
 
 <p>He tailgated the Zmey up to a large plaza, trying to keep his eyes on it even while apologetically coughing up the dashboard full of blood. To his left was the axe, safely strapped in. He had a few seconds to spare to analyse the situation: a second relocation cage had already been placed near the far exit; the entire area was full of festive decorations and stands, too much of a fire hazard, he couldn’t risk the Zmey firing again; people were still running away, at least this problem didn’t require any external input, some might’ve still hidden around the plaza itself. Jacques had to do this fast, fast enough to keep riding the adrenaline. He had a way to revert his injuries, yes, but he preferred to use it as a finishing move.</p>
 
