@@ -1072,67 +1072,117 @@ article td {
   }
 }
 
-// ─── Materium Cards ─────────────────────────────────────────────────────────
+// ─── Materium Cards ────────────────────────────────────
 .materium-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 15px;
+  gap: 4px;
   width: 100%;
   margin: 2rem 0 60px;
 
   @media (max-width: 768px) {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+  }
+
+  &--labels-visible {
+    .materium-card__label {
+      opacity: 1;
+      color: #fff;
+    }
   }
 }
 
 .materium-card {
-  display: block !important;
-  border-radius: 6px !important;
-  background: #ffffff !important;
-  padding: 6px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  gap: 8px;
+  padding: 14px !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
   text-decoration: none;
-  transition: transform 0.15s ease;
-
-  &:hover { transform: scale(1.05); }
+  position: relative;
 
   @media (max-width: 768px) {
-    padding: 6px !important;
-    border-radius: 1px !important;
+    padding: 10px !important;
+    gap: 5px;
   }
 }
 
-.materium-card__inner {
-  display: flex;
-  flex-direction: column;
-  border-radius: 1px;
-  overflow: hidden;
-}
-
-.materium-card__image {
+.materium-card__icon-wrap {
+  position: relative;
+  width: 100%;
   aspect-ratio: 1/1;
-  background: #000 center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.materium-card__bar {
-  height: 6px;
-  flex-shrink: 0;
-  background: #ffffff;
-
-  @media (max-width: 768px) { height: 6px; }
+.materium-card__glow {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 80%;
+  height: 80%;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.35), transparent 70%);
+  filter: blur(3px);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+  pointer-events: none;
 }
 
-.materium-card__name {
-  padding: 21px 8px;
-  background: #000;
-  text-align: center;
-  color: #ccc;
-  font-size: 1.6rem;
+.materium-card__icon {
+  position: relative;
+  z-index: 1;
+  width: 65%;
+  height: 65%;
+  object-fit: contain;
+  filter: brightness(0.9);
+  transition: filter 0.25s ease, transform 0.25s ease;
+}
 
-  @media (max-width: 768px) {
-    font-size: 0.9rem;
-    padding: 12px 4px;
-  }
+.materium-card__frame {
+  position: absolute;
+  inset: 4px;
+  pointer-events: none;
+}
+
+.materium-card__corner {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  border: 0 solid #ffffff;
+  opacity: 0;
+  transform: scale(0.75);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+
+  &--tl { top: 0;    left: 0;   border-top-width: 2px;    border-left-width: 2px; }
+  &--tr { top: 0;    right: 0;  border-top-width: 2px;    border-right-width: 2px; }
+  &--bl { bottom: 0; left: 0;   border-bottom-width: 2px; border-left-width: 2px; }
+  &--br { bottom: 0; right: 0;  border-bottom-width: 2px; border-right-width: 2px; }
+
+  @media (max-width: 768px) { width: 10px; height: 10px; }
+}
+
+.materium-card__label {
+  font-size: 1.5rem;
+  letter-spacing: 0.15em;
+  color: #888;
+  opacity: 0;
+  transition: opacity 0.2s ease, color 0.2s ease;
+
+  @media (max-width: 768px) { font-size: 0.55rem; }
+}
+
+.materium-card:hover,
+.materium-card:focus-visible {
+  .materium-card__glow   { opacity: 1; }
+  .materium-card__icon   { filter: brightness(1.2); transform: scale(1.08); }
+  .materium-card__corner { opacity: 1; transform: scale(1); }
+  .materium-card__label  { opacity: 1; color: #fff; }
 }
 
 // ─── Credits ──────────────────────────────────────────────────────────────────

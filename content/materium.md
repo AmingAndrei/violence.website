@@ -6,38 +6,76 @@ tags:
 ---
 <br><a href="/" class="nav-button">← HOME</a>
 <br><br>
-<div class="materium-grid">
+<div class="materium-grid materium-grid--labels-visible">
 
-<a href="/" class="materium-card">
-    <div class="materium-card__inner">
-      <div class="materium-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-      <div class="materium-card__bar"></div>
-      <div class="materium-card__name">ANIMA</div>
+<a href="/materium/anima" class="materium-card">
+    <div class="materium-card__icon-wrap">
+      <span class="materium-card__glow"></span>
+      <div class="materium-card__frame">
+        <span class="materium-card__corner materium-card__corner--tl"></span>
+        <span class="materium-card__corner materium-card__corner--tr"></span>
+        <span class="materium-card__corner materium-card__corner--bl"></span>
+        <span class="materium-card__corner materium-card__corner--br"></span>
+      </div>
+      <img src="/assets/placeholder_icon.svg" class="materium-card__icon" alt="Anima"/>
     </div>
-  </a>
+    <span class="materium-card__label">.anima</span>
+</a>
 
-<a href="/" class="materium-card">
-    <div class="materium-card__inner">
-      <div class="materium-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-      <div class="materium-card__bar"></div>
-      <div class="materium-card__name">BLOOD</div>
+<a href="/materium/blood" class="materium-card">
+    <div class="materium-card__icon-wrap">
+      <span class="materium-card__glow"></span>
+      <div class="materium-card__frame">
+        <span class="materium-card__corner materium-card__corner--tl"></span>
+        <span class="materium-card__corner materium-card__corner--tr"></span>
+        <span class="materium-card__corner materium-card__corner--bl"></span>
+        <span class="materium-card__corner materium-card__corner--br"></span>
+      </div>
+      <img src="/assets/placeholder_icon.svg" class="materium-card__icon" alt="Blood"/>
     </div>
-  </a>
+    <span class="materium-card__label">.blood</span>
+</a>
 
-<a href="/" class="materium-card">
-    <div class="materium-card__inner">
-      <div class="materium-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-      <div class="materium-card__bar"></div>
-      <div class="materium-card__name">HAEMOCARBIDE</div>
+<a href="/materium/haemocarbide" class="materium-card">
+    <div class="materium-card__icon-wrap">
+      <span class="materium-card__glow"></span>
+      <div class="materium-card__frame">
+        <span class="materium-card__corner materium-card__corner--tl"></span>
+        <span class="materium-card__corner materium-card__corner--tr"></span>
+        <span class="materium-card__corner materium-card__corner--bl"></span>
+        <span class="materium-card__corner materium-card__corner--br"></span>
+      </div>
+      <img src="/assets/placeholder_icon.svg" class="materium-card__icon" alt="Haemocarbide"/>
     </div>
-  </a>
+    <span class="materium-card__label">.haemocarbide</span>
+</a>
 
-<a href="/" class="materium-card">
-    <div class="materium-card__inner">
-      <div class="materium-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-      <div class="materium-card__bar"></div>
-      <div class="materium-card__name">PHLOGISTON</div>
+<a href="/materium/phlogiston" class="materium-card">
+    <div class="materium-card__icon-wrap">
+      <span class="materium-card__glow"></span>
+      <div class="materium-card__frame">
+        <span class="materium-card__corner materium-card__corner--tl"></span>
+        <span class="materium-card__corner materium-card__corner--tr"></span>
+        <span class="materium-card__corner materium-card__corner--bl"></span>
+        <span class="materium-card__corner materium-card__corner--br"></span>
+      </div>
+      <img src="/assets/placeholder_icon.svg" class="materium-card__icon" alt="Phlogiston"/>
     </div>
-  </a>
+    <span class="materium-card__label">.phlogiston</span>
+</a>
+
+<a href="/materium/hellfire" class="materium-card">
+    <div class="materium-card__icon-wrap">
+      <span class="materium-card__glow"></span>
+      <div class="materium-card__frame">
+        <span class="materium-card__corner materium-card__corner--tl"></span>
+        <span class="materium-card__corner materium-card__corner--tr"></span>
+        <span class="materium-card__corner materium-card__corner--bl"></span>
+        <span class="materium-card__corner materium-card__corner--br"></span>
+      </div>
+      <img src="/assets/placeholder_icon.svg" class="materium-card__icon" alt="Hellfire"/>
+    </div>
+    <span class="materium-card__label">.hellfire</span>
+</a>
 
 </div>
