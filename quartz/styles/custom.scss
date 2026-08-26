@@ -71,6 +71,48 @@ a.anchor {
   }
 }
 
+// ─── Main Nav Cards ─────────────────────────────────────────────────────────
+.main-nav-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  width: 100%;
+  margin: 2rem 0;
+
+  .main-nav-card:first-child {
+    grid-column: 1 / -1;
+  }
+}
+
+.main-nav-card {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 20px !important;
+  padding: 64px 24px !important;
+  border: 1px solid white !important;
+  border-radius: 8px !important;
+  background: transparent !important;
+  color: white !important;
+  text-decoration: none !important;
+  transition: transform 0.15s ease;
+
+  &:hover { transform: scale(1.02); }
+}
+
+.main-nav-card__icon {
+  object-fit: contain;
+
+  &--invert { filter: invert(1); }
+}
+
+.main-nav-card__label {
+  font-size: 1.5rem;
+  letter-spacing: 0.22em;
+  font-weight: 400;
+}
+
 // ─── Typography ───────────────────────────────────────────────────────────────
 article p,
 article li,
@@ -1027,6 +1069,69 @@ article td {
   @media (max-width: 768px) {
     border-top-width: 3px;
     padding: 6px 4px;
+  }
+}
+
+// ─── Materium Cards ─────────────────────────────────────────────────────────
+.materium-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 15px;
+  width: 100%;
+  margin: 2rem 0 60px;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}
+
+.materium-card {
+  display: block !important;
+  border-radius: 6px !important;
+  background: #ffffff !important;
+  padding: 6px !important;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+
+  &:hover { transform: scale(1.05); }
+
+  @media (max-width: 768px) {
+    padding: 2px !important;
+    border-radius: 1px !important;
+  }
+}
+
+.materium-card__inner {
+  display: flex;
+  flex-direction: column;
+  border-radius: 1px;
+  overflow: hidden;
+}
+
+.materium-card__image {
+  aspect-ratio: 1/1;
+  background: #000 center/cover no-repeat;
+}
+
+.materium-card__bar {
+  height: 6px;
+  flex-shrink: 0;
+  background: #ffffff;
+
+  @media (max-width: 768px) { height: 2px; }
+}
+
+.materium-card__name {
+  padding: 21px 8px;
+  background: #000;
+  text-align: center;
+  color: #ccc;
+  font-size: 1.6rem;
+
+  @media (max-width: 768px) {
+    font-size: 0.9rem;
+    padding: 12px 4px;
   }
 }
 

@@ -1,0 +1,144 @@
+---
+title: INVENTORY
+tags:
+  - homepage
+  - inventory
+---
+# GENERAL TECH
+---
+<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">STARTERS</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">PHLOGISTON CORE</div>
+  </div>
+</a>
+
+</div>
+
+# SUBSTANCES
+---
+<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">TAR</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">GAS</div>
+  </div>
+</a>
+
+</div>
+
+# ABSOLUTES
+---
+Absolutes are various items which display the anomalous behaviour of having total control over different concepts. There is virtually nothing that can do something better than them.
+
+<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
+
+<a href="/" style="display:block;border-radius:2px;outline:3px solid white;outline-offset:-3px;background:transparent;padding:0;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:url('/assets/absolutes/nightmare_shackles.gif') calc(50% - 3px) / cover no-repeat;"></div>
+    <div style="height:3px;background:white;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">NIGHTMARE SHACKLES</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;outline:3px solid white;outline-offset:-3px;background:transparent;padding:0;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:url('/assets/absolutes/black_box.gif') calc(50% + 10px)/cover no-repeat;"></div>
+    <div style="height:3px;background:white;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">BLACK BOX</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">SHAPER</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">RING A RING O' ROSES</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">DAEMONOMICON</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">HOLY NAILS</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">EIGHT-HANDLED SWORD</div>
+  </div>
+</a>
+
+</div>
+
+# CURSES
+---
+Curses are conditions, diseases, effects which present anomalous behavious. They are not random, with each curse obeying its own set of rules.
+<div style="display:grid;grid-template-columns:repeat(5,1fr);gap:15px;width:100%;margin:2rem 0 60px;">
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">SAWBLOOD</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">BLUE ROSE</div>
+  </div>
+</a>
+
+<a href="/" style="display:block;border-radius:2px;background:#ffffff;padding:3px;text-decoration:none;transition:transform 0.15s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <div style="display:flex;flex-direction:column;border-radius:1px;overflow:hidden;">
+    <div style="aspect-ratio:3/3.5;background:#000 url('/assets/placeholder.gif') center/cover no-repeat;"></div>
+    <div style="height:3px;background:#ffffff;flex-shrink:0;"></div>
+    <div style="padding:21px 8px;background:#000;text-align:center;color:#ccc;font-size:1.6rem;">GOLD LEAVES</div>
+  </div>
+</a>
+
+</div>

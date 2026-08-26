@@ -4,6 +4,7 @@ cssclasses:
   - mosaic
 tags:
   - mosaic
+  - bestiary
 aliases:
   - Mosaics
 ---
