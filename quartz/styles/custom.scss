@@ -1097,7 +1097,7 @@ article td {
   &:hover { transform: scale(1.05); }
 
   @media (max-width: 768px) {
-    padding: 2px !important;
+    padding: 6px !important;
     border-radius: 1px !important;
   }
 }
@@ -1119,7 +1119,7 @@ article td {
   flex-shrink: 0;
   background: #ffffff;
 
-  @media (max-width: 768px) { height: 2px; }
+  @media (max-width: 768px) { height: 6px; }
 }
 
 .materium-card__name {
