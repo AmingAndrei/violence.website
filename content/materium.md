@@ -3,6 +3,8 @@ title: MATERIUM
 tags:
   - homepage
   - materium
+cssclasses:
+  - materium
 ---
 <br><a href="/" class="nav-button">← HOME</a>
 <br><br>

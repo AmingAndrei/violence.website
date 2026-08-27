@@ -13,7 +13,7 @@ Mosaics (_Mosaica_ class) are a class of semi-colonial artificial species, repre
 
 Mosaic cells are cyanobacteria-like crystalline nanoorganisms, formed entirely from solid light, that are, in truth, their own individual being, forming a single colonial organism. They have an individual processing power similar to supercomputers, and can function as a mix between myocytes and osteocytes, with dedicated clusters forming audio-visual sensors. Damage in one part of the body can resonate across the entire organism, causing the rest of the cells to shatter and die. Genetically, Mosaics have a layered infrastructure, with all species utilising Violence Against Art's base code as a library.
 
-Mosaics feed on all types of radiation and Anima. If deprived for long enough periods, they will enter an indefinite catatonic state until these resources return. They lack all sense of smell and taste.
+Mosaics feed on all types of radiation and [[anima|Anima]]. If deprived for long enough periods, they will enter an indefinite catatonic state until these resources return. They lack all sense of smell and taste.
 
 ---
 

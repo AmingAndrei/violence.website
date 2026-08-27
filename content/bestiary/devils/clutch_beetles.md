@@ -17,7 +17,7 @@ Clutch Beetles (_Diavolos ultraforma_) are a species of insectoid Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Clutch Beetles are extremely Anima-sensitive, and can vary drastically between appearance, with each individual being virtually unique in appearance and abilities. to the point they might not even be considered the same species. Some of the only shared characteristics are their their size, reaching an average length of ~6 cm, the presence of an elytra, and the lack of eyes.
+Clutch Beetles are extremely [[anima|Anima]]-sensitive, and can vary drastically between appearance, with each individual being virtually unique in appearance and abilities. to the point they might not even be considered the same species. Some of the only shared characteristics are their their size, reaching an average length of ~6 cm, the presence of an elytra, and the lack of eyes.
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -43,7 +43,7 @@ This active state is actively maintained by the hybrid's own blood, which will b
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Clutch Beetles reproduce asexually. They lay thousands of eggs at a time, out of which only a handful of larvae hatch. All larvae are identical at birth, and will eat all the eggs that have yet to hatch. Differentiation begins during pupation, during which the larvae are at their most sensitive to environmental Anima. An overwhelming majority of larvae do not reach adulthood due to developmental failures. Adult Clutch Beetles are extremely rare.
+Clutch Beetles reproduce asexually. They lay thousands of eggs at a time, out of which only a handful of larvae hatch. All larvae are identical at birth, and will eat all the eggs that have yet to hatch. Differentiation begins during pupation, during which the larvae are at their most sensitive to environmental [[anima|Anima]]. An overwhelming majority of larvae do not reach adulthood due to developmental failures. Adult Clutch Beetles are extremely rare.
 
 Hybrids will always give birth to other hybrids, as long as at least one of the parents is a hybrid, regardless of sex. The only exception is if one of the parents is a Fae/half-breed, in which case the child will be a half-breed/regular human. The abilities of the parent cannot be used to predict the abilities of the child.
 # .diet

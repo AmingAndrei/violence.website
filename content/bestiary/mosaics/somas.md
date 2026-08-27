@@ -25,7 +25,7 @@ The Shell is a humanoid construct piloted by the Heart. They are 1.9 m in height
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Somas are created by the Serpent, being considered mutated Vespers, although they lack pretty much all abilities and traits associated with Vespers. They are social and cooperative, from an outside perspective having very little differences to humans.
+Somas are created by the Serpent, being considered mutated [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. They are social and cooperative, from an outside perspective having very little differences to humans.
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -35,9 +35,9 @@ There are still flaws with the Shells. Damage to the Shell will resonate and dam
 # .vexers
 <div class="bestiary-divider"></div>
 
-Vexers are an extremely rare anomaly where Somas which retain the Vesper ability of using Vectors, directly caused by the Serpent's negligence when overriding the Vesper code. With enough training, Vexers can gain access to other Vesper abilities, albeit much harder for them to perform.
+Vexers are an extremely rare anomaly where Somas which retain the [[vespers|Vesper]] ability of using Vectors, directly caused by the Serpent's negligence when overriding the [[vespers|Vesper]] code. With enough training, Vexers can gain access to other [[vespers|Vesper]] abilities, albeit much harder for them to perform.
 
 # .production
 <div class="bestiary-divider"></div>
 
-Somas are created when a Vesper womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart.
+Somas are created when a [[vespers|Vesper]] womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart.

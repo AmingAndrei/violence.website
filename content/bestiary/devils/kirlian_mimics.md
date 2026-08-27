@@ -25,9 +25,9 @@ Kirlian Mimics spend their idle times posing dramatically, with their joints abl
 # .abilities
 <div class="bestiary-divider"></div>
 
-Kirlian Mimics have the ability to copy the abilities of other creatures. They do this by reading the behaviour of Anima in relation to their target, emulating the reading and by extension the ability. Since they reproduce only the outcome, the possible downfalls that may come with the origin of the ability are ignored. Kirlian Mimics copy other abilities instinctually and immediately gain awareness of how to use them upon acquiring them, with no set limit of held abilities. They can, however, only copy beings within a radius of 20 m around them; if the original possessor leaves this radius, the Kirlian Mimic will lose access to the ability on the spot. If the ability is also Anima-independent or anti-Anima, it will be impossible to copy.
+Kirlian Mimics have the ability to copy the abilities of other creatures. They do this by reading the behaviour of [[anima|Anima]] in relation to their target, emulating the reading and by extension the ability. Since they reproduce only the outcome, the possible downfalls that may come with the origin of the ability are ignored. Kirlian Mimics copy other abilities instinctually and immediately gain awareness of how to use them upon acquiring them, with no set limit of held abilities. They can, however, only copy beings within a radius of 20 m around them; if the original possessor leaves this radius, the Kirlian Mimic will lose access to the ability on the spot. If the ability is also [[anima|Anima]]-independent or anti-[[anima|Anima]], it will be impossible to copy.
 
-Kirlian Mimics lack all senses. They navigate their surroundings by interpreting the Anima around them and inside other beings. They use fear sensing as a targeting system, allowing them to differentiate individuals and focus in Anima-dense locations. 
+Kirlian Mimics lack all senses. They navigate their surroundings by interpreting the [[anima|Anima]] around them and inside other beings. They use fear sensing as a targeting system, allowing them to differentiate individuals and focus in [[anima|Anima]]-dense locations. 
 # .reproduction
 <div class="bestiary-divider"></div>
 

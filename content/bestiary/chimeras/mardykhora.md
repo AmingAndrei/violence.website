@@ -21,7 +21,7 @@ Mardykhora have a body plan resembling a mix of large feline and baboon, are qua
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Mardykhora are apex predators, and are the natural predator of Fae. They will stalk Fae groups for days, taking down 2-3 individuals at a time. Despite being mostly solitary, they are highly emotive and communicative, capable of displaying a very wide range of emotions.
+Mardykhora are apex predators, and are the natural predator of [[Fae]]. They will stalk [[Fae]] groups for days, taking down 2-3 individuals at a time. Despite being mostly solitary, they are highly emotive and communicative, capable of displaying a very wide range of emotions.
 # .abilities
 <div class="bestiary-divider"></div>
 
