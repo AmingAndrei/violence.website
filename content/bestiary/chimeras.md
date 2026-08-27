@@ -15,7 +15,7 @@ Chimeras (_Chimaeria_ class) are a class of beings displaying chimeric traits an
 All Chimeras are comprised of two constituents:
 
 1. The Body:
-- The physical, flesh and blood body of the Chimera. Their anatomy displays characteristics belonging to disparate classes, such as mammals, reptiles, arthropods, etc., without any conflict between traits. All Chimeras have a draconic semblance, are endothermic, and are tetradactyl.
+- The physical, flesh and [[blood]] body of the Chimera. Their anatomy displays characteristics belonging to disparate classes, such as mammals, reptiles, arthropods, etc., without any conflict between traits. All Chimeras have a draconic semblance, are endothermic, and are tetradactyl.
 - Upon death of the soul, the body will enter a vegetative state, dying not long after due to organ failure.
 
 2. The Soul:

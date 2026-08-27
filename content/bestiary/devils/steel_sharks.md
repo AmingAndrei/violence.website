@@ -35,7 +35,7 @@ Steel Sharks can absorb medium to small objects and devices. Once they make dire
 
 Steel Sharks are able to interact with radio waves. They can both hear them, understanding whatever is transmitted through the frequency, and respond. When speaking, Steel Sharks emit both audible sound and radio waves, and they cannot stop and just speak through one or the other. In their low energy state, they can only communicate through radio, along with clanking. They can intercept all frequencies at once, and can choose to speak at any frequency or at every frequency at once.
 
-To combat their obvious weakness of requiring a large [[anima|Anima]] density to do anything, Steel Sharks can consume blood as fuel. This also comes with a downside, as the Steel Shark be on a timer until the fuel runs out, and actions such as revving or using their maximum strength will drain it much faster. This also means that the Steel Shark can remain indefinitely active outside the FLIPSIDE if it has enough blood.
+To combat their obvious weakness of requiring a large [[anima|Anima]] density to do anything, Steel Sharks can consume [[blood]] as fuel. This also comes with a downside, as the Steel Shark be on a timer until the fuel runs out, and actions such as revving or using their maximum strength will drain it much faster. This also means that the Steel Shark can remain indefinitely active outside the FLIPSIDE if it has enough [[blood]].
 
 Steel Sharks are not omnipotent, as they fall into several categories, determining their general abilities, fighting style, and to a slight degree their appearance:
 
@@ -55,4 +55,4 @@ Steel Sharks do not reproduce. Individuals spontaneously manifests within Pandia
 # .diet
 <div class="bestiary-divider"></div>
 
-Steel Sharks do not eat, or have any real drive to do so. Their only real requirement and need is blood in order to stay active in low [[anima|Anima]] environments, which they consume through cellular absorption, meaning as long as it makes contact with the body, the blood will be absorbed and used as fuel. All of their cells also act as taste receptors. They also have a preference towards 'traditional' fuels, such as gas, although this does nothing for them.
+Steel Sharks do not eat, or have any real drive to do so. Their only real requirement and need is [[blood]] in order to stay active in low [[anima|Anima]] environments, which they consume through cellular absorption, meaning as long as it makes contact with the body, the [[blood]] will be absorbed and used as fuel. All of their cells also act as taste receptors. They also have a preference towards 'traditional' fuels, such as gas, although this does nothing for them.

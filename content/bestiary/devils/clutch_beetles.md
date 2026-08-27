@@ -29,7 +29,7 @@ The process begins with the Clutch Beetle attaching itself to the nape of the or
 
 The abilities of individual Clutch Beetles vary. Virtually no two Clutch Beetles have the exact same ability. Hybrids have increased reflexes and senses, some of them even restored if previously missing, with the exception of sight, which remains the same. However, when a hybrid experiences extreme trauma or is on the brink of death, the Clutch Beetle will trigger an active state to save itself and its host.
 
-During this state, the most notable change is that the hybrid will constantly regenerate, capable of recovering all of its body parts and survive even the most lethal of injuries. The second is that its appearance will change, transforming and generating mass to reflect the abilities of the Clutch Beetle itself, along with an input from the host's own genetic and psychological profile, meaning that even if two hybrids are host to the same Clutch Beetle, their abilities will have the same basis but with different execution. The blood of the hybrid will also turn silver.
+During this state, the most notable change is that the hybrid will constantly regenerate, capable of recovering all of its body parts and survive even the most lethal of injuries. The second is that its appearance will change, transforming and generating mass to reflect the abilities of the Clutch Beetle itself, along with an input from the host's own genetic and psychological profile, meaning that even if two hybrids are host to the same Clutch Beetle, their abilities will have the same basis but with different execution. The [[blood]] of the hybrid will also turn silver.
 
 Generally, the active state of hybrids will fall into three categories:
 
@@ -39,7 +39,7 @@ Generally, the active state of hybrids will fall into three categories:
 | Penumbra | Only certain body parts will transform, leaving the rest of the hybrid's body as is, usually being more precise compared to other types. The most common type.                                                                                                                                |
 | Antumbra | Instead of changing the hybrid's own anatomy, it will create a second body. This double is also constantly healing, its under direct control of the hybrid, who has a vague understanding of what it senses, and has a limited range, outside of which it will disintegrate. The rarest type. |
 
-This active state is actively maintained by the hybrid's own blood, which will be used to fuel it. If the blood supply reaches a critical point, the state will be forcefully halted, and all generated matter will quickly disintegrate, returning the hybrid to its base appearance. The hybrid can, however, consume the blood of other organisms to use as fuel instead, which means that, with a high enough quantity of blood, it can remain active indefinitely. 
+This active state is actively maintained by the hybrid's own [[blood]], which will be used to fuel it. If the [[blood]] supply reaches a critical point, the state will be forcefully halted, and all generated matter will quickly disintegrate, returning the hybrid to its base appearance. The hybrid can, however, consume the [[blood]] of other organisms to use as fuel instead, which means that, with a high enough quantity of [[blood]], it can remain active indefinitely. 
 # .reproduction
 <div class="bestiary-divider"></div>
 

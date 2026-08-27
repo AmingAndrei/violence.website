@@ -26,7 +26,7 @@ Zmey are solitary creatures. They are easily frightened, preferring to run inste
 
 The exoskeleton of a Zmey isn't flush with their body. Instead, it has gaps between it and the skin, which is dense with node clusters, and thus allow for Phlogiston to build up below the metal scales. This not only heats them up, causing severe burns to the touch, but also means that, should the scales be even slightly breached, the attacker will be instantly incinerated by the erupting flames. Other node clusters can be found in the Zmey's throat, which grant them the ability to breathe Phlogiston out as a pressurised vapour.
 
-Their tails, legs and wings are segmented, linked together through vascularised tissue sheaths, designed in such a way that, in case of emergency, the segments can be safely removed without causing any long-lasting trauma, severe pain or blood loss. All lost segments, along with damage to their exoskeleton, will be healed during the moulting cycle.
+Their tails, legs and wings are segmented, linked together through vascularised tissue sheaths, designed in such a way that, in case of emergency, the segments can be safely removed without causing any long-lasting trauma, severe pain or [[blood]] loss. All lost segments, along with damage to their exoskeleton, will be healed during the moulting cycle.
 # .reproduction
 <div class="bestiary-divider"></div>
 
