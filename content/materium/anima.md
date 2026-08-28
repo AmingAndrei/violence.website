@@ -29,7 +29,7 @@ Anima is everywhere, a layer overlaying all of reality and permeating the entire
 # .effects
 <div class="bestiary-divider"></div>
 
-All living organisms have an incremental drain effect on Anima, as they consume it passively to remain animate. [[devils|Devils]] have the greatest Anima requirements to keep themselves alive, so great that their bodies create an attractor effect on their vicinity, spiking the local density just by existing. Locations with a very low or no Anima density are barren, completely devoid of life, and will slowly lead to all organisms breaking down at a cellular level.
+All living organisms have an incremental drain effect on Anima, as they consume it passively to remain animate. [[devils|Devils]] have the greatest Anima requirements to keep themselves alive, so great that their bodies create an attractor effect in their vicinity, leading to a spike the local density. Locations with a very low or no Anima density are barren, completely devoid of life, and will slowly lead to all organisms breaking down at a cellular level.
 
 This is not a one way process, as all beings leave imprints on the Anima as a whole, leaving behind biological information that can be later retrieved, including information that can be extrapolated from past and present entries, or even information that exists purely as a theoretical concept with no living counterpart.
 

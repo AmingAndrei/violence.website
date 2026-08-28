@@ -29,7 +29,7 @@ Blood is found in all living organisms, a fundamental component of biological fu
 # .effects
 <div class="bestiary-divider"></div>
 
-Blood is rich in concentrated [[Anima]]. This makes it the most readily available source of physical [[Anima]], making blood a viable power source. The downsides are that the [[Anima]] in blood will dissipate within seconds after leaving the body. Blood introduced into another living organism can eventually regain its [[Anima]] properties, although this process takes time. Old, dry, or coagulated blood will also completely lose its ability to hold [[Anima]]. The blood of the Phlegethon retains its [[anima|Anima]] concentration as long as it remains part of the stream.
+Blood is rich in concentrated [[Anima]]. This makes it the most readily available source of physical [[Anima]], making blood a viable power source. The downsides are that the [[Anima]] in blood will dissipate within seconds after leaving the body. Blood introduced into another living organism can eventually regain its [[Anima]] properties, although this process takes time. Old, dry, or coagulated blood will also completely lose its ability to hold [[Anima]].
 # .history
 <div class="bestiary-divider"></div>
 
