@@ -34,7 +34,3 @@ All living organisms have an incremental drain effect on Anima, as they consume 
 This is not a one way process, as all beings leave imprints on the Anima as a whole, leaving behind biological information that can be later retrieved, including information that can be extrapolated from past and present entries, or even information that exists purely as a theoretical concept with no living counterpart.
 
 All powers and abilities use Anima as a fuel, one form or another. In the case of over-usage, this can lower the local Anima density, and in some extreme cases even deplete it. However, since it is an unlimited resource, it will simply revert after a period of time.
-# .history
-<div class="bestiary-divider"></div>
-
-Anima was first proposed with the advent of Vitalism, the scientific theory claiming the existence of an underlying substance responsible for the difference between living and non-living objects. This theory was disproven with the artificial synthesis of urea, an organic compound created from inorganic substances. Vitalism was later re-established during the World Wide War, after multiple failed attempts at creating a completely artificial organism, with the factor that finally proved its existence being [[blood]]. The ability to reliably measure it became available only after the discovery of the FLIPSIDE.
