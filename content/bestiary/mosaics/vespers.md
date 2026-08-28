@@ -33,7 +33,7 @@ Vespers can similarly use strong electric currents as a means of transport, able
 
 Vectors are power system unique to Vespers. One can understand them as programs and sets of instructions which alter the behaviour and capabilities of their cells.
 
-Vectors require [[anima|Anima]] to function. Vespers siphon [[anima|Anima]] from their surroundings, processing and storing it in their cells. The maximum capacity of a Vesper varies per individual, which directly affects the way Vectors are deployed. Concentration can allow Vespers to increase the siphoning speed, which is also influenced by the Anima density, meaning the Anima density will passively affect how fast Vespers can restock. Vespers can use more [[anima|Anima]] at a time to increase the Vector's strength and efficiency.
+Vectors require [[anima|Anima]] to function. Vespers siphon [[anima|Anima]] from their surroundings, processing and storing it in their cells. The maximum capacity of a Vesper varies per individual, which directly affects the way Vectors are deployed. Concentration can allow Vespers to increase the siphoning speed, which is also influenced by the [[Anima]] density, meaning the [[Anima]] density will passively affect how fast Vespers can restock. Vespers can use more [[anima|Anima]] at a time to increase the Vector's strength and efficiency.
 
 Vectors fall into two categories:
 
