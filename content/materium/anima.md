@@ -26,7 +26,7 @@ Anima is the fundamental substance animating all living beings.
 <div class="bestiary-divider"></div>
 
 Anima is everywhere, a layer overlaying all of reality and permeating the entire physical world. Although it is limitless, it is not distributed equally, as some locations can have a higher density than others. Anima density is considerably higher in the FLIPSIDE, reaching an all-time maximum around Pandiavolum, the mathematically highest density achievable in three dimensional space before it coalesces into physical form. 
-# .effects
+# .properties
 <div class="bestiary-divider"></div>
 
 All living organisms have an incremental drain effect on Anima, as they consume it passively to remain animate. [[devils|Devils]] have the greatest Anima requirements, so great that their bodies create an attractor effect in their vicinity, leading to a spike the local density. Locations with a very low or no Anima density are barren, completely devoid of life, and will slowly lead to all organisms breaking down at a cellular level.

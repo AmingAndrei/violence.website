@@ -26,7 +26,7 @@ Phlogiston is a form of living, smokeless fire.
 <div class="bestiary-divider"></div>
 
 Phlogiston is the main component of a [[chimeras|Chimera]]'s soul, contained within their body, released outward at will.
-# .effects
+# .properties
 <div class="bestiary-divider"></div>
 
 Phlogiston is differentiated from other types of flame by its primary fuel source, [[anima|Anima]], allowing it to burn underwater or even inside vacuums, albeit at a lesser intensity, as it still incinerates other substances as well. As a result, extended Phlogiston expulsion can cause a decrease in [[anima|Anima]] density by burning gaps in it. This is also what prevents it from burning forever, as Phlogiston outside of a [[chimeras|Chimera]]'s body is fleeting, burning its fuel faster than it can spread. The colour of Phlogiston is not indicative of its temperature, burning the same.
