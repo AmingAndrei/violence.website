@@ -25,8 +25,8 @@ Blood is the body fluid and one of the three parts of a living creature, alongsi
 # .source
 <div class="bestiary-divider"></div>
 
-Blood can be found in all living creatures. While it is primarily created within a being's body, it is also the fluid from which the Phlegethon is composed.
+Blood can be found in all living creatures. While it is primarily created within a being's body.
 # .properties
 <div class="bestiary-divider"></div>
 
-Blood is rich in concentrated [[Anima]], seeping into it as a result of living function. This makes it the easiest, most reliable source of physical [[Anima]]. The downsides are that the [[Anima]] in blood will dissipate within seconds after leaving the body. Blood introduced into another living organism can eventually regain its [[Anima]] properties, although this process takes time. Old, dry, or coagulated blood will also completely lose its ability to hold [[Anima]].
+Blood is rich in concentrated [[Anima]], enough so that it can act as a direct source of physical, highly concentrated [[Anima]]. The downsides is that the [[Anima]] will dissipate within seconds after the blood leaves the body, with no way to replenish it after.

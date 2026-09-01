@@ -29,4 +29,4 @@ The toxin is a byproduct of the [[Hellfire]] storms of the Wild Hunt. found thro
 # .properties
 <div class="bestiary-divider"></div>
 
-The toxin is pink, iridescent, nonflammable, odorless, and extremely dangerous to all forms of life. Once inhaled, it will cause choking, coughing fits, and death in less than a minute. Survival is possible if treated fast enough, although it will leave behind extreme internal damage and scarring, including neuronal damage, and patients can act as carriers as the toxin remains inside their body. Organisms native to the FLIPSIDE are completely immune to it. There is no easy or reliable way to destroy or neutralise it.
+The toxin is pink, iridescent, nonflammable, odorless, and extremely dangerous to all forms of life. Once inhaled, it will cause choking, coughing fits, and death in less than a minute. Survival is possible if treated fast enough, although it will leave behind extreme internal damage and scarring, including neuronal damage. Organisms native to the FLIPSIDE are completely immune to it. There is no easy or reliable way to destroy or neutralise it.
