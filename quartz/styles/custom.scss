@@ -82,6 +82,10 @@ a.anchor {
   .main-nav-card:first-child {
     grid-column: 1 / -1;
   }
+
+  @media (max-width: 768px) {
+    gap: 6px;
+  }
 }
 
 .main-nav-card {
@@ -99,18 +103,36 @@ a.anchor {
   transition: transform 0.15s ease;
 
   &:hover { transform: scale(1.02); }
+
+  @media (max-width: 768px) {
+    gap: 10px !important;
+    padding: 28px 12px !important;
+    border-radius: 5px !important;
+  }
 }
 
 .main-nav-card__icon {
   object-fit: contain;
+  width: 80px;
+  height: 80px;
 
   &--invert { filter: invert(1); }
+
+  @media (max-width: 768px) {
+    width: 44px;
+    height: 44px;
+  }
 }
 
 .main-nav-card__label {
   font-size: 1.5rem;
   letter-spacing: 0.22em;
   font-weight: 400;
+
+  @media (max-width: 768px) {
+    font-size: 0.85rem;
+    letter-spacing: 0.12em;
+  }
 }
 
 // ─── Typography ───────────────────────────────────────────────────────────────
