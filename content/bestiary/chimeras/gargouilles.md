@@ -15,7 +15,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="GARGOUILLE" /> </div>
 
-Gargouilles (Fem. _Grotesques_, _Gargouilla pluvius_) are a species of sentinel Chimera.
+Gargouilles (Fem. _Grotesques_, _Gargouillus pluvius_) are a species of sentinel Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 

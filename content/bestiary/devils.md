@@ -10,7 +10,7 @@ aliases:
   - Devil
 ---
 <br><a href="/bestiary" class="nav-button">← BESTIARY</a><br><br>
-Devils (_Diavolos_ class) are considered the most dangerous and violent species that the FLIPSIDE has to offer, descendants of Violence Against Nature, representing one of it's biggest threats to date. All Devils should be considered hostile and should never be voluntarily engaged.
+Devils (_Diavolos_ class) are the most dangerous and violent species of daemon that the FLIPSIDE has to offer, descendants of Violence Against Nature, representing one of it's biggest threats to date. All Devils should be considered hostile and should never be voluntarily engaged.
 
 As a group, Devils share little to no similarity with each other. No two Devil species are alike, with the differences being so extreme no sane taxonomist would even attempt to classify them on the same branch of life, or even on a branch of life at all. Despite this, Devil biology does obey some common rules:
 
@@ -21,9 +21,9 @@ As a group, Devils share little to no similarity with each other. No two Devil s
 - Devil speech has the property of being automatically translated, meaning the hearer will perceive Devil speech in their mother tongue, with no exception. This also works in reverse, with Devils being capable of understanding all languages, although they are unable to distinguish between them.
 - Devils can sense and metabolise the fear of other life forms, with beings experiencing fear in the immediate vicinity of a Devil invariably increasing the reflexes, senses, speed and strength of said Devil. This extends to all species that are considered alive and that are capable of experiencing fear, including other² Devils.
 - Devils can consume fresh [[blood]] to regenerate almost instantaneously, being capable of completely recovering from multiple fatal wounds in a matter of seconds.
-- A Devil's base strength is directly proportionate with the local [[anima|Anima]] density, getting weaker or stronger based on said density.
+- A Devil's base strength is directly proportionate with the local [[anima]] density, getting weaker or stronger based on said density.
 
-All of these traits are because, unlike regular lifeforms, Devils are entirely made out of [[anima|Anima]]. One of the best indicators of Devil activity is the local [[anima|Anima]] level, with each individual Devil creating a noticeable attractor effect compared to other beings, causing the immediate [[anima|Anima]] density to increase. They can theoretically manifest anywhere with a high enough [[anima|Anima]] density, meaning Devils can indirectly allow more Devils to spawn based on how active they are. This is why Pandiavolum, the place with the highest [[anima|Anima]] concentration achievable, is home to the biggest/strongest Devil population ever.
+All of these traits are because, unlike regular lifeforms, Devils are entirely made out of [[anima]]. One of the best indicators of Devil activity is the local [[anima|Anima]] level, with each individual Devil creating a noticeable attractor effect compared to other beings, causing the immediate [[anima|Anima]] density to increase. They can theoretically manifest anywhere with a high enough [[anima|Anima]] density, meaning Devils can indirectly allow more Devils to spawn based on how active they are. This is why Pandiavolum, the place with the highest [[anima|Anima]] concentration achievable, is home to the biggest/strongest Devil population ever.
 
 ¹ This rule is bypassed by some species by reworking parts of their biology into somewhat functional eyes, although true eyes are still absent.<br>
 ² The threshold for Devils experiencing fear to empower other Devils is significantly higher than that of other species, to the point it can be considered a non-factor in a majority of cases.

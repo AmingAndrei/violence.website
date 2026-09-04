@@ -25,8 +25,8 @@ Haemocarbide is a red, crystalline metal.
 # .source
 <div class="bestiary-divider"></div>
 
-Haemocarbide is created from [[blood]]. While certain organisms can use their own or others' [[blood]] to create Haemocarbide constructs, it is mostly found growing on the banks of the Phlegethon.
+Haemocarbide is created from [[blood]]. Certain organism can use their own or others' [[blood]] to create haemocarbide constructs.
 # .properties
 <div class="bestiary-divider"></div>
 
-As a result of being made from [[blood]], the structure of Haemocarbide is internally reinforced by the [[Anima]] incorporated in it during crystallisation. While it may share similarities with iron, the structure of Haemocarbide is more similar to that of diamond and other carbon-based materials. It's an extremely tough and hard metal, with a density similar to that of silver, making Haemocarbide a highly durable and versatile material.
+As a result of being made from [[blood]], the structure of haemocarbide is internally reinforced by [[anima]] incorporated in it during crystallisation. While it may share similarities with iron, the structure of haemocarbide is more similar to that of diamond and other carbon-based materials. It's an extremely tough and hard metal, with a density similar to that of silver.

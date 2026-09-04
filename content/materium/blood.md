@@ -25,7 +25,7 @@ Blood is the body fluid and one of the three parts of a living creature, alongsi
 # .source
 <div class="bestiary-divider"></div>
 
-Blood can be found in all living creatures. While it is primarily created within a being's body.
+Blood can be found in all living creatures.
 # .properties
 <div class="bestiary-divider"></div>
 
