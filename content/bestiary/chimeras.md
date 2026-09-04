@@ -10,7 +10,7 @@ aliases:
   - Chimera
 ---
 <br><a href="/bestiary" class="nav-button">← BESTIARY</a><br><br>
-Chimeras (_Chimaeria_ class) are a class of beings displaying chimeric traits and behaviours.
+Chimeras (_Chimaeria_ class) are a class of Daemons displaying chimeric traits and behaviours.
 
 All Chimeras are comprised of two constituents:
 
