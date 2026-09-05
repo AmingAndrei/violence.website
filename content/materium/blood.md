@@ -21,11 +21,11 @@ aliases:
   <img src="/assets/placeholder_icon.svg" alt="Blood"/>
 </div>
 
-Blood is the body fluid and one of the three parts of a living creature, alongside bones and nerves.
+Blood is a body fluid and one of the three parts of a living being, alongside bones and nerves.
 # .source
 <div class="bestiary-divider"></div>
 
-Blood can be found in all living creatures.
+Blood is found and produced in the bodies of nearly all all living beings.
 # .properties
 <div class="bestiary-divider"></div>
 
