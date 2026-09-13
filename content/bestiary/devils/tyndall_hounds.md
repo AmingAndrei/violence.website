@@ -33,4 +33,4 @@ Tyndall Hounds reproduce asexually. Mature Tyndall Hounds will regurgitate a juv
 # .diet
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds are carnivorous. Most of their eating process is just chewing, since they have no way of swallowing or stomach to store the food. They chew the food into a liquid a paste as possible, which will then get absorbed by the cells in their mouth and transported through the bone structure throughout their entire bodies.
+Tyndall Hounds are carnivorous. Most of their eating process is just chewing, since they have no way of swallowing or stomach to store the food. After chewing, they swallow it, and although it falls right out of their bodies, the motion itself is enough to satiate them. They will also differentiate between eaten and uneaten food and will ignore food previously swallowed by another Tyndall Hound.

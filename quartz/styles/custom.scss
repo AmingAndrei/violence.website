@@ -1064,6 +1064,97 @@ article td {
   }
 }
 
+// ─── Herbal Cards ────────────────────────────────────────────────────────────
+.herbal-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  width: 100%;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}
+
+.herbal-card {
+  display: block !important;
+  border-radius: 10px !important;
+  background: #32CD32 !important;
+  padding: 15px !important;
+  transition: transform 0.15s ease;
+
+  &:hover { transform: scale(1.05); }
+
+  @media (max-width: 768px) {
+    padding: 8px !important;
+    border-radius: 7px !important;
+  }
+}
+
+.herbal-card__inner {
+  display: flex;
+  flex-direction: column;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.herbal-card__image {
+  aspect-ratio: 1/1;
+  background: #000 center/cover no-repeat;
+}
+
+.herbal-card__bar {
+  height: 6px;
+  flex-shrink: 0;
+  background: #32CD32;
+
+  @media (max-width: 768px) { height: 4px; }
+}
+
+.herbal-card__name {
+  padding: 12px 8px;
+  background: #000;
+  text-align: center;
+  color: #ccc;
+  font-size: 1.5rem;
+  letter-spacing: 0.18em;
+
+  @media (max-width: 768px) {
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+    padding: 8px 4px;
+  }
+}
+
+.herbal-image {
+  float: left;
+  margin: 0 60px 16px 0;
+  padding: 12px;
+  display: inline-block;
+  line-height: 0;
+  border: 2px solid transparent;
+  background: linear-gradient(#000, #000) padding-box,
+              linear-gradient(#32CD32, #32CD32) border-box;
+
+  img {
+    display: block;
+    width: 300px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    margin: 0 16px 4px 0;
+    padding: 5px;
+    border-width: 1px;
+
+    img {
+      width: 140px;
+    }
+  }
+}
+
 // ─── Placeholder Card ─────────────────────────────────────────────────────────
 .bestiary-card--placeholder {
   display: flex;

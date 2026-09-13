@@ -29,4 +29,4 @@ Vessels can contain Vespers within themselves, each having the capacity to hold 
 # .production
 <div class="bestiary-divider"></div>
 
-Vessels are entirely manufactured by Ultraviolet. Their fabrication process is extremely expensive and time-consuming, so only a limited number is produced at a time.
+Vessels are entirely manufactured by [[Ultraviolet]]. Their fabrication process is extremely expensive and time-consuming, so only a few are produced at a time.

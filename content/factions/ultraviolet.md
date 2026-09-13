@@ -38,11 +38,11 @@ The Operator hierarchy is based on strength, with the Captains being the demonst
 | Captain   | Lorand Aorello (Soma // Vexer)                              | Victor (Victor)   | ⨉                 |
 | Operators | Jacques Ren (Human // Hybrid)<br>Azuria Velos (Steel Shark) | -                 | -                 |
 
-| Retired |                               |                   |     |
-| ------- | ----------------------------- | ----------------- | --- |
-|         | Iceman's Division             | Victor's Division | -   |
-| Captain | Radek Preda (Human // Hybrid) | Victor (Human)    | -   |
-| Reason  | Voluntary Resignation         | Death             | -   |
+| Retired |                               |                   |
+| ------- | ----------------------------- | ----------------- |
+|         | Iceman's Division             | Victor's Division |
+| Captain | Radek Preda (Human // Hybrid) | Victor (Human)    |
+| Reason  | Voluntary Resignation         | Death             |
 
 Civilians can apply or be recruited by a Captain to become an Operator. Training is provided within Ultraviolet, and licensing and pay are issued by the Executive. While extensive injury coverage is provided, a majority of Operators have the ability to regenerate, which makes it unnecessary in most cases. Operators can resign whenever, and are forcefully retired around age 50. Working as an Operator independently, without being members of Ultraviolet, is illegal and will be subjected to severe punishment by a legitimate Operator.
 # .conduct
@@ -57,4 +57,8 @@ In case of a dimensional breach, Operators are sent on-site to determine the typ
 # .assets
 <div class="bestiary-divider"></div>
 
-Ultraviolet doesn't have a real headquarter, instead unofficially sharing the Spine with the [[Pale]], along with officially partially owning the Signal Stations with them. Most ways of access into and materials from the FLIPSIDE are owned by Ultraviolet and leased or sold to the [[Pale]]. Operator equipment is provided by Ultraviolet in collaboration with the [[Pale]].
+- The Spine, unofficial headquarters shared by the [[Pale]];
+- Signal Stations, partial ownership with the [[Pale]];
+- [[vessels|Vessel]] manufacturing facilities;
+- Most ways of access into and materials from the FLIPSIDE, later leased or sold to the [[Pale]];
+- Equipment contracted from the [[Pale]].

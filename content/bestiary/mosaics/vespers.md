@@ -21,7 +21,7 @@ Vespers have no set anatomy. Each individual can very drastically in appearance,
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vespers are self-aware and extremely intelligent. The existence of their species is incidental, born as a side effect of Violence Against Art existing, traces of his influence being contaminated and corrupted by [[anima|Anima]], leading to the formation of the pseudo-[[Devils]] later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits and even body plans found in [[Devils]]. They are otherwise mostly cooperative, although they ultimately do so to further their own agendas.
+Vespers are self-aware and extremely intelligent. The existence of their species is incidental, born as a side effect of Violence Against Art existing, which left behind and permitted the refraction and multiplication of specific light frequencies and ultimately crystallisation under [[anima|Anima]] contamination, leading to the formation of the pseudo-[[Devils]] later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits and even body plans found in [[Devils]]. They are otherwise mostly cooperative and social.
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -45,4 +45,4 @@ Vectors fall into two categories:
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Vespers reproduce through light. They leave behind certain imperceptible frequencies and wavelengths of light that, in the presence of a high enough density of [[anima|Anima]], will crystallise into a womb-like larva. This larva will then absorb the surrounding [[anima|Anima]] and radiation, eventually reaching a point of saturation which will create a mature Vesper.
+Vespers reproduce through light. Certain imperceptible frequencies and wavelengths of light resulting from Vesper existence, in the presence of a high enough density of [[anima|Anima]], will crystallise into a womb-like larva. This larva will then absorb the surrounding [[anima|Anima]] and radiation, eventually reaching a point of saturation which will create a mature Vesper.
