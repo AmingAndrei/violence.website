@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - factions
 aliases:
-  - The Pale
+  - Pale
 ---
 <br><a href="/factions" class="nav-button">← FACTIONS</a>
 <br><br>

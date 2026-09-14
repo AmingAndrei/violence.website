@@ -42,7 +42,7 @@ cssclasses:
     <span class="materium-card__label">.ultraviolet</span>
   </a>
 
-  <a href="/factions" class="materium-card factions-grid--trio__node factions-grid--trio__node--right">
+  <a href="/factions/chromacy" class="materium-card factions-grid--trio__node factions-grid--trio__node--right">
     <div class="materium-card__icon-wrap">
       <span class="materium-card__glow"></span>
       <div class="materium-card__frame">
