@@ -42,7 +42,7 @@ Chromatism doesn't really believe in the concept of sin. Instead, every person i
 
 Prayer is separated into quiet prayer, which we do throughout our lives whenever he hope or dream for something, and loud prayer, which is when we attempt to commune directly with Lady Chroma. After death, the body is incinerated, since the soul now resides within the ones closest. Marriage is an essential ceremony, where two individuals join together for life, regardless of gender.
 
-The Chromacy, and Chromaticism as a whole, have a neutral to negative bias towards Daemons, extending even to hybrids or half-breeds, being seen as outside of Lady Chroma's teachings and order, although the Chromacy does attempt to make amends without changing their doctrine. Moreover, initiation is nigh impossible, with almost all chromaticans being born one.
+The Chromacy, and Chromaticism as a whole, have a negative bias towards Daemons, extending even to hybrids or half-breeds, being seen as outside of this world and of Lady Chroma's order, although the Chromacy does attempt to make amends without changing their doctrine. Moreover, initiation is nigh impossible, with almost all chromaticans being born one.
 # .assets
 <div class="bestiary-divider"></div>
 
