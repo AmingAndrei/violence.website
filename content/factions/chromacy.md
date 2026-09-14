@@ -28,7 +28,7 @@ The Chromacy's role is to act as ruling authority over Chromaticism, its doctrin
 # .structure
 <div class="bestiary-divider"></div>
 
-The supreme authority and object of worship of Chromaticism is Fair Lady Chroma. She is a a messianic figure, not a creator, but an embodiment of the world that birthed humanity and allowed it to flourish, the one waiting for us at the beginning and end of our world and our lives. Chromaticism believes Lady Chroma embodies Herself in certain humans when the world faces great turmoil. This is the reason the Conductors have all agreed to Mihaela Rebreanu's position as Executive of the [[Pale]].
+The supreme authority and object of worship of Chromaticism is Fair Lady Chroma. She is a a messianic figure, not a creator, but an embodiment of the world that birthed humanity and allowed it to flourish, the one waiting for us at the beginning and end of our world and our lives. Chromaticism believes Lady Chroma embodies Herself in certain humans when the world faces great turmoil. This is the reason the Conductors have all come to terms with Mihaela Rebreanu's position as Executive of the [[Pale]], even if the [[Pale]] enforces a secular government.
 
 The Oracle Machine is a device from ~2000 AAV, built with the intention of analysing all possible futures of humanity, thought to be capable of directly communicating with Lady Chroma. There has only ever existed one Oracle Machine, being continuously repaired and upgraded with the latest technologies to improve the accuracy of its readings. The Chromacy uses the Oracle Machine to analyse the collective future of humanity, and with it follow the 'Golden Path' set forth by Lady Chroma.
 
