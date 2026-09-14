@@ -38,11 +38,11 @@ The Chromacy is collectively administered by 10 Conductors, residing in the Choi
 
 Chromaticism believes the spiritual and physical worlds are one, and when we die, we remain here to help our closest when in need, with the help of Lady Chroma, which will grant us permanent tranquility after our job is finished. Humanity is no less divine than it is ordinary, at the middle ground between Lady Chroma and earthly life.
 
-Chromatism doesn't really believe in the concept of sin. Instead, every person is born pure, although immoral and impure thoughts and actions can tarnish the soul, which can be undone by righting your wrongs. Generally, actions that are in the interest of only oneself, or that are solely in the interest of others, are seen as wrong. There exist two unforgivable sins: living an unfulfilling life, and dying an unfulfilling death. 
+Chromatism doesn't really believe in the concept of sin. Instead, every person is born pure, although immoral and impure thoughts and actions can tarnish the soul, which can be undone by righting your wrongs and doing more good than cumulative bad. Generally, actions that are in the interest of only oneself, that are solely in the interest of others, or that detrimental to oneself or to others, are seen as wrong. There exist two unforgivable sins: living an unfulfilling life, and dying an unfulfilling death. 
 
 Prayer is separated into quiet prayer, which we do throughout our lives whenever he hope or dream for something, and loud prayer, which is when we attempt to commune directly with Lady Chroma. After death, the body is incinerated, since the soul now resides within the ones closest. Marriage is an essential ceremony, where two individuals join together for life, regardless of gender.
 
-The Chromacy, and Chromaticism as a whole, have a negative bias towards Daemons, extending even to hybrids or half-breeds, being seen as outside of this world and of Lady Chroma's order, although the Chromacy does attempt to make amends without changing their doctrine. Moreover, initiation is nigh impossible, with almost all chromaticans being born one.
+The Chromacy, and Chromaticism as a whole, has a negative bias towards Daemons, being seen as outside of this world and thus of Lady Chroma's order, although the Chromacy does attempt to make amends without changing their doctrine. Moreover, initiation is nigh impossible, with almost all chromaticans being born one.
 # .assets
 <div class="bestiary-divider"></div>
 
