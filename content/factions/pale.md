@@ -24,7 +24,7 @@ The Pale is the governmental power of City Zero, ruling alongside [[Ultraviolet]
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Pale was created by Mihaela Rebreanu as a secular state, and is responsible with overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their human population, and the rehabilitations of habitats outside City Zero.
+The Pale was created by Mihaela Rebreanu, and is responsible with overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their human population, and the rehabilitations of habitats outside City Zero.
 # .structure
 <div class="bestiary-divider"></div>
 
