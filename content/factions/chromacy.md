@@ -36,7 +36,7 @@ The Chromacy is collectively administered by 10 Conductors, residing in the Choi
 # .conduct
 <div class="bestiary-divider"></div>
 
-Chromaticism believes the spiritual and physical worlds are the same, and when we die, we remain here to help our closest when in need, as long as our help is needed. When we're done, we peacefully cease to be. Humanity is no less divine than it is ordinary.
+Chromaticism believes the spiritual and physical worlds are the same, and when we die, we remain here to help our closest when in need, as long as our help is needed. When we're done, we peacefully cease to be, to make room for new people. Humanity is no less divine than it is ordinary.
 
 Chromatism doesn't really believe in the concept of sin. Instead, every person is born pure, although immoral and impure thoughts and actions can tarnish the soul, which can be undone by righting your wrongs and doing more good than cumulative bad. Generally, actions that are in the interest of only oneself, that are solely in the interest of others, or that detrimental to oneself or to others, are seen as wrong. There exist two unforgivable sins: living an unfulfilling life, and dying an unfulfilling death. Sinners are forever doomed to remain restless spirits, trying to leach off of the lives of the living.
 
