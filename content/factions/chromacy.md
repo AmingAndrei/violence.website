@@ -36,13 +36,13 @@ The Chromacy is collectively administered by 10 Conductors, residing in the Choi
 # .conduct
 <div class="bestiary-divider"></div>
 
-Chromaticism believes the spiritual and physical worlds are one, and when we die, we remain here to help our closest when in need, with the help of Lady Chroma, which will grant us permanent tranquility after our job is finished. Humanity is no less divine than it is ordinary, at the middle ground between Lady Chroma and earthly life.
+Chromaticism believes the spiritual and physical worlds are the same, and when we die, we remain here to help our closest when in need, as long as our help is needed. When we're done, we peacefully cease to be. Humanity is no less divine than it is ordinary.
 
-Chromatism doesn't really believe in the concept of sin. Instead, every person is born pure, although immoral and impure thoughts and actions can tarnish the soul, which can be undone by righting your wrongs and doing more good than cumulative bad. Generally, actions that are in the interest of only oneself, that are solely in the interest of others, or that detrimental to oneself or to others, are seen as wrong. There exist two unforgivable sins: living an unfulfilling life, and dying an unfulfilling death. 
+Chromatism doesn't really believe in the concept of sin. Instead, every person is born pure, although immoral and impure thoughts and actions can tarnish the soul, which can be undone by righting your wrongs and doing more good than cumulative bad. Generally, actions that are in the interest of only oneself, that are solely in the interest of others, or that detrimental to oneself or to others, are seen as wrong. There exist two unforgivable sins: living an unfulfilling life, and dying an unfulfilling death. Sinners are forever doomed to remain restless spirits, trying to leach off of the lives of the living.
 
-Prayer is separated into quiet prayer, which we do throughout our lives whenever he hope or dream for something, and loud prayer, which is when we attempt to commune directly with Lady Chroma. After death, the body is incinerated, since the soul now resides within the ones closest. Marriage is an essential ceremony, where two individuals join together for life, regardless of gender.
+Prayer is separated into quiet prayer, which we do throughout our lives whenever he hope or dream for something, and loud prayer, which is when we attempt to commune directly with Lady Chroma. After death, the body is incinerated, since we now resides within the ones closest. Marriage is an essential part of life, where two individuals join together for life, regardless of gender.
 
-The Chromacy, and Chromaticism as a whole, has a negative bias towards Daemons, their existence being seen as sinful due to being from outside this world and thus of Lady Chroma's order, although the Chromacy does attempt to make amends without changing their doctrine. Moreover, initiation is nigh impossible, with almost all chromaticans being born one.
+The Chromacy, and Chromaticism as a whole, has a negative bias towards Daemons, due to their existence being counter to Lady Chroma's Golden Path, although the Chromacy does attempt to make amends without changing their doctrine. Moreover, initiation is nigh impossible, with almost all chromaticans being born one.
 # .assets
 <div class="bestiary-divider"></div>
 
