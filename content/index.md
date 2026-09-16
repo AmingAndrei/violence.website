@@ -30,9 +30,9 @@ VIOLENCE is a horror science-fantasy multimedia series and worldbuilding project
     <span class="main-nav-card__label">HERBAL</span>
   </a>
 
-  <a href="/grimoire" class="main-nav-card">
-    <img src="assets/icons/grimoire.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Grimoire"/>
-    <span class="main-nav-card__label">GRIMOIRE</span>
+  <a href="/powers" class="main-nav-card">
+    <img src="assets/icons/powers.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Powers"/>
+    <span class="main-nav-card__label">POWERS</span>
  </a>
 
   <a href="/factions" class="main-nav-card">

@@ -1386,6 +1386,70 @@ article td {
   }
 }
 
+// ─── Power System Cards ─────────────────────────────────────────────────────
+.power-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  width: 100%;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}
+
+.power-card {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  padding: 20px !important;
+  border: 1px solid white !important;
+  border-radius: 8px !important;
+  background: transparent !important;
+  color: white !important;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+
+  &:hover { transform: scale(1.02); }
+
+  @media (max-width: 768px) {
+    padding: 12px !important;
+  }
+}
+
+.power-card__image {
+  width: 100%;
+  aspect-ratio: 1/1;
+  background: #000 center/cover no-repeat;
+  border-radius: 4px;
+}
+
+.power-card__divider {
+  width: 30%;
+  height: 1px;
+  background: white;
+  margin: 16px 0;
+
+  @media (max-width: 768px) {
+    width: 40%;
+    margin: 10px 0;
+  }
+}
+
+.power-card__label {
+  font-size: 1.6rem;
+  letter-spacing: 0.22em;
+  font-weight: 400;
+  text-align: center;
+
+  @media (max-width: 768px) {
+    font-size: 0.85rem;
+    letter-spacing: 0.12em;
+  }
+}
+
 // ─── Factions — Trio Layout ─────────────────────────────────────────────────
 .factions-grid--trio {
   overflow: visible;
