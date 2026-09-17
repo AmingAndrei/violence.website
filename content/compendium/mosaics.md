@@ -4,11 +4,11 @@ cssclasses:
   - mosaic
 tags:
   - mosaic
-  - bestiary
+  - compendium
 aliases:
   - Mosaics
 ---
-<br><a href="/bestiary" class="nav-button">← BESTIARY</a><br><br>
+<br><a href="/compendium" class="nav-button">← COMPENDIUM</a><br><br>
 Mosaics (_Mosaica_ class) are semi-colonial artificial high Daemons, representing the virtually most diverse group of species in the FLIPSIDE, originating from Violence Against Art.
 
 Mosaic cells are cyanobacteria-like crystalline nanoorganisms, formed entirely from solid light, that are, in truth, their own individual being, forming a single colonial organism. They have an individual processing power similar to supercomputers, and can function as a mix between myocytes and osteocytes, with dedicated clusters forming audio-visual sensors. Damage in one part of the body can resonate across the entire organism, causing the rest of the cells to shatter and die. Genetically, Mosaics have a layered infrastructure, with all species utilising Violence Against Art's base code as a library.
@@ -19,7 +19,7 @@ Mosaics feed on all types of radiation and [[anima|Anima]]. If deprived for long
 
 <div class="bestiary-grid--mosaics">
 
-  <a href="/bestiary/mosaics/vespers" class="mosaic-card mosaic-card--magenta">
+  <a href="/compendium/mosaics/vespers" class="mosaic-card mosaic-card--magenta">
     <div class="mosaic-card__inner">
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>
@@ -27,7 +27,7 @@ Mosaics feed on all types of radiation and [[anima|Anima]]. If deprived for long
     </div>
   </a>
 
-<a href="/bestiary/mosaics/somas" class="mosaic-card mosaic-card--yellow">
+<a href="/compendium/mosaics/somas" class="mosaic-card mosaic-card--yellow">
     <div class="mosaic-card__inner">
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>
@@ -35,7 +35,7 @@ Mosaics feed on all types of radiation and [[anima|Anima]]. If deprived for long
     </div>
   </a>
 
-<a href="/bestiary/mosaics/vessels" class="mosaic-card mosaic-card--key">
+<a href="/compendium/mosaics/vessels" class="mosaic-card mosaic-card--key">
     <div class="mosaic-card__inner">
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>
@@ -43,7 +43,7 @@ Mosaics feed on all types of radiation and [[anima|Anima]]. If deprived for long
     </div>
   </a>
 
-<a href="/bestiary/mosaics/viewers" class="mosaic-card mosaic-card--key">
+<a href="/compendium/mosaics/viewers" class="mosaic-card mosaic-card--key">
     <div class="mosaic-card__inner">
       <div class="mosaic-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
       <div class="mosaic-card__bar"></div>

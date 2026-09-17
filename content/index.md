@@ -15,9 +15,9 @@ VIOLENCE is a horror science-fantasy multimedia series and worldbuilding project
     <span class="main-nav-card__label">BOOKS</span>
   </a>
 
-  <a href="/bestiary" class="main-nav-card">
+  <a href="/compendium" class="main-nav-card">
     <img src="assets/icons/bestiary.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Bestiary"/>
-    <span class="main-nav-card__label">BESTIARY</span>
+    <span class="main-nav-card__label">COMPENDIUM</span>
   </a>
 
   <a href="/materium" class="main-nav-card">

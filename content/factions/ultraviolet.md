@@ -50,8 +50,8 @@ Civilians can apply or be recruited by a Captain to become an Operator. Training
 
 Ultraviolet makes great usage of the Signal Stations outside City Zero, intercepting threats way before they reach civilians. However, should something reach the city, Operators are instructed to prioritise the safety of civilians, even if it involves other civilian casualties. Hybrids are also limited in activation due to increased risk of Chromic Rot. Different species require different approaches:
 - Most non-sapient Daemons are lured into relocation cages, which are then released far away from City Zero.
-- Sapient Daemons are first engaged diplomatically, resorting to aggression only if peaceful negotiations fail. Capture is preferred over execution, and in the case of [[Vespers]], usage of [[Vessels]].
-- [[Devils]] are always KoS.
+- Sapient Daemons are first engaged diplomatically, resorting to aggression only if peaceful negotiations fail. Capture is preferred over execution, and in the case of [[vespers]], usage of [[vessels]].
+- [[devils]] are always KoS.
 
 In case of a dimensional breach, Operators are sent on-site to determine the type of breach and Daemon that could cause it. After those parameters are determined, they will attempt to prevent the breach. Should this fail, it will be treated as a regular engagement. In the FLIPSIDE, Operators are instructed to engage only if engaged first, and to avoid any unnecessary actions that could draw unwanted attention, but otherwise anything goes. Missions are all times surveyed by the Executive.
 # .assets

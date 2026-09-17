@@ -8,7 +8,7 @@ aliases:
   - Kirlian Mimics
   - Kirlian Mimic
 ---
-<br><a href="/bestiary/devils" class="nav-button">← DEVILS</a>
+<br><a href="/compendium/devils" class="nav-button">← DEVILS</a>
 <br><br>
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="KIRLIAN MIMIC" /> </div>

@@ -617,7 +617,7 @@ article td {
   }
 }
 
-// ─── Bestiary ─────────────────────────────────────────────────────────────────
+// ─── Compendium ─────────────────────────────────────────────────────────────────
 .row {
   display: flex;
   gap: 42px;
@@ -884,9 +884,17 @@ article td {
   }
 }
 
-/* ── Bestiary Divider ─────────────────────────────────────────── */
-
 .bestiary-divider {
+  overflow: hidden;
+  border: none;
+  height: 1px;
+  background: #ffffff;
+  margin: 1rem 0;
+}
+
+/* ── Compendium Divider ─────────────────────────────────────────── */
+
+.compendium-divider {
   --divider-color: #999;
   --divider-endpoint: #ccc;
   --divider-width: 980px;
@@ -904,8 +912,8 @@ article td {
 }
 
 /* Decorative endpoints extending just beyond the divider */
-.bestiary-divider::before,
-.bestiary-divider::after {
+.compendium-divider::before,
+.compendium-divider::after {
   content: '';
   position: absolute;
   top: 50%;
@@ -916,36 +924,36 @@ article td {
   transform: translateY(-50%) rotate(45deg);
 }
 
-.bestiary-divider::before {
+.compendium-divider::before {
   left: calc(var(--divider-overhang) * -1);
 }
 
-.bestiary-divider::after {
+.compendium-divider::after {
   right: calc(var(--divider-overhang) * -1);
 }
 
 /* Optional inner highlight */
-.bestiary-divider {
+.compendium-divider {
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.12);
 }
 
 @media (max-width: 768px) {
-  .bestiary-divider {
+  .compendium-divider {
     --divider-overhang: 8px;
 
     width: calc(100% - 24px + (var(--divider-overhang) * 2));
     margin: 28px auto;
   }
 
-  .bestiary-divider::before,
-  .bestiary-divider::after {
+  .compendium-divider::before,
+  .compendium-divider::after {
     width: 5px;
     height: 5px;
   }
 }
 
 @media (max-width: 400px) {
-  .bestiary-divider {
+  .compendium-divider {
     --divider-overhang: 6px;
 
     margin: 22px auto;

@@ -4,12 +4,12 @@ cssclasses:
   - chimera
 tags:
   - chimera
-  - bestiary
+  - compendium
 aliases:
   - Chimeras
   - Chimera
 ---
-<br><a href="/bestiary" class="nav-button">← BESTIARY</a><br><br>
+<br><a href="/compendium" class="nav-button">← COMPENDIUM</a><br><br>
 Chimeras (_Chimaeria_ class) are a type of high Daemon displaying chimeric traits and behaviours.
 
 All Chimeras are comprised of two constituents:
@@ -32,7 +32,7 @@ Chimeras, while still obeying the principles of Darwinian evolution, follow at l
 
 <div class="bestiary-grid--chimeras">
 
-<a href="/bestiary/chimeras/fae" class="chimera-card">
+<a href="/compendium/chimeras/fae" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
@@ -40,7 +40,7 @@ Chimeras, while still obeying the principles of Darwinian evolution, follow at l
   </div>
 </a>
 
-<a href="/bestiary/chimeras/cipactin" class="chimera-card">
+<a href="/compendium/chimeras/cipactin" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
@@ -48,7 +48,7 @@ Chimeras, while still obeying the principles of Darwinian evolution, follow at l
   </div>
 </a>
 
-<a href="/bestiary/chimeras/zmey" class="chimera-card">
+<a href="/compendium/chimeras/zmey" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
@@ -56,7 +56,7 @@ Chimeras, while still obeying the principles of Darwinian evolution, follow at l
   </div>
 </a>
 
-<a href="/bestiary/chimeras/gargouilles" class="chimera-card">
+<a href="/compendium/chimeras/gargouilles" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
@@ -64,7 +64,7 @@ Chimeras, while still obeying the principles of Darwinian evolution, follow at l
   </div>
 </a>
 
-<a href="/bestiary/chimeras/mardykhora" class="chimera-card">
+<a href="/compendium/chimeras/mardykhora" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
@@ -72,7 +72,7 @@ Chimeras, while still obeying the principles of Darwinian evolution, follow at l
   </div>
 </a>
 
-<a href="/bestiary/chimeras/balauri" class="chimera-card">
+<a href="/compendium/chimeras/balauri" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
@@ -80,7 +80,7 @@ Chimeras, while still obeying the principles of Darwinian evolution, follow at l
   </div>
 </a>
 
-<a href="/bestiary/chimeras" class="chimera-card">
+<a href="/compendium/chimeras" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>

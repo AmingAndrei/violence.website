@@ -1,31 +1,31 @@
 ---
-title: BESTIARY
+title: COMPENDIUM
 tags:
   - homepage
-  - bestiary
+  - compendium
 ---
 <br><a href="/" class="nav-button">← HOME</a>
 <br>
 
 <div class="row">
-  <a class="spine spine--chimeras" href="/bestiary/chimeras">
+  <a class="spine spine--chimeras" href="/compendium/chimeras">
     <span class="spine__sigil">✦</span>
     <span class="spine__title">.CHIMERAS</span>
     <span class="spine__base"></span>
   </a>
-  <a class="spine spine--devils" href="/bestiary/devils">
+  <a class="spine spine--devils" href="/compendium/devils">
     <span class="spine__sigil">✦</span>
     <span class="spine__title">.DEVILS</span>
     <span class="spine__base"></span>
   </a>
-  <a class="spine spine--mosaics" href="/bestiary/mosaics">
+  <a class="spine spine--mosaics" href="/compendium/mosaics">
     <span class="spine__sigil">✦</span>
     <span class="spine__title">.MOSAICS</span>
     <span class="spine__base"></span>
   </a>
 </div>
 
-<div class="bestiary-divider" aria-hidden="true"></div>
+<div class="compendium-divider" aria-hidden="true"></div>
 <div class="row">
   <a class="spine spine--inanimals" href="#">
     <span class="spine__sigil">✦</span>
