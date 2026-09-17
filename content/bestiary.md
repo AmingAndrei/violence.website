@@ -7,16 +7,54 @@ tags:
 <br><a href="/" class="nav-button">← HOME</a>
 <br>
 
-<div class="bestiary-nav">
+<div class="row">
+  <a class="spine spine--chimeras" href="/bestiary/chimeras">
+    <span class="spine__sigil">✦</span>
+    <span class="spine__title">.CHIMERAS</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--devils" href="/bestiary/devils">
+    <span class="spine__sigil">✦</span>
+    <span class="spine__title">.DEVILS</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--mosaics" href="/bestiary/mosaics">
+    <span class="spine__sigil">✦</span>
+    <span class="spine__title">.MOSAICS</span>
+    <span class="spine__base"></span>
+  </a>
+</div>
 
-<a href="/bestiary" class="bestiary-btn bestiary-btn--inanimals" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">.inanimals</a>
-<a href="/bestiary" class="bestiary-btn bestiary-btn--sirens" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">.sirens</a>
-<a href="/bestiary" class="bestiary-btn bestiary-btn--empusas" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">.empusas</a>
-<a href="/bestiary" class="bestiary-btn bestiary-btn--aquilas" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">.aquilas</a>
-<a href="/bestiary" class="bestiary-btn bestiary-btn--leviathans" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">.leviathans</a>
-<a href="/bestiary/chimeras" class="bestiary-btn bestiary-btn--chimeras" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">.chimeras ★</a>
-<a href="/bestiary/devils" class="bestiary-btn bestiary-btn--devils" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">.devils ★</a>
-<a href="/bestiary/mosaics" class="bestiary-btn bestiary-btn--mosaics" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">.mosaics ★</a>
-<a href="/bestiary" class="bestiary-btn bestiary-btn--kaiju" onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">.kaiju</a>
-
+<div class="bestiary-divider" aria-hidden="true"></div>
+<div class="row">
+  <a class="spine spine--inanimals" href="#">
+    <span class="spine__sigil">✦</span>
+    <span class="spine__title">.INANIMALS</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--sirens" href="#">
+    <span class="spine__sigil">✦</span>
+    <span class="spine__title">.SIRENS</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--empusas" href="#">
+    <span class="spine__sigil">✦</span>
+    <span class="spine__title">.EMPUSAS</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--aquilas" href="#">
+    <span class="spine__sigil">✦</span>
+    <span class="spine__title">.AQUILAS</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--leviathans" href="#">
+    <span class="spine__sigil">✦</span>
+    <span class="spine__title">.LEVIATHANS</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--kaiju" href="#">
+    <span class="spine__sigil">✦</span>
+    <span class="spine__title">.KAIJU</span>
+    <span class="spine__base"></span>
+  </a>
 </div>
