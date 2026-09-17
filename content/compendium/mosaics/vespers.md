@@ -21,7 +21,7 @@ Vespers have no set anatomy. Each individual can very drastically in appearance,
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vespers are self-aware and extremely intelligent. The existence of their species is incidental, born as a side effect of Violence Against Art existing, which left behind and permitted the refraction and multiplication of specific light frequencies and ultimately crystallisation under [[anima|Anima]] contamination, leading to the formation of the pseudo-[[devils]] later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits and even body plans found in [[devils]]. They are otherwise mostly cooperative and social.
+Vespers are self-aware and extremely intelligent. The entire species is incidental, born as a side effect of Violence Against Art's existence, which left behind and permitted the refraction and multiplication of specific light frequencies that ultimately crystallised from [[anima|Anima]] contamination, leading to the formation of the pseudo-[[Devils]] later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits and even body plans found in [[Devils]]. They are otherwise mostly cooperative and social.
 # .abilities
 <div class="bestiary-divider"></div>
 

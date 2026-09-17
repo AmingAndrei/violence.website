@@ -21,7 +21,7 @@ configuration:
       code: Share Tech Mono
     colors:
       lightMode:
-        light: "#000000"
+        light: "#050505"
         lightgray: "#ffffff"
         gray: "#ffffff"
         darkgray: "#ffffff"
@@ -31,7 +31,7 @@ configuration:
         highlight: rgba(0, 0, 0, 0.15)
         textHighlight: "#61616188"
       darkMode:
-        light: "#000000"
+        light: "#050505"
         lightgray: "#ffffff"
         gray: "#ffffff"
         darkgray: "#ffffff"
