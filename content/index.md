@@ -20,16 +20,6 @@ VIOLENCE is a horror science-fantasy multimedia series and worldbuilding project
     <span class="main-nav-card__label">COMPENDIUM</span>
   </a>
 
-  <a href="/materium" class="main-nav-card">
-    <img src="assets/icons/materium.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Materium"/>
-    <span class="main-nav-card__label">MATERIUM</span>
-  </a>
-
-  <a href="/herbal" class="main-nav-card">
-    <img src="assets/icons/herbal.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Herbal"/>
-    <span class="main-nav-card__label">HERBAL</span>
-  </a>
-
   <a href="/powers" class="main-nav-card">
     <img src="assets/icons/powers.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Powers"/>
     <span class="main-nav-card__label">POWERS</span>

@@ -7,7 +7,7 @@ tags:
 aliases:
   - HAEMOCARBIDE
 ---
-<br><a href="/materium" class="nav-button">← MATERIUM</a>
+<br><a href="/compendium/materium" class="nav-button">← MATERIUM</a>
 <br><br>
 
 <div class="materium-image">
@@ -29,4 +29,4 @@ Haemocarbide is created from [[blood]]. Certain organism can use their own or ot
 # .properties
 <div class="bestiary-divider"></div>
 
-As a result of being made from [[blood]], the structure of haemocarbide is internally reinforced by [[Anima]] incorporated in it during crystallisation. While it may share similarities with iron, the structure of haemocarbide is more similar to that of diamond and other carbon-based materials. It's an extremely tough and hard metal, with a density similar to that of silver.
+As a result of being made from [[blood]], the structure of haemocarbide is internally reinforced by [[anima]] incorporated in it during crystallisation. While it may share similarities with iron, the structure of haemocarbide is more similar to that of diamond and other carbon-based materials. It's an extremely tough and hard metal, with a density similar to that of silver.

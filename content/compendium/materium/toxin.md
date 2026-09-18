@@ -7,7 +7,7 @@ tags:
 aliases:
   - Toxin
 ---
-<br><a href="/materium" class="nav-button">← MATERIUM</a>
+<br><a href="/compendium/materium" class="nav-button">← MATERIUM</a>
 <br><br>
 
 <div class="materium-image">
@@ -25,7 +25,7 @@ The toxin is an incredibly deadly gas.
 # .source
 <div class="bestiary-divider"></div>
 
-The toxin is a byproduct of the [[Hellfire]] storms of the Wild Hunt, found throughout the entire planet, as high up as the exosphere and diffused in all bodies of water, with no depth limit.
+The toxin is a byproduct of the [[hellfire]] storms of the Wild Hunt, found throughout the entire planet, as high up as the exosphere and diffused in all bodies of water, with no depth limit.
 # .properties
 <div class="bestiary-divider"></div>
 

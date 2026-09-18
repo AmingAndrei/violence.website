@@ -701,9 +701,11 @@ article td {
 
   &--inanimals  { --spine-bg: rgb(120,120,120); --spine-frame: rgb(140,140,140); --spine-fg: #d0d0d0; }
   &--sirens     { --spine-bg: rgb(112,9,133);   --spine-frame: rgb(160,14,165);  --spine-fg: #d478f8; }
-  &--empusas    { --spine-bg: rgb(105, 26, 26);    --spine-frame: rgb(196,64,63);   --spine-fg: #f0c9be; }
+  &--empusas    { --spine-bg: rgb(105, 26, 26); --spine-frame: rgb(196,64,63);   --spine-fg: #f0c9be; }
   &--aquilas    { --spine-bg: rgb(122,92,24);   --spine-frame: rgb(212,175,55);  --spine-fg: #ffcc33; }
   &--leviathans { --spine-bg: rgb(2,26,87);     --spine-frame: rgb(45,68,161);   --spine-fg: #1d8eb1; }
+  &--flora      { --spine-bg: #398139;          --spine-frame: #37a748;          --spine-fg: #72c487; }
+  &--materium   { --spine-bg: #0041BA;          --spine-frame: #eaf4ff;          --spine-fg: #eaf4ff; }
 
   &--chimeras {
     --spine-bg: #ad5e18;
@@ -720,7 +722,7 @@ article td {
   &--mosaics {
     --spine-bg: #b5d7e6;
     --spine-frame: conic-gradient(from 0deg, #ffb3b3, #ffb3e6, #d4b3ff, #b3c8ff, #b3ecff, #b3f0c8, #fffab3, #ffd9b3, #ffb3b3);
-    --spine-fg: #7aa8b8;
+    --spine-fg: #6c95a3;
   }
 
   &--kaiju {
@@ -728,6 +730,8 @@ article td {
     --spine-frame: conic-gradient(from 0deg, #a8aeb8, #a4aabb, #9daebf, #98aac2, #9db8c2, #a0b4ba, #aab0b0, #aaacb0, #a8aeb8);
     --spine-fg: #5c7a88;
   }
+
+  
 }
 
 .spine__sigil {
@@ -1295,8 +1299,8 @@ article td {
   }
 }
 
-// ─── Herbal Cards ────────────────────────────────────────────────────────────
-.herbal-grid {
+// ─── Flora Cards ────────────────────────────────────────────────────────────
+.flora-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 16px;
@@ -1309,10 +1313,10 @@ article td {
   }
 }
 
-.herbal-card {
+.flora-card {
   display: block !important;
   border-radius: 10px !important;
-  background: #32CD32 !important;
+  background: #4cb64c !important;
   padding: 15px !important;
   transition: transform 0.15s ease;
 
@@ -1324,27 +1328,27 @@ article td {
   }
 }
 
-.herbal-card__inner {
+.flora-card__inner {
   display: flex;
   flex-direction: column;
   border-radius: 6px;
   overflow: hidden;
 }
 
-.herbal-card__image {
+.flora-card__image {
   aspect-ratio: 1/1;
   background: #000 center/cover no-repeat;
 }
 
-.herbal-card__bar {
+.flora-card__bar {
   height: 6px;
   flex-shrink: 0;
-  background: #32CD32;
+  background: #4cb64c;
 
   @media (max-width: 768px) { height: 4px; }
 }
 
-.herbal-card__name {
+.flora-card__name {
   padding: 12px 8px;
   background: #000;
   text-align: center;
@@ -1359,7 +1363,7 @@ article td {
   }
 }
 
-.herbal-image {
+.flora-image {
   float: left;
   margin: 0 60px 16px 0;
   padding: 12px;
@@ -1367,7 +1371,7 @@ article td {
   line-height: 0;
   border: 2px solid transparent;
   background: linear-gradient(#000, #000) padding-box,
-              linear-gradient(#32CD32, #32CD32) border-box;
+              linear-gradient(#4cb64c, #4cb64c) border-box;
 
   img {
     display: block;

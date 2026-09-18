@@ -19,12 +19,12 @@ All Chimeras are comprised of two constituents:
 - Upon death of the soul, the body will enter a vegetative state, dying not long after due to organ failure.
 
 2. The Soul:
-- A physical construct composed entirely of [[Phlogiston]], grafted on by ████ and ████, housed within a complex of vessels and nodes spanning the entire body, similar in structure to a lymphatic system.
+- A physical construct composed entirely of [[phlogiston]], grafted on by ████ and ████, housed within a complex of vessels and nodes spanning the entire body, similar in structure to a lymphatic system.
 - During gestation, the soul forms first, around which the body follows and forms around. The body will consistently match the shape of the soul.
-- The [[Phlogiston]] comprising the soul uses [[anima|Anima]] as a fuel source, with the burning reaction animating the Chimera. This is also what allows Chimeras to reach extreme sized.
+- The [[phlogiston]] comprising the soul uses [[anima|Anima]] as a fuel source, with the burning reaction animating the Chimera. This is also what allows Chimeras to reach extreme sized.
 - Upon death of the body, the soul will immediately burn out.
-- The [[Phlogiston]] comprising the soul can be expelled from the body, the efficiency being proportionate with the node density of certain areas.
-- Due to soul similarity, the [[Phlogiston]] of one species and all resulting byproducts are inert to other members of the same species.
+- The [[phlogiston]] comprising the soul can be expelled from the body, the efficiency being proportionate with the node density of certain areas.
+- Due to soul similarity, the [[phlogiston]] of one species and all resulting byproducts are inert to other members of the same species.
 
 Chimeras, while still obeying the principles of Darwinian evolution, follow at least partially the rules of Lamarckian evolution, although these changes are not always permanent and will revert in time. 
 

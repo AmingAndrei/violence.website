@@ -7,7 +7,7 @@ tags:
 aliases:
   - Anima
 ---
-<br><a href="/materium" class="nav-button">← MATERIUM</a>
+<br><a href="/compendium/materium" class="nav-button">← MATERIUM</a>
 <br><br>
 
 <div class="materium-image">

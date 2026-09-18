@@ -6,7 +6,7 @@ tags:
 cssclasses:
   - materium
 ---
-<br><a href="/" class="nav-button">← HOME</a>
+<br><a href="/compendium" class="nav-button">← COMPENDIUM</a>
 <br><br>
 <div class="materium-grid materium-grid--labels-visible">
 
@@ -92,20 +92,6 @@ cssclasses:
       <img src="/assets/placeholder_icon.svg" class="materium-card__icon" alt="Toxin"/>
     </div>
     <span class="materium-card__label">.toxin</span>
-</a>
-
-<a href="/materium" class="materium-card">
-    <div class="materium-card__icon-wrap">
-      <span class="materium-card__glow"></span>
-      <div class="materium-card__frame">
-        <span class="materium-card__corner materium-card__corner--tl"></span>
-        <span class="materium-card__corner materium-card__corner--tr"></span>
-        <span class="materium-card__corner materium-card__corner--bl"></span>
-        <span class="materium-card__corner materium-card__corner--br"></span>
-      </div>
-      <img src="/assets/placeholder_icon.svg" class="materium-card__icon" alt="Absolutes"/>
-    </div>
-    <span class="materium-card__label">.absolutes</span>
 </a>
 
 </div>
