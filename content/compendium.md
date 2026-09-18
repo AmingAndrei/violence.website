@@ -67,4 +67,14 @@ tags:
     <span class="spine__title">.FLORA</span>
     <span class="spine__base"></span>
   </a>
+  <a class="spine spine--curses" href="/compendium">
+    <span class="spine__sigil">x</span>
+    <span class="spine__title">.FLORA</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--absolutes" href="/compendium">
+    <span class="spine__sigil">x</span>
+    <span class="spine__title">.FLORA</span>
+    <span class="spine__base"></span>
+  </a>
 </div>

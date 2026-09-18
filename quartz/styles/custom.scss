@@ -704,7 +704,7 @@ article td {
   &--empusas    { --spine-bg: rgb(105, 26, 26); --spine-frame: rgb(196,64,63);   --spine-fg: #f0c9be; }
   &--aquilas    { --spine-bg: rgb(122,92,24);   --spine-frame: rgb(212,175,55);  --spine-fg: #ffcc33; }
   &--leviathans { --spine-bg: rgb(2,26,87);     --spine-frame: rgb(45,68,161);   --spine-fg: #1d8eb1; }
-  &--flora      { --spine-bg: #398139;          --spine-frame: #37a748;          --spine-fg: #72c487; }
+  &--flora      { --spine-bg: #2e662e;          --spine-frame: #37a748;          --spine-fg: #72c487; }
   &--materium   { --spine-bg: #0041BA;          --spine-frame: #eaf4ff;          --spine-fg: #eaf4ff; }
 
   &--chimeras {
@@ -728,10 +728,8 @@ article td {
   &--kaiju {
     --spine-bg: #939da7;
     --spine-frame: conic-gradient(from 0deg, #a8aeb8, #a4aabb, #9daebf, #98aac2, #9db8c2, #a0b4ba, #aab0b0, #aaacb0, #a8aeb8);
-    --spine-fg: #5c7a88;
+    --spine-fg: #506b77;
   }
-
-  
 }
 
 .spine__sigil {
