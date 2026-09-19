@@ -29,4 +29,4 @@ Blood is found and produced in the bodies of nearly all all living beings.
 # .properties
 <div class="bestiary-divider"></div>
 
-Blood is rich in concentrated [[anima]], enough so that it can act as a direct source of physical, highly concentrated [[anima]]. The downsides is that the [[anima]] will dissipate within seconds after the blood leaves the body, with no way to replenish it after.
+Blood is rich in concentrated [[Anima]], enough so that it can act as a direct source of physical, highly concentrated [[Anima]]. The downsides is that the [[Anima]] will dissipate within seconds after the blood leaves the body, with no way to replenish it after.
