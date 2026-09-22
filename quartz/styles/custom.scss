@@ -705,7 +705,10 @@ article td {
   &--aquilas    { --spine-bg: rgb(122,92,24);   --spine-frame: rgb(212,175,55);  --spine-fg: #ffcc33; }
   &--leviathans { --spine-bg: rgb(2,26,87);     --spine-frame: rgb(45,68,161);   --spine-fg: #1d8eb1; }
   &--flora      { --spine-bg: #2e662e;          --spine-frame: #37a748;          --spine-fg: #72c487; }
-  &--materium   { --spine-bg: #0041BA;          --spine-frame: #eaf4ff;          --spine-fg: #eaf4ff; }
+  &--materium   { --spine-bg: #35637C;          --spine-frame: #eaf4ff;          --spine-fg: #eaf4ff; }
+  &--powers     { --spine-bg: rgb(28,16,74);    --spine-frame: rgb(90,60,220);   --spine-fg: #b8a8ff; }
+  &--absolutes  { --spine-bg: rgb(28,28,32);    --spine-frame: rgb(150,120,90);  --spine-fg: #cbb98a; }
+  &--curses     { --spine-bg: rgb(20,16,24);    --spine-frame: rgb(112, 130, 64);--spine-fg: #c7c98f; }
 
   &--chimeras {
     --spine-bg: #ad5e18;

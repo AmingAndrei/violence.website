@@ -24,8 +24,13 @@ tags:
     <span class="spine__base"></span>
   </a>
   <a class="spine spine--materium" href="/compendium/materium">
-    <span class="spine__sigil">✦</span>
+    <span class="spine__sigil">✧</span>
     <span class="spine__title">.MATERIUM</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--powers" href="/compendium/powers">
+    <span class="spine__sigil">✧</span>
+    <span class="spine__title">.POWERS</span>
     <span class="spine__base"></span>
   </a>
 </div>
@@ -65,6 +70,16 @@ tags:
   <a class="spine spine--flora" href="/compendium">
     <span class="spine__sigil">x</span>
     <span class="spine__title">.FLORA</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--absolutes" href="/compendium">
+    <span class="spine__sigil">x</span>
+    <span class="spine__title">.ABSOLUTES</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--curses" href="/compendium">
+    <span class="spine__sigil">x</span>
+    <span class="spine__title">.CURSES</span>
     <span class="spine__base"></span>
   </a>
 </div>

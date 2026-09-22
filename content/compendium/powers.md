@@ -5,7 +5,7 @@ tags:
   - powers
 cssclasses:
 ---
-<br><a href="/" class="nav-button">← HOME</a>
+<br><a href="/compendium" class="nav-button">← COMPENDIUM</a>
 <br><br>
 <div class="power-grid">
 
