@@ -48,7 +48,7 @@ Civilians can apply or be recruited by a Captain to become an Operator. Training
 # .conduct
 <div class="bestiary-divider"></div>
 
-Ultraviolet makes great usage of the Signal Stations outside City Zero, intercepting threats way before they reach civilians. However, should something reach the city, Operators are instructed to prioritise the safety of civilians, even if it involves other civilian casualties. Hybrids are also limited in activation due to increased risk of Chromic Rot. Different species require different approaches:
+Ultraviolet makes great usage of the Signal Stations outside City Zero, intercepting threats way before they reach civilians. However, should something reach the city, Operators are instructed to prioritise the safety of civilians, even if it involves other civilian casualties. [[hybrids|Hybrids]] are also limited in activation due to increased risk of Chromic Rot. Different species require different approaches:
 - Most non-sapient Daemons are lured into relocation cages, which are then released far away from City Zero.
 - Sapient Daemons are first engaged diplomatically, resorting to aggression only if peaceful negotiations fail. Capture is preferred over execution, and in the case of [[vespers]], usage of [[vessels]].
 - [[devils]] are always KoS.

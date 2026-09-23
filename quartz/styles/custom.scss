@@ -1622,7 +1622,7 @@ article td {
   }
 }
 
-// ─── Power System Cards ─────────────────────────────────────────────────────
+// ─── Power Cards ─────────────────────────────────────────────────────
 .power-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -1686,6 +1686,37 @@ article td {
   }
 }
 
+// ─── Power Image ─────────────────────────────────────────────────────
+.power-image {
+  float: left;
+  margin: 0 60px 16px 0;
+  padding: 20px !important;
+  border: 1px solid white !important;
+  border-radius: 8px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+
+  img {
+    display: block;
+    width: 290px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+
+  @media (max-width: 768px) {
+    margin: 0 16px 8px 0;
+    padding: 12px !important;
+    border-radius: 6px !important;
+
+    img {
+      width: 160px;
+    }
+  }
+}
+
 // ─── Factions — Trio Layout ─────────────────────────────────────────────────
 .factions-grid--trio {
   overflow: visible;
@@ -1740,7 +1771,6 @@ article td {
   &--left  { top: 90%; left: 10%; transform: translate(-50%, -50%); }
   &--right { top: 90%; left: 90%; transform: translate(-50%, -50%); }
 
-  // Kill any global truncation rules on the link itself
   &.materium-card {
     padding: 4px !important;
     overflow: visible !important;
@@ -1762,7 +1792,6 @@ article td {
     }
   }
 
-  // Force single-line, centered, untruncated label
   .materium-card__label {
     opacity: 1 !important;
     color: #fff !important;
