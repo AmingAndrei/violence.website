@@ -18,7 +18,7 @@ Hybrids are half-[[devils|Devil]] organisms.
 # .source
 <div class="bestiary-divider"></div>
 
-Hybrids are the result of a [[clutch_beetles|Clutch Beetle]] fusing with a vertebrate host, replacing their peripheral nervous system with the [[clutch_beetles|Clutch Beetle]]'s own. Some hybrids can be born as such, already fused to a [[clutch_beetles|Clutch Beetle]], if at least one of the parents is also a hybrid. The only exception to this rule is if one of the parents is a [[fae|Fae]]/half-breed, in which case the child will be a half-breed/regular human.
+Hybrids are the result of a [[clutch_beetles|Clutch Beetle]] fusing with a vertebrate host, replacing their peripheral nervous system with the [[clutch_beetles|Clutch Beetle]]'s own. Hybrids can be born as such, already fused to a [[clutch_beetles|Clutch Beetle]], if at least one of the parents is also a hybrid. The only exception to this rule is if one of the parents is a [[fae|Fae]]/half-breed, in which case the child will be a half-breed/regular human.
 # .characteristic
 <div class="bestiary-divider"></div>
 
