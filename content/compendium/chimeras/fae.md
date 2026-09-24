@@ -26,7 +26,7 @@ Their neural structure is wired in such a way that makes outright lying an extre
 # .abilities
 <div class="bestiary-divider"></div>
 
-Fae have a great mastery over [[pyromancy|Pyromancy]], with their easiest techniques being releasing [[phlogiston|Phlogiston]] from their hands. Whenever using [[pyromancy|Pyromancy]], a Fae's hair will begin burning, although this doesn't damage it.
+Fae have a great mastery over [[pyrokinesis|Pyrokinesis]], with their easiest techniques being releasing [[phlogiston|Phlogiston]] from their hands. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
 
 The greatest weakness Fae have is towards iron. Direct contact with elemental iron releases certain ions that disrupt their ability their ability to release [[Phlogiston]], along with draining them of all energy and strength. The system returns to normal not long after contact is disrupted.
 # .reproduction

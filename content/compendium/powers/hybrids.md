@@ -22,7 +22,7 @@ Hybrids are the result of a [[clutch_beetles|Clutch Beetle]] fusing with a verte
 # .characteristic
 <div class="bestiary-divider"></div>
 
-Hybrids have increased reflexes and senses compared to their species' baseline, or even restored if missing, as a result of using the [[clutch_beetles|Clutch Beetle]]'s neural infrastructure as their own. They also gain the [[devils|Devil]] ability to sense and be empowered by fear. The only sense that remains untouched is sight, as a result of it being part of the central nervous system.
+Hybrids have increased reflexes and senses compared to their species' baseline, or even restored if missing, as a result of using the [[clutch_beetles|Clutch Beetle]]'s neural infrastructure as their own. They also gain the [[devils|Devil]] ability to sense and be empowered by fear, and their abilities scale with the local [[anima|Anima]] density. The only sense that remains untouched is sight, as a result of it being part of the central nervous system.
 
 Whenever a hybrid suffers lethal trauma, it will trigger an emergency failsafe in the [[clutch_beetles|Clutch Beetle]], which will at all costs attempt to keep its host alive. During this state, the hybrid will undergo a transformation, reflective of the [[clutch_beetles|Clutch Beetle]]'s own abilities and the host's genetic and psychological profile. Generally, these transformation will fall into three categories:
 
