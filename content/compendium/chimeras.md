@@ -23,7 +23,7 @@ All Chimeras are comprised of two constituents:
 - During gestation, the soul forms first, around which the body follows and forms around. The body will consistently match the shape of the soul.
 - The [[Phlogiston]] comprising the soul uses [[anima|Anima]] as a fuel source, with the burning reaction animating the Chimera. This is also what allows Chimeras to reach extreme sized.
 - Upon death of the body, the soul will immediately burn out.
-- The [[Phlogiston]] comprising the soul can be expelled from the body, the efficiency being proportionate with the node density of certain areas.
+- The [[Phlogiston]] comprising the soul can be expelled from the body in the form of [[pyromancy|Pyromancy]].
 - Due to soul similarity, the [[Phlogiston]] of one species and all resulting byproducts are inert to other members of the same species.
 
 Chimeras, while still obeying the principles of Darwinian evolution, follow at least partially the rules of Lamarckian evolution, although these changes are not always permanent and will revert in time. 

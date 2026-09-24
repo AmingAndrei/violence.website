@@ -31,11 +31,11 @@ Gargouilles will spend most of their lifetime solitary, guarding fixed territori
 # .abilities
 <div class="bestiary-divider"></div>
 
-Gargouilles have a specialised sack in their throat used to store water. A majority of their [[Phlogiston]] nodes are located in their throat, which they use in conjunction with the water to shoot hyper-pressurised jets, composed of both [[Phlogiston]] and boiling water, capable of reaching ~500.000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock. Their throats also possess a series of holes, through which the Gargouille can shoot out steam to whistle, using it as a primary method of communication.
+Gargouilles have a specialised sack in their throat used to store water, which they use during [[pyromancy|Pyromancy]] to transform into hyper-pressurised jets, composed of both [[Phlogiston]] and boiling water, capable of reaching ~500.000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock. Their throats also possess a series of holes, through which the Gargouille can shoot out steam to whistle, using it as a primary method of communication.
 
 The wings of a Gargouille hold the remaining majority of their node density. By using the stored water, Gargouilles can reach great flying speeds by using steam propulsion. Their tail feature a specialised set of gills extending its entire length, which, when submerged in water, will pump it directly into their throat sack, along with their hide, which has microscopic grooves which channel all water directly into their sack through capillary action.
 
-Grotesques lack this throat sack and all adaptations relating to it. They are incapable of sustained flight, using their wings to glide short distances. They are, however, much stronger physically than Gargouilles, using their limbs to dig through solid rock with ease. They can expel [[Phlogiston]] from their mouth out as a sticky mucus.
+Grotesques lack this throat sack and all adaptations relating to it. They are incapable of sustained flight, using their wings to glide short distances. They are, however, much stronger physically than Gargouilles, using their limbs to dig through solid rock with ease. They can use [[pyromancy|Pyromancy]] to expel a sticky, burning mucus from their mouths.
 # .reproduction
 <div class="bestiary-divider"></div>
 
