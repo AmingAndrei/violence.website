@@ -3,7 +3,7 @@ title: HOME
 tags:
   - homepage
 ---
-<img src="/assets/logo.png" alt="Logo" class="site-logo" />
+<br><img src="/assets/logo.png" alt="Logo" class="site-logo" />
 
 ---
 VIOLENCE is a horror science-fantasy multimedia series and worldbuilding project created by Andrei "_Aming_" Cristian, revolving around the interaction between two alternate dimensions and its inhabitants. Viewer discretion is advised, as this series contains scenes and mentions of explicit gore, blood, and violence. Obviously.
