@@ -18,7 +18,7 @@ Hybrids are half-[[devils|Devil]] organisms.
 # .source
 <div class="bestiary-divider"></div>
 
-Hybrids are the result of a [[clutch_beetles|Clutch Beetle]] fusing with a vertebrate host, replacing their peripheral nervous system with the [[clutch_beetles|Clutch Beetle]]'s own. Hybrids can be born as such, already fused to a [[clutch_beetles|Clutch Beetle]], if at least one of the parents is also a hybrid. The only exception to this rule is if one of the parents is a [[fae|Fae]]/half-breed, in which case the child will be a half-breed/regular human.
+Hybrids are the result of a [[clutch_beetles|Clutch Beetle]] fusing with a vertebrate host, replacing their peripheral nervous system with the [[clutch_beetles|Clutch Beetle]]'s own. Hybrids can be born as such, already fused to a [[clutch_beetles|Clutch Beetle]], if at least one of the parents is also a hybrid. The is always guaranteed, with the only exception to this rule being if one of the parents is a [[fae|Fae]]/half-breed, in which case the child will be a half-breed/regular human. The abilities of the parent cannot be used to predict those of the child.
 # .characteristic
 <div class="bestiary-divider"></div>
 
@@ -37,4 +37,4 @@ Hybrids in this state will also constantly regenerate, able to recover from almo
 # .limitations
 <div class="bestiary-divider"></div>
 
-All the abilities of a hybrid are powered by their own [[blood]], which the [[clutch_beetles|Clutch Beetle]] uses as fuel. This means that the failsafe state will forcefully halt or not even trigger if the hybrid doesn't have enough [[blood]] in their body. This can be somewhat circumvented by consuming the [[blood]] of others, which will be used instead, and can allow the hybrid to remain transformed indefinitely. Hybrids cannot heal from [[phlogiston|Phlogiston]] or [[hellfire|Hellfire]] wounds.
+All the abilities of a hybrid are powered by their own [[blood]], which the [[clutch_beetles|Clutch Beetle]] uses as fuel. This means that the failsafe state will forcefully halt or not even trigger if the hybrid doesn't have enough [[blood]] in their body. This can be somewhat circumvented by consuming the [[blood]] of others, which will be used instead, and can allow the hybrid to remain transformed indefinitely. Hybrids cannot heal from [[phlogiston|Phlogiston]] or [[hellfire|Hellfire]] wounds. Overusing their transformation will result in the spread of Chromic Rot to others of their species, excluding other hybrids.

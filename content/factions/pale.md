@@ -34,7 +34,7 @@ Below the Executive are the Mayor, the Bureau heads and, informally, the Captain
 # .conduct
 <div class="bestiary-divider"></div>
 
-Economically, the Pale enforced a mixed economy, where all means of production for base, essential products are owned by the state. Individual companies and vendors can bid for access to the base resources, which are then sold or used in the manufacturing process of other products. Businesses completely independent from the Pale's supply do exist, procuring their means of production through private means, ensuring demand doesn't exceed supply.
+Economically, the Pale enforced a mixed economy, where all means of production for base, essential products are owned by the state. Individual companies and vendors can bid for access to the base resources, which are then sold or used in the manufacturing process of other products. Businesses completely independent from the Pale's supply do exist, procuring their means of production through private means, ensuring demand doesn't exceed supply. The Pale is the proprietary owner of the wider Radio Computer system as a whole, maintaining their servers and leasing them to individuals.
 
 Wealth can be accumulated and luxury goods do exist with permission from the Pale, although companies and individuals with enough wealth or influence to pose a risk of economic exploitation of the citizens or of the Pale will be held under harsher regulations, if not outright be charged as criminal offence and culled. Such companies are usually dissolved, and the wealth will be reabsorbed by the Pale.
 
@@ -46,6 +46,7 @@ Any citizen within Pale territory can own private property, distinguished from p
 
 - City Zero;
 - The Spine;
+- Radio Computer network;
 - Signal Stations, partial ownership with [[ultraviolet|Ultraviolet]].
 - Absolutes:
 	- [[Nightmare Shackle]] (Green)

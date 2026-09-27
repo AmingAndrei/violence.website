@@ -24,7 +24,7 @@ Ultraviolet is the military power of City Zero, ruling alongside the [[Pale]] an
 # .purpose
 <div class="bestiary-divider"></div>
 
-Ultraviolet is responsible and has complete responsability over anything and everything related to the FLIPSIDE. This includes exploration, research and development, and neutralising any threats that could pose a threat to themselves or to City Zero, lethally or not. They can extend into civilian matters, if there is suspicion of FLIPSIDE interference of any kind, such as a dimensional breach, or under payment.
+Ultraviolet is responsible and has complete responsibility over anything and everything related to the FLIPSIDE. This includes exploration, research and development, and neutralising any threats that could pose a threat to themselves or to City Zero, lethally or not. They can extend into civilian matters, if there is suspicion of FLIPSIDE interference of any kind or under payment. They are responsible for keeping a public register of all [[hybrids]] living within City Zero and limiting their activity as to prevent the spread of Chromic Rot.
 # .structure
 <div class="bestiary-divider"></div>
 
@@ -48,10 +48,10 @@ Civilians can apply or be recruited by a Captain to become an Operator. Training
 # .conduct
 <div class="bestiary-divider"></div>
 
-Ultraviolet makes great usage of the Signal Stations outside City Zero, intercepting threats way before they reach civilians. However, should something reach the city, Operators are instructed to prioritise the safety of civilians, even if it involves other civilian casualties. [[hybrids|Hybrids]] are also limited in activation due to increased risk of Chromic Rot. Different species require different approaches:
+Ultraviolet makes great usage of the Signal Stations outside City Zero, intercepting threats way before they reach civilians. However, should something reach the city, Operators are instructed to prioritise the safety of civilians, even if it involves other civilian casualties. Different species require different approaches:
 - Most non-sapient Daemons are lured into relocation cages, which are then released far away from City Zero.
-- Sapient Daemons are first engaged diplomatically, resorting to aggression only if peaceful negotiations fail. Capture is preferred over execution, and in the case of [[vespers]], usage of [[vessels]].
-- [[devils]] are always KoS.
+- Sapient Daemons are first engaged diplomatically, resorting to aggression only if peaceful negotiations fail. Capture is preferred over execution, and in the case of [[vespers|Vespers]], usage of [[vessels|Vessels]].
+- [[devils|Devils]] are always KoS.
 
 In case of a dimensional breach, Operators are sent on-site to determine the type of breach and Daemon that could cause it. After those parameters are determined, they will attempt to prevent the breach. Should this fail, it will be treated as a regular engagement. In the FLIPSIDE, Operators are instructed to engage only if engaged first, and to avoid any unnecessary actions that could draw unwanted attention, but otherwise anything goes. Missions are all times surveyed by the Executive.
 # .assets

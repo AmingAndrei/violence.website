@@ -21,7 +21,7 @@ aliases:
   <img src="/assets/placeholder_icon.svg" alt="Hellfire"/>
 </div>
 
-Hellfire is a black, iridescent flame, a form of living, smokeless fire.
+Hellfire is a black, rainbow, iridescent flame, a form of living, smokeless fire.
 # .source
 <div class="bestiary-divider"></div>
 

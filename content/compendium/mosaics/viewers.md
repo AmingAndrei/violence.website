@@ -17,7 +17,7 @@ Viewers (_Homo sapiens_) are artificial Mosaics.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Viewers have a shadowy, humanoid appearance. Their are completely black and featureless, with the exception of their glowing, animated white eyes.
+Viewers have a shadowy, humanoid appearance. They are completely black and featureless, with the exception of their glowing, animated white eyes.
 # .behaviour
 <div class="bestiary-divider"></div>
 

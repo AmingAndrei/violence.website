@@ -17,7 +17,7 @@ Cipactin (Sg. _Cipactli_, _Cipactli maritimum_) are a species of amphibious Chim
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Cipactin have a reptilian body plan, reaching ~6 m in length, 50% of which is their tail. They are bipedal, possessing only one pair of legs, with a shoulder height of 2 m. Their have forward-facing eyes near the nasal region, and a large mouth filled with numerous small, sharp teeth. Along the full length of their bodies and on their limbs are numerous frills, spines, and fin-like appendages, along with vent-like openings running the entire length of their bodies. While the colouration of their scales is dark blue and black, their frills are bright, usually around the orange spectrum. When healthy, their joints produce a distinctive grinding noise when moving. The colour of their [[Phlogiston]] is orange.
+Cipactin have a reptilian body plan, reaching ~6 m in length, 50% of which is their tail. They are bipedal, possessing only one pair of limbs, with a shoulder height of 2 m. Their have forward-facing eyes near the nasal region, and a large mouth filled with numerous small, sharp teeth. Along the full length of their bodies and on their limbs are numerous frills, spines, and fin-like appendages, along with vent-like openings running the entire length of their bodies. While the colouration of their scales is dark blue and black, their frills are bright, usually around the orange spectrum. When healthy, their joints produce a distinctive grinding noise when moving. The colour of their [[Phlogiston]] is orange.
 # .behaviour
 <div class="bestiary-divider"></div>
 

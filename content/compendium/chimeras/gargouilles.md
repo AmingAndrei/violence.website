@@ -31,7 +31,7 @@ Gargouilles will spend most of their lifetime solitary, guarding fixed territori
 # .abilities
 <div class="bestiary-divider"></div>
 
-Gargouilles have a specialised sack in their throat used to store water, which they use during [[pyrokinesis|Pyrokinesis]] to transform into hyper-pressurised jets, composed of both [[Phlogiston]] and boiling water, capable of reaching ~500.000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock. Their throats also possess a series of holes, through which the Gargouille can shoot out steam to whistle, using it as a primary method of communication.
+Gargouilles have a specialised sack in their throat used to store water, which they use during [[pyrokinesis|Pyrokinesis]] to transform into hyper-pressurised jets, composed of both [[Phlogiston]] and boiling water, capable of reaching ~80,000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock. Their throats also possess a series of holes, through which the Gargouille can shoot out steam to whistle, using it as a primary method of communication.
 
 The wings of a Gargouille hold the remaining majority of their node density. By using the stored water, Gargouilles can reach great flying speeds by using steam propulsion. Their tail feature a specialised set of gills extending its entire length, which, when submerged in water, will pump it directly into their throat sack, along with their hide, which has microscopic grooves which channel all water directly into their sack through capillary action.
 

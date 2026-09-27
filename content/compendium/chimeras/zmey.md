@@ -34,4 +34,4 @@ Zmey reproduce sexually. The scales of female Zmey become golden from the hormon
 # .diet
 <div class="bestiary-divider"></div>
 
-Zmey are omnivorous. Their size does mean they can hunt smaller creatures with ease. The passive release of [[Phlogiston]] frrom their throat allows them to be opportunistic scavengers, sterilising rotting matter. They also consume a variety of rocks, metals and other minerals, as material for their exoskeleton.
+Zmey are omnivorous. Their size does mean they can hunt smaller creatures with ease. The passive release of [[Phlogiston]] from their throat allows them to be opportunistic scavengers, sterilising rotting matter. They also consume a variety of rocks, metals and other minerals, as material for their exoskeleton.

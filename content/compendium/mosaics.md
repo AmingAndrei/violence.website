@@ -7,6 +7,7 @@ tags:
   - compendium
 aliases:
   - Mosaics
+  - Mosaic
 ---
 <br><a href="/compendium" class="nav-button">← COMPENDIUM</a><br><br>
 Mosaics (_Mosaica_ class) are semi-colonial artificial high Daemons, representing the virtually most diverse group of species in the FLIPSIDE, originating from Violence Against Art.
