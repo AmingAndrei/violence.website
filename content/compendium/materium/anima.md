@@ -29,6 +29,6 @@ Anima is everywhere, acting as a field permeating the entire physical world. Alt
 # .properties
 <div class="bestiary-divider"></div>
 
-All living organisms have an incremental drain effect on Anima, as they absorb it passively to remain animate. [[devils|Devils]] have the greatest Anima requirements, so great that their bodies create an attractor effect in their vicinity, leading to a spike in the local density. Locations with a very low or no Anima density are barren or devoid of life entirely, and any organisms that enters such an area will die from depravation. In some edge cases, the local Anima density can be entirely depleted, but since it is universally inexhaustible, it will passively recover after a period of time.
+All living organisms have an incremental drain effect on Anima, as they absorb it passively to remain animate. [[devils|Devils]] have the greatest Anima requirements, so great that their bodies create an attractor effect in their vicinity, leading to a spike in the local density. Locations with a very low or no Anima density are barren or devoid of life entirely, and any organisms that enters such an area will die from depravation..
 
 This is not a one way process, as all beings leave imprints on the field as a whole, leaving behind biological data that can be later retrieved, including data that can be extrapolated from past and present entries, or even data that exists purely as a theoretical concept with no living counterpart.
