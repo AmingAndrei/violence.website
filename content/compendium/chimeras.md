@@ -16,6 +16,7 @@ All Chimeras are comprised of two constituents:
 
 1. The Body:
 - The physical, organic body of the Chimera. Their anatomy displays characteristics belonging to disparate classes, such as mammals, reptiles, arthropods, etc., without any conflict between traits. All Chimeras have a draconic semblance, are endothermic, and are tetradactyl.
+- The body is capable of basic regeneration, although its efficiency and limits depend from species to species.
 - Upon death of the soul, the body will enter a vegetative state, dying not long after due to organ failure.
 
 2. The Soul:

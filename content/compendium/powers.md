@@ -27,7 +27,7 @@ cssclasses:
     <span class="power-card__label">.pyrokinesis</span>
   </a>
 
-  <a href="/powers/kagee" class="power-card">
+  <a href="/powers/skiakinesis" class="power-card">
     <div class="power-card__image" style="background-image:url('/assets/placeholder_powers.svg');"></div>
     <span class="power-card__divider"></span>
     <span class="power-card__label">.skiakinesis</span>
