@@ -23,7 +23,7 @@ Skiakinesis uses light as its power source, without which it cannot be cast. Whi
 
 Skiakinesis involves the projection of shadows to affect the world around you.
 
-The way it functions is that the sorcerer will send specific signals along their nerves, strong enough to subtly interact with photons entering into direct contact, which will then trigger the effect in the target, which is in direct visual contact of the sorcerer. These signals are interpreted and channelled with the sorcerer's hands, and using them requires the formation of shadow puppets.
+The way it functions is that the sorcerer will send specific signals along their nerves, strong enough to subtly interact with photons entering into direct contact, which will then trigger the effect in the target, which the sorcerer has direct visual contact of. These signals are interpreted and channelled with the sorcerer's hands, and using them requires the formation of shadow puppets.
 
 Skiakinesis techniques fall into three categories: Receive You, YOUSEE, and Pierce Her. Most techniques require the use of both hands, although some only require one. Their effects are not purely external, as some directly affect the sorcerer's own body. The effects are also not magic, as they rely on certain physical and chemical traits of the target, which the sorcerer is interacting with directly. The intensity of the light determining the range.
 # .limitations
