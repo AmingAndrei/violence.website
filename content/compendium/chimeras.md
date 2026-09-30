@@ -81,7 +81,7 @@ Chimeras, while still obeying the principles of Darwinian evolution, follow at l
   </div>
 </a>
 
-<a href="/compendium/chimeras" class="chimera-card">
+<a href="/compendium/chimeras/blacksalamanders" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
