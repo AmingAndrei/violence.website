@@ -27,4 +27,4 @@ Pyrokinesis is considered an anti-[[Anima]] technique, due to [[phlogiston|Phlog
 # .limitations
 <div class="bestiary-divider"></div>
 
-As the main component of Pyrokinesis is [[phlogiston|Phlogiston]], all techniques are dependent on [[anima|Anima]] as fuel, with its overall strength scaling with the local [[anima|Anima]] density. Overusing Pyrokinesis techniques can cause the local [[anima|Anima]] density to temporarily decrease, which will directly impact the efficiency of [[Phlogiston]] and of Pyrokinesis until it replenishes. Overuse can also strain the body, which will also impact Pyrokinesis proficiency.
+As the main component of Pyrokinesis is [[phlogiston|Phlogiston]], all techniques are dependent on [[anima|Anima]] as fuel, with its overall strength scaling with the local [[anima|Anima]] resonance. Overusing Pyrokinesis techniques can cause the local [[anima|Anima]] resonance to temporarily decrease, which will directly impact the efficiency of [[Phlogiston]] and of Pyrokinesis until it replenishes. Overuse can also strain the body, which will also impact Pyrokinesis proficiency.

@@ -29,6 +29,6 @@ Skiakinesis techniques fall into three categories: Receive You, YOUSEE, and Pier
 # .limitations
 <div class="bestiary-divider"></div>
 
-Skiakinesis has the hard requirement of an active, powerful enough light source in the caster's vicinity, strong enough to cast a fully formed shadow. The efficiency of Skiakinesis is inversely proportional to local [[anima|Anima]] density, suffering from a massive dip in strength within the FLIPSIDE. 
+Skiakinesis has the hard requirement of an active, powerful enough light source in the caster's vicinity, strong enough to cast a fully formed shadow. The efficiency of Skiakinesis is inversely proportional to local [[anima|Anima]] resonance, suffering from a massive dip in strength within the FLIPSIDE. 
 
 Due to relying on the sorcerer's nervous structure, only regular humans with a healthy nervous system are capable of using Skiakinesis, excluding [[hybrids]], [[fae|Fae]] half-breeds, and people with neurodegenerative diseases. Each technique has a cooldown caused by the refractory period of the nervous system, and using the same technique without waiting that refraction period will apply the effect to both the target and the sorcerer.

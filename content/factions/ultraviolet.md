@@ -52,13 +52,11 @@ Ultraviolet makes great usage of the Signal Stations outside City Zero, intercep
 - Most non-sapient Daemons are lured into relocation cages, which are then released far away from City Zero.
 - Sapient Daemons are first engaged diplomatically, resorting to aggression only if peaceful negotiations fail. Capture is preferred over execution, and in the case of [[vespers|Vespers]], usage of [[vessels|Vessels]].
 - [[devils|Devils]] are always KoS.
-
-In case of a dimensional breach, Operators are sent on-site to determine the type of breach and Daemon that could cause it. After those parameters are determined, they will attempt to prevent the breach. Should this fail, it will be treated as a regular engagement. In the FLIPSIDE, Operators are instructed to engage only if engaged first, and to avoid any unnecessary actions that could draw unwanted attention, but otherwise anything goes. Missions are all times surveyed by the Executive.
 # .assets
 <div class="bestiary-divider"></div>
 
 - The Spine, unofficial headquarters shared by the [[Pale]];
 - Signal Stations, partial ownership with the [[Pale]];
 - [[vessels|Vessel]] manufacturing facilities;
-- Most ways of access into and materials from the FLIPSIDE, later leased or sold to the [[Pale]];
+- Most ways of access into the FLIPSIDE, later hired by the [[Pale]] to maintain material exploitation;
 - Equipment contracted from the [[Pale]].
