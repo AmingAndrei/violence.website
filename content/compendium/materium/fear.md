@@ -25,8 +25,8 @@ Fear is a by-product of the process of living.
 # .source
 <div class="bestiary-divider"></div>
 
-Fear is the result of a living being being subjected to stress or conditions which directly affect its chances of survival. All beings that require [[anima|Anima]] experience fear when they perceive their lives to be in danger, even if they lack the hormonal capabilities to experience fear, as long as they can experience emotional fear or possess reflexive survival instincts.
+Fear is the result of a life form being subjected to stress or conditions which are directly perceived as affecting its chances of survival. All beings that require [[Anima]] experience fear when they feel their lives are threatened, even if they lack the hormonal capabilities for it, as long as they can experience emotional fear or have an instinctive, organism-wide response to danger.
 # .properties
 <div class="bestiary-divider"></div>
 
-Fear leaves quick-fading imprints on the local [[anima|Anima]] resonance, scaling with the amount of fear experienced and the physical and mental complexity of the being. [[devils|Devils]] are capable of sensing and metabolising these imprints, increasing their reflexes, senses, speed, and strength, with fear threshold required for a [[devils|Devil]] to empower another [[devils|Devil]] being significantly higher than a regular being. If a being lacks the ability to feel fear or any sort of external self preservation instincts, they will leave zero imprints.
+Fear leaves quick-fading imprints on the local [[anima|Anima]] resonance, scaling with the amount of fear experienced and the physical and mental complexity of the being. [[devils|Devils]] are capable of sensing and metabolising these imprints, increasing their reflexes, senses, speed, and strength, although the fear threshold required for a [[devils|Devil]] to empower another [[devils|Devil]] is significantly higher than that of regular life forms. If a being lacks the ability to feel fear or any sort of organism-wide self-preservation instincts, they will leave zero imprints.
