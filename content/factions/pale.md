@@ -47,6 +47,7 @@ Any citizen within Pale territory can own private property, distinguished from p
 - City Zero;
 - The Spine;
 - Radio Computer network;
+- Most material extraction sites in the FLIPSIDE, run by hired [[ultraviolet|Ultraviolet]] Operators;
 - Signal Stations, partial ownership with [[ultraviolet|Ultraviolet]].
 - Absolutes:
 	- [[Nightmare Shackle]] (Green)

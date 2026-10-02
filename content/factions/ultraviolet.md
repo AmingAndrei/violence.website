@@ -58,5 +58,5 @@ Ultraviolet makes great usage of the Signal Stations outside City Zero, intercep
 - The Spine, unofficial headquarters shared by the [[Pale]];
 - Signal Stations, partial ownership with the [[Pale]];
 - [[vessels|Vessel]] manufacturing facilities;
-- Most ways of access into the FLIPSIDE, later hired by the [[Pale]] to maintain material exploitation;
+- Most ways of access into and material extraction sites in the FLIPSIDE;
 - Equipment contracted from the [[Pale]].
