@@ -19,7 +19,7 @@ As a group, Devils share little to no similarity with each other. No two Devil s
 - Devils do not age after reaching species maturity.
 - Devils require little sustenance when compared to their activity level, although they can get hungry.
 - Devil speech has the property of being automatically translated, meaning the hearer will perceive Devil speech in their mother tongue, with no exception. This also works in reverse, with Devils being capable of understanding all languages, although they are unable to distinguish between them.
-- Devils can sense and metabolise the fear of other life forms, with beings experiencing fear in the immediate vicinity of a Devil invariably increasing the reflexes, senses, speed and strength of said Devil. This extends to all species that are considered alive and that are capable of experiencing fear, including other² Devils.
+- Devils can sense and metabolise the [[fear]] of other life forms, with beings experiencing [[fear]] in the immediate vicinity of a Devil invariably increasing the reflexes, senses, speed and strength of said Devil. This extends to all species that are considered alive and that are capable of experiencing fear, including other² Devils.
 - Devils can consume fresh [[blood]] to regenerate almost instantaneously, being capable of completely recovering from multiple fatal wounds in a matter of seconds.
 - A Devil's base strength is directly proportionate with the local [[anima|Anima]] resonance, getting weaker or stronger based on said resonance.
 
