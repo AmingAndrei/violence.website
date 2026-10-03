@@ -1710,45 +1710,70 @@ article td {
   }
 }
 
-// ─── Absolutes Cards ────────────────────────────────────────────────────────
-.absolutes-card {
-  width: 220px;
-  text-decoration: none;
-  display: block;
+// ─── Absolutes Grid ─────────────────────────────────────────────────────────
+.absolutes-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  width: 100%;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
 }
 
 .absolutes-card__frame {
   position: relative;
+  width: 85% !important;
+  margin: 0 auto !important;
   aspect-ratio: 1/1;
   background: #101010 center/cover no-repeat;
 }
 
 .absolutes-card__corner {
   position: absolute;
-  width: 18px;
-  height: 18px;
+  width: 24px;
+  height: 24px;
   border: 0 solid #fff;
-  transition: width 0.25s ease, height 0.25s ease;
+  transition: width 0.3s ease, height 0.3s ease;
 
-  &--tl { top: 0; left: 0; border-top-width: 2px; border-left-width: 2px; }
-  &--br { bottom: 0; right: 0; border-bottom-width: 2px; border-right-width: 2px; }
+  &--tl { top: -10px; left: -10px; border-top-width: 3px; border-left-width: 3px; }
+  &--br { bottom: -10px; right: -10px; border-bottom-width: 3px; border-right-width: 3px; }
+
+  @media (max-width: 768px) {
+    width: 16px;
+    height: 16px;
+
+    &--tl { top: -6px; left: -6px; }
+    &--br { bottom: -6px; right: -6px; }
+  }
 }
 
 .absolutes-card:hover .absolutes-card__corner {
-  width: 26px;
-  height: 26px;
+  width: 80px;
+  height: 80px;
+
+  @media (max-width: 768px) {
+    width: 30px;
+    height: 30px;
+  }
 }
 
 .absolutes-card__label {
-  margin-top: 14px;
-  font-family: 'Oswald', sans-serif;
-  font-size: 1.1rem;
+  margin-top: 16px;
+  font-size: 1.3rem;
   letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--ink);
-  text-align: center;
-}
+  color: #fff;
+  text-align: center !important;
 
+  @media (max-width: 768px) {
+    font-size: 0.9rem;
+    letter-spacing: 0.1em;
+    margin-top: 8px;
+  }
+}
 // ─── Factions — Trio Layout ─────────────────────────────────────────────────
 .factions-grid--trio {
   overflow: visible;

@@ -9,83 +9,56 @@ aliases:
   - Absolute
 ---
 <br><a href="/compendium" class="nav-button">← COMPENDIUM</a><br><br>
-Chimeras (_Chimaeria_ class) are a type of high Daemon displaying chimeric traits and behaviours.
+Absolutes are objects of power, items which have anomalous traits and abilities.
 
-All Chimeras are comprised of two constituents:
+In essence, Absolutes have absolute dominion over a concept they physically embody. They can be created, although most are autogenic, when [[anima|Anima]] resonance is subjected to a sudden, immense surge within milliseconds, directed into an object or over a localised concept.
 
-1. The Body:
-- The physical, organic body of the Chimera. Their anatomy displays characteristics belonging to disparate classes, such as mammals, reptiles, arthropods, etc., without any conflict between traits. All Chimeras have a draconic semblance, are endothermic, and are tetradactyl.
-- The body is capable of basic regeneration, although its efficiency and limits depend from species to species.
-- Upon death of the soul, the body will enter a vegetative state, dying not long after due to organ failure.
+While all Absolutes are considered unique, some Absolutes may be made up of multiple, identical or counterpart individuals. All of them are also virtually indestructible.
 
-2. The Soul:
-- A physical construct composed entirely of [[Phlogiston]], grafted on by ████ and ████, housed within a complex of vessels and nodes spanning the entire body, similar in structure to a lymphatic system.
-- During gestation, the soul forms first, around which the body follows and forms around. The body will consistently match the shape of the soul.
-- The [[Phlogiston]] comprising the soul uses [[anima|Anima]] as a fuel source, with the burning reaction animating the Chimera. This is also what allows Chimeras to reach extreme sized.
-- Upon death of the body, the soul will immediately burn out.
-- The [[Phlogiston]] comprising the soul can be released from the body in the form of [[pyrokinesis|Pyrokinesis]].
-- Due to soul similarity, the [[Phlogiston]] of one species and all resulting byproducts are inert to other members of the same species.
-
-Chimeras, while still obeying the principles of Darwinian evolution, follow at least partially the rules of Lamarckian evolution, although these changes are not always permanent and will revert in time. 
+Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not only disrupt or cancel their abilities, but can also completely destroy them.
 
 ---
 
-<div class="bestiary-grid--chimeras">
+<div class="absolutes-grid">
 
-<a href="/compendium/chimeras/fae" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">FAE</div>
-  </div>
-</a>
+  <a class="absolutes-card" href="/compendium/absolutes/sundering-blade">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
+    <div class="absolutes-card__label">BLACK BOX</div>
+  </a>
 
-<a href="/compendium/chimeras/cipactin" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">CIPACTIN</div>
-  </div>
-</a>
+  <a class="absolutes-card" href="/compendium/absolutes/hollow-mask">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
+    <div class="absolutes-card__label">NIGHTMARE SHACKLES</div>
+  </a>
 
-<a href="/compendium/chimeras/zmey" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">ZMEY</div>
-  </div>
-</a>
+  <a class="absolutes-card" href="/compendium/absolutes/ember-heart">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
+    <div class="absolutes-card__label">TWIN MIRRORS</div>
+  </a>
 
-<a href="/compendium/chimeras/gargouilles" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">GARGOUILLES</div>
-  </div>
-</a>
+  <a class="absolutes-card" href="/compendium/absolutes/last-ledger">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
+    <div class="absolutes-card__label">RING A RING O' ROSES</div>
+  </a>
 
-<a href="/compendium/chimeras/mardykhora" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">MARDYKHORA</div>
-  </div>
-</a>
-
-<a href="/compendium/chimeras/balauri" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">BALAURI</div>
-  </div>
-</a>
-
-<a href="/compendium/chimeras/blacksalamanders" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">BLACKSALAMANDERS</div>
-  </div>
-</a>
+  <a class="absolutes-card" href="/compendium/absolutes/fifth-item">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
+    <div class="absolutes-card__label">EIGHT HANDLED SWORD</div>
+  </a>
 
 </div>

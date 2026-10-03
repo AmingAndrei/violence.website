@@ -26,7 +26,7 @@ tags:
 
 <p>What followed was a brief moment of panic as the emergency sirens blared. Something was approaching, closing the gap between it and the city’s border faster than one could react. The sirens had barely rung before it stepped within. It was a draconic beast, its jaws wide enough to cleanly bite a man in half, metallic scales shimmering in the streetlight. It snaked its way through the street, its six legs scurrying with enough force to make the ground shake.</p>
 
-<p>High above, circled a lone helicopter, a man dangling from within. Jacques Ren, Operator in the Swordsman’s Division of Ultraviolet. And on the radio, responded a woman, tired and gravelly, the sound of papers rustling in the background.</p><blockquote class="left">
+<p>High above, circled a lone helicopter, a man dangling from within. Jacques Ren, Operator in the Swordsman’s Division of Ultraviolet, talking to a woman on the radio, her voice tired and gravelly, the sound of papers rustling in the background.</p><blockquote class="left">
 
 <p>“Got visual on the Zmey. Tell me again how it got here?”</p></blockquote><blockquote class="right">
 
@@ -128,7 +128,7 @@ tags:
 
 <p>But he was on the clock; he didn’t have time for that. His top priority right now were the glass bullets stored in his belt pouch. Emptying the bag onto the ground, only one iridescent red bullet survived; the rest scattered into small shards, the liquid inside them seeping through the cracks.</p>
 
-<p>Before he picked it up with trembling fingers, he felt his hair rise, his muscles tensing. Fear. The glimmer that caught his eye was the confirmation he needed. The silhouette of the animal was still visible through the curtain of smoke and yellow flame that engulfed the plaza, struggling, snapping at its surroundings. He couldn’t, or more accurately, wouldn’t deal with it on his own. He dragged the axe up, lining it up with his body. And then, he painfully exhaled…</p><blockquote class="left">
+<p>Before he picked it up with trembling fingers, he felt his hair rise, his muscles tensing. Fear, not his own. The glimmer that caught his eye was the confirmation he needed. The silhouette of the animal was still visible through the curtain of smoke and yellow flame that engulfed the plaza, struggling, snapping at its surroundings. He couldn’t, or more accurately, wouldn’t deal with it on his own. He dragged the axe up, lining it up with his body. And then, he painfully exhaled…</p><blockquote class="left">
 
 <p>“Your turn.”</p></blockquote>
 
