@@ -33,6 +33,11 @@ tags:
     <span class="spine__title">.POWERS</span>
     <span class="spine__base"></span>
   </a>
+  <a class="spine spine--absolutes" href="/compendium/absolutes">
+    <span class="spine__sigil">x</span>
+    <span class="spine__title">.ABSOLUTES</span>
+    <span class="spine__base"></span>
+  </a>
 </div>
 
 <div class="compendium-divider" aria-hidden="true"></div>
@@ -70,11 +75,6 @@ tags:
   <a class="spine spine--flora" href="/compendium">
     <span class="spine__sigil">x</span>
     <span class="spine__title">.FLORA</span>
-    <span class="spine__base"></span>
-  </a>
-  <a class="spine spine--absolutes" href="/compendium">
-    <span class="spine__sigil">x</span>
-    <span class="spine__title">.ABSOLUTES</span>
     <span class="spine__base"></span>
   </a>
   <a class="spine spine--curses" href="/compendium">

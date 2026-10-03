@@ -15,13 +15,13 @@ In essence, Absolutes have absolute dominion over a concept they physically embo
 
 While all Absolutes are considered unique, some Absolutes may be made up of multiple, identical or counterpart individuals. All of them are also virtually indestructible.
 
-Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not only disrupt or cancel their abilities, but can also completely destroy them.
+Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not only negate their abilities, but in some cases outright destroy them.
 
 ---
 
 <div class="absolutes-grid">
 
-  <a class="absolutes-card" href="/compendium/absolutes/sundering-blade">
+  <a class="absolutes-card" href="/compendium/absolutes/black_box">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -29,7 +29,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">BLACK BOX</div>
   </a>
 
-  <a class="absolutes-card" href="/compendium/absolutes/hollow-mask">
+  <a class="absolutes-card" href="/compendium/absolutes/nightmare_shackles">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -37,7 +37,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">NIGHTMARE SHACKLES</div>
   </a>
 
-  <a class="absolutes-card" href="/compendium/absolutes/ember-heart">
+  <a class="absolutes-card" href="/compendium/absolutes/twin_mirrors">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -45,7 +45,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">TWIN MIRRORS</div>
   </a>
 
-  <a class="absolutes-card" href="/compendium/absolutes/last-ledger">
+  <a class="absolutes-card" href="/compendium/absolutes/ring_a_ring_o_roses">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -53,7 +53,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">RING A RING O' ROSES</div>
   </a>
 
-  <a class="absolutes-card" href="/compendium/absolutes/fifth-item">
+  <a class="absolutes-card" href="/compendium/absolutes/eight_handled_sword">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
