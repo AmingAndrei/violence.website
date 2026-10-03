@@ -1710,6 +1710,45 @@ article td {
   }
 }
 
+// ─── Absolutes Cards ────────────────────────────────────────────────────────
+.absolutes-card {
+  width: 220px;
+  text-decoration: none;
+  display: block;
+}
+
+.absolutes-card__frame {
+  position: relative;
+  aspect-ratio: 1/1;
+  background: #101010 center/cover no-repeat;
+}
+
+.absolutes-card__corner {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  border: 0 solid #fff;
+  transition: width 0.25s ease, height 0.25s ease;
+
+  &--tl { top: 0; left: 0; border-top-width: 2px; border-left-width: 2px; }
+  &--br { bottom: 0; right: 0; border-bottom-width: 2px; border-right-width: 2px; }
+}
+
+.absolutes-card:hover .absolutes-card__corner {
+  width: 26px;
+  height: 26px;
+}
+
+.absolutes-card__label {
+  margin-top: 14px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-align: center;
+}
+
 // ─── Factions — Trio Layout ─────────────────────────────────────────────────
 .factions-grid--trio {
   overflow: visible;
