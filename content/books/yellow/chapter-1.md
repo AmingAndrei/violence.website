@@ -62,7 +62,7 @@ tags:
 
 <p>[A cacophony of sounds erupted from the small receiver in Jacques’ ear. Even thrown to the other side of the helicopter, it was still louder than the booming of the rotor blades.]</p></blockquote><blockquote class="left">
 
-<p>“Please…? I’m going to be careful, okay? I’ll try not to get myself killed, I promise.”</p></blockquote><blockquote class="right">
+<p>“Please…? I’m not getting myself killed, okay? I promise.”</p></blockquote><blockquote class="right">
 
 <p>[Silence. A single syllable sounded from the receiver.]</p></blockquote>
 
