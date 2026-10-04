@@ -37,12 +37,28 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">NIGHTMARE SHACKLES</div>
   </a>
 
+ <a class="absolutes-card" href="/compendium/absolutes/nv_deogen">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
+    <div class="absolutes-card__label">NV DEOGEN</div>
+  </a>
+
   <a class="absolutes-card" href="/compendium/absolutes/twin_mirrors">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
     <div class="absolutes-card__label">TWIN MIRRORS</div>
+  </a>
+
+ <a class="absolutes-card" href="/compendium/absolutes/holy_nails">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
+    <div class="absolutes-card__label">HOLY NAILS</div>
   </a>
 
   <a class="absolutes-card" href="/compendium/absolutes/ring_a_ring_o_roses">
