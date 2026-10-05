@@ -1,0 +1,35 @@
+---
+title: HELLFIRE
+cssclasses:
+  - materium
+tags:
+  - materium
+aliases:
+  - Hellfire
+---
+<br><a href="/wiki/materium" class="nav-button">← MATERIUM</a>
+<br><br>
+
+<div class="materium-image">
+  <span class="materium-image__glow"></span>
+  <div class="materium-image__frame">
+    <span class="materium-image__corner materium-image__corner--tl"></span>
+    <span class="materium-image__corner materium-image__corner--tr"></span>
+    <span class="materium-image__corner materium-image__corner--bl"></span>
+    <span class="materium-image__corner materium-image__corner--br"></span>
+  </div>
+  <img src="/assets/placeholder_icon.svg" alt="Hellfire"/>
+</div>
+
+Hellfire is a black, rainbow, iridescent flame, a form of living, smokeless fire.
+# .source
+<div class="bestiary-divider"></div>
+
+Hellfire is created by Violence Against Nature, as a more powerful version of [[phlogiston|Phlogiston]], made entirely out of [[anima|Anima]]. 
+# .properties
+<div class="bestiary-divider"></div>
+
+- Hellfire is wildly unpredictable and shares all of the abilities of [[phlogiston|Phlogiston]], albeit a much more powerful and chaotic version of them, and will not create any gaps in local [[anima|Anima]].
+- Wounds are similarly untreatable, albeit they are much more grievous and dangerous, and in some cases Hellfire will incinerate one's entire body until all the [[anima|Anima]] in it is consumed.
+- Hellfire can negate the effects of [[absolutes|Absolutes]], and in some cases even outright destroy them.
+- In a direct confrontation, Hellfire will always easily overpower and choke [[phlogiston|Phlogiston]] out completely, and even small wounds can fully extinguish a [[chimeras|Chimera]]'s soul.

@@ -1,0 +1,92 @@
+---
+title: CHIMERAS
+cssclasses:
+  - chimera
+tags:
+  - chimera
+  - wiki
+aliases:
+  - Chimeras
+  - Chimera
+---
+<br><a href="/wiki" class="nav-button">← WIKI</a><br><br>
+Chimeras (_Chimaeria_ class) are a type of high Daemon displaying chimeric traits and behaviours.
+
+All Chimeras are comprised of two constituents:
+
+1. The Body:
+- The physical, organic body of the Chimera. Their anatomy displays characteristics belonging to disparate classes, such as mammals, reptiles, arthropods, etc., without any conflict between traits. All Chimeras have a draconic semblance, are endothermic, and are tetradactyl.
+- The body is capable of basic regeneration, although its efficiency and limits depend from species to species.
+- Upon death of the soul, the body will enter a vegetative state, dying not long after due to organ failure.
+
+2. The Soul:
+- A physical construct composed entirely of [[phlogiston|Phlogiston]], grafted on by ████ and ████, housed within a complex of vessels and nodes spanning the entire body, similar in structure to a lymphatic system.
+- During gestation, the soul forms first, around which the body follows and forms around. The body will consistently match the shape of the soul.
+- The [[phlogiston|Phlogiston]] comprising the soul uses [[anima|Anima]] as a fuel source, with the burning reaction animating the Chimera. This is also what allows Chimeras to reach extreme sized.
+- Upon death of the body, the soul will immediately burn out.
+- The [[phlogiston|Phlogiston]] comprising the soul can be released from the body in the form of [[pyrokinesis|Pyrokinesis]].
+- Due to soul similarity, the [[phlogiston|Phlogiston]] of one species and all resulting byproducts are inert to other members of the same species.
+
+Chimeras, while still obeying the principles of Darwinian evolution, follow at least partially the rules of Lamarckian evolution, although these changes are not always permanent and will revert in time. 
+
+---
+
+<div class="bestiary-grid--chimeras">
+
+<a href="/wiki/chimeras/fae" class="chimera-card">
+  <div class="chimera-card__inner">
+    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="chimera-card__bar"></div>
+    <div class="chimera-card__name">FAE</div>
+  </div>
+</a>
+
+<a href="/wiki/chimeras/cipactin" class="chimera-card">
+  <div class="chimera-card__inner">
+    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="chimera-card__bar"></div>
+    <div class="chimera-card__name">CIPACTIN</div>
+  </div>
+</a>
+
+<a href="/wiki/chimeras/zmey" class="chimera-card">
+  <div class="chimera-card__inner">
+    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="chimera-card__bar"></div>
+    <div class="chimera-card__name">ZMEY</div>
+  </div>
+</a>
+
+<a href="/wiki/chimeras/gargouilles" class="chimera-card">
+  <div class="chimera-card__inner">
+    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="chimera-card__bar"></div>
+    <div class="chimera-card__name">GARGOUILLES</div>
+  </div>
+</a>
+
+<a href="/wiki/chimeras/mardykhora" class="chimera-card">
+  <div class="chimera-card__inner">
+    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="chimera-card__bar"></div>
+    <div class="chimera-card__name">MARDYKHORA</div>
+  </div>
+</a>
+
+<a href="/wiki/chimeras/balauri" class="chimera-card">
+  <div class="chimera-card__inner">
+    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="chimera-card__bar"></div>
+    <div class="chimera-card__name">BALAURI</div>
+  </div>
+</a>
+
+<a href="/wiki/chimeras/blacksalamanders" class="chimera-card">
+  <div class="chimera-card__inner">
+    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="chimera-card__bar"></div>
+    <div class="chimera-card__name">BLACKSALAMANDERS</div>
+  </div>
+</a>
+
+</div>

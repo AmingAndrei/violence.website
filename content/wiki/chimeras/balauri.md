@@ -1,0 +1,40 @@
+---
+title: BALAURI
+cssclasses:
+  - chimera
+tags:
+  - chimera
+aliases:
+  - Balauri
+  - Balaur
+---
+<br><a href="/wiki/chimeras" class="nav-button">← CHIMERAS</a>
+<br><br>
+
+<div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="BALAUR" /> </div>
+
+Balauri (Sg. _Balaur_, _Balaur regia_) are a species of draconic Chimera.
+# .anatomy
+<div class="bestiary-divider"></div>
+
+Balauri have a reptilian body plan, with males reaching ~60 m in length, while females average ~80 m. They are quadrupeds, along with a pair of wings. Their bodies covered in dark-blue scales, dense fur lining their necks, wings and ears. Their tail is bifurcated into two prehensile tips, used for grasping objects or anchoring themselves.
+
+All Balauri possess 3 individual heads, mostly independent and supported by its own long neck. Their heads are reptilian with bat influences, have eyes with red sclera and black irises, and have a forked tongue. The colour of their [[phlogiston|Phlogiston]] is purple.
+# .behaviour
+<div class="bestiary-divider"></div>
+
+Balauri are solitary creatures. And despite their size, they are extremely curious and playful creatures, comparable to a house cat. They have little to no natural predators, with the exception of [[devils|Devils]].
+# .abilities
+<div class="bestiary-divider"></div>
+
+Balauri have the greatest brute force [[pyrokinesis|Pyrokinesis]] output of all Chimeras, capable of releasing [[phlogiston|Phlogiston]] from their mouth with ~26 MJ of force, cycling between active heads. Each head is also equipped with two olfactory systems, a pair standard nasal receptors and a vomeronasal organ, granting them an extremely keen sense of smell. They can fly at 120 km/h and can gallop at 60 km/h, and their wings alone are capable of outputting ~1.1 GJ of force.
+
+Each head is semi-autonomous, with independent thought and behaviour, linked together through a central spinal hub, coordinating motor functions and survival intent between heads. Balauri have the strongest regeneration of all Chimeras, capable of regenerating parts of their spine, entire limbs, and even heads if one should be severed. The speed of the regeneration is entirely dependent on the amount of food the Balaur can acquire. The regrown heads might possess different personalities, but will retain the memories of the original. If all three heads are severed, the Balaur will die from cardiac arrest.
+# .reproduction
+<div class="bestiary-divider"></div>
+
+Balauri reproduce sexually. They have no set mating season. Females lay 1-2 eggs/clutch, which they take care of alone. Hatchlings emerge with all three of their heads fully formed. The average Balaur life span is ~80 years.
+# .diet
+<div class="bestiary-divider"></div>
+
+Balauri are carnivorous, although they are opportunistic omnivores, consuming as much biomass as possible to satiate their regenerative requirements.

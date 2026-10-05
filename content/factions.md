@@ -1,7 +1,7 @@
 ---
 title: FACTIONS
 tags:
-  - homepage
+  - wiki
   - factions
 cssclasses:
   - factions
