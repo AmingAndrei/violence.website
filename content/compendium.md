@@ -34,7 +34,7 @@ tags:
     <span class="spine__base"></span>
   </a>
   <a class="spine spine--absolutes" href="/compendium/absolutes">
-    <span class="spine__sigil">x</span>
+    <span class="spine__sigil">✧</span>
     <span class="spine__title">.ABSOLUTES</span>
     <span class="spine__base"></span>
   </a>

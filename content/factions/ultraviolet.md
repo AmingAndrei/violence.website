@@ -32,11 +32,11 @@ Ultraviolet has a loose hierarchy, on top of which sits the [[Pale]] executive, 
 
 The Operator hierarchy is based on strength, with the Captains being the demonstrably most powerful Operators in the organisation. There are only ever three Captains at a time,  and each is in charge of their own Division of Ultraviolet. named after them. Informally, all Captains are placed just below the Executive in the [[Pale]]'s hierarchy, and are publicly seen as celebrities or heroes within City Zero. These Divisions do not have an individual specialisation, instead focusing on whatever the Captain in charge wants to focus. All Operators are chosen by the Captains during recruitment and placed within their Division, and they can change Division if both Captains agree. If a Captain spot becomes vacant, the next strongest person automatically inherits the role. The ranking is constantly being updated by the Executive, the only person aware of its existence, and only the top 3 are public knowledge.
 
-| Active    |                                                             |                   |                   |
-| --------- | ----------------------------------------------------------- | ----------------- | ----------------- |
-|           | Swordsman's Division                                        | Victor's Division | Dogman's Division |
-| Captain   | Lorand Aorello (Soma // Vexer)                              | Victor (Victor)   | ⨉                 |
-| Operators | Jacques Ren (Human // Hybrid)<br>Azuria Velos (Steel Shark) | -                 | -                 |
+| Active    |                                                             |                   |                                    |
+| --------- | ----------------------------------------------------------- | ----------------- | ---------------------------------- |
+|           | Swordsman's Division                                        | Victor's Division | Dogman's Division                  |
+| Captain   | Lorand Aorello (Soma // Vexer)                              | Victor (Victor)   | Chromopher Adoki (Human // Hybrid) |
+| Operators | Jacques Ren (Human // Hybrid)<br>Azuria Velos (Steel Shark) | -                 | -                                  |
 
 | Retired |                               |                   |
 | ------- | ----------------------------- | ----------------- |
