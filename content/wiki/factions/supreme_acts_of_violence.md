@@ -38,7 +38,7 @@ Although, informally, Violence Against Nature is just below the other two, for n
 
 The Supreme Acts will always act in the benefit of themselves, although their personal goals do sometimes clash or interfere with that of others.
 
-The Supreme Acts are virtually immortal. While they can be killed (which is itself very difficult), their bodies will disintegrate into red dust immediately after death or separation from the body, and will revive after 3 days, at a random location in the FLIPSIDE.
+The Supreme Acts are virtually immortal. While they can be killed (which is itself very difficult), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE.
 # .assets
 <div class="bestiary-divider"></div>
 
