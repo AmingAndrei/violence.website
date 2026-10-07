@@ -20,7 +20,7 @@ aliases:
   <img src="/assets/factions/chromacy_logo.png" alt="The Chromacy"/>
 </div>
 
-The Chromacy is the spiritual power of City Zero, ruling alongside the [[Pale]] and [[Ultraviolet]].
+The Chromacy is the spiritual power of City Zero, ruling alongside the [[pale|Pale]] and [[ultraviolet|Ultraviolet]].
 # .purpose
 <div class="bestiary-divider"></div>
 

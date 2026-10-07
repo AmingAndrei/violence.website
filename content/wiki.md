@@ -23,6 +23,8 @@ tags:
     <span class="spine__title">.MOSAICS</span>
     <span class="spine__base"></span>
   </a>
+  </div><br>
+ <div class="row"> 
   <a class="spine spine--materium" href="/wiki/materium">
     <span class="spine__sigil">✧</span>
     <span class="spine__title">.MATERIUM</span>
@@ -31,6 +33,11 @@ tags:
   <a class="spine spine--powers" href="/wiki/powers">
     <span class="spine__sigil">✧</span>
     <span class="spine__title">.POWERS</span>
+    <span class="spine__base"></span>
+  </a>
+  <a class="spine spine--factions" href="/wiki/factions">
+    <span class="spine__sigil">✧</span>
+    <span class="spine__title">.FACTIONS</span>
     <span class="spine__base"></span>
   </a>
   <a class="spine spine--absolutes" href="/wiki/absolutes">

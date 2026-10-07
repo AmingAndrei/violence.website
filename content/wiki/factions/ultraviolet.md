@@ -20,7 +20,7 @@ aliases:
   <img src="/assets/factions/ultraviolet_logo.png" alt="Ultraviolet"/>
 </div>
 
-Ultraviolet is the military power of City Zero, ruling alongside the [[Pale]] and the [[Chromacy]].
+Ultraviolet is the military power of City Zero, ruling alongside the [[pale|Pale]] and the [[chromacy|Chromacy]].
 # .purpose
 <div class="bestiary-divider"></div>
 
@@ -28,9 +28,9 @@ Ultraviolet is responsible and has complete responsibility over anything and eve
 # .structure
 <div class="bestiary-divider"></div>
 
-Ultraviolet has a loose hierarchy, on top of which sits the [[Pale]] executive, acting as personal handler to each and every Ultraviolet Operator. The Executive is responsible with assigning and negotiating missions, providing briefing and intelligence, dealing with reports and other bureaucracy, and granting political and legal shielding, such as the explicit freedom of movement outside of City Zero. Most Ultraviolet contracts are consequently for the [[Pale]], although anyone can request assistance for a fee and permission from the Executive.
+Ultraviolet has a loose hierarchy, on top of which sits the [[pale|Pale]] executive, acting as personal handler to each and every Ultraviolet Operator. The Executive is responsible with assigning and negotiating missions, providing briefing and intelligence, dealing with reports and other bureaucracy, and granting political and legal shielding, such as the explicit freedom of movement outside of City Zero. Most Ultraviolet contracts are consequently for the [[pale|Pale]], although anyone can request assistance for a fee and permission from the Executive.
 
-The Operator hierarchy is based on strength, with the Captains being the demonstrably most powerful Operators in the organisation. There are only ever three Captains at a time,  and each is in charge of their own Division of Ultraviolet. named after them. Informally, all Captains are placed just below the Executive in the [[Pale]]'s hierarchy, and are publicly seen as celebrities or heroes within City Zero. These Divisions do not have an individual specialisation, instead focusing on whatever the Captain in charge wants to focus. All Operators are chosen by the Captains during recruitment and placed within their Division, and they can change Division if both Captains agree. If a Captain spot becomes vacant, the next strongest person automatically inherits the role. The ranking is constantly being updated by the Executive, the only person aware of its existence, and only the top 3 are public knowledge.
+The Operator hierarchy is based on strength, with the Captains being the demonstrably most powerful Operators in the organisation. There are only ever three Captains at a time,  and each is in charge of their own Division of Ultraviolet. named after them. Informally, all Captains are placed just below the Executive in the [[pale|Pale]]'s hierarchy, and are publicly seen as celebrities or heroes within City Zero. These Divisions do not have an individual specialisation, instead focusing on whatever the Captain in charge wants to focus. All Operators are chosen by the Captains during recruitment and placed within their Division, and they can change Division if both Captains agree. If a Captain spot becomes vacant, the next strongest person automatically inherits the role. The ranking is constantly being updated by the Executive, the only person aware of its existence, and only the top 3 are public knowledge.
 
 | Active    |                                                             |                   |                                    |
 | --------- | ----------------------------------------------------------- | ----------------- | ---------------------------------- |
@@ -52,8 +52,7 @@ Ultraviolet makes great usage of the Signal Stations outside City Zero, intercep
 # .assets
 <div class="bestiary-divider"></div>
 
-- The Spine, unofficial headquarters shared by the [[Pale]];
-- Signal Stations, partial ownership with the [[Pale]];
+- The Spine, unofficial headquarters shared by the [[pale|Pale]];
+- Signal Stations, partial ownership with the [[pale|Pale]];
 - [[vessels|Vessel]] manufacturing facilities;
-- Most ways of access into and material extraction sites in the FLIPSIDE;
-- Equipment contracted from the [[Pale]].
+- Most ways of access into and material extraction sites in the FLIPSIDE.

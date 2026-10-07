@@ -6,7 +6,7 @@ tags:
 cssclasses:
   - factions
 ---
-<br><a href="/" class="nav-button">← HOME</a>
+<br><a href="/wiki" class="nav-button">← WIKI</a>
 <br><br>
 <div class="factions-grid--trio factions-grid--trio--labels-visible">
 
