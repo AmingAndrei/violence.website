@@ -61,3 +61,21 @@ cssclasses:
   </div>
 
 </div>
+
+<div class="materium-grid materium-grid--labels-visible factions-grid--list">
+
+  <a href="/factions/supreme_acts_of_violence" class="materium-card">
+    <div class="materium-card__icon-wrap">
+      <span class="materium-card__glow"></span>
+      <div class="materium-card__frame">
+        <span class="materium-card__corner materium-card__corner--tl"></span>
+        <span class="materium-card__corner materium-card__corner--tr"></span>
+        <span class="materium-card__corner materium-card__corner--bl"></span>
+        <span class="materium-card__corner materium-card__corner--br"></span>
+      </div>
+      <img src="/assets/factions/sav_logo.png" class="materium-card__icon" alt="Supreme Acts of Violence"/>
+    </div>
+    <span class="materium-card__label">.sav</span>
+  </a>
+
+</div>

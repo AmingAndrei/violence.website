@@ -7,7 +7,7 @@ tags:
 aliases:
   - Pale
 ---
-<br><a href="/factions" class="nav-button">← FACTIONS</a>
+<br><a href="/wiki/factions" class="nav-button">← FACTIONS</a>
 <br><br>
 
 <div class="materium-image">
