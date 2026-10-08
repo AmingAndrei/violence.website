@@ -8,10 +8,10 @@ aliases:
   - Mardykhora
   - Mardykhor
 ---
-<br><a href="/wiki/chimeras" class="nav-button">← WIKI</a>
+<br><a href="/wiki/chimeras" class="nav-button">← CHIMERAS</a>
 <br><br>
 
-<div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="GARGOUILLE" /> </div>
+<div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="MARDYKHORA" /> </div>
 
 Mardykhora (Sg. _Mardykhor_, _Mardykhor faevorus_) are a species of hyper-predatory Chimera.
 # .anatomy
