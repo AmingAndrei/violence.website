@@ -1775,6 +1775,47 @@ article td {
     margin-top: 8px;
   }
 }
+
+// ─── Absolutes Image ─────────────────────────
+.absolutes-image {
+  float: left;
+  position: relative;
+  margin: 14px 74px 30px 14px; // extra room so the outside-sitting brackets don't crowd the text
+  line-height: 0;
+
+  img {
+    display: block;
+    width: 300px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+  }
+
+  @media (max-width: 768px) {
+    margin: 6px 22px 10px 6px;
+
+    img {
+      width: 140px;
+    }
+  }
+}
+
+.absolutes-image__corner {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  border: 0 solid #fff;
+
+  &--tl { top: -14px; left: -14px; border-top-width: 3px; border-left-width: 3px; }
+  &--br { bottom: -14px; right: -14px; border-bottom-width: 3px; border-right-width: 3px; }
+
+  @media (max-width: 768px) {
+    width: 30px;
+    height: 30px;
+
+    &--tl { top: -6px; left: -6px; }
+    &--br { bottom: -6px; right: -6px; }
+  }
+}
 // ─── Factions — Trio Layout ─────────────────────────────────────────────────
 .factions-grid--trio {
   overflow: visible;
