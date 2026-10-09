@@ -11,12 +11,12 @@ aliases:
 <br><br>
 
 <div class="absolutes-image">
-  <img src="/assets/placeholder.gif" alt="Black Box"/>
+  <img src="/assets/placeholder.gif" alt="Nightmare Shackles"/>
   <span class="absolutes-image__corner absolutes-image__corner--tl"></span>
   <span class="absolutes-image__corner absolutes-image__corner--br"></span>
 </div>
 
-The Nightmare Shackles are an Absolute, embodying the concept of erasure.
+The Nightmare Shackles are an Absolute, embodying the concept of containment.
 # .design
 <div class="bestiary-divider"></div>
 
@@ -24,9 +24,9 @@ The Nightmare Shackles resemble stone cubes, with a side length of ~10 cm. They 
 # .abilities
 <div class="bestiary-divider"></div>
 
-When activated and pointed at a target, the Nightmare Shackles will transform into multiple chains, restraining their target. The amount of chains and the way they bind their target depends entirely upon the difficulty of restraining it. Once activated, a Nightmare Shackle can only be deactivated by its original user.
+When activated and pointed at a target, the Nightmare Shackles will transform into multiple chains, restraining their target. The amount of chains and the way they bind their target depends entirely upon the difficulty of restraining it. Once activated, a Nightmare Shackle cannot be deactivated, not even by its original user.
 
-The chains are will counter any attempt at breaking them by either redirecting the energy into either reinforcing themselves, shown through glowing their respective colour, or radiating it elsewhere. They will keep the target in a form of conscious suspended animation, preventing death from natural causes, and will protect it from all external damage that could kill it.
+The chains are will counter any attempt at breaking them by either redirecting the energy into either reinforcing themselves, shown through glowing their respective colour, or radiating it elsewhere. They will keep the target in a form of conscious suspended animation, being virtually immortal while contained.
 
 # .creation
 <div class="bestiary-divider"></div>
