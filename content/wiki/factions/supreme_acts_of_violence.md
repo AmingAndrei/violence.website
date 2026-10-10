@@ -19,7 +19,7 @@ aliases:
   <img src="/assets/factions/sav_logo.png" alt="Supreme Acts of Violence"/>
 </div>
 
-The Supreme Acts of Violence is a group formed of the the most dangerous and powerful beings in the world, and uncontested rulers of the FLIPSIDE.
+The Supreme Acts of Violence is a group formed of the most dangerous beings in the world, and uncontested rulers of the FLIPSIDE.
 # .purpose
 <div class="bestiary-divider"></div>
 
@@ -27,20 +27,21 @@ The Supreme Acts have no agenda besides their own, which consists mostly of doin
 # .structure
 <div class="bestiary-divider"></div>
 
-The Supreme Acts are composed of three members, each having equal say. These are:
+The Supreme Acts are composed of three members, physical embodiments of violence of the highest degree. These are:
+
 - Violence Against God;
 - Violence Against Art;
 - Violence Against Nature.
 
-Although, informally, Violence Against Nature is just below the other two, for no other reason that perceived age difference and familial ranking.
+Although, informally, Violence Against Nature is just below the other two, for no other reason that perceived age difference and familial ranking, even though she is ultimately the strongest of the three.
 # .conduct
 <div class="bestiary-divider"></div>
 
 The Supreme Acts will always act in the benefit of themselves, although their personal goals do sometimes clash or interfere with that of others.
 
-The Supreme Acts are virtually immortal. While they can be killed (which is itself very difficult), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE, completely unharmed.
+The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE, completely unharmed, with no awareness of the passage of time.
 # .assets
 <div class="bestiary-divider"></div>
 
-- The FLIPSIDE (not really but no one is going to contest that);
+- The FLIPSIDE (not really but no one is going to argue against it);
 - Pandiavolum.

@@ -23,6 +23,6 @@ The Black Box resembles an ornate metal cube, with a length of 15 cm. All of its
 # .abilities
 <div class="bestiary-divider"></div>
 
-When activated, the Black Box can release its black hole, with all of its faces detaching and orbiting around it. If the Absolute remains unmanned for ~20 seconds, it will automatically deactivate and reform around the black hole. The black hole itself has the ability to distort time and space only when outside of the Black Box itself, with a distortion range bigger than its actual event horizon and a controllable amplitude of distortion, and does not change size even when absorbing mass. 
+When activated, the Black Box will release its black hole, with all of its faces detaching and orbiting around it. If the Absolute remains unmanned for ~20 seconds, it will automatically deactivate and reform around the black hole. The black hole itself has the ability to distort time and space only when outside of the Black Box itself, with a controllable size and distortion amplitude, and does not change size by absorbing mass.
 
-Anything consumed by the black hole, along with its information, become completely erased, including memories, renditions, and stored data about it. The [[supreme_acts_of_violence|Supreme Acts of Violence]] are immune to this, as they will just crawl out of the Black Box after a while.
+Anything consumed by the black hole becomes completely erased. This also extends to memories, transcriptions, depictions, or other data that could pinpoint what the thing erased was, although the knowledge of its inexistence remains known. The [[supreme_acts_of_violence|Supreme Acts of Violence]] are immune to this, as they will just crawl out of the Black Box after a while.
