@@ -19,7 +19,7 @@ VIOLENCE is a horror science-fantasy multimedia series and worldbuilding project
   </a>
 
   <a href="/wiki" class="main-nav-card">
-    <img src="assets/icons/bestiary.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Bestiary"/>
+    <img src="assets/icons/wiki.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Wiki"/>
     <span class="main-nav-card__label">WIKI</span>
   </a>
 
