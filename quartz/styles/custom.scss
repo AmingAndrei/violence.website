@@ -698,11 +698,20 @@ article td {
   &--aquilas    { --spine-bg: rgb(122,92,24);   --spine-frame: rgb(212,175,55);  --spine-fg: #ffcc33; }
   &--leviathans { --spine-bg: rgb(2,26,87);     --spine-frame: rgb(45,68,161);   --spine-fg: #1d8eb1; }
   &--flora      { --spine-bg: #2e662e;          --spine-frame: #37a748;          --spine-fg: #72c487; }
-  &--materium   { --spine-bg: #35637C;          --spine-frame: #eaf4ff;          --spine-fg: #eaf4ff; }
-  &--powers     { --spine-bg: rgb(28,16,74);    --spine-frame: rgb(90,60,220);   --spine-fg: #b8a8ff; }
-  &--factions   { --spine-bg: #cfd5db;          --spine-frame: #616161;          --spine-fg: #555555; }
-  &--absolutes  { --spine-bg: rgb(28,28,32);    --spine-frame: rgb(150,120,90);  --spine-fg: #cbb98a; }
-  &--curses     { --spine-bg: rgb(20,16,24);    --spine-frame: rgb(112, 130, 64);--spine-fg: #c7c98f; }
+  &--materium   { --spine-bg: #1f5fae;          --spine-frame: #eaf4ff;          --spine-fg: #eaf4ff; }
+  &--powers     { --spine-bg: #3b1f9e;          --spine-frame: #a88cff;          --spine-fg: #e6deff; }
+  &--absolutes  { --spine-bg: rgb(28,28,32);    --spine-frame: #d6a550;          --spine-fg: #f3dca0; }
+  &--curses     { --spine-bg: rgb(20,16,24);    --spine-frame: #a3bb4a;          --spine-fg: #e4e8a4; }
+
+  &--factions {
+  --spine-bg: #e3e6ec;
+  --spine-frame: linear-gradient(180deg,
+    #5d6675 0%,
+    #6a2bd9 38%,
+    #c98a00 70%,
+    #b3122b 100%);
+  --spine-fg: #2b3140;
+}
 
   &--chimeras {
     --spine-bg: #ad5e18;

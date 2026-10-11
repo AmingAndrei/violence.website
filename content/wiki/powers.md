@@ -9,25 +9,25 @@ cssclasses:
 <br><br>
 <div class="power-grid">
 
-  <a href="/wiki/hybrids" class="power-card">
+  <a href="/wiki/powers/hybrids" class="power-card">
     <div class="power-card__image" style="background-image:url('/assets/placeholder_powers.svg');"></div>
     <span class="power-card__divider"></span>
     <span class="power-card__label">.hybrids</span>
   </a>
 
-  <a href="/wiki/vectors" class="power-card">
+  <a href="/wiki/powers/vectors" class="power-card">
     <div class="power-card__image" style="background-image:url('/assets/placeholder_powers.svg');"></div>
     <span class="power-card__divider"></span>
     <span class="power-card__label">.vectors</span>
   </a>
 
-  <a href="/wiki/pyrokinesis" class="power-card">
+  <a href="/wiki/powers/pyrokinesis" class="power-card">
     <div class="power-card__image" style="background-image:url('/assets/placeholder_powers.svg');"></div>
     <span class="power-card__divider"></span>
     <span class="power-card__label">.pyrokinesis</span>
   </a>
 
-  <a href="/wiki/skiakinesis" class="power-card">
+  <a href="/wiki/powers/skiakinesis" class="power-card">
     <div class="power-card__image" style="background-image:url('/assets/placeholder_powers.svg');"></div>
     <span class="power-card__divider"></span>
     <span class="power-card__label">.skiakinesis</span>

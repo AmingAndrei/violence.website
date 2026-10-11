@@ -37,7 +37,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">NIGHTMARE SHACKLES</div>
   </a>
 
- <a class="absolutes-card" href="/wiki/absolutes/shaper">
+ <a class="absolutes-card" href="#">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -53,7 +53,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">NV DEOGEN</div>
   </a>
 
-  <a class="absolutes-card" href="/wiki/absolutes/twin_mirrors">
+  <a class="absolutes-card" href="#">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -61,7 +61,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">TWIN MIRRORS</div>
   </a>
 
- <a class="absolutes-card" href="/wiki/absolutes/holy_nails">
+ <a class="absolutes-card" href="#">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -69,7 +69,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">HOLY NAILS</div>
   </a>
 
-  <a class="absolutes-card" href="/wiki/absolutes/ring_a_ring_o_roses">
+  <a class="absolutes-card" href="#">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -77,7 +77,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">RING A RING O' ROSES</div>
   </a>
 
-  <a class="absolutes-card" href="/wiki/absolutes/eight_handled_sword">
+  <a class="absolutes-card" href="#">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
