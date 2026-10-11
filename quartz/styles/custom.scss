@@ -727,6 +727,48 @@ article td {
     --spine-frame: conic-gradient(from 0deg, #a8aeb8, #a4aabb, #9daebf, #98aac2, #9db8c2, #a0b4ba, #aab0b0, #aaacb0, #a8aeb8);
     --spine-fg: #506b77;
   }
+
+  &--daemons {
+  --spine-bg: #0c090b;
+  --spine-frame: linear-gradient(180deg,
+    #8c8c8c 0%,     
+    #a00ea5 12.5%,  
+    #c4403f 25%,   
+    #d4af37 37.5%,  
+    #2d44a1 50%,    
+    #7a1a08 51.56%,
+    #c44a3a 54.69%,
+    #e8761a 57.81%,
+    #ffcc44 60.94%,
+    #ffff00 63.19%,
+    #00ff00 64.58%,
+    #00ffff 65.97%,
+    #0088ff 67.36%,
+    #8800ff 68.75%,
+    #ff00ff 70.14%,
+    #ff0000 71.53%,
+    #ff8800 72.92%,
+    #ffff00 74.31%,
+    #fffab3 75.78%,
+    #ffd9b3 77.34%,
+    #ffb3b3 78.91%,
+    #ffb3e6 80.47%,
+    #d4b3ff 82.03%,
+    #b3c8ff 83.59%,
+    #b3ecff 85.16%,
+    #b3f0c8 86.72%,
+    #a8aeb8 88.19%,
+    #a4aabb 89.58%,
+    #9daebf 90.97%,
+    #98aac2 92.36%,
+    #9db8c2 93.75%,
+    #a0b4ba 95.14%,
+    #aab0b0 96.53%,
+    #aaacb0 97.92%,
+    #a8aeb8 99.31%
+  );
+  --spine-fg: #dddad4;
+}
 }
 
 .spine__sigil {

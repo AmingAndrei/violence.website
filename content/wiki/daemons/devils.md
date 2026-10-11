@@ -4,12 +4,12 @@ cssclasses:
   - devil
 tags:
   - devil
-  - wiki
+  - daemons
 aliases:
   - Devils
   - Devil
 ---
-<br><a href="/wiki" class="nav-button">← WIKI</a><br><br>
+<br><a href="/wiki/daemons" class="nav-button">← DAEMONS</a><br><br>
 Devils (_Diavolos_ class) are the most dangerous and violent of all high Daemon found in the FLIPSIDE, descendants of Violence Against Nature, representing one of it's biggest threats to date. All Devils should be considered hostile and should never be voluntarily engaged.
 
 As a group, Devils share little to no similarity with each other. No two Devil species are alike, with the differences being so extreme no sane taxonomist would even attempt to classify them on the same branch of life, or even on a branch of life at all. Even calling them 'species' is for the most part a misnomer. Despite this, Devil biology does obey some common rules:
@@ -32,7 +32,7 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
 
 <div class="bestiary-grid--devils">
 
-<a href="/wiki/devils/crimson_nymphs" class="devil-card">
+<a href="/wiki/daemons/devils/crimson_nymphs" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>
@@ -40,12 +40,12 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
   </div>
 </a>
 
-<a href="/wiki/devils" class="bestiary-card--placeholder">
+<a href="/wiki/daemons/devils" class="bestiary-card--placeholder">
 	<div class="bestiary-card--placeholder__image"></div>
 	<div class="bestiary-card--placeholder__label">✖</div>
 </a>
 
-<a href="/wiki/devils/kirlian_mimics" class="devil-card">
+<a href="/wiki/daemons/devils/kirlian_mimics" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>
@@ -53,7 +53,7 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
   </div>
 </a>
 
-<a href="/wiki/devils/clutch_beetles" class="devil-card">
+<a href="/wiki/daemons/devils/clutch_beetles" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>
@@ -61,7 +61,7 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
   </div>
 </a>
 
-<a href="/wiki/devils/tyndall_hounds" class="devil-card">
+<a href="/wiki/daemons/devils/tyndall_hounds" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>
@@ -69,12 +69,12 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
   </div>
 </a>
 
-<a href="/wiki/devils" class="bestiary-card--placeholder">
+<a href="/wiki/daemons/devils" class="bestiary-card--placeholder">
 	<div class="bestiary-card--placeholder__image"></div>
 	<div class="bestiary-card--placeholder__label">✖</div>
 </a>
 
-<a href="/wiki/devils/ruiner_moths" class="devil-card">
+<a href="/wiki/daemons/devils/ruiner_moths" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>
@@ -82,7 +82,7 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
   </div>
 </a>
 
-<a href="/wiki/devils/stone_wyrms" class="devil-card">
+<a href="/wiki/daemons/devils/stone_wyrms" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>
@@ -90,7 +90,7 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
   </div>
 </a>
 
-<a href="/wiki/devils/circuit_titans" class="devil-card">
+<a href="/wiki/daemons/devils/circuit_titans" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>
@@ -98,7 +98,7 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
   </div>
 </a>
 
-<a href="/wiki/devils/steel_sharks" class="devil-card">
+<a href="/wiki/daemons/devils/steel_sharks" class="devil-card">
   <div class="devil-card__inner">
     <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="devil-card__bar"></div>

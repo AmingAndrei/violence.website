@@ -8,7 +8,7 @@ aliases:
   - Circuit Titans
   - Circuit Titan
 ---
-<br><a href="/wiki/devils" class="nav-button">← DEVILS</a>
+<br><a href="/wiki/daemons/devils" class="nav-button">← DEVILS</a>
 <br><br>
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="CIRCUIT TITAN" /> </div>
