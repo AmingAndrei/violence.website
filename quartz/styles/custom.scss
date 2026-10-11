@@ -610,7 +610,74 @@ article td {
   }
 }
 
-// ─── Compendium ─────────────────────────────────────────────────────────────────
+// ─── Wiki Buttons ────────────────────────────────────────────────────────────────
+
+.wiki-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  width: 60%;
+  margin: 2rem auto;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+    margin: 2rem 0;
+    gap: 6px;
+  }
+}
+
+.wiki-card {
+  container-type: inline-size; 
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  aspect-ratio: 1 / 1;
+  gap: 14px !important;          
+  padding: 16px !important;      
+  border: 1px solid white !important;
+  border-radius: 8px !important;
+  background: transparent !important;
+  color: white !important;
+  text-decoration: none !important;
+  transition: transform 0.15s ease;
+
+  &:hover { transform: scale(1.02); }
+
+  @media (max-width: 768px) {
+    gap: 10px !important;
+    padding: 12px !important;
+    border-radius: 5px !important;
+  }
+}
+
+.wiki-card__icon {
+  object-fit: contain;
+  width: clamp(48px, 50cqw, 92px);
+  height: clamp(48px, 50cqw, 92px);
+
+  &--invert { filter: invert(1); }
+
+  @media (max-width: 768px) {
+    width: 44px;
+    height: 44px;
+  }
+}
+
+.wiki-card__label {
+  font-size: clamp(0.85rem, 14cqw, 1.7rem);
+  letter-spacing: 0.18em;
+  font-weight: 400;
+  text-align: center;
+
+  @media (max-width: 768px) {
+    font-size: 0.85rem;
+    letter-spacing: 0.12em;
+  }
+}
+
+// ─── Daemon Page ─────────────────────────────────────────────────────────────────
 .row {
   display: flex;
   gap: 42px;
