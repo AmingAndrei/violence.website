@@ -10,7 +10,7 @@ aliases:
   - Devil
 ---
 <br><a href="/wiki/daemons" class="nav-button">← DAEMONS</a><br><br>
-Devils (_Diavolos_ class) are the most dangerous and violent of all high Daemon found in the FLIPSIDE, descendants of Violence Against Nature, representing one of it's biggest threats to date. All Devils should be considered hostile and should never be voluntarily engaged.
+Devils (_Diavolos_ class) are the most dangerous and violent of all high Daemon found in the FLIPSIDE. Sometimes called _Living Creatures_ or the _Highest of Daemons_, Devils are one of the FLIPSIDE's main threats to date. They are all descendants of Violence Against Nature.
 
 As a group, Devils share little to no similarity with each other. No two Devil species are alike, with the differences being so extreme no sane taxonomist would even attempt to classify them on the same branch of life, or even on a branch of life at all. Even calling them 'species' is for the most part a misnomer. Despite this, Devil biology does obey some common rules:
 
