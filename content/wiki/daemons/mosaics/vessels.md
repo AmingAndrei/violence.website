@@ -21,7 +21,7 @@ Vessels are humanoid in appearance, resembling an average 12 year old, reaching 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vessels were created by Ultraviolet to capture and permanently contain [[vespers|Vespers]], basing them off of [[somas|Soma]] shells. They do this by enforcing arbitrary code into the [[vespers|Vesper]]'s own cells, which allows Vessels to use them as their own. Vessels have little personality, not by design, with small influences from the captured [[vespers|Vespers]].
+Vessels were created by Ultraviolet to capture and permanently contain powerful or dangerous [[vespers|Vespers]], basing them off of [[somas|Soma]] shells. They do this by enforcing arbitrary code into the [[vespers|Vesper]]'s own cells, which allows Vessels to use them as their own. Vessels have little personality, not by design, with small influences from the captured [[vespers|Vespers]].
 # .abilities
 <div class="bestiary-divider"></div>
 

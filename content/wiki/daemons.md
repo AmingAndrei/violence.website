@@ -8,7 +8,7 @@ tags:
 <br>
 Daemons represent the entirety of the FLIPSIDE wildlife. 
 
-Daemons are grouped into low Daemons and high Daemons, based on strength and abilities. They are all immune to the [[toxin]] and to the FLIPSIDE's negation effect.
+Daemons are grouped into low Daemons and high Daemons. They are all immune to the [[toxin]] and to the FLIPSIDE's negation effect.
 
 ---
 

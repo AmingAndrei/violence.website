@@ -6,7 +6,7 @@ tags:
 cssclasses:
   - materium
 ---
-<br><a href="/wiki" class="nav-button">← wiki</a>
+<br><a href="/wiki" class="nav-button">← WIKI</a>
 <br><br>
 <div class="materium-grid materium-grid--labels-visible">
 

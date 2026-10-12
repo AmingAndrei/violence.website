@@ -1,5 +1,5 @@
 ---
-title: BLACK BOX
+title: NIGHTMARE SHACKLES
 cssclasses:
 tags:
   - absolute

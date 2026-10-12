@@ -28,7 +28,7 @@ The Chromacy's role is to act as ruling authority over Chromaticism, its doctrin
 # .structure
 <div class="bestiary-divider"></div>
 
-The supreme authority and object of worship of Chromaticism is Fair Lady Chroma. She is a a messianic figure, an embodiment of the world that birthed humanity and allowed it to flourish, the one waiting for us at the beginning and end of our world and of our lives. Chromaticism believes Lady Chroma embodies Herself in certain humans when the world faces great turmoil.
+The supreme authority and object of worship of Chromaticism is Fair Lady Chroma. She is a a messianic figure, a physical manifestation of the world sent by the creator God, and is the one there for us at the beginning of our lives and waiting for us at end. Chromaticism believes Lady Chroma embodies Herself among humans when the world faces great turmoil.
 
 The Oracle Machine is a device from ~2000 AAV, built with the intention of analysing all possible futures of humanity, thought to be capable of directly communicating with Lady Chroma. There has only ever existed one Oracle Machine, being repaired and upgraded through the ages with the latest technological advancements to improve the accuracy of its readings. The Chromacy uses the Oracle Machine to analyse the collective future of humanity, and with it follow the 'Golden Path' set forth by Lady Chroma.
 
@@ -40,7 +40,7 @@ Chromaticism believes the spiritual and physical worlds are the same, and when w
 
 Chromaticism doesn't really believe in the concept of sin. Instead, every person is born pure, although immoral and impure thoughts and actions can tarnish the soul, which can be undone by righting your wrongs and doing more good than cumulative bad. Generally, actions that are in the interest of only oneself, that are solely in the interest of others, or that are detrimental to oneself or to others, are seen as wrong. There exist two unforgivable sins: living an unfulfilling life, and dying an unfulfilling death. Sinners are forever doomed to remain restless spirits, trying to leech off of the lives of the living.
 
-Prayer is separated into quiet prayer, which we do throughout our lives whenever he hope or dream for something, and loud prayer, which is when we attempt to commune directly with Lady Chroma. After death, the body is incinerated, since we now resides within the ones closest. Marriage is an essential part of life, where two individuals join together for life, regardless of gender. Initiation is nigh impossible, with almost all chromaticans being born one. [[hybrids]] and [[fae|Fae]] half-breeds are proscribed from joining or are excommunicated.
+Prayer is separated into quiet prayer, which we do throughout our lives whenever he hope or dream for something, and loud prayer, which is when we attempt to commune directly with Lady Chroma. After death, the body is incinerated, since we now resides within the ones closest. Marriage is an essential part of life, where two individuals join together for life, regardless of gender. Initiation is nigh impossible, with almost all chromaticans being born one. [[hybrids|Hybrids]] and [[fae|Fae]] half-breeds are proscribed from joining or are excommunicated.
 # .assets
 <div class="bestiary-divider"></div>
 
