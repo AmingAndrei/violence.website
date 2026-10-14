@@ -1,10 +1,10 @@
 ---
 title: DAEMONS
 tags:
-  - wiki
   - daemons
+  - type
 ---
-<br><a href="/wiki" class="nav-button">← WIKI</a><br>
+<br><a href="/wiki/types" class="nav-button">← TYPES</a><br>
 <br>
 Daemons represent the entirety of the FLIPSIDE wildlife. 
 
@@ -13,17 +13,17 @@ Daemons are grouped into low Daemons and high Daemons. They are all immune to th
 ---
 
 <div class="row">
-  <a class="spine spine--chimeras" href="/wiki/daemons/chimeras">
+  <a class="spine spine--chimeras" href="/wiki/types/daemons/chimeras">
     <span class="spine__sigil">✦</span>
     <span class="spine__title">.CHIMERAS</span>
     <span class="spine__base"></span>
   </a>
-  <a class="spine spine--devils" href="/wiki/daemons/devils">
+  <a class="spine spine--devils" href="/wiki/types/daemons/devils">
     <span class="spine__sigil">✦</span>
     <span class="spine__title">.DEVILS</span>
     <span class="spine__base"></span>
   </a>
-  <a class="spine spine--mosaics" href="/wiki/daemons/mosaics">
+  <a class="spine spine--mosaics" href="/wiki/types/daemons/mosaics">
     <span class="spine__sigil">✦</span>
     <span class="spine__title">.MOSAICS</span>
     <span class="spine__base"></span>

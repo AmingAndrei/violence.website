@@ -8,7 +8,7 @@ aliases:
   - Tyndall Hounds
   - Tyndall Hound
 ---
-<br><a href="/wiki/daemons/devils" class="nav-button">← DEVILS</a>
+<br><a href="/wiki/types/daemons/devils" class="nav-button">← DEVILS</a>
 <br><br>
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="TYNDALL HOUND" /> </div>

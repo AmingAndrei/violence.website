@@ -11,8 +11,8 @@ tags:
 
 <div class="wiki-grid">
 
-  <a href="/wiki/daemons" class="wiki-card">
-    <img src="assets/icons/bestiary.svg" width="80" height="80" class="wiki-card__icon--invert" alt="Daemons"/>
+  <a href="/wiki/types" class="wiki-card">
+    <img src="assets/icons/types.svg" width="80" height="80" class="wiki-card__icon--invert" alt="Daemons"/>
     <span class="wiki-card__label">.types</span>
   </a>
 

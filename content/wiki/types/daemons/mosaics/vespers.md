@@ -8,7 +8,7 @@ aliases:
   - Vespers
   - Vesper
 ---
- <br><a href="/wiki/daemons/mosaics" class="nav-button">← MOSAICS</a>
+ <br><a href="/wiki/types/daemons/mosaics" class="nav-button">← MOSAICS</a>
 <br><br>
 
 <div class="bestiary-image--mosaic mosaic--magenta"> <img src="/assets/placeholder.gif" alt="VESPER" /> </div>
