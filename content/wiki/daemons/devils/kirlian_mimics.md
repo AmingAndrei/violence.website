@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="KIRLIAN MIMIC" /> </div>
 
-Kirlian Mimics (_Diavolos simulacrum_) are a species of copycat Devil.
+Kirlian Mimics (_Diavolos simulacrum_) are a type of copycat Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 

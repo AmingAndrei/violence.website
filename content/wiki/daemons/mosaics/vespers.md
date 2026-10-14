@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--mosaic mosaic--magenta"> <img src="/assets/placeholder.gif" alt="VESPER" /> </div>
 
-Vespers (_Mosaica vespera_) are the most diverse species of Mosaic, serving as mascot and holotype for the entire class.
+Vespers (_Mosaica vespera_) are the most diverse type of Mosaic, serving as mascot and holotype for the entire class.
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -21,7 +21,7 @@ Vespers have no set anatomy. Each individual can very drastically in appearance,
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vespers are self-aware and extremely intelligent. The entire species is incidental, born as a side effect of Violence Against Art's existence, which left behind and permitted the refraction and multiplication of specific light frequencies that ultimately crystallised from [[anima|Anima]] contamination, leading to the formation of the pseudo-[[devils|Devils]] later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits and even body plans found in [[devils|Devils]]. They are otherwise mostly cooperative and social.
+Vespers are self-aware and extremely intelligent. The entire type is incidental, born as a side effect of Violence Against Art's existence, which left behind and permitted the refraction and multiplication of specific light frequencies that ultimately crystallised from [[anima|Anima]] contamination, leading to the formation of the pseudo-[[devils|Devils]] later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits and even body plans found in [[devils|Devils]]. They are otherwise mostly cooperative and social.
 # .abilities
 <div class="bestiary-divider"></div>
 

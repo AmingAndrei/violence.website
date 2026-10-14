@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STONE WYRM" /> </div>
 
-Stone Wyrms (_Diavolos saxumvermis_) are a species of silicate Devil.
+Stone Wyrms (_Diavolos saxumvermis_) are a type of silicate Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 

@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="RUINER MOTH" /> </div>
 
-Ruiner Moths (_Diavolos dragotinea_) are a species of draconic Devil.
+Ruiner Moths (_Diavolos dragotinea_) are a type of draconic Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 

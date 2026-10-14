@@ -37,7 +37,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">NIGHTMARE SHACKLES</div>
   </a>
 
- <a class="absolutes-card" href="#">
+ <a class="absolutes-card" href="/wiki/absolutes/shaper">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>

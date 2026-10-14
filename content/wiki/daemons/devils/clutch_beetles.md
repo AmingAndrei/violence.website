@@ -13,11 +13,11 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="CLUTCH BEETLES" /> </div>
 
-Clutch Beetles (_Diavolos ultraforma_) are a species of insectoid Devil.
+Clutch Beetles (_Diavolos ultraforma_) are a type of insectoid Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Clutch Beetles are extremely [[anima|Anima]]-sensitive, and can vary drastically between appearance, with each individual being virtually unique in appearance and abilities. to the point they might not even be considered the same species. Some of the only shared characteristics are their their size, reaching an average length of ~6 cm, the presence of an elytra, and the lack of eyes.
+Clutch Beetles are extremely [[anima|Anima]]-sensitive, and can vary drastically between appearance, with each individual being virtually unique in appearance and abilities. to the point they might not even be considered the same type. Some of the only shared characteristics are their their size, reaching an average length of ~6 cm, the presence of an elytra, and the lack of eyes.
 # .behaviour
 <div class="bestiary-divider"></div>
 

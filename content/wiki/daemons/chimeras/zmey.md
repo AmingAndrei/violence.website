@@ -12,7 +12,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="ZMEY" /> </div>
 
-Zmey (_Zmey vulgaris_) are a species of serpentine Chimera.
+Zmey (_Zmey vulgaris_) are a type of serpentine Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 

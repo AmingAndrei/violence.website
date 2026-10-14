@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="CIPACTLI" /> </div>
 
-Cipactin (Sg. _Cipactli_, _Cipactli maritimum_) are a species of amphibious Chimera.
+Cipactin (Sg. _Cipactli_, _Cipactli maritimum_) are a type of amphibious Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 

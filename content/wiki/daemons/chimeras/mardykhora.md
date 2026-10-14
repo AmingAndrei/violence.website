@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="MARDYKHORA" /> </div>
 
-Mardykhora (Sg. _Mardykhor_, _Mardykhor faevorus_) are a species of hyper-predatory Chimera.
+Mardykhora (Sg. _Mardykhor_, _Mardykhor faevorus_) are a type of hyper-predatory Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -25,7 +25,7 @@ Mardykhora are apex predators, and are the natural predator of [[fae|Fae]]. They
 # .abilities
 <div class="bestiary-divider"></div>
 
-Mardykhora secrete a neurotoxin all throughout their body: glands in their skin coat their fur with it, the spines on their tail, claws fangs and limb scales inject it, and their breath constantly releases it. This toxin can induce shock within Fae in mere seconds. However, the main active ingredient of this substance is iron, which makes it treatable for other species. Mardykhora are themselves fully immune to it.
+Mardykhora secrete a neurotoxin all throughout their body: glands in their skin coat their fur with it, the spines on their tail, claws fangs and limb scales inject it, and their breath constantly releases it. This toxin can induce shock within Fae in mere seconds. However, the main active ingredient of this substance is iron, which makes it treatable for other types. Mardykhora are themselves fully immune to it.
 
 The primary [[pyrokinesis|Pyrokinesis]] technique of Mardykhora involves shooting out multiple high-impact bursts from their mouths, and shooting out their tail spines omnidirectionally, with a regrowth period of mere minutes. Their legs allow them to easily overpower beings smaller than themselves, all while remaining entirely silent, and their opposable thumbs and toes allow them to manipulate objects and climb with ease. Their multiple jaws permit a greater range of biting directions, along with increasing their bite force, as the intersection of all quadrants can easily reach 5.000 PSI.
 # .reproduction

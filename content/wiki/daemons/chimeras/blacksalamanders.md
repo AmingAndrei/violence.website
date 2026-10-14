@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="BLACKSALAMANDER" /> </div>
 
-Blacksalamanders (_Chimaeria primigenius_) are a species of Chimera.
+Blacksalamanders (_Chimaeria primigenius_) are a type of Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -23,13 +23,13 @@ Blacksalamanders have a reptilian body plan, reaching ~20 cm in length. They hav
 
 Blacksalamanders are nocturnal, and spend the day in damp, dark places. 
 
-They are the progenitor species of all Chimeras, the template which ████ and ████ grafted the [[phlogiston|Phlogiston]] soul into, allowing them to evolve and diversify into the other Chimera species.
+They are the progenitor type of all Chimeras, the template which ████ and ████ grafted the [[phlogiston|Phlogiston]] soul into, allowing them to evolve and diversify into the other Chimera types.
 # .abilities
 <div class="bestiary-divider"></div>
 
 Blacksalamanders are very [[anima|Anima]]-sensitive, and as a result can regenerate to an absurd degree. As long as the brainstem is at least 5% operational, Blacksalamanders are capable of fully regenerating their bodies, even if damage is inflicted to the heart or lungs, switching to an open, mechanically driven circulatory system and external digestion for that duration. 
 
-If a body part sustains more damage than others consecutively, it will adapt during regeneration to resist that type of damage, and that information can be passed on to their offspring, although it will slowly fade unless actively used.
+If a body part sustains more damage than others consecutively, it will adapt during regeneration to resist that kind of damage, and that information can be passed on to their offspring, although it will slowly fade unless actively used.
 # .reproduction
 <div class="bestiary-divider"></div>
 

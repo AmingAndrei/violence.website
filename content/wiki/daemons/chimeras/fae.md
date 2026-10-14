@@ -12,7 +12,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="FAE" /> </div>
 
-Fae (_Fae sapiens_) are a species of humanoid Chimera.
+Fae (_Fae sapiens_) are a type of humanoid Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 

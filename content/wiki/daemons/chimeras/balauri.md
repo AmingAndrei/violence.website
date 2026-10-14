@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="BALAUR" /> </div>
 
-Balauri (Sg. _Balaur_, _Balaur regia_) are a species of draconic Chimera.
+Balauri (Sg. _Balaur_, _Balaur regia_) are a type of draconic Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 

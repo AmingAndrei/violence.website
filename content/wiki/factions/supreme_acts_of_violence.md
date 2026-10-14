@@ -44,4 +44,5 @@ The Supreme Acts are virtually immortal. While they can be killed (which is by i
 <div class="bestiary-divider"></div>
 
 - The FLIPSIDE (not really but no one is going to argue against it);
-- Pandiavolum.
+- Pandiavolum;
+- [[shaper|Shaper]].

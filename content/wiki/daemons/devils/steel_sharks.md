@@ -13,15 +13,19 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STEEL SHARK" /> </div>
 
-Steel Sharks (_Diavolos diavolos_, <ruby>金属鮫<rt>スティール・シャーク</rt></ruby>) are a the most dangerous and violent species of Devil, the kin of Violence Against Nature.
+Steel Sharks (_Diavolos diavolos_, <ruby>金属鮫<rt>スティール・シャーク</rt></ruby>) are a the most dangerous and violent type of Devil, the kin of Violence Against Nature.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Steel Sharks are extremely humanoid in appearance, standing at ~2 m tall. Their bodies are made out numerous metallic plates and mechanical parts which are capable or rearranging themselves on a whim. Their entire cellular structure is made of metal. Within their chests is located an engine, which acts as their 'heart'. Their faces display the entire range of human emotions and expressions, even their eyes appear to react to stimuli, although they're purely cosmetic. Most if not all parts of their body are extremely sharp, such as their serrated teeth or chainsaw-like hair strands. Steel Sharks are unanimously agreed to be the apex of the beauty standard no matter the orientation, species, or personal conception about them.
+Steel Sharks are extremely humanoid in appearance, standing at ~2 m tall. Their bodies are made out numerous metallic plates and mechanical parts which are capable or rearranging themselves on a whim. Their entire cellular structure is made of metal. 
+
+Within their chests is located an engine, which acts as their 'heart'. Their faces display the entire range of human emotions and expressions, even their eyes appear to react to stimuli, although they're purely cosmetic. Most if not all parts of their body are extremely sharp, such as their serrated teeth or chainsaw-like hair strands. 
+
+Steel Sharks are unanimously agreed to be the apex of the beauty standard no matter the orientation, type, or personal conception about them.
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Steel Sharks are sapient, voluntarily aggressive and find pleasure in causing as much violence as possible. They hunt exclusively for sport. Steel Sharks are the most [[anima|Anima]]-dependent Devil species. If they lack the large enough [[anima|Anima]] necessary, only found within the FLIPSIDE, they will eventually collapse into a low energy state, vaguely resembling large weaponry, although they remain conscious during this state. While they do display sexual dimorphism similar to humans, they have no inherent concept of gender or sex.
+Steel Sharks are sapient, voluntarily aggressive and find pleasure in causing as much violence as possible. They hunt exclusively for sport. Steel Sharks are the most [[anima|Anima]]-dependent Devil type. If they lack the large enough [[anima|Anima]] necessary, only found within the FLIPSIDE, they will eventually collapse into a low energy state, vaguely resembling large weaponry, although they remain conscious during this state. While they do display sexual dimorphism similar to humans, they have no inherent concept of gender or sex.
 # .abilities
 <div class="bestiary-divider"></div>
 

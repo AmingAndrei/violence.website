@@ -16,7 +16,7 @@ All Chimeras are comprised of two constituents:
 
 1. The Body:
 - The physical, organic body of the Chimera. Their anatomy displays characteristics belonging to disparate classes, such as mammals, reptiles, arthropods, etc., without any conflict between traits. All Chimeras have a draconic semblance, are endothermic, and are tetradactyl.
-- The body is capable of basic regeneration, although its efficiency and limits depend from species to species.
+- The body is capable of basic regeneration, although its efficiency and limits depend from type to type.
 - Upon death of the soul, the body will enter a vegetative state, dying not long after due to organ failure.
 
 2. The Soul:
@@ -25,7 +25,7 @@ All Chimeras are comprised of two constituents:
 - The [[phlogiston|Phlogiston]] comprising the soul uses [[anima|Anima]] as a fuel source, with the burning reaction animating the Chimera. This is also what allows Chimeras to reach extreme sized.
 - Upon death of the body, the soul will immediately burn out.
 - The [[phlogiston|Phlogiston]] comprising the soul can be released from the body in the form of [[pyrokinesis|Pyrokinesis]].
-- Due to soul similarity, the [[phlogiston|Phlogiston]] of one species and all resulting byproducts are inert to other members of the same species.
+- Due to soul similarity, the [[phlogiston|Phlogiston]] of one type and all resulting byproducts are inert to other members of the same type.
 
 Chimeras, while still obeying the principles of Darwinian evolution, follow at least partially the rules of Lamarckian evolution, although these changes are not always permanent and will revert in time. 
 
