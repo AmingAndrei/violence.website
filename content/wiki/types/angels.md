@@ -17,7 +17,7 @@ Angels are god-like beings.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Angels have a humanoid appearance, reaching ~2 m in height. Their eyes have black sclera and different, vibrantly coloured irises. Their skin is made entirely our of white porcelain, and can crack and shatter, although it is extremely durable. Their hair is white. While some Angels may have wings, some don't. They can bleed, having golden [[blood]], and their scars appear as gold cracks.
+Angels have a humanoid appearance, reaching ~2 m in height. Their eyes have black sclera and different, vibrantly coloured irises. Their skin is made entirely out of white porcelain, and can crack and shatter, although it is extremely durable. Their hair is white. While some Angels may have wings, some don't. They can bleed, having golden [[blood]], and their scars appear as gold cracks.
 # .traits
 <div class="bestiary-divider"></div>
 
