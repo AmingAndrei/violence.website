@@ -27,4 +27,4 @@ The Shaper is capable of directly interacting with the spirit inside a being, th
 # .creation
 <div class="bestiary-divider"></div>
 
-The Shaper was the weapon used by ████ to carve out Violence Against Nature, which allowed [[devils|Devils]] to first take shape and lead to ████ splitting into Violence Against God and Violence Against Art, cementing the creation of the [[supreme_acts_of_violence|Supreme Acts of Violence]].
+The Shaper was the weapon used by ████ to carve Violence Against Nature out of himself, which allowed [[devils|Devils]] to first take shape and lead to ████ splitting into Violence Against God and Violence Against Art, cementing the creation of the [[supreme_acts_of_violence|Supreme Acts of Violence]] and transforming the weapon into an Absolute.
