@@ -59,4 +59,4 @@ Steel Sharks do not reproduce. Individuals spontaneously manifests within Pandia
 # .diet
 <div class="bestiary-divider"></div>
 
-Steel Sharks do not eat, or have any real drive to do so. Their only real requirement and need is [[blood]] in order to stay active in low [[anima|Anima]] environments, which they consume through cellular absorption, meaning as long as it makes contact with the body, the [[blood]] will be absorbed and used as fuel. All of their cells also act as taste receptors. They also have a preference towards 'traditional' fuels, such as gas, although this does nothing for them.
+Steel Sharks do not eat, or have any real drive to do so, but can still enjoy it. Their only real requirement and need is [[blood]] in order to stay active in low [[anima|Anima]] environments, which they consume through cellular absorption, meaning as long as it makes contact with the body, the [[blood]] will be absorbed and used as fuel. All of their cells also act as taste receptors.

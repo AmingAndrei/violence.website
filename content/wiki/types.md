@@ -11,7 +11,7 @@ tags:
 
 <div class="types-grid">
 
-  <a href="/types/example-one" class="types-card">
+  <a href="/types/angels" class="types-card">
     <img src="assets/icons/angels.svg" class="types-card__icon types-card__icon--invert" alt="Example One"/>
     <span class="types-card__label">.angels</span>
   </a>

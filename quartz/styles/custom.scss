@@ -743,6 +743,35 @@ article td {
   }
 }
 
+// ─── Angel Image ─────────────────────────────────────────────────────────────────
+
+.bestiary-image--angel {
+  float: left;
+  margin: 0 60px 16px 0;
+  padding: 12px;
+  display: inline-block;
+  line-height: 0;
+  border: 2px solid transparent;
+  background: linear-gradient(#000, #000) padding-box,
+              conic-gradient(from 0deg, #ffffff, #ffffff) border-box;
+
+  img {
+    display: block;
+    width: 300px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    margin: 0 16px 4px 0;
+    padding: 5px;
+    border-width: 1px;
+
+    img {
+      width: 140px;
+    }
+  }
+}
+
 // ─── Daemon Page ─────────────────────────────────────────────────────────────────
 .row {
   display: flex;
@@ -967,8 +996,6 @@ article td {
     background: linear-gradient(90deg, #ffb3b3, #ffb3e6, #d4b3ff, #b3c8ff, #b3ecff, #b3f0c8, #fffab3, #ffd9b3);
   }
 }
-
-/* ── Quartz isolation for the book-spine component ─────────────── */
 
 .spine {
   box-sizing: border-box !important;
