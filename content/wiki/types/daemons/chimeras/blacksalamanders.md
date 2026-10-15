@@ -33,8 +33,8 @@ If a body part sustains more damage than others consecutively, it will adapt dur
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Blacksalamanders reproduce sexually. They display no sexual dimorphism. During mating season, they will migrate toward nearby bodies of water, where they will lay ~300 eggs. The average Blacksalamander life span is ~10 years.
+Blacksalamanders reproduce sexually. They display no sexual dimorphism. During mating season, they will migrate towards nearby bodies of water, where they will lay ~300 eggs. The average Blacksalamander life span is ~10 years.
 # .diet
 <div class="bestiary-divider"></div>
 
-Blacksalamanders are carnivores, eating insects and small fish. In some cases, Blacksalamanders will resort to cannibalism, especially toward the young of other Blacksalamanders.
+Blacksalamanders are carnivores, eating insects and small fish. In some cases, Blacksalamanders will resort to cannibalism, especially towards the young of other Blacksalamanders.
