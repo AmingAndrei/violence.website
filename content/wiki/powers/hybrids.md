@@ -33,7 +33,7 @@ Whenever a hybrid suffers lethal trauma, it will trigger an emergency failsafe i
 | Penumbra | Only certain body parts will transform, leaving the rest of the hybrid's body as is, usually being more precise compared to other types. The most common type.                                                                                                                           |
 | Antumbra | Instead of changing the hybrid's own anatomy, it will create a second body. This double is constantly healing, its under direct control of the hybrid, who has a vague understanding of what it senses, and has a limited range, outside of which it will disintegrate. The rarest type. |
 
-Hybrids in this state will also constantly regenerate, able to recover from almost all injuries, including those done to the central nervous system, as it will rebuild the body around the genetic blueprint acquired during fusion. The [[blood]] of the hybrid will also turn silver and become extremely toxic for other beings.
+Hybrids in this state will also constantly regenerate, able to recover from almost all injuries, including those done to the central nervous system, as it will rebuild the body around the genetic blueprint acquired during fusion. The [[blood]] of the hybrid will also turn silver and become extremely toxic for other beings, and only mildly unpleasant for other [[devils|Devils]].
 # .limitations
 <div class="bestiary-divider"></div>
 
