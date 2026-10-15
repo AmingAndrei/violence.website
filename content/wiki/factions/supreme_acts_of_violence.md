@@ -33,7 +33,7 @@ The Supreme Acts are composed of three members, physical embodiments of violence
 - Violence Against Art;
 - Violence Against Nature.
 
-Although, informally, Violence Against Nature is just below the other two, for no other reason that perceived age difference and familial ranking, even though she is ultimately the strongest of the three.
+Although, informally, Violence Against Nature is just below the other two, for no other reason that the familiar ranking of parents being above their children and the age difference, even though she is ultimately the strongest of the three.
 # .conduct
 <div class="bestiary-divider"></div>
 
