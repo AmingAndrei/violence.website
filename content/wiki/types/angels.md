@@ -21,4 +21,4 @@ Angels are sapient, and immensely powerful, with a civilisation predating the st
 
 Angels are made, not born, although the exact process is unclear even to them. They do not need to eat, although they can, and require [[anima|Anima]]. They are immune to the [[toxin]] and to the FLIPSIDE's negation effect. What they are not immune to is damage from anything made of, or that interacts directly with, [[anima|Anima]] (that is to say [[devils|Devils]]), and towards [[hybrids|hybrid]] [[blood]].
 
-The arrival of the [[supreme_acts_of_violence|Supreme Acts of Violence]] and of [[devils|Devils]] brought an end to their stagnation, and caused them to retreat into hiding.
+The arrival of the [[supreme_acts_of_violence|Supreme Acts of Violence]] and of [[devils|Devils]] brought an end to their stagnation, and caused them to retreat into hiding. Though not being one by origin, Violence Against God is an Angel by type.
