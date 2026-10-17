@@ -17,20 +17,22 @@ Tyndall Hounds (_Diavolos occultus_) are a type of canine Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds are vaguely canine, reaching a shoulder height of ~120 cm and a length of ~160 cm. They are entirely skeletal in appearance, lacking any and all organs and muscles, leaving them as only a skeleton. All of their bones are sharp, pointed, and made of semi-opaque glass. Their head and jaws are also slightly oversized when compared to their body.
+Tyndall Hounds are vaguely canine, reaching a shoulder height of ~120 cm and a length of ~160 cm. They are entirely skeletal in appearance, lacking any and all organs and muscles, leaving them as only a skeleton. All of their bones are sharp, pointed, and made of semi-opaque glass. Their head is also slightly oversized when compared to their body.
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds are pack hunters, living in packs of three to four individuals, with an intelligence similar to that of a grey wolf. They can remain hidden and hibernating for years at a time, remaining semi-aware of their surroundings, able to return to full capacity within seconds. Due to the glass structure of their skeleton, a moderately strong impact is enough to cripple if not outright kill one.
+Tyndall Hounds are pack hunters, although they only form temporary groups during hunts then split, with an intelligence similar to that of a grey wolf. They can remain hidden and hibernating for years, remaining semi-aware of their surroundings, able to return to full capacity within seconds. Due to the glass structure of their skeleton, a moderately strong impact is enough to cripple if not outright kill one.
 # .abilities
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds have the ability to become completely transparent across the entire light spectrum, to mimic the exact air temperature, to interface with the air and sound waves, to manipulate other electromagnetic radiation types on a cellular level, essentially become totally invisible and impossible to track. While hidden, they can also manipulate their density, mass and state of matter, which means they can essentially reduce their weight and can even allow other objects to phase through them for a short time without causing distress to the organism. And while they remain untrackable, they can still clearly perceive their environment through sound, smell and temperature. In order to actually attack, however, Tyndall Hounds need to reveal themselves. 
+Tyndall Hounds can vanish at will. While hidden, they are transparent across the entire light spectrum and match the temperature of the air around them. They also fall completely silent, and can thin their own mass until they leave no tracks and objects can pass through them, including sound and radio waves. A hidden Tyndall Hound still perceives its surroundings clearly through sound, smell and temperature, which lets it follow targets for days without being noticed. While hidden, they cannot be physically harmed, [[phlogiston|Phlogiston]] and [[hellfire|Hellfire]] being the exception. 
+
+Light scattering though smoke, mist, or dust can interact with them in such a way that it makes them temporarily visible. The can use [[fear]] to cross-check if their prey has noticed them, at which point they will stop pursuing and begin attacking. In order to actually attack, however, Tyndall Hounds need to reveal themselves.
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds reproduce asexually. Mature Tyndall Hounds will regurgitate a juvenile Tyndall Hound, measuring ~20 cm, around once per year. The juvenile will reach adulthood in ~6 months, and will often split from its family pack once it does so, unless one of its original members dies.
+Tyndall Hounds reproduce asexually. Mature Tyndall Hounds will regurgitate a juvenile Tyndall Hound, measuring ~20 cm, after every few hunts.
 # .diet
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds are carnivorous. Most of their eating process is just chewing, since they have no way of swallowing or stomach to store the food. After chewing, they swallow it, and although it falls right out of their bodies, the motion itself is enough to satiate them. They will also differentiate between eaten and uneaten food and will ignore food previously swallowed by another Tyndall Hound.
+Tyndall Hounds are carnivorous. Their teeth are hollow and act as proboscises, sucking out the organs and [[blood]] of their prey.
