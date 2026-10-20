@@ -40,9 +40,12 @@ All of these traits are because, unlike regular lifeforms, Devils are entirely m
   </div>
 </a>
 
-<a href="/wiki/types/daemons/devils" class="bestiary-card--placeholder">
-	<div class="bestiary-card--placeholder__image"></div>
-	<div class="bestiary-card--placeholder__label">✖</div>
+<a href="/wiki/types/daemons/devils/sequence_cells" class="devil-card">
+  <div class="devil-card__inner">
+    <div class="devil-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="devil-card__bar"></div>
+    <div class="devil-card__name">SEQUENCE CELLS</div>
+  </div>
 </a>
 
 <a href="/wiki/types/daemons/devils/kirlian_mimics" class="devil-card">
