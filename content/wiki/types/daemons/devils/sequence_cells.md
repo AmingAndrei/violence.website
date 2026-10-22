@@ -32,7 +32,7 @@ They can absorb objects from their surroundings into themselves and apply a part
 
 Killing a Sequence Cell requires either overpowering its frequencies by creating an even louder noise source (the smaller and weaker the Sequence Cell the easier to do so), or by destroying its anchors and thus disrupting the configuration, without which it cannot maintain its shape and dies. Consuming [[blood]] allows the Sequence Cell to reform its configuration and quickly anchor itself to other objects. After death or injury, red dust accumulated from the constant vibration is released from the surface of their anchors.
 
-They cannot pass through solid matter, but can inhabit liquid media such as water, inside which their strength is greatly elevated, becoming visible to the naked eye through the wave distortions they produce, and allowing them to survive with significantly fewer anchors. The downside is that sound overpowering a much bigger threat.
+They cannot pass through solid matter, but can inhabit liquid media such as water, inside which their strength is greatly elevated, becoming visible to the naked eye through the wave distortions they produce, and allowing them to survive with significantly fewer anchors. The downside is that sound overpowering becomes a much bigger threat.
 # .reproduction
 <div class="bestiary-divider"></div>
 
