@@ -25,6 +25,8 @@ Skiakinesis involves the projection of shadows to affect the world around you, s
 1. The sorcerer will concentrate on their goal and will form specific hand signs resembling shadow puppets. Each sign tunes the sorcerer’s neural signals to a specific property, while the act of forming them perfectly aligns and synchronises those signals into a single pattern.
 2. The sorcerer’s hands block the light, casting a shadow, and the light will entangle with the sorcerer’s outline and the edge of their hands’ shadow. The synchronised signals bind to that edge. The sharper and more defined the shadow, the more securely the signals are held together, and the quality of the shadow is used to determine the range of the effect.
 3. The specific neural signals will resonate with reality, subtracting the selected property or aspect from the target. Most effects also take into account the target’s physical and chemical properties to determine its full output. The target must always be in the sorcerer’s direct line of sight.
+
+While most techniques require both hands, some require only one. Some techniques will also deliberately target the sorcerer, affecting their own body.
 # .limitations
 <div class="bestiary-divider"></div>
 
