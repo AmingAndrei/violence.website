@@ -699,7 +699,7 @@ article td {
   flex-direction: column !important;
   align-items: center !important;
   justify-content: center !important;
-  aspect-ratio: 2 / 3;
+  aspect-ratio: 5 / 7;            // was 2 / 3: slightly shorter
   gap: 28px !important;
   padding: 24px !important;
   border: 1px solid white !important;
@@ -715,6 +715,16 @@ article td {
     gap: 14px !important;
     padding: 12px !important;
     border-radius: 5px !important;
+  }
+
+  &--wide {
+    grid-column: 1 / -1;
+    aspect-ratio: auto;
+    padding-block: 80px !important;
+
+    @media (max-width: 768px) {
+      padding-block: 50px !important;
+    }
   }
 }
 

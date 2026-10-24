@@ -25,7 +25,7 @@ The toxin is an incredibly deadly gas.
 # .source
 <div class="bestiary-divider"></div>
 
-The toxin is a byproduct of the [[hellfire|Hellfire]] storms of the Wild Hunt, found throughout the entire planet, as high up as the exosphere and diffused in all bodies of water, with no depth limit.
+The toxin first appeared during the Wild Hunt, and is found throughout the entire planet, as high up as the exosphere and as low as the body of water which its diffused in is.
 # .properties
 <div class="bestiary-divider"></div>
 
