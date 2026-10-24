@@ -32,17 +32,17 @@ Ultraviolet has a loose hierarchy, on top of which sits the [[pale|Pale]] execut
 
 The Operator hierarchy is based on strength, with the Captains being the demonstrably most powerful Operators in the organisation. There are only ever three Captains at a time,  and each is in charge of their own Division of Ultraviolet. named after them. Informally, all Captains are placed just below the Executive in the [[pale|Pale]]'s hierarchy, and are publicly seen as celebrities or heroes within City Zero. These Divisions do not have an individual specialisation, instead focusing on whatever the Captain in charge wants to focus. All Operators are chosen by the Captains during recruitment and placed within their Division, and they can change Division if both Captains agree. If a Captain spot becomes vacant, the next strongest person automatically inherits the role. The ranking is constantly being updated by the Executive, the only person aware of its existence, and only the top 3 are public knowledge.
 
-| Active    |                                                             |                   |                                    |
-| --------- | ----------------------------------------------------------- | ----------------- | ---------------------------------- |
-|           | Swordsman's Division                                        | Victor's Division | Dogman's Division                  |
-| Captain   | Lorand Aorello (Soma // Vexer)                              | Victor (Victor)   | Chromopher Adoki (Human // Hybrid) |
-| Operators | Jacques Ren (Human // Hybrid)<br>Azuria Velos (Steel Shark) | -                 | -                                  |
+| Active    |                                                                                                        |                   |                                                             |
+| --------- | ------------------------------------------------------------------------------------------------------ | ----------------- | ----------------------------------------------------------- |
+|           | Swordsman's Division                                                                                   | Victor's Division | Dogman's Division                                           |
+| Captain   | Lorand Aorello ([[somas\|Soma]] // Vexer)                                                              | Victor (Victor)   | Chromopher Adoki ([[humans\|Human]] // [[hybrids\|Hybrid]]) |
+| Operators | Jacques Ren ([[humans\|Human]] // [[hybrids\|Hybrid]])<br>Azuria Velos ([[steel_sharks\|Steel Shark]]) | -                 | -                                                           |
 
-| Retired |                               |                   |
-| ------- | ----------------------------- | ----------------- |
-|         | Iceman's Division             | Victor's Division |
-| Captain | Radek Preda (Human // Hybrid) | Victor (Human)    |
-| Reason  | Voluntary Resignation         | Death             |
+| Retired |                                                        |                            |
+| ------- | ------------------------------------------------------ | -------------------------- |
+|         | Iceman's Division                                      | Victor's Division          |
+| Captain | Radek Preda ([[humans\|Human]] // [[hybrids\|Hybrid]]) | Victor ([[humans\|Human]]) |
+| Reason  | Voluntary Resignation                                  | Death                      |
 
 Civilians can apply or be recruited by a Captain to become an Operator. Training is provided within Ultraviolet, and licensing and pay are issued by the Executive. While extensive injury coverage is provided, a majority of Operators have the ability to regenerate, which makes it unnecessary in most cases. Operators can resign whenever, and are forcefully retired around age 50. Working as an Operator independently, without being members of Ultraviolet, is illegal and will be subjected to severe punishment by a legitimate Operator.
 # .conduct

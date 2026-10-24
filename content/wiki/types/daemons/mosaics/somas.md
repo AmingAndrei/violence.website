@@ -21,11 +21,11 @@ Somas are composed out of two distinct components, a Heart and a Shell.
 
 The Heart of a Soma is the true organism, resembling a yellow slug-larva-thing. They are completely helpless, can barely move on their own, cannot speak, and have very weak senses.
 
-The Shell is a humanoid construct piloted by the Heart. They are 1.9 m in height, have skin made out of a flexible, metallic alloy, have silver hair, and have animated LED eyes, displaying an animated yellow iris. Their faces are capable of displaying the full extent of human emotion. They were designed by the Serpent to act as a scaffold and to resemble the appearance of both humans and [[angels|Angels]].
+The Shell is a humanoid construct piloted by the Heart. They are 1.9 m in height, have skin made out of a flexible, metallic alloy, have silver hair, and have animated LED eyes, displaying an animated yellow iris. Their faces are capable of displaying the full extent of [[humans|human]] emotion. They were designed by the Serpent to act as a scaffold and to resemble the appearance of both [[humans]] and [[angels|Angels]].
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Somas are created by the Serpent, being considered mutated [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. They are social and cooperative, from an outside perspective having very little differences to humans.
+Somas are created by the Serpent, being considered mutated [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. They are social and cooperative, from an outside perspective having very little differences to [[humans]].
 # .abilities
 <div class="bestiary-divider"></div>
 

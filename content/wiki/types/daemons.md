@@ -3,6 +3,9 @@ title: DAEMONS
 tags:
   - daemons
   - type
+aliases:
+  - Daemons
+  - Daemon
 ---
 <br><a href="/wiki/types" class="nav-button">← TYPES</a><br>
 <br>

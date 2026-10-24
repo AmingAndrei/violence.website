@@ -24,7 +24,7 @@ The Pale is the governmental power of City Zero, ruling alongside [[ultraviolet|
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Pale is responsible with overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their human population, and the restoration of the world outside City Zero.
+The Pale is responsible with overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside City Zero.
 # .structure
 <div class="bestiary-divider"></div>
 

@@ -33,7 +33,7 @@ The abilities of individual Clutch Beetles vary. Virtually no two Clutch Beetles
 
 Clutch Beetles reproduce asexually. They lay thousands of eggs at a time, out of which only a handful of larvae hatch. All larvae are identical at birth, and will eat all the eggs that have yet to hatch. Differentiation begins during pupation, during which the larvae are at their most sensitive to environmental [[anima|Anima]]. An overwhelming majority of larvae do not reach adulthood due to developmental failures. Adult Clutch Beetles are extremely rare.
 
-[[hybrids|Hybrids]] will always give birth to other [[hybrids]], as long as at least one of the parents is a [[hybrids|hybrid]], regardless of sex. The only exception is if one of the parents is a [[fae|Fae]]/half-breed, in which case the child will be a half-breed/regular human. The abilities of the parent cannot be used to predict the abilities of the child.
+[[hybrids|Hybrids]] will always give birth to other [[hybrids]], as long as at least one of the parents is a [[hybrids|hybrid]], regardless of sex. The only exception is if one of the parents is a [[fae|Fae]]/half-breed, in which case the child will be a half-breed/regular [[humans|human]]. The abilities of the parent cannot be used to predict the abilities of the child.
 # .diet
 <div class="bestiary-divider"></div>
 

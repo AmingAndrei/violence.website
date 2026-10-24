@@ -29,4 +29,4 @@ Viewers cannot communicate, are completely intangible and cannot interact in any
 # .production
 <div class="bestiary-divider"></div>
 
-Viewers are created when a human is killed directly by Violence Against Art. They retain their minds and memories.
+Viewers are created when a [[humans|human]] is personally killed by Violence Against Art. They retain their minds and memories.

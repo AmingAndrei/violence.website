@@ -13,11 +13,11 @@ aliases:
   <img src="/assets/placeholder_powers.svg" alt="Skiakinesis"/>
 </div>
 
-Skiakinesis is a human-exclusive form of sorcery, created by Rafa.
+Skiakinesis is a [[humans|human]]-exclusive form of sorcery, created by Rafa.
 # .source
 <div class="bestiary-divider"></div>
 
-Skiakinesis uses light as its main power source, without which it cannot be cast. All humans possess the capacity to use Skiakinesis thanks to Rafa, although it needs special training to actually achieve anything meaningful. It can only be taught by other sorcerers, with no way to properly transcribe it.
+Skiakinesis uses light as its main power source, without which it cannot be cast. All [[humans]] possess the capacity to use Skiakinesis thanks to Rafa, although it needs special training to actually achieve anything meaningful. It can only be taught by other sorcerers, with no way to properly transcribe it.
 # .characteristic
 <div class="bestiary-divider"></div>
 
@@ -34,6 +34,6 @@ Skiakinesis requires an active light source in the caster’s vicinity. The stro
 
 The efficiency of Skiakinesis is inversely proportional to local [[anima|Anima]] resonance, suffering from a massive decrease in strength within the FLIPSIDE. If Rafa dies, the ability to use Skiakinesis disappears with her.
 
-Only regular humans with a healthy nervous system are capable of using Skiakinesis, excluding [[hybrids]] (whose neural structure is too different), and people with neurodegenerative diseases. [[fae|Fae]] half-breeds can use Skiakinesis.
+Only regular [[humans]] with a healthy nervous system are capable of using Skiakinesis, excluding [[hybrids]] (whose neural structure is too different), and people with neurodegenerative diseases. [[fae|Fae]] half-breeds can use Skiakinesis.
 
 Each technique has a cooldown caused by the refractory period of the nervous system, and using the same technique without waiting that refractory period will apply the effect to both the target and the sorcerer.

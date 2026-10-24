@@ -16,7 +16,7 @@ Fae (_Fae sapiens_) are a type of humanoid Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Fae have a humanoid body plan, reaching ~2 m in height. They have bluish-grey skin, covered with patches of very fine scales, possess large, circular eyes, digitigrade legs, and sharp, elongated ears. Their body is hairless, with the exception of their scalp, which grows similar to humans. The colour of their [[phlogiston|Phlogiston]] is red.
+Fae have a humanoid body plan, reaching ~2 m in height. They have bluish-grey skin, covered with patches of very fine scales, possess large, circular eyes, digitigrade legs, and sharp, elongated ears. Their body is hairless, with the exception of their scalp, which grows similar to [[humans]]. The colour of their [[phlogiston|Phlogiston]] is red.
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -34,8 +34,8 @@ The greatest weakness Fae have is towards iron. Direct contact with elemental ir
 
 Fae reproduce sexually, giving birth to live young, which are nursed for ~2 years. The gestation period is ~9 months, and full sexual maturity is reached in ~18 years, after which the aging rate slows drastically. The average Fae life span is ~120 years, with only a minimal decrease in performance.
 
-Fae are capable of reproducing with humans. The result is a half-breed, anatomically identical to a human, including vulnerability to the [[toxin]], with the exception of a [[phlogiston|Phlogiston]] soul, slower aging, higher muscle strength, and almost total immunity to the FLIPSIDE's negation effect, with the only side effect being a mild feeling of nausea while inside the dimension. Half-breed will always be born between a Fae and a human/half-breed. Relations between a human and half-breed will result in a regular human. If the human is a [[hybrids|hybrid]] and one of the parents is a Fae/half-breed, the result will always be a half-breed/human.
+Fae are capable of reproducing with [[humans]]. The result is a half-breed, anatomically identical to a [[humans|human]], including vulnerability to the [[toxin]], with the exception of a [[phlogiston|Phlogiston]] soul, slower aging, higher muscle strength, and almost total immunity to the FLIPSIDE's negation effect, with the only side effect being a mild feeling of nausea while inside the dimension. Half-breed will always be born between a Fae and a [[humans|human]]/half-breed. Relations between a [[humans|human]] and half-breed will result in a regular [[humans|human]]. If the [[humans|human]] is a [[hybrids|hybrid]] and one of the parents is a Fae/half-breed, the result will always be a half-breed/[[humans|human]].
 # .diet
 <div class="bestiary-divider"></div>
 
-Fae are omnivorous, with a slightly higher metabolism than humans.
+Fae are omnivorous, with a slightly higher metabolism than [[humans]].
