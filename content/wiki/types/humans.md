@@ -16,7 +16,7 @@ aliases:
 
 Humans (Homo sapiens) are the sapient, dominant beings outside the FLIPSIDE.
 
-Humans are primates, a high order of mammal. They achieve maturity at 18, reproduce sexually, give birth to lie young, and pregnancy lasts 9 months. They have red [[blood]], and have a very primitive form of regeneration, capable of healing only very superficial wounds.
+Humans are primates, a high order of mammal. They achieve maturity at 18, reproduce sexually, give birth to live young, and pregnancy lasts 9 months. They have red [[blood]], and have a very primitive form of regeneration, capable of healing only very superficial wounds.
 
 Humans are, compared to [[angels|Angels]] and most [[Daemons]], very weak. The one things they have that [[angels|Angels]] and [[daemons|Daemons]] do not is the ability to change and themselves and work fully against their nature. All humans have innate access to [[skiakinesis|Skiakinesis]], as a consequence of their conditional connection to Rafa.
 
