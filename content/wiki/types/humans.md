@@ -8,6 +8,8 @@ aliases:
   - Humans
   - Human
   - human
+  - Humanity
+  - humanity
 ---
 <br><a href="/wiki/types" class="nav-button">← TYPES</a>
 <br><br>
