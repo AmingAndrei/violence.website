@@ -16,9 +16,9 @@ tags:
     <span class="wiki-card__label">.types</span>
   </a>
 
-  <a href="/wiki/materium" class="wiki-card">
-    <img src="assets/icons/materium.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Materium"/>
-    <span class="wiki-card__label">.materium</span>
+  <a href="/wiki/materials" class="wiki-card">
+    <img src="assets/icons/materials.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Materials"/>
+    <span class="wiki-card__label">.materials</span>
   </a>
 
   <a href="/wiki/powers" class="wiki-card">
@@ -49,6 +49,11 @@ tags:
   <a href="#" class="wiki-card">
     <img src="assets/icons/curses.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Curses"/>
     <span class="wiki-card__label">.curses</span>
+  </a>
+
+ <a href="#" class="wiki-card">
+    <img src="assets/icons/technology.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Curses"/>
+    <span class="wiki-card__label">.technology</span>
   </a>
 
 </div>

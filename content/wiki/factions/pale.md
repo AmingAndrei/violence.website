@@ -10,12 +10,12 @@ aliases:
 <br><a href="/wiki/factions" class="nav-button">← FACTIONS</a>
 <br><br>
 
-<div class="materium-image">
-  <div class="materium-image__frame">
-    <span class="materium-image__corner materium-image__corner--tl"></span>
-    <span class="materium-image__corner materium-image__corner--tr"></span>
-    <span class="materium-image__corner materium-image__corner--bl"></span>
-    <span class="materium-image__corner materium-image__corner--br"></span>
+<div class="material-image">
+  <div class="material-image__frame">
+    <span class="material-image__corner material-image__corner--tl"></span>
+    <span class="material-image__corner material-image__corner--tr"></span>
+    <span class="material-image__corner material-image__corner--bl"></span>
+    <span class="material-image__corner material-image__corner--br"></span>
   </div>
   <img src="/assets/factions/pale_logo.png" alt="The Pale"/>
 </div>

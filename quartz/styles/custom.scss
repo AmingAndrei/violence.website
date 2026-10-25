@@ -870,7 +870,7 @@ article td {
   &--aquilas    { --spine-bg: rgb(122,92,24);   --spine-frame: rgb(212,175,55);  --spine-fg: #ffcc33; }
   &--leviathans { --spine-bg: rgb(2,26,87);     --spine-frame: rgb(45,68,161);   --spine-fg: #1d8eb1; }
   &--flora      { --spine-bg: #2e662e;          --spine-frame: #37a748;          --spine-fg: #72c487; }
-  &--materium   { --spine-bg: #1f5fae;          --spine-frame: #eaf4ff;          --spine-fg: #eaf4ff; }
+  &--materials   { --spine-bg: #1f5fae;          --spine-frame: #eaf4ff;          --spine-fg: #eaf4ff; }
   &--powers     { --spine-bg: #3b1f9e;          --spine-frame: #a88cff;          --spine-fg: #e6deff; }
   &--absolutes  { --spine-bg: rgb(28,28,32);    --spine-frame: #d6a550;          --spine-fg: #f3dca0; }
   &--curses     { --spine-bg: rgb(20,16,24);    --spine-frame: #a3bb4a;          --spine-fg: #e4e8a4; }
@@ -1654,8 +1654,8 @@ article td {
   }
 }
 
-// ─── Materium Cards ────────────────────────────────────
-.materium-grid {
+// ─── Material Cards ────────────────────────────────────
+.material-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 4px;
@@ -1668,14 +1668,14 @@ article td {
   }
 
   &--labels-visible {
-    .materium-card__label {
+    .material-card__label {
       opacity: 1;
       color: #fff;
     }
   }
 }
 
-.materium-card {
+.material-card {
   display: flex !important;
   flex-direction: column !important;
   align-items: center !important;
@@ -1693,7 +1693,7 @@ article td {
   }
 }
 
-.materium-card__icon-wrap {
+.material-card__icon-wrap {
   position: relative;
   width: 100%;
   aspect-ratio: 1/1;
@@ -1702,7 +1702,7 @@ article td {
   justify-content: center;
 }
 
-.materium-card__glow {
+.material-card__glow {
   position: absolute;
   inset: 0;
   margin: auto;
@@ -1716,7 +1716,7 @@ article td {
   pointer-events: none;
 }
 
-.materium-card__icon {
+.material-card__icon {
   position: relative;
   z-index: 1;
   width: 65%;
@@ -1726,13 +1726,13 @@ article td {
   transition: filter 0.25s ease, transform 0.25s ease;
 }
 
-.materium-card__frame {
+.material-card__frame {
   position: absolute;
   inset: 4px;
   pointer-events: none;
 }
 
-.materium-card__corner {
+.material-card__corner {
   position: absolute;
   width: 14px;
   height: 14px;
@@ -1749,7 +1749,7 @@ article td {
   @media (max-width: 768px) { width: 10px; height: 10px; }
 }
 
-.materium-card__label {
+.material-card__label {
   font-size: 1.5rem;
   letter-spacing: 0.15em;
   color: #888;
@@ -1767,16 +1767,16 @@ article td {
   }
 }
 
-.materium-card:hover,
-.materium-card:focus-visible {
-  .materium-card__glow   { opacity: 1; }
-  .materium-card__icon   { filter: brightness(1.2); transform: scale(1.08); }
-  .materium-card__corner { opacity: 1; transform: scale(1); }
-  .materium-card__label  { opacity: 1; color: #fff; }
+.material-card:hover,
+.material-card:focus-visible {
+  .material-card__glow   { opacity: 1; }
+  .material-card__icon   { filter: brightness(1.2); transform: scale(1.08); }
+  .material-card__corner { opacity: 1; transform: scale(1); }
+  .material-card__label  { opacity: 1; color: #fff; }
 }
 
-// ─── Materium Image ──────────────────────────
-.materium-image {
+// ─── Material Image ──────────────────────────
+.material-image {
   float: left;
   margin: 0 60px 16px 0;
   padding: 16px;
@@ -1802,7 +1802,7 @@ article td {
   }
 }
 
-.materium-image__glow {
+.material-image__glow {
   position: absolute;
   inset: 0;
   margin: auto;
@@ -1814,13 +1814,13 @@ article td {
   pointer-events: none;
 }
 
-.materium-image__frame {
+.material-image__frame {
   position: absolute;
   inset: 6px;
   pointer-events: none;
 }
 
-.materium-image__corner {
+.material-image__corner {
   position: absolute;
   width: 20px;
   height: 20px;
@@ -2052,7 +2052,7 @@ article td {
   }
 
   &--labels-visible {
-    .materium-card__label {
+    .material-card__label {
     opacity: 1;
     color: #fff;
     width: 100%;
@@ -2091,7 +2091,7 @@ article td {
   &--left  { top: 90%; left: 10%; transform: translate(-50%, -50%); }
   &--right { top: 90%; left: 90%; transform: translate(-50%, -50%); }
 
-  &.materium-card {
+  &.material-card {
     padding: 4px !important;
     overflow: visible !important;
     text-overflow: clip !important;
@@ -2102,7 +2102,7 @@ article td {
     }
   }
 
-  .materium-card__icon {
+  .material-card__icon {
     width: 70%;
     height: 70%;
 
@@ -2112,7 +2112,7 @@ article td {
     }
   }
 
-  .materium-card__label {
+  .material-card__label {
     opacity: 1 !important;
     color: #fff !important;
     width: auto !important;
@@ -2146,7 +2146,7 @@ article td {
 .factions-grid--list {
   margin-top: 4rem;
 
-  .materium-card {
+  .material-card {
     padding: 4px !important;
 
     @media (max-width: 768px) {
@@ -2154,7 +2154,7 @@ article td {
     }
   }
 
-  .materium-card__icon {
+  .material-card__icon {
     width: 70%;
     height: 70%;
 
@@ -2164,7 +2164,7 @@ article td {
     }
   }
 
-  .materium-card__label {
+  .material-card__label {
     white-space: nowrap;
     overflow: visible;
     text-overflow: clip;

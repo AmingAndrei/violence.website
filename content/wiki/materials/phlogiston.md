@@ -1,22 +1,21 @@
 ---
 title: PHLOGISTON
 cssclasses:
-  - materium
 tags:
-  - materium
+  - material
 aliases:
   - Phlogiston
 ---
-<br><a href="/wiki/materium" class="nav-button">← MATERIUM</a>
+<br><a href="/wiki/materials" class="nav-button">← MATERIALS</a>
 <br><br>
 
-<div class="materium-image">
-  <span class="materium-image__glow"></span>
-  <div class="materium-image__frame">
-    <span class="materium-image__corner materium-image__corner--tl"></span>
-    <span class="materium-image__corner materium-image__corner--tr"></span>
-    <span class="materium-image__corner materium-image__corner--bl"></span>
-    <span class="materium-image__corner materium-image__corner--br"></span>
+<div class="material-image">
+  <span class="material-image__glow"></span>
+  <div class="material-image__frame">
+    <span class="material-image__corner material-image__corner--tl"></span>
+    <span class="material-image__corner material-image__corner--tr"></span>
+    <span class="material-image__corner material-image__corner--bl"></span>
+    <span class="material-image__corner material-image__corner--br"></span>
   </div>
   <img src="/assets/placeholder_icon.svg" alt="Phlogiston"/>
 </div>
