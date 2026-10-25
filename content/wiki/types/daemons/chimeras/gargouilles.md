@@ -21,7 +21,7 @@ Gargouilles (Fem. _Grotesques_, _Gargouillus pluvius_) are a type of sentinel Ch
 
 Gargouilles have a somewhat mammalian body plan, reaching ~14 m in length. They are quadrupeds, along with a pair of large wings. Their bodies are covered in a thick, mineralised hide, resembling stone to the touch. Their heads are bat-like in appearance, having short snouts with pronounced nasal cavities, and a pair of large, ear-like horns. Their wings are significantly larger than the rest of their limbs, so much so that they're used as primary front limbs when walking. Their tails are also significantly longer than their body, with a large fin going its entire length.
 
-Grotesques are smaller, having a stockier build, reaching ~7 m. Their features are generally less pronounced, with their wings and tail more proportionate to their body. The colour of both genders' [[phlogiston|Phlogiston]] is blue.
+Grotesques are smaller, having a stockier build, reaching ~7 m. Their features are generally less pronounced, with their wings and tail more proportionate to their body. The colour of both genders' [[divine_flame|Divine Flame]] is blue.
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -31,7 +31,7 @@ Gargouilles will spend most of their lifetime solitary, guarding fixed territori
 # .abilities
 <div class="bestiary-divider"></div>
 
-Gargouilles have a specialised sack in their throat used to store water, which they use during [[pyrokinesis|Pyrokinesis]] to transform into hyper-pressurised jets, composed of both [[phlogiston|Phlogiston]] and boiling water, capable of reaching ~80,000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock. Their throats also possess a series of holes, through which the Gargouille can shoot out steam to whistle, using it as a primary method of communication.
+Gargouilles have a specialised sack in their throat used to store water, which they use during [[pyrokinesis|Pyrokinesis]] to transform into hyper-pressurised jets, composed of both [[divine_flame|Divine Flame]] and boiling water, capable of reaching ~80,000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock. Their throats also possess a series of holes, through which the Gargouille can shoot out steam to whistle, using it as a primary method of communication.
 
 By using the stored water, Gargouilles can reach great flying speeds by using steam propulsion. Their tail feature a specialised set of gills extending its entire length, which, when submerged in water, will pump it directly into their throat sack, along with their hide, which has microscopic grooves which channel all water directly into their sack through capillary action.
 

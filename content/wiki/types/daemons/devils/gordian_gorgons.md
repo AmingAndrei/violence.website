@@ -34,7 +34,7 @@ Gordian Gorgons reproduce asexually. They will stab uninfected organisms with th
 
  The larvae will extend their tendrils into the host, feeding on its body. Rashes appear within hours, followed by tumorous growths and boils. The process takes 2-3 days, and can only be stopped within the first hour, by cutting out the entry wound and the tissue around it. They will reach maturity around the same time the host dies, allowing the Gordian Gorgon to fully take over the body.
  
- [[hybrids|Hybrids]] are immune to Gordian Gorgon infection, and any infection attempt will force a backlash effect from the [[clutch_beetles|Clutch Beetle]]'s nervous structure, causing excruciating pain for the Gordian Gorgon, so powerful that they will avoid that one [[hybrids|hybrid]] for the rest of its life, and the eggs that may have entered will die on the spot. [[chimeras|Chimeras]] are also partially immune, as their [[phlogiston|Phlogiston]] soul will kill the larvae, although severe rashes will still appear.
+ [[hybrids|Hybrids]] are immune to Gordian Gorgon infection, and any infection attempt will force a backlash effect from the [[clutch_beetles|Clutch Beetle]]'s nervous structure, causing excruciating pain for the Gordian Gorgon, so powerful that they will avoid that one [[hybrids|hybrid]] for the rest of its life, and the eggs that may have entered will die on the spot. [[chimeras|Chimeras]] are also partially immune, as their [[divine_flame|Divine Flame]] soul will kill the larvae, although severe rashes will still appear.
 # .diet
 <div class="bestiary-divider"></div>
 

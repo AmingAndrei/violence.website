@@ -17,13 +17,13 @@ Blacksalamanders (_Chimaeria primigenius_) are a type of Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Blacksalamanders have a reptilian body plan, reaching ~20 cm in length. They have pitch black skin, and are are hexapods. They have no [[phlogiston|Phlogiston]].
+Blacksalamanders have a reptilian body plan, reaching ~20 cm in length. They have pitch black skin, and are are hexapods. They have no [[divine_flame|Divine Flame]].
 # .behaviour
 <div class="bestiary-divider"></div>
 
 Blacksalamanders are nocturnal, and spend the day in damp, dark places. 
 
-They are the progenitor type of all Chimeras, the template which ████ and ████ grafted the [[phlogiston|Phlogiston]] soul into, allowing them to evolve and diversify into the other Chimera types.
+They are the progenitor type of all Chimeras, the template which ████ and ████ grafted the [[divine_flame|Divine Flame]] into, allowing them to evolve and diversify into the other Chimera types.
 # .abilities
 <div class="bestiary-divider"></div>
 

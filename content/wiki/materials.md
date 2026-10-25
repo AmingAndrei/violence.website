@@ -65,7 +65,7 @@ cssclasses:
     <span class="material-card__label">.haemocarbide</span>
 </a>
 
-<a href="/materials/phlogiston" class="material-card">
+<a href="/materials/divine_flame" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -74,9 +74,9 @@ cssclasses:
         <span class="material-card__corner material-card__corner--bl"></span>
         <span class="material-card__corner material-card__corner--br"></span>
       </div>
-      <img src="/assets/placeholder_icon.svg" class="material-card__icon" alt="Phlogiston"/>
+      <img src="/assets/placeholder_icon.svg" class="material-card__icon" alt="Divine Flame"/>
     </div>
-    <span class="material-card__label">.phlogiston</span>
+    <span class="material-card__label">.divine_flame</span>
 </a>
 
 <a href="/materials/hellfire" class="material-card">

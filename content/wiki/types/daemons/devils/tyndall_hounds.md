@@ -25,7 +25,7 @@ Tyndall Hounds are pack hunters, although they only form temporary groups during
 # .abilities
 <div class="bestiary-divider"></div>
 
-Tyndall Hounds can vanish at will. While hidden, they are transparent across the entire light spectrum and match the temperature of the air around them. They also fall completely silent, and can thin their own mass until they leave no tracks and objects can pass through them, including sound and radio waves. A hidden Tyndall Hound still perceives its surroundings clearly through sound, smell and temperature, which lets it follow targets for days without being noticed. While hidden, they cannot be physically harmed, [[phlogiston|Phlogiston]] and [[hellfire|Hellfire]] being the exception. 
+Tyndall Hounds can vanish at will. While hidden, they are transparent across the entire light spectrum and match the temperature of the air around them. They also fall completely silent, and can thin their own mass until they leave no tracks and objects can pass through them, including sound and radio waves. A hidden Tyndall Hound still perceives its surroundings clearly through sound, smell and temperature, which lets it follow targets for days without being noticed. While hidden, they cannot be physically harmed, [[divine_flame|Divine Flame]] and [[hellfire|Hellfire]] being the exception. 
 
 Light scattering though smoke, mist, or dust can interact with them in such a way that it makes them temporarily visible. The can use [[fear]] to cross-check if their prey has noticed them, at which point they will stop pursuing and begin attacking. In order to actually attack, however, Tyndall Hounds need to reveal themselves.
 # .reproduction

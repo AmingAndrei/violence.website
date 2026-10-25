@@ -17,7 +17,7 @@ Mardykhora (Sg. _Mardykhor_, _Mardykhor faevorus_) are a type of hyper-predatory
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Mardykhora have a body plan resembling a mix of large feline and baboon, are quadrupedal, and reach ~7 m in length. Their legs are very flexible and muscular, and their feet possess opposable thumbs and toes, along with sharp, retractile claws. Along the length of their limbs, sharp scales are located. Their fur is cinnabar-red. Their muzzles are elongated, and have a baboon-leonine appearance, further compounded by the thick mane around their head. They possess a double set of jaws, one horizontal and one vertical, separating their head into four quadrants, each able to move independently from the others and each possessing a front-facing eye. Their tails are long and flexible, possessing spines at the tip. The colour of their [[phlogiston|Phlogiston]] is green.
+Mardykhora have a body plan resembling a mix of large feline and baboon, are quadrupedal, and reach ~7 m in length. Their legs are very flexible and muscular, and their feet possess opposable thumbs and toes, along with sharp, retractile claws. Along the length of their limbs, sharp scales are located. Their fur is cinnabar-red. Their muzzles are elongated, and have a baboon-leonine appearance, further compounded by the thick mane around their head. They possess a double set of jaws, one horizontal and one vertical, separating their head into four quadrants, each able to move independently from the others and each possessing a front-facing eye. Their tails are long and flexible, possessing spines at the tip. The colour of their [[divine_flame|Divine Flame]] is green.
 # .behaviour
 <div class="bestiary-divider"></div>
 
