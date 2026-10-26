@@ -23,8 +23,4 @@ The Shaper resembles a dagger-sword, reaching ~50 cm in length. It's double-edge
 # .abilities
 <div class="bestiary-divider"></div>
 
-The Shaper is capable of directly interacting with the spirit inside a being, the [[anima|Anima]] inside one's body. The Absolute needs to be physically stabbing into the being to do so. Beyond that, it's a wild card.
-# .creation
-<div class="bestiary-divider"></div>
-
-The Shaper was the weapon used by ████ to carve Violence Against Nature out of his own spirit, around 6000 AAV. This transformed the weapon into an Absolute, allowed [[devils|Devils]] to first take shape and led to the remains of ████ splitting into Violence Against God and Violence Against Art.
+The Shaper, retaining some of the properties in acquired when it was a regular weapon and was used by ████ to carve Violence Against Nature out of his own spirit, is capable of directly interacting with the spirit inside a being, the [[anima|Anima]] inside one's body. The Absolute needs to be physically stabbing into the being to do so. Beyond that, it's a wild card.

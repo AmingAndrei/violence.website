@@ -24,7 +24,7 @@ The Pale is the governmental power of City Zero, ruling alongside [[ultraviolet|
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Pale is responsible with overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside City Zero.
+The Pale was founded in 1 AV by Mihaela Rebreanu, and is responsible with overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside City Zero. 
 # .structure
 <div class="bestiary-divider"></div>
 
@@ -34,7 +34,7 @@ Below the Executive are the Mayor, the Bureau heads and, informally, the Captain
 # .conduct
 <div class="bestiary-divider"></div>
 
-Economically, the Pale enforced a mixed economy, where all means of production for base, essential products are owned by the state. Individual companies and vendors can bid for access to the base resources, which are then sold or used in the manufacturing process of other products. Businesses completely independent from the Pale's supply do exist, procuring their means of production through private means, ensuring demand doesn't exceed supply. The Pale is the proprietary owner of the wider Radio Computer system, and are responsible for running the VENOM program.
+Economically, the Pale enforced a mixed economy, where all means of production for base, essential products are owned by the state. Individual companies and vendors can bid for access to the base resources, which are then sold or used in the manufacturing process of other products. Businesses completely independent from the Pale's supply do exist, procuring their means of production through private means, ensuring demand doesn't exceed supply. The Pale is the proprietary owner of the wider Radio Computer network, and are responsible for running the VENOM program.
 
 Wealth can be accumulated and luxury goods do exist with permission from the Pale, although companies and individuals with enough wealth or influence to pose a risk of economic exploitation of the citizens or of the Pale will be held under harsher regulations, if not outright be charged as criminal offence and culled. Such companies are usually dissolved, and the wealth will be reabsorbed by the Pale.
 
@@ -50,4 +50,4 @@ Any citizen within Pale territory can own private property, distinguished from p
 - Most material extraction sites in the FLIPSIDE, run by hired [[ultraviolet|Ultraviolet]] Operators;
 - Signal Stations, partial ownership with [[ultraviolet|Ultraviolet]].
 - Absolutes:
-	- [[nightmare_shackles|Nightmare Shackle]] (Green)
+	- [[nightmare_shackles|Nightmare Shackle]] (Green), used to keep Violence Against God inside the Sarcophagus.

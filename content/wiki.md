@@ -31,6 +31,11 @@ tags:
     <span class="wiki-card__label">.factions</span>
   </a>
 
+ <a href="#" class="wiki-card">
+    <img src="assets/icons/technology.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Curses"/>
+    <span class="wiki-card__label">.technology</span>
+  </a>
+
  <a href="/wiki/absolutes" class="wiki-card">
     <img src="assets/icons/absolutes.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Absolutes"/>
     <span class="wiki-card__label">.absolutes</span>
@@ -49,11 +54,6 @@ tags:
   <a href="#" class="wiki-card">
     <img src="assets/icons/curses.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Curses"/>
     <span class="wiki-card__label">.curses</span>
-  </a>
-
- <a href="#" class="wiki-card">
-    <img src="assets/icons/technology.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Curses"/>
-    <span class="wiki-card__label">.technology</span>
   </a>
 
 </div>

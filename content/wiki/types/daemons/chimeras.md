@@ -57,19 +57,19 @@ Chimera evolution, while still obeying the principle of random mutations being i
   </div>
 </a>
 
-<a href="/wiki/types/daemons/chimeras/gargouilles" class="chimera-card">
-  <div class="chimera-card__inner">
-    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="chimera-card__bar"></div>
-    <div class="chimera-card__name">GARGOUILLES</div>
-  </div>
-</a>
-
 <a href="/wiki/types/daemons/chimeras/mardykhora" class="chimera-card">
   <div class="chimera-card__inner">
     <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
     <div class="chimera-card__bar"></div>
     <div class="chimera-card__name">MARDYKHORA</div>
+  </div>
+</a>
+
+<a href="/wiki/types/daemons/chimeras/gargouilles" class="chimera-card">
+  <div class="chimera-card__inner">
+    <div class="chimera-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
+    <div class="chimera-card__bar"></div>
+    <div class="chimera-card__name">GARGOUILLES</div>
   </div>
 </a>
 
