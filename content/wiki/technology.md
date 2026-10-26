@@ -22,6 +22,14 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
+    <div class="absolutes-card__label">ORACLE MACHINE</div>
+</a>
+
+<a class="absolutes-card" href="/wiki/absolutes/black_box">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
     <div class="absolutes-card__label">FAE AUTOMATA</div>
 </a>
 
