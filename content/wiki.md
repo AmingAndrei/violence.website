@@ -31,7 +31,7 @@ tags:
     <span class="wiki-card__label">.factions</span>
   </a>
 
- <a href="#" class="wiki-card">
+ <a href="/wiki/technology" class="wiki-card">
     <img src="assets/icons/technology.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Curses"/>
     <span class="wiki-card__label">.technology</span>
   </a>
