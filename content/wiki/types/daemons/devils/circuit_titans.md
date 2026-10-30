@@ -29,7 +29,7 @@ Circuit Titans are capable of sight, although their 'eye' is, in fact, their 'mo
 
 The tendrils of a Circuit Titan eventually split down to the size of thin cables, while retaining full motor control. These tendrils can then interface with electronic devices, which are then directly controlled by the Circuit Titan, even allowing them to communicate, as long as they remain in contact with the device.
 
-The immense size of a Circuit Titan actively alters the nearby climate, such as their cells drastically increasing the nearby static electricity, causing indefinite lighting storms, increasing the temperature of the surrounding area, which in turn affects not just the general climate, but also winds and airflow. These effects become even more prominent once awake and active. An active Circuit Titan is capable of inadvertently creating many more Devils just by existing.
+The immense size of a Circuit Titan actively alters the nearby climate, such as their cells drastically increasing the nearby static electricity, causing indefinite lighting storms, increasing the temperature of the surrounding area, which in turn affects not just the general climate, but also winds and airflow. These effects become even more prominent once awake and active.
 # .reproduction
 <div class="bestiary-divider"></div>
 

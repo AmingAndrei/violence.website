@@ -55,7 +55,7 @@ Steel Sharks are not omnipotent, as they fall into several categories, determini
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Steel Sharks do not reproduce. Individuals spontaneously manifests within Pandiavolum.
+Steel Sharks do not reproduce. They will coalesce within Pandiavolum when [[anima|Anima]] resonance exceeds a certain threshold. All Devils outside of Pandiavolum will instinctually attempt to create suitable conditions and engineer an environment that allow for a Steel Shark to be born.
 # .diet
 <div class="bestiary-divider"></div>
 

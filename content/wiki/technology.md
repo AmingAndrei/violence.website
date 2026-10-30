@@ -22,14 +22,6 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">ORACLE MACHINE</div>
-</a>
-
-<a class="absolutes-card" href="/wiki/absolutes/black_box">
-    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
-      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
-      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
-    </div>
     <div class="absolutes-card__label">FAE AUTOMATA</div>
 </a>
 
@@ -46,15 +38,7 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">JUMP STARTERS</div>
-</a>
-
-<a class="absolutes-card" href="/wiki/absolutes/black_box">
-    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
-      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
-      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
-    </div>
-    <div class="absolutes-card__label">VENOM PROGRAM</div>
+    <div class="absolutes-card__label">JUMPSTARTERS</div>
 </a>
 
 <a class="absolutes-card" href="/wiki/absolutes/black_knight_satellite">
@@ -64,5 +48,22 @@ aliases:
     </div>
     <div class="absolutes-card__label">BLACK KNIGHT SATELLITE</div>
 </a>
+
+<a class="absolutes-card" href="/wiki/absolutes/black_box">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
+    <div class="absolutes-card__label">VENOM PROJECT</div>
+</a>
+
+<a class="absolutes-card" href="/wiki/absolutes/black_box">
+    <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
+      <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
+      <span class="absolutes-card__corner absolutes-card__corner--br"></span>
+    </div>
+    <div class="absolutes-card__label">ACHERON PROJECT</div>
+</a>
+
 
 </div>
