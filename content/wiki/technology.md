@@ -9,7 +9,7 @@ aliases:
 <br><a href="/wiki" class="nav-button">← WIKI</a><br><br>
 <div class="absolutes-grid">
 
-<a class="absolutes-card" href="/wiki/absolutes/black_box">
+<a class="absolutes-card" href="/wiki/technology/radio_computer_network">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
