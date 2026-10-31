@@ -19,7 +19,7 @@ The Radio Computer Network is an interconnected computer network utilising radio
 # .design
 <div class="bestiary-divider"></div>
 
-Standard RCs are composed of a main unit that comes integrated with a screen and keyboard. More advanced models come with just the main unit, allowing the user to connect their own screen and keyboard. While most tasks can be done through the keyboard alone, a 'bug; pointing device is considered a standard accessory. Each RC comes integrated with a modem.
+Standard RCs are composed of a main unit that comes integrated with a screen and keyboard. More advanced models come with just the main unit, allowing the user to connect their own screen and keyboard. While most tasks can be done through the keyboard alone, a 'bug' pointing device is considered a standard accessory. Each RC comes integrated with a modem.
 
 The master server of the entire Network is housed within the Spine, and is composed of an extremely compact matrix of silicon lattices that store data as etched micro-markings and light signals, suspended in a vacuum. Additional relays are used to better coordinate the link between the master server and the RCs.
 # .specs
