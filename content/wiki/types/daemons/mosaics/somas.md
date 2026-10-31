@@ -25,7 +25,7 @@ The Shell is a humanoid construct piloted by the Heart. They are 1.9 m in height
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Somas are created by the Serpent, being considered mutated [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. They are social and cooperative, from an outside perspective having very little differences to [[humans]].
+Somas are created by the Serpent as bodies to house itself in, being considered mutated [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. The Shells were implemented as a last-ditch solution to counteract the defects Somas possess and to act as a scaffold for the Serpent's abilities. They are social and cooperative, from an outside perspective having very little differences to [[humans]].
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -39,4 +39,4 @@ Vexers are an extremely rare anomaly where Somas which retain the [[vespers|Vesp
 # .production
 <div class="bestiary-divider"></div>
 
-Somas are created when a [[vespers|Vesper]] womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart.
+Somas are created when a [[vespers|Vesper]] womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, inadvertently forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart. The retained [[vespers|Vesper]] code overpowers that of the Serpent, guaranteeing that without outside intervention, the Soma remains its own individual.

@@ -41,7 +41,7 @@ aliases:
     <div class="absolutes-card__label">JUMPSTARTERS</div>
 </a>
 
-<a class="absolutes-card" href="/wiki/absolutes/black_knight_satellite">
+<a class="absolutes-card" href="/wiki/technology/black_knight_satellite">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>

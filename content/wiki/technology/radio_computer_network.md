@@ -6,7 +6,7 @@ tags:
 aliases:
   - Radio Computer Network
 ---
-<br><a href="/wiki/absolutes" class="nav-button">← ABSOLUTES</a>
+<br><a href="/wiki/technology" class="nav-button">← TECHNOLOGY</a>
 <br><br>
 
 <div class="absolutes-image">

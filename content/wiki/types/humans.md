@@ -30,7 +30,7 @@ Humans come in different sub-types:
 - [[viewers|Viewers]], created when a human is personally killed by Violence Against Art.
 
 ¹The offspring will be born as a half-breed/regular human if one of the parents is a [[Fae]]/half-breed.<br><br>
-  <a href="/wiki/types/humans/saints" class="main-nav-card">
-    <img src="assets/icons/saints.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Saints"/>
-    <span class="main-nav-card__label">SAINTS</span>
+  <a href="/wiki/types/humans/revolutions" class="main-nav-card">
+    <img src="assets/icons/revolutions.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Revolutions"/>
+    <span class="main-nav-card__label">REVOLUTIONS</span>
   </a>
