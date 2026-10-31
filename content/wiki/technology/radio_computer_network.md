@@ -25,7 +25,7 @@ The master server of the entire Network is housed within the Spine, and is compo
 # .specs
 <div class="bestiary-divider"></div>
 
-The master server has a storage capacity of ~100 EB, and its structure allows the processing of complex data within seconds. The physical marks make memory loss almost impossible, and any new data results in additional etchings forming in the matrix. To connect to the Radio Computer Network and the master server, each user must pay a subscription, and more expensive subscriptions allow the user to establish a better connection between the master server and their RC's modem.
+The master server has a storage capacity of ~100 EB, its structure allows the processing of complex data within seconds and make unintentional data loss impossible. To connect to the Radio Computer Network and the master server, each user must pay a subscription, and more expensive subscriptions allow the user to establish a better connection between the master server and their RC's modem.
 
 RCs themselves have very little processing power and storage. Instead, everything is handled by the master server, to which every RC is connected through a complex sequence of multi-layered, encrypted radio waves. All digital applications are also stored and run on the master server, then broadcast to individual RCs. As a structural consequence, a majority of computer games are multiplayer, to lower processing costs.
 

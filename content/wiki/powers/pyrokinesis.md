@@ -27,4 +27,4 @@ Pyrokinesis is considered an anti-[[anima|Anima]] technique, due to [[divine_fla
 # .limitations
 <div class="bestiary-divider"></div>
 
-As the main component of Pyrokinesis is [[divine_flame|Divine Flame]], all techniques are dependent on [[anima|Anima]] as fuel, with its overall strength scaling with the local [[anima|Anima]] resonance. Overusing Pyrokinesis techniques can cause the local [[anima|Anima]] resonance to temporarily decrease, which will directly impact the efficiency of [[divine_flame|Divine Flame]] and of Pyrokinesis until it replenishes. Overuse can also strain the body, which will also impact Pyrokinesis proficiency.
+As the main component of Pyrokinesis is [[divine_flame|Divine Flame]], all techniques are dependent on [[anima|Anima]] as fuel, with its overall strength scaling with the local [[anima|Anima]] resonance. Overuse strains the body.
