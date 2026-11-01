@@ -25,7 +25,7 @@ aliases:
     <div class="absolutes-card__label">FAE AUTOMATA</div>
 </a>
 
-<a class="absolutes-card" href="/wiki/absolutes/black_box">
+<a class="absolutes-card" href="/wiki/technology/fael_cores">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -33,7 +33,7 @@ aliases:
     <div class="absolutes-card__label">FAEL CORES</div>
 </a>
 
-<a class="absolutes-card" href="/wiki/absolutes/black_box">
+<a class="absolutes-card" href="/wiki/technology/jumpstarters">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>

@@ -5,6 +5,7 @@ tags:
   - powers
 aliases:
   - Pyrokinesis
+  - Pyrokinetic
 ---
 <br><a href="/wiki/powers" class="nav-button">← POWERS</a>
 <br><br>
