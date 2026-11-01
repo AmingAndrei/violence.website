@@ -16,7 +16,7 @@ aliases:
   <span class="absolutes-image__corner absolutes-image__corner--br"></span>
 </div>
 
-Jumpstarters are a type of [[serpentine]] firearm designed for [[hybrids|hybrid]] usage.
+Jumpstarters are a type of [[serpentine]] firearm designed for [[hybrids|hybrid]] usage, issued by [[ultraviolet|Ultraviolet]] to its Operators.
 # .design
 <div class="bestiary-divider"></div>
 
