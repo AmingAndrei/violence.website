@@ -20,7 +20,7 @@ aliases:
   <img src="/assets/placeholder_icon.svg" alt="Anima"/>
 </div>
 
-Anima is the fundamental vital force animating all living beings.
+Anima is the fundamental vital force animating all living beings, and the substance the 'spirit' of living beings is composed of.
 # .source
 <div class="bestiary-divider"></div>
 
@@ -28,6 +28,6 @@ Anima is everywhere, acting as a field permeating the entire physical world. Alt
 # .properties
 <div class="bestiary-divider"></div>
 
-All living organisms have an incremental draw effect on Anima, as they absorb it passively to remain animate. [[devils|Devils]] have the greatest Anima draw, being entirely made of it, and their bodies consequently act as an amplifier, increasing the local resonance around their vicinity. Locations with a very low or no Anima resonance are barren or devoid of life entirely, and any organisms that enters such an area will die from deprivation.
+All living organisms absorb Anima as long as they remain alive. [[devils|Devils]] have the greatest Anima draw, being entirely made of it, and their bodies consequently act as an amplifier, increasing the local resonance around their vicinity. Locations with a very low or no Anima resonance are barren and devoid of life, and any being that enters such an area will die from deprivation.
 
-This is not a one way process, as all beings leave imprints on the field as a whole, leaving behind biological data that can be later retrieved, including data that can be extrapolated from past and present entries, or even data that exists purely as a theoretical concept with no living counterpart.
+All beings leave imprints on the field as a whole, leaving behind biological data that can be later retrieved, including data that can be extrapolated from past and present entries, or even data that exists purely as a theoretical concept with no living counterpart.
