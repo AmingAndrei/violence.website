@@ -20,7 +20,7 @@ All Chimeras are comprised of two constituents:
 - Upon death of the soul, the body will enter a vegetative state, dying not long after due to organ failure.
 
 2. The Soul:
-- A physical construct composed entirely of [[divine_flame|Divine Flame]], grafted on by ████ and ████, housed within a complex of vessels and nodes spanning the entire body, similar in structure to a lymphatic system.
+- A physical construct composed entirely of [[divine_flame|Divine Flame]], grafted on by the Furies, housed within a complex of vessels and nodes spanning the entire body, similar in structure to a lymphatic system.
 - During gestation, the soul forms first, around which the body follows and forms around. The body will consistently match the shape of the soul.
 - The [[divine_flame|Divine Flame]] comprising the soul uses [[anima|Anima]] as a fuel source, with the burning reaction animating the Chimera. This is also what allows Chimeras to reach extreme sized.
 - Upon death of the body, the soul will immediately burn out.

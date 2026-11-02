@@ -39,7 +39,7 @@ Violence Against Nature is just below the other two, for no other reason that th
 
 The Supreme Acts will always act in the benefit of themselves, although their personal goals do sometimes clash or interfere with that of others.
 
-The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE, completely unharmed, with no awareness of the passage of time.
+The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE, completely unharmed. Revival does cause a slight deterioration in long-term memory, but most of the time it only affects minute details from long ago. The only one that can perceive and is fully conscious during this passage of time is Violence Against Art.
 # .assets
 <div class="bestiary-divider"></div>
 
