@@ -27,13 +27,13 @@ The Supreme Acts have no agenda besides their own, which consists mostly of doin
 # .structure
 <div class="bestiary-divider"></div>
 
-The Supreme Acts are composed of three members, physical embodiments of violence of the highest degree. These are:
+The Supreme Acts a trio of physical embodiments of violence of the highest degree. These are:
 
 - Violence Against God;
 - Violence Against Art;
 - Violence Against Nature.
 
-Although, informally, Violence Against Nature is just below the other two, for no other reason that the familiar ranking of parents being above their children and the age difference, even though she is ultimately the strongest of the three.
+Violence Against Nature is just below the other two, for no other reason that the familiar ranking of parents being above their children, even though she is ultimately the strongest of the three.
 # .conduct
 <div class="bestiary-divider"></div>
 
