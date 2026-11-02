@@ -12,6 +12,12 @@ tags:
    style="background-image:url('/assets/book_covers/yellow.png');background-position:center;background-size:cover;background-repeat:no-repeat;border-color:rgba(255,255,0,1);">
 </a>
 
+</div>
+
+---
+
+<div class="book-grid">
+
 <a href="/books" class="book-cover"
    style="background-image:url('/assets/book_covers/cyan.png');background-position:center;background-size:cover;background-repeat:no-repeat;border-color:rgba(0,255,255,1);">
 </a>
