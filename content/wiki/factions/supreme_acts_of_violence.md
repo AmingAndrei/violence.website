@@ -19,11 +19,11 @@ aliases:
   <img src="/assets/factions/sav_logo.png" alt="Supreme Acts of Violence"/>
 </div>
 
-The Supreme Acts of Violence is a group formed of the most dangerous beings in the world, and uncontested rulers of the FLIPSIDE.
+The Supreme Acts of Violence are the most violent beings in the world, and uncontested rulers of the FLIPSIDE.
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Supreme Acts have no agenda besides their own, which consists mostly of doing things which benefit themselves in some shape or form.
+The Supreme Acts have no agenda besides their own, which consists mostly of doing things which benefit themselves.
 # .structure
 <div class="bestiary-divider"></div>
 
@@ -32,14 +32,12 @@ The Supreme Acts a trio of physical embodiments of violence of the highest degre
 - Violence Against God;
 - Violence Against Art;
 - Violence Against Nature.
-
-Violence Against Nature is just below the other two, for no other reason that the familiar ranking of parents being above their children, even though she is ultimately the strongest of the three.
 # .conduct
 <div class="bestiary-divider"></div>
 
-The Supreme Acts will always act in the benefit of themselves, although their personal goals do sometimes clash or interfere with that of others.
+The Supreme Acts will act in the benefit of themselves as a whole. Violence Against Art and Violence Against God will always act in the interest of their daughter, and Violence Against Nature will consider things that benefit her fathers.
 
-The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE, completely unharmed. Revival does cause a slight deterioration in long-term memory, but most of the time it only affects minute details from long ago. The only one that can perceive and is fully conscious during this passage of time is Violence Against Art.
+The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE, completely unharmed.
 # .assets
 <div class="bestiary-divider"></div>
 
