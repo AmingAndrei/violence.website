@@ -18,4 +18,4 @@ Revolutions represent the best of [[humans|humanity]], embodying all of their st
 
 The caveat to their existence is that their life is fleeting. As they age, their bodies begin breaking down, and they begin coughing more and more of their insides, liquified into a black, rainbow iridescent substance, the same substance their [[blood]] is composed off. The condition is fatal, and most Revolutions die by 30.
 
-Revolutions are theoretically not a [[humans|human]]-exclusive phenomenon, as other types can also give birth to their own Revolution-like beings. Due to their unique relation to [[anima|Anima]], [[angels|Angels]] and [[daemons|Daemons]] cannot be Revolutions.
+Revolutions are a [[humans|human]]-exclusive phenomenon, due to the higher thought necessary. Due to their unique relation to [[anima|Anima]], [[daemons|Daemons]] cannot birth Revolutions.

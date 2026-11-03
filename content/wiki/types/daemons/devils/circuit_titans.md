@@ -21,7 +21,7 @@ Circuit Titans are the biggest Devil type, reaching a total height of ~6 km. The
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Most if not all Circuit Titans are asleep. They sleep vertically, anchoring themselves into the ground. If an event of large enough violence were to occur, or if they were to be overly disturbed, they would wake up. They're extremely curious creatures and actively delight in spectating others. They are all single minded, and all individuals share common goals, established at will by Violence Against Nature.
+Most if not all Circuit Titans are asleep. They sleep vertically, anchoring themselves into the ground. If an event of large enough violence were to occur, or if they were to be overly disturbed, they would wake up. They're extremely curious creatures and actively delight in spectating others. They are all single minded, and all individuals share the same goals set by Violence Against Nature.
 # .abilities
 <div class="bestiary-divider"></div>
 
