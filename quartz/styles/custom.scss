@@ -1985,13 +1985,13 @@ article td {
 
 .absolutes-card__label {
   margin-top: 16px;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   letter-spacing: 0.16em;
   color: #fff;
   text-align: center !important;
 
   @media (max-width: 768px) {
-    font-size: 0.9rem;
+    font-size: 1rem;
     letter-spacing: 0.1em;
     margin-top: 8px;
   }
@@ -2037,6 +2037,80 @@ article td {
     &--br { bottom: -6px; right: -6px; }
   }
 }
+
+// ─── Curses Cards ───────────────────────────────────────────────────────────
+.curses-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  width: 100%;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}
+
+.curses-card {
+  container-type: inline-size;   // lets the hole and name size themselves from the card's width
+  position: relative;
+  display: block !important;
+  padding: 17.6% 7.1% 8.2% !important;   // top / sides / bottom as % of card width (30 / 12 / 14px at the mockup's 170px)
+  border: 1px solid #ddd !important;
+  border-radius: 6px !important;
+  background: transparent !important;
+  color: #acacac !important;
+  text-decoration: none !important;
+  transition: border-color 0.25s ease;
+
+  &:hover { border-color: #ffffff !important; }
+
+  @media (max-width: 768px) {
+    border-radius: 5px !important;
+  }
+}
+
+.curses-card__hole {
+  position: absolute;
+  top: 5.9cqw;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 6.5cqw;
+  height: 6.5cqw;
+  min-width: 9px;
+  min-height: 9px;
+  border: 1px solid #acacac;
+  border-radius: 50%;
+  transition: border-color 0.25s ease;
+
+  .curses-card:hover & { border-color: #ffffff; }
+
+  @media (max-width: 768px) {
+    top: 7px;
+    width: 9px;
+    height: 9px;
+  }
+}
+
+.curses-card__image {
+  aspect-ratio: 1/1;
+  background: #161616 center/cover no-repeat;
+}
+
+.curses-card__name {
+  margin-top: 7cqw;
+  font-size: clamp(0.8rem, 9cqw, 1.4rem);
+  letter-spacing: 0.2em;
+  text-align: center;
+
+  @media (max-width: 768px) {
+    margin-top: 8px;
+    font-size: 1.2rem;
+    letter-spacing: 0.12em;
+  }
+}
+
 // ─── Factions — Trio Layout ─────────────────────────────────────────────────
 .factions-grid--trio {
   overflow: visible;

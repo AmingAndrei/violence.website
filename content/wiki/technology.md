@@ -14,7 +14,7 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">RADIO COMPUTER NETWORK</div>
+    <div class="absolutes-card__label">.rc_network</div>
 </a>
 
 <a class="absolutes-card" href="/wiki/technology/fae_automata">
@@ -22,7 +22,7 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">FAE AUTOMATA</div>
+    <div class="absolutes-card__label">.fae_automata</div>
 </a>
 
 <a class="absolutes-card" href="/wiki/technology/fael_cores">
@@ -30,7 +30,7 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">FAEL CORES</div>
+    <div class="absolutes-card__label">.fael_cores</div>
 </a>
 
 <a class="absolutes-card" href="/wiki/technology/jumpstarters">
@@ -38,7 +38,7 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">JUMPSTARTERS</div>
+    <div class="absolutes-card__label">.jumpstarters</div>
 </a>
 
 <a class="absolutes-card" href="/wiki/technology/black_knight_satellite">
@@ -46,7 +46,7 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">BLACK KNIGHT SATELLITE</div>
+    <div class="absolutes-card__label">.bk_satellite</div>
 </a>
 
 <a class="absolutes-card" href="/wiki/technology/venom_project">
@@ -54,7 +54,7 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">VENOM PROJECT</div>
+    <div class="absolutes-card__label">.venom_project</div>
 </a>
 
 <a class="absolutes-card" href="/wiki/technology/acheron_project">
@@ -62,7 +62,7 @@ aliases:
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">ACHERON PROJECT</div>
+    <div class="absolutes-card__label">.acheron_project</div>
 </a>
 
 
