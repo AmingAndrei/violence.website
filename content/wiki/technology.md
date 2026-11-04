@@ -49,7 +49,7 @@ aliases:
     <div class="absolutes-card__label">BLACK KNIGHT SATELLITE</div>
 </a>
 
-<a class="absolutes-card" href="/wiki/absolutes/black_box">
+<a class="absolutes-card" href="/wiki/technology/venom_project">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
@@ -57,7 +57,7 @@ aliases:
     <div class="absolutes-card__label">VENOM PROJECT</div>
 </a>
 
-<a class="absolutes-card" href="/wiki/absolutes/black_box">
+<a class="absolutes-card" href="/wiki/technology/acheron_project">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
