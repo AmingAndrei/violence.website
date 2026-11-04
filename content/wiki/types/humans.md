@@ -32,5 +32,5 @@ Humans come in different sub-types:
 ¹The offspring will be born as a half-breed/regular human if one of the parents is a [[Fae]]/half-breed.<br><br>
   <a href="/wiki/types/humans/revolutions" class="main-nav-card">
     <img src="assets/icons/revolutions.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Revolutions"/>
-    <span class="main-nav-card__label">REVOLUTIONS</span>
+    <span class="main-nav-card__label">.revolutions</span>
   </a>

@@ -34,7 +34,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">.nightmare_shackles</div>
+    <div class="absolutes-card__label">.nightmare<wbr>_shackles</div>
   </a>
 
  <a class="absolutes-card" href="/wiki/absolutes/shaper">
@@ -74,7 +74,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">.ring_a_ring_o'_roses</div>
+    <div class="absolutes-card__label">.ring_a_ring_o'<wbr>_roses</div>
   </a>
 
   <a class="absolutes-card" href="#">
@@ -82,7 +82,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">.eight_handled_sword</div>
+    <div class="absolutes-card__label">.eight_handled<wbr>_sword</div>
   </a>
 
  <a class="absolutes-card" href="#">
