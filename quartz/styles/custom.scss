@@ -2111,6 +2111,55 @@ article td {
   }
 }
 
+// ─── Curses Image ─────────────────────────────
+.curses-image {
+  float: left;
+  position: relative;
+  margin: 0 60px 16px 0;
+  padding: 60px 24px 28px !important;
+  display: inline-block;
+  line-height: 0;
+  border: 2px solid #fff !important;
+  border-radius: 8px !important;
+  background: transparent !important;
+
+  img {
+    display: block;
+    width: 300px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+  }
+
+  @media (max-width: 768px) {
+    margin: 0 16px 4px 0;
+    padding: 30px 12px 14px !important;
+    border-width: 1px !important;
+    border-radius: 5px !important;
+
+    img {
+      width: 140px;
+    }
+  }
+}
+
+.curses-image__hole {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 22px;
+  height: 22px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+
+  @media (max-width: 768px) {
+    top: 10px;
+    width: 11px;
+    height: 11px;
+    border-width: 1px;
+  }
+}
+
 // ─── Factions — Trio Layout ─────────────────────────────────────────────────
 .factions-grid--trio {
   overflow: visible;

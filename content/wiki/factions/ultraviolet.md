@@ -24,7 +24,7 @@ Ultraviolet is the military power of City Zero, ruling alongside the [[pale|Pale
 # .purpose
 <div class="bestiary-divider"></div>
 
-Ultraviolet is responsible and has complete responsibility over anything and everything related to the FLIPSIDE. This includes exploration, research and development, and neutralising any threats that could pose a threat to themselves or to City Zero, lethally or not. They can extend into civilian matters, if there is suspicion of FLIPSIDE interference of any kind or under payment. They are responsible for keeping a public register of all [[hybrids]] living within City Zero and limiting their activity as to prevent the spread of Chromic Rot.
+Ultraviolet is responsible and has complete responsibility over anything and everything related to the FLIPSIDE. This includes exploration, research and development, and neutralising any threats that could pose a threat to themselves or to City Zero, lethally or not. They can extend into civilian matters, if there is suspicion of FLIPSIDE interference of any kind or under payment. They are responsible for keeping a public register of all [[hybrids]] living within City Zero and limiting their activity as to prevent the spread of [[chromic_rot|Chromic Rot]].
 # .structure
 <div class="bestiary-divider"></div>
 

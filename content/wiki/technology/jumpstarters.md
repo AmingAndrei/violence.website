@@ -24,9 +24,9 @@ Jumpstarters are one-handed weapons. They possess a very thin barrel, and lack a
 # .specs
 <div class="bestiary-divider"></div>
 
-Jumpstarters are designed to fire specialised bullets called charges. Each charge is composed out of a thin metallic frame and glass, holding within a highly diluted form of Sawblood. When fired into the body of a [[hybrids|hybrid]], each charge is supposed to interact differently with their failsafe. Usage of a Jumpstarter is excruciatingly painful, although this feeling only lasts for 0.6 seconds.
+Jumpstarters are designed to fire specialised bullets called charges. Each charge is composed out of a thin metallic frame and glass, holding within a highly diluted form of [[Sawblood]]. When fired into the body of a [[hybrids|hybrid]], each charge is supposed to interact differently with their failsafe. Usage of a Jumpstarter is excruciatingly painful, although this feeling only lasts for 0.6 seconds.
 
 The charges are colour-coded to determine their usage:
 - Activator (Blue): fully triggers the [[hybrids|hybrid]]'s transformation;
-- Regenerator (Red): instantly heals the [[hybrids|hybrid]] without triggering a full transformation; consumes more [[blood]], although it has a lower impact on the spread of Chromic Rot;
+- Regenerator (Red): instantly heals the [[hybrids|hybrid]] without triggering a full transformation; consumes more [[blood]], although it has a lower impact on the spread of [[chromic_rot|Chromic Rot]];
 - Deactivator (Green): forcefully halts the transformation.

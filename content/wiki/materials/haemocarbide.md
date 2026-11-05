@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - material
 aliases:
-  - HAEMOCARBIDE
+  - Haemocarbide
 ---
 <br><a href="/wiki/materials" class="nav-button">← MATERIALS</a>
 <br><br>
