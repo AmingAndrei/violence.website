@@ -26,4 +26,4 @@ The host is always random, and other [[hybrids]] and [[revolutions|Revolutions]]
 
 Chromic Rot manifests as a pale, rainbow infection within the host's body. As it progresses, this infection will spread throughout their entire body, slowly destroying their organs. The firsts signs of the curse appear as painful coughing fits, and as it progresses the veins on a host will turn rainbow.
 
-Chromic Rot in incurable, although treatments to alleviate the symptoms or slow down its progression do exist. Most hosts die from complications. The [[chromacy|Chromacy]] and other anti-[[hybrids|hybrid]] groups cite Chromic Rot as a reason to have them outcast or euthanised.
+Chromic Rot is incurable, although treatments to alleviate the symptoms or slow down its progression do exist. Most hosts die from complications. The [[chromacy|Chromacy]] and other anti-[[hybrids|hybrid]] groups cite Chromic Rot as a reason to have them outcast or euthanised.
