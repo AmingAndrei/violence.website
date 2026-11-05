@@ -11,7 +11,9 @@ aliases:
 <br><a href="/wiki/types/daemons" class="nav-button">← DAEMONS</a><br><br>
 Mosaics (_Mosaica_ class) are semi-colonial artificial high Daemons, representing the virtually most diverse group of individuals in the FLIPSIDE, originating from Violence Against Art.
 
-Mosaic cells are cyanobacteria-like crystalline nanoorganisms, formed entirely from solid light, that are, in truth, their own individual being, forming a single colonial organism. They have an individual processing power similar to supercomputers, and can function as a mix between myocytes and osteocytes, with dedicated clusters forming audio-visual sensors. Overwhelming damage in one part of the body can resonate across the entire organism, causing the rest of the cells to shatter and die. Genetically, Mosaics have a layered infrastructure, with all types utilising Violence Against Art's base code as a library.
+Mosaic cells are cyanobacteria-like crystalline nanoorganisms, formed entirely from solid light, that are, in truth, their own individual being, forming a single colonial organism. They have an individual processing power similar to supercomputers, and can function as a mix between myocytes and osteocytes, with dedicated clusters forming audio-visual sensors. Genetically, Mosaics have a layered infrastructure, with all types utilising Violence Against Art's base code as a library.
+
+Overwhelming damage in one part of the body can resonate across the entire organism, causing the rest of the cells to shatter and die. But as a result of their modular nature, they are capable of healing from 'unhealable' damage, such as [[divine_flame|Divine Flame]], [[hellfire|Hellfire]] and the [[blue_rose|Blue Rose]].
 
 Mosaics feed on all types of radiation and [[anima|Anima]]. If deprived for long enough periods, they will enter an indefinite catatonic state until these resources return. They lack all sense of smell and taste.
 
