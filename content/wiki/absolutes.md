@@ -8,8 +8,7 @@ aliases:
   - Absolutes
   - Absolute
 ---
-<br><a href="/wiki" class="nav-button">← WIKI</a><br><br>
-Absolutes are objects of power, items which have anomalous traits and abilities.
+<br><a href="/wiki" class="nav-button">← WIKI</a><br><br>Absolutes are objects of power, items which have anomalous traits and abilities.
 
 In essence, Absolutes have absolute dominion over a concept they physically embody. They can be created, although most are autogenic, when [[anima|Anima]], infused with violence or malice reach criticality and surge into an object or concept.
 

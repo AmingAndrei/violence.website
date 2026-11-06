@@ -35,7 +35,7 @@ Crimson Nymphs have the ability to directly create [[haemocarbide]] constructs, 
 
 Crimson Nymphs can see, with their eyes being formed out of a specialised form of chlorophyll, repurposed to capture light and convert it into information to be later interpreted into a high definition image of their surroundings. Their other senses, such as hearing and smell, are also extremely developed.
 
-Some plant types are exclusively found in Crimson Nymph gardens, their seeds being exclusively created by the Crimson Nymph, developing from the flower at the tip of its tail. Crimson Nymphs can interact with them and all other plants thought the root network established throughout the garden, which can even be used to locate fauna within the territory or diagnose and interface with individual plants.
+Some plant types are exclusively found in Crimson Nymph gardens, their seeds being exclusively created by the Crimson Nymph, developing from the flower at the tip of its tail. Crimson Nymphs can interact with them and all other plants through the root network established throughout the garden, which can even be used to locate fauna within the territory or diagnose and interface with individual plants.
 # .reproduction
 <div class="bestiary-divider"></div>
 

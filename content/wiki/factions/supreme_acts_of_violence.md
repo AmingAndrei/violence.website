@@ -27,15 +27,13 @@ The Supreme Acts have no agenda besides their own, which consists mostly of doin
 # .structure
 <div class="bestiary-divider"></div>
 
-The Supreme Acts a trio of physical embodiments of violence of the highest degree. These are:
+The Supreme Acts are a trio of physical embodiments of violence of the highest degree. These are:
 
 - Violence Against God;
 - Violence Against Art;
 - Violence Against Nature.
 # .conduct
 <div class="bestiary-divider"></div>
-
-The Supreme Acts will act in the benefit of themselves as a whole. Violence Against Art and Violence Against God will always act in the interest of their daughter, and Violence Against Nature will consider things that benefit her fathers.
 
 The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE, completely unharmed.
 # .assets

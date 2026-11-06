@@ -17,7 +17,7 @@ Skiakinesis is a [[humans|human]]-exclusive form of sorcery, created by Rafa.
 # .source
 <div class="bestiary-divider"></div>
 
-Skiakinesis uses light as its main power source, without which it cannot be cast. All [[humans]] possess the capacity to use Skiakinesis thanks to Rafa, although it needs special training to actually achieve anything meaningful. It can only be taught by other sorcerers, with no way to properly transcribe it.
+Skiakinesis uses light as its main power source, without which it cannot be cast. All [[humans]] possess the capacity to use Skiakinesis through Rafa, although it needs special training to actually achieve anything meaningful. It can only be taught by other sorcerers, with no way to properly transcribe it.
 # .characteristic
 <div class="bestiary-divider"></div>
 
@@ -32,7 +32,7 @@ While most techniques require both hands, some require only one. Some techniques
 
 Skiakinesis requires an active light source in the caster’s vicinity. The stronger the light, the more defined the shadow cast by the sorcerer’s hands, and the greater the technique’s range.
 
-The efficiency of Skiakinesis is inversely proportional to local [[anima|Anima]] resonance, suffering from a massive decrease in strength within the FLIPSIDE. If Rafa dies, the ability to use Skiakinesis disappears with her.
+The efficiency of Skiakinesis is inversely proportional to local [[anima|Anima]] resonance, suffering from a massive decrease in strength within the FLIPSIDE. [[kirlian_mimics|Kirlian Mimics]] cannot copy it. If Rafa dies, the ability to use Skiakinesis disappears with her.
 
 Only regular [[humans]] with a healthy nervous system are capable of using Skiakinesis, excluding [[hybrids]] (whose neural structure is too different), and people with neurodegenerative diseases. [[fae|Fae]] half-breeds can use Skiakinesis.
 

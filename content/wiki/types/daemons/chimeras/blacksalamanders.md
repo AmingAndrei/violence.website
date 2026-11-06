@@ -17,7 +17,7 @@ Blacksalamanders (_Chimaeria primigenius_) are a type of Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Blacksalamanders have a reptilian body plan, reaching ~20 cm in length. They have pitch black skin, and are are hexapods. They have no [[divine_flame|Divine Flame]].
+Blacksalamanders have a reptilian body plan, reaching ~20 cm in length. They have pitch black skin, and are hexapods. They have no [[divine_flame|Divine Flame]].
 # .behaviour
 <div class="bestiary-divider"></div>
 

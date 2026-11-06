@@ -2,7 +2,7 @@
 title: BLUE ROSE
 cssclasses:
 tags:
-  - absolute
+  - curse
 aliases:
   - Blue Rose
 ---
@@ -18,7 +18,7 @@ The Blue Rose is a curse caused by Violence Against Nature.
 # .origin
 <div class="bestiary-divider"></div>
 
-The Blue Rose's are embedded in all attacks done by Violence Against Nature, direct or through tools used by her.
+The Blue Rose's effects are embedded in all attacks done by Violence Against Nature, direct or through an instrument.
 # .effects
 <div class="bestiary-divider"></div>
 

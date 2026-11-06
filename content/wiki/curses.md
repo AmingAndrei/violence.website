@@ -2,12 +2,10 @@
 title: CURSES
 tags:
   - wiki
-  - curses
+  - curse
 cssclasses:
 ---
-<br><a href="/wiki" class="nav-button">← WIKI</a>
-<br><br>
-<div class="curses-grid">
+<br><a href="/wiki/" class="nav-button">← WIKI</a><br><br><div class="curses-grid">
 
   <a href="/curses/sawblood" class="curses-card">
     <span class="curses-card__hole"></span>

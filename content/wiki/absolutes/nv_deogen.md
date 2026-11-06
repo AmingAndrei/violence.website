@@ -25,4 +25,6 @@ The bridge is ornate and filled with various clockwork and steam-powered apparat
 # .abilities
 <div class="bestiary-divider"></div>
 
-The NV Deogen can track and pursue anyone and anything, anywhere. The target lock will be indicated by its mechanical compass, and will orient the ship in a straight line towards its target. The ship can comfortably navigate at any altitude and in any climate, and will course correct itself based on its surroundings and the target's current position. Within sightline of the target, it will make itself known through its horn. The only way to stop its attempt at reaching its destination is to manually disengage it or to give it another target
+The NV Deogen can track and pursue anyone and anything, anywhere. The target lock will be indicated by its mechanical compass, and will orient the ship in a straight line towards its target. The ship can comfortably navigate at any altitude and in any climate, and will course correct itself based on its surroundings and the target's current position. Within sightline of the target, it will make itself known through its horn.
+
+The only way to stop its attempt at reaching its destination is to manually disengage it or to give it another target. If a target is located or enters Pandiavolum, the NV Deogen will only be able to track its general location instead of pinpointing it.

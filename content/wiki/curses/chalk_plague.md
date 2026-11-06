@@ -2,7 +2,7 @@
 title: CHALK PLAGUE
 cssclasses:
 tags:
-  - absolute
+  - curse
 aliases:
   - Chalk Plague
 ---

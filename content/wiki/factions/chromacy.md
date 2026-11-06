@@ -34,7 +34,7 @@ The Oracle Machine is a device from ~2000 AAV, built with the intention of analy
 
 The Chromacy is collectively administered by 10 Conductors, residing in the Choir Cathedral, being responsible for actually controlling the way Chromaticism is run and taught. Among them one is appointed as Great Conductor, an honorary position mostly, acting as the mouthpiece for the Chromacy, although having no more authority than the other conductors. They are together responsible for the interpretation of the Oracle Machine and maintaining the 'Golden Path'.
 
-Conductors are chosen through vote, with precentors placing the name of another precentor into the Oracle Machine, which will then elect the new Conductor. The Great Conductor is chosen similarly, with Conductors voting whenever the current Great Conductor dies. Precentors are below Conductors, administering the churches as a whole, and cantors are below precentors, interacting with followers directly. The overwhelming majority of City Zero's population is composed of chromaticans.
+Conductors are chosen through vote, with precentors placing the name of another precentor into the Oracle Machine, which will then choose the new Conductor. The Great Conductor is chosen similarly, with Conductors voting whenever the current Great Conductor dies. Precentors are below Conductors, administering the churches as a whole, and cantors are below precentors, interacting with followers directly. The overwhelming majority of City Zero's population is composed of chromaticans.
 # .conduct
 <div class="bestiary-divider"></div>
 

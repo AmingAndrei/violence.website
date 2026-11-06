@@ -13,11 +13,11 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STEEL SHARK" /> </div>
 
-Steel Sharks (_Diavolos diavolos_, <ruby>金属鮫<rt>スティール・シャーク</rt></ruby>) are a the most dangerous and violent type of Devil, the kin of Violence Against Nature.
+Steel Sharks (_Diavolos diavolos_, <ruby>金属鮫<rt>スティール・シャーク</rt></ruby>) are the most dangerous and violent type of Devil, the kin of Violence Against Nature.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Steel Sharks are extremely humanoid in appearance, standing at ~2 m tall. Their bodies are made out numerous metallic plates and mechanical parts which are capable or rearranging themselves on a whim. Their entire cellular structure is made of metal. 
+Steel Sharks are extremely humanoid in appearance, standing at ~2 m tall. Their bodies are made out numerous metallic plates and mechanical parts which are capable of rearranging themselves on a whim. Their entire cellular structure is made of metal. 
 
 Within their chests is located an engine, which acts as their 'heart'. Their faces display the entire range of [[humans|human]] emotions and expressions, even their eyes appear to react to stimuli, although they're purely cosmetic. Most if not all parts of their body are extremely sharp, such as their serrated teeth or chainsaw-like hair strands. 
 
@@ -33,7 +33,7 @@ The rule of thumb is that there is nothing other Devils can do that Steel Sharks
 
 Steel Sharks have extremely developed senses, capable of pinpoint precision echolocation, thermal imaging, chemoreception, and airwave sensitivity. This makes them near omniscient of their surroundings up to 100 m. This, combined with their extreme speed, intelligence, and strength, makes a single Steel Shark a one man army. And while they're normally loud and explosive, they can choose to become completely silent, which combined with their dexterity and speed, makes them impossible to track.
 
-Steel Sharks are absurdly durable. The metal their cells are composed off is harder than tungsten carbide, has a melting point of ~5000°C, is self-sharpening, self-healing, is completely chemically inert, block radiation, and all while having a density similar to silver. The only way to kill one is to damage its engine. All other types of damage will not affect their senses and only partially slow them down, with a single engine rev being capable of regenerating one third of their body mass. Damage to the engine will redirect all healing towards the engine, and if severe enough, will either require to [[anima|Anima]] resonance of Pandiavolum to heal, or kill the Steel Shark. Water can also dampen a Steel Shark's strength by flooding its engine and preventing maximum output.
+Steel Sharks are absurdly durable. The metal their cells are composed off is harder than tungsten carbide, has a melting point of ~5,000°C, is self-sharpening, self-healing, is completely chemically inert, block radiation, and all while having a density similar to silver. The only way to kill one is to damage its engine. All other types of damage will not affect their senses and only partially slow them down, with a single engine rev being capable of regenerating one third of their body mass. Damage to the engine will redirect all healing towards the engine, and if severe enough, will either require to [[anima|Anima]] resonance of Pandiavolum to heal, or kill the Steel Shark. Water can also dampen a Steel Shark's strength by flooding its engine and preventing maximum output.
 
 Steel Sharks can absorb medium to small objects and devices. Once they make direct contact with said device or object, the cells and mechanical structure of the Steel Shark will disassemble it into its smallest possible components, storing them in its body, These components can then be rebuilt on command, recreating the object perfectly. This extends to all sort of trinkets, and they can even combine some of the stored objects into different once during reassembly, which they can effortlessly split back again.
 

@@ -2,11 +2,11 @@
 title: SAWBLOOD
 cssclasses:
 tags:
-  - absolute
+  - curse
 aliases:
   - Sawblood
 ---
-<br><a href="/wiki/curses" class="nav-button">← CURSES</a>
+c<br><a href="/wiki/curses" class="nav-button">← CURSES</a>
 <br><br>
 
 <div class="curses-image">

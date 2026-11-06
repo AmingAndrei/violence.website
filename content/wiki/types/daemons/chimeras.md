@@ -22,7 +22,7 @@ All Chimeras are comprised of two constituents:
 2. The Soul:
 - A physical construct composed entirely of [[divine_flame|Divine Flame]], grafted on by the Furies, housed within a complex of vessels and nodes spanning the entire body, similar in structure to a lymphatic system.
 - During gestation, the soul forms first, around which the body follows and forms around. The body will consistently match the shape of the soul.
-- The [[divine_flame|Divine Flame]] comprising the soul uses [[anima|Anima]] as a fuel source, with the burning reaction animating the Chimera. This is also what allows Chimeras to reach extreme sized.
+- The [[divine_flame|Divine Flame]] comprising the soul uses [[anima|Anima]] as a fuel source, with the burning reaction animating the Chimera. This is also what allows Chimeras to reach extreme sizes.
 - Upon death of the body, the soul will immediately burn out.
 - The [[divine_flame|Divine Flame]] comprising the soul can be released from the body in the form of [[pyrokinesis|Pyrokinesis]].
 - Due to soul similarity, the [[divine_flame|Divine Flame]] of one type and all resulting byproducts are inert to other members of the same type.

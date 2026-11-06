@@ -28,13 +28,23 @@ Their neural structure is wired in such a way that makes outright lying an extre
 
 Fae have a great mastery over [[pyrokinesis|Pyrokinesis]], with their easiest techniques being releasing [[divine_flame|Divine Flame]] from their hands. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
 
-The greatest weakness Fae have is towards iron. Direct contact with elemental iron releases certain ions that disrupt their ability their ability to release [[divine_flame|Divine Flame]], along with draining them of all energy and strength. The system returns to normal not long after contact is disrupted.
+The greatest weakness Fae have is towards iron. Direct contact with elemental iron releases certain ions that disrupt their ability to release [[divine_flame|Divine Flame]], along with draining them of all energy and strength. The system returns to normal not long after contact is disrupted.
 # .reproduction
 <div class="bestiary-divider"></div>
 
 Fae reproduce sexually, giving birth to live young, which are nursed for ~2 years. The gestation period is ~9 months, and full sexual maturity is reached in ~18 years, after which the aging rate slows drastically. The average Fae life span is ~120 years, with only a minimal decrease in performance.
 
-Fae are capable of reproducing with [[humans]]. The result is a half-breed, anatomically identical to a [[humans|human]], including vulnerability to the [[toxin]], with the exception of a [[divine_flame|Divine Flame]] soul, slower aging, higher muscle strength, and almost total immunity to the FLIPSIDE's negation effect, with the only side effect being a mild feeling of nausea while inside the dimension. Half-breed will always be born between a Fae and a [[humans|human]]/half-breed. Relations between a [[humans|human]] and half-breed will result in a regular [[humans|human]]. If the [[humans|human]] is a [[hybrids|hybrid]] and one of the parents is a Fae/half-breed, the result will always be a half-breed/[[humans|human]].
+Fae are capable of reproducing with [[humans]]. The result is a half-breed, anatomically identical to a [[humans|human]], including vulnerability to the [[toxin]], with the exception of a [[divine_flame|Divine Flame]] soul, slower aging, higher muscle strength, and almost total immunity to the FLIPSIDE's negation effect, with the only side effect being a mild feeling of nausea while inside the dimension.
+
+| Parent 1            | Parent 2            | Child               |
+| ------------------- | ------------------- | ------------------- |
+| [[hybrids\|Hybrid]] | [[humans\|Human]]   | [[hybrids\|Hybrid]] |
+| [[hybrids\|Hybrid]] | [[hybrids\|Hybrid]] | [[hybrids\|Hybrid]] |
+| [[fae\|Fae]]        | [[humans\|Human]]   | Half-breed          |
+| [[fae\|Fae]]        | [[hybrids\|Hybrid]] | Half-breed          |
+| Half-breed          | [[humans\|Human]]   | [[humans\|Human]]   |
+| [[hybrids\|Hybrid]] | Half-breed          | [[hybrids\|Hybrid]] |
+
 # .diet
 <div class="bestiary-divider"></div>
 
