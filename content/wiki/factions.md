@@ -78,4 +78,18 @@ cssclasses:
     <span class="material-card__label">.sav</span>
   </a>
 
+ <a href="/factions/niki's_clean-up_crew" class="material-card">
+    <div class="material-card__icon-wrap">
+      <span class="material-card__glow"></span>
+      <div class="material-card__frame">
+        <span class="material-card__corner material-card__corner--tl"></span>
+        <span class="material-card__corner material-card__corner--tr"></span>
+        <span class="material-card__corner material-card__corner--bl"></span>
+        <span class="material-card__corner material-card__corner--br"></span>
+      </div>
+      <img src="/assets/factions/ncc_logo.png" class="material-card__icon" alt="Niki's Clean-Up Crew"/>
+    </div>
+    <span class="material-card__label">.niki's_clean-up_crew</span>
+  </a>
+
 </div>
