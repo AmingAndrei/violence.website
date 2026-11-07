@@ -20,7 +20,7 @@ tags:
 
 <h1 class="chapter-title">Chapter 1: Easy Fight</h1>
 
-<p><strong>TEXT 2: 10.03.10 AV / 09:14 / CITY ZERO // EDGE</strong></p>
+<p><strong>10.03.10 AV / 09:14 / CITY ZERO // EDGE</strong></p>
 <p>The wind howled throughout the great, empty expanse. Only the strike of lightning illuminated the pitch-black, frozen fields outside the city, ruins blanketed by metres of snow and ash. But just within the city’s borders, people were swarming. Each surface of the metropolis was made of the same pale, sterile material, sharp edges protruding from the buildings’ faces, and colourful, almost blinding decorations lining the streets. Today was a day of celebration. The upcoming parade had no room for error.</p>
 <p>As it often is, though, the desires of humans do not align with the intentions of nature. What followed was a brief moment of panic as the emergency alarms all blared at once. Something was approaching, closing the gap between it and the city’s border, fast. It took less than a minute for it to arrive. A draconic beast, its jaws wide enough to cleanly bite a man in half, metallic scales shimmering in the streetlight. Its six legs scurried with enough force to make the ground shake, snaking its way through the street.</p>
 <p>And as it is also often, humans don’t exactly take kindly to the attempts of nature to take hold. High above, circled a lone helicopter and a man dangling from within, lazily holding himself with one hand.</p>
