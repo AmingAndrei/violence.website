@@ -150,6 +150,13 @@ article td {
   src: url(https://fonts.gstatic.com/s/novacut/v26/KFOkCnSYu8mL-39LkVxIIzI.woff2) format('truetype');
 }
 
+@font-face {
+  font-family: 'Share Tech';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/sharetech/v17/7cHtv4Uyi5K0OeZ7bohU8H0JmBUhfrE.woff2) format('truetype');
+}
+
 #workskin .Steelshark,
 #workskin .Steelshark p {
   font-weight: 400;
@@ -163,14 +170,14 @@ article td {
 #workskin .Soma p {
   color: #FFDE21;
   letter-spacing: 0.5px;
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: "Share Tech", sans-serif;
 }
 
 #workskin .Vesper,
 #workskin .Vesper p {
   color: #FD3DB5;
   letter-spacing: 0.5px;
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: "Share Tech", sans-serif;
 }
 
 #workskin .Vulture,
@@ -178,27 +185,20 @@ article td {
   color: #FD3DB5;
   text-shadow: 1px 1px 0 #FFDE21;
   letter-spacing: 0.5px;
-  font-family: "Trebuchet MS", sans-serif;
-}
-
-#workskin .Mimic,
-#workskin .Mimic p {
-  color: #5CB8E4;
-  letter-spacing: 0.5px;
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: "Share Tech", sans-serif;
 }
 
 #workskin .Signe,
 #workskin .Signe p {
   letter-spacing: 0.5px;
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: "Share Tech", sans-serif;
 }
 
 #workskin .Maniac,
 #workskin .Maniac p {
   color: #00FFFF;
   letter-spacing: 0.5px;
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: "Share Tech", sans-serif;
 }
 
 #workskin .left,
