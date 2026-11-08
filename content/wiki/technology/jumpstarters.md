@@ -28,5 +28,5 @@ Jumpstarters are designed to fire specialised bullets called charges. Each charg
 
 The charges are colour-coded to determine their usage:
 - Activator (Blue): fully triggers the [[hybrids|hybrid]]'s transformation;
-- Regenerator (Red): instantly heals the [[hybrids|hybrid]] without triggering a full transformation; consumes more [[blood]], although it has a lower impact on the spread of [[chromic_rot|Chromic Rot]];
+- Regenerator (Red): instantly heals the [[hybrids|hybrid]] without triggering a full transformation; consumes more [[blood]], although it has a slightly lower chance of spread of [[chromic_rot|Chromic Rot]];
 - Deactivator (Green): forcefully halts the transformation.

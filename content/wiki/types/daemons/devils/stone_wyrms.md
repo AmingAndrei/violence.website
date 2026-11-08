@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STONE WYRM" /> </div>
 
-Stone Wyrms (_Diavolos saxumvermis_) are a type of silicate Devil.
+Stone Wyrms (_Diavolos saxumvermis_) are a type of stone Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -21,7 +21,7 @@ Stone Wyrms have a serpentine body plan, reaching ~30 m in length, possessing a 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Stone Wyrms are solitary creatures. They spend most of their time in the ground, using vibrations to sense fauna above them, ambushing them and dragging them below ground. They do require air to breathe, making them susceptible to flooding, which will force them to resurface, although they can syphon air through the roots of nearby plants to bypass this.
+Stone Wyrms are usually solitary creatures. They spend most of their time in the ground, using vibrations to sense fauna above them, ambushing them and dragging them below ground. They do require air to breathe, making them susceptible to flooding, which will force them to resurface, although they can syphon air through the roots of nearby plants to bypass this. They are extremely intelligent, capable of forming complex hunting strategies.
 # .abilities
 <div class="bestiary-divider"></div>
 

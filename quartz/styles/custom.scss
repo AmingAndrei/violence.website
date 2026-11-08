@@ -142,7 +142,8 @@ article td {
 }
 
 // ─── Workskin ─────────────────────────────────────────────────────────────────
-#workskin .Steelshark {
+#workskin .Steelshark,
+#workskin .Steelshark p {
   font-weight: 400;
   font-style: normal;
   color: #818589;
@@ -150,37 +151,43 @@ article td {
   font-family: Helvetica, sans-serif;
 }
 
-#workskin .Soma {
+#workskin .Soma,
+#workskin .Soma p {
   color: #FFDE21;
   letter-spacing: 0.5px;
   font-family: "Trebuchet MS", sans-serif;
 }
 
-#workskin .Vesper {
+#workskin .Vesper,
+#workskin .Vesper p {
   color: #FD3DB5;
   letter-spacing: 0.5px;
   font-family: "Trebuchet MS", sans-serif;
 }
 
-#workskin .Vulture {
+#workskin .Vulture,
+#workskin .Vulture p {
   color: #FD3DB5;
   text-shadow: 1px 1px 0 #FFDE21;
   letter-spacing: 0.5px;
   font-family: "Trebuchet MS", sans-serif;
 }
 
-#workskin .Mimic {
+#workskin .Mimic,
+#workskin .Mimic p {
   color: #5CB8E4;
   letter-spacing: 0.5px;
   font-family: "Trebuchet MS", sans-serif;
 }
 
-#workskin .Signe {
+#workskin .Signe,
+#workskin .Signe p {
   letter-spacing: 0.5px;
   font-family: "Trebuchet MS", sans-serif;
 }
 
-#workskin .Maniac {
+#workskin .Maniac,
+#workskin .Maniac p {
   color: #00FFFF;
   letter-spacing: 0.5px;
   font-family: "Trebuchet MS", sans-serif;
@@ -228,6 +235,32 @@ article td {
       display: none;
     }
   }
+}
+
+#workskin .scene-title {
+  text-align: center;
+  font-size: 1.8rem;
+  margin: 1em 0 1em;
+}
+
+#workskin .parallel {
+  display: flex;
+  margin: 1em 0;
+}
+
+#workskin .parallel .col {
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 0 1em;
+}
+
+#workskin .parallel .col:first-child {
+  padding-left: 0;
+}
+
+#workskin .parallel .col:last-child {
+  padding-right: 0;
+  border-left: 1px solid;
 }
 
 // ─── Nav Buttons ──────────────────────────────────────────────────────────────
@@ -585,6 +618,10 @@ article td {
   background: #050505 !important;
   padding: 20px;
   margin: 0;
+
+  @media (max-width: 768px) {
+    padding: 6px;
+  }
 }
 
 .chapter-inner {
@@ -593,7 +630,7 @@ article td {
   margin: 2rem 0;
 
   @media (max-width: 768px) {
-    padding: 20px 16px;
+    padding: 20px 10px;
     margin: 1rem 0;
   }
 }

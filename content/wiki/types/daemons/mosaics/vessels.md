@@ -17,7 +17,7 @@ Vessels (_Mosaica vespera vas_) are artificial containment Mosaics.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Vessels are humanoid in appearance, resembling an average 12 year old, reaching a height of 150 cm. They have white metallic skin and silver hair, and their eyes are comprised of LED screens with embedded cameras, usually displaying only a white iris, turning magenta when occupied. Their faces, although capable of displaying the entire range of emotions, will often remain completely blank.
+Vessels are humanoid in appearance, resembling an average 12 year old, reaching a height of 150 cm. They have white metallic skin and silver hair, and their eyes are comprised of screens with embedded cameras, usually displaying only a white iris, turning magenta when occupied. Their faces, although capable of displaying the entire range of emotions, will often remain completely blank.
 # .behaviour
 <div class="bestiary-divider"></div>
 
