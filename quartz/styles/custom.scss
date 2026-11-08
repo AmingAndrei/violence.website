@@ -142,13 +142,21 @@ article td {
 }
 
 // ─── Workskin ─────────────────────────────────────────────────────────────────
+
+@font-face {
+  font-family: 'Nova Cut';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/novacut/v26/KFOkCnSYu8mL-39LkVxIIzI.woff2) format('truetype');
+}
+
 #workskin .Steelshark,
 #workskin .Steelshark p {
   font-weight: 400;
   font-style: normal;
   color: #818589;
   letter-spacing: 0.4px;
-  font-family: Helvetica, sans-serif;
+  font-family: "Nova Cut", system-ui;
 }
 
 #workskin .Soma,
