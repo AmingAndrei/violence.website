@@ -41,12 +41,12 @@ aliases:
     <div class="absolutes-card__label">.jumpstarters</div>
 </a>
 
-<a class="absolutes-card" href="/wiki/technology/relocation_cage">
+<a class="absolutes-card" href="/wiki/technology/relocation_cages">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">.relocation<wbr>_cage</div>
+    <div class="absolutes-card__label">.relocation<wbr>_cages</div>
 </a>
 
 <a class="absolutes-card" href="/wiki/technology/black_knight_satellite">
