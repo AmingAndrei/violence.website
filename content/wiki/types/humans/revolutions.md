@@ -16,7 +16,7 @@ Revolutions are special [[humans]], born as a reaction to immensely violent even
 
 Revolutions represent the best of [[humans|humanity]], embodying all of their strengths with none of their weaknesses. They have genius level intellect, a perfect immune system, lack all genetic markers which could make them more susceptible to different conditions, and have an enhanced physical endurance, capable of surviving well into biological extremes which would kill a normal [[humans|human]]. 
 
-Revolutions are also immune to the [[toxin]], [[gordian_gorgons|Gordian Gorgon]] infection, [[clutch_beetles|Clutch Beetle]] parasitism, and [[chromic_rot|Chromic Rot]]. If one becomes a [[viewers|Viewer]], they will always remain visible to Violence Against Art. They cannot use [[skiakinesis|Skiakinesis]].
+Revolutions are also immune to the [[toxin]], [[gordian_gorgons|Gordian Gorgon]] infection, [[clutch_beetles|Clutch Beetle]] parasitism, and [[chromic_rot|Chromic Rot]]. If one becomes a [[viewers|Viewer]], they will always remain visible to Violence Against Art. They cannot use [[shadowcraft|Shadowcraft]].
 
 The caveat to their existence is that their life is fleeting. As they age, their bodies begin breaking down, and they begin coughing more and more of their insides, liquified into a black, rainbow iridescent substance, the same substance their [[blood]] is composed off. The condition is fatal, and most Revolutions die by 30.
 

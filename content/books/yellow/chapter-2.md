@@ -31,7 +31,7 @@ tags:
 <p>Azuria Velos, Jacques’ partner.</p>
 <blockquote class="right Steelshark"><p>“Feeling better~?”</p></blockquote>
 <blockquote class="left"><p>“…Yes. Thank you.”</p></blockquote>
-<blockquote class="right Steelshark"><p>“It’s no big deal. So… how you wanna do this?”</p></blockquote>
+<blockquote class="right Steelshark"><p>“So… how you wanna do this?”</p></blockquote>
 <p>Jacques tried to get up, stumbling and almost falling right back had Velos not caught him. Just being near him made Jacques feel better, stronger. But the blood he lost still rendered him light-headed.</p>
 <blockquote class="left"><p>“I’ll go prime the cage. You lure it in.”</p></blockquote>
 <blockquote class="right Steelshark"><p>“Sure.”</p></blockquote>
