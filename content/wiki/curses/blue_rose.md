@@ -14,11 +14,11 @@ aliases:
   <img src="/assets/placeholder.gif" alt="Blue Rose"/>
 </div>
 
-The Blue Rose is a curse caused by Violence Against Nature.
+The Blue Rose is a curse and an aspect of Violence Against Nature.
 # .origin
 <div class="bestiary-divider"></div>
 
-The Blue Rose's effects are embedded in all attacks done by Violence Against Nature, direct or through an instrument.
+The Blue Rose can be understood as an effect of Violence Against Nature on the world. It can be most easily observed in her attacks, done directly or through an instrument used by her.
 # .effects
 <div class="bestiary-divider"></div>
 

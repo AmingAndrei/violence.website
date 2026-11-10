@@ -14,7 +14,7 @@ aliases:
 
 Revolutions are special [[humans]], born as a reaction to immensely violent events, physically manifesting from [[anima|Anima]] itself. The degree of violence necessary for a Revolution to be born scales with the population. 
 
-Revolutions represent the best of [[humans|humanity]], embodying all of their strengths with none of their weaknesses. They have genius level intellect, a perfect immune system, lack all genetic markers which could make them more susceptible to different conditions, and have an enhanced physical endurance, capable of surviving well into biological extremes which would kill a normal [[humans|human]]. 
+Revolutions represent the best of [[humans|humanity]], embodying all of their strengths with none of their weaknesses. They have genius level intellect, a perfect immune system, lack all genetic markers which could make them more susceptible to different conditions, and have an enhanced physical endurance, capable of surviving well into biological extremes which would kill a normal [[humans|human]]. Their [[blood]] can be used to treat even the worst diseases and afflictions with ease.
 
 Revolutions are also immune to the [[toxin]], [[gordian_gorgons|Gordian Gorgon]] infection, [[clutch_beetles|Clutch Beetle]] parasitism, and [[chromic_rot|Chromic Rot]]. If one becomes a [[viewers|Viewer]], they will always remain visible to Violence Against Art. They cannot use [[shadowcraft|Shadowcraft]].
 
