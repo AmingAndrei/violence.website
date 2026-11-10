@@ -24,7 +24,7 @@ Hellfire is a black, rainbow, iridescent flame, a form of living, smokeless fire
 # .source
 <div class="bestiary-divider"></div>
 
-Hellfire is created by Violence Against Nature, as a more powerful version of [[divine_flame|Divine Flame]], made entirely out of [[anima|Anima]]. 
+Hellfire was created by Violence Against Nature after observing [[divine_flame|Divine Flame]], made entirely out of [[anima|Anima]].
 # .properties
 <div class="bestiary-divider"></div>
 

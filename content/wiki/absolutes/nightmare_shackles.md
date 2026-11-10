@@ -24,6 +24,6 @@ The Nightmare Shackles resemble stone cubes, with a side length of ~10 cm. They 
 # .abilities
 <div class="bestiary-divider"></div>
 
-Created in the same process that birthed the [[supreme_acts_of_violence|Supreme Acts of Violence]] to act as counterbalance to their existence, the Nightmare Shackles transform into multiple chains, restraining the target they were pointed at. The amount of chains and the way they bind their target depends entirely upon the difficulty of restraining it. Once activated, a Nightmare Shackle can only be deactivated by its original user.
+Created in the same process that birthed the [[supreme_acts_of_violence|Supreme Acts of Violence]] to act as counterbalance to their existence, the Nightmare Shackles transform into multiple chains, restraining the target they were pointed at. The amount of chains and the way they bind their target depends entirely upon the difficulty of restraining it. Once activated, a Nightmare Shackle can only be deactivated by the person that first activated it.
 
 The chains will counter any attempt at breaking them by either redirecting the energy into reinforcing themselves, shown through glowing their respective colour, or radiating it elsewhere. They will keep the target in a form of conscious suspended animation, being virtually immortal while contained.

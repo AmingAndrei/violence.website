@@ -2341,6 +2341,16 @@ article td {
 }
 
 // ─── Credits ──────────────────────────────────────────────────────────────────
+@mixin colour-icon($name) {
+  --link-icon: url("assets/credits/#{$name}.svg");
+
+  &::before {
+    background: var(--link-icon) center / contain no-repeat;
+    -webkit-mask: none;
+    mask: none;
+  }
+}
+
 .credits-img {
   float: left;
   width: 190px;
@@ -2348,14 +2358,63 @@ article td {
 
   @media (max-width: 768px) {
     width: 90px;
-    margin: 16x 12px 4px 0;
+    margin: 1px 12px 4px 0;
   }
 }
 
-.credits-entry h1 {
+.credits-title {
+  margin: 0;
   font-size: 2rem;
+  line-height: 1.15;
 
   @media (max-width: 768px) {
     font-size: 1.3rem;
+  }
+}
+
+.credits-meta {
+  margin: 4px 0 12px;
+  font-size: 1.2rem;
+  letter-spacing: 0.04em;
+  color: color-mix(in srgb, currentColor 70%, transparent);
+
+  @media (max-width: 768px) {
+    margin: 2px 0 8px;
+    font-size: 0.95rem;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+
+    // default icon: a globe, for any link without a more specific match below
+    --link-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='M2 12h20'/%3E%3Cpath d='M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z'/%3E%3C/svg%3E");
+
+    &::before {
+      content: '';
+      display: inline-block;
+      width: 0.9em;
+      height: 0.9em;
+      margin-right: 0.35em;
+      vertical-align: -0.1em;
+      background-color: currentColor;        // icon takes the text colour
+      -webkit-mask: var(--link-icon) center / contain no-repeat;
+              mask: var(--link-icon) center / contain no-repeat;
+    }
+
+    &:hover { color: color-mix(in srgb, currentColor 70%, transparent); }
+
+    // email
+    &[href^="mailto:"] {
+      --link-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='20' height='16' x='2' y='4' rx='2'/%3E%3Cpath d='m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7'/%3E%3C/svg%3E");
+    }
+
+    // platforms: one line each, pointing at your own icon files
+    &[href*="bsky.app"]       { --link-icon: url("assets/credits/bluesky.svg"); }
+    &[href*="instagram.com"]    { @include colour-icon(instagram); }
+    &[href*="github.com"]  { --link-icon: url("assets/credits/github.svg"); }
+    &[href*="youtube.com"]    { @include colour-icon(youtube); }
+    &[href*="//x.com"],
+    &[href*="//twitter.com"]  { --link-icon: url("assets/credits/x.svg"); }
   }
 }
