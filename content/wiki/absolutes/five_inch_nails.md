@@ -15,7 +15,7 @@ aliases:
   <span class="absolutes-image__corner absolutes-image__corner--br"></span>
 </div>
 
-The Five Inch Nails are an Absolute, embodying the concept of finality.
+The Five Inch Nails are an Absolute, embodying the concept of death.
 # .design
 <div class="bestiary-divider"></div>
 
