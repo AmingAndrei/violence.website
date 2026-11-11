@@ -87,9 +87,9 @@ cssclasses:
         <span class="material-card__corner material-card__corner--bl"></span>
         <span class="material-card__corner material-card__corner--br"></span>
       </div>
-      <img src="/assets/factions/ncc_logo.png" class="material-card__icon" alt="Niki's Clean-Up Crew"/>
+      <img src="/assets/placeholder_icon.svg" class="material-card__icon" alt="Niki's Clean-Up Crew"/>
     </div>
-    <span class="material-card__label">.niki's_clean-up_crew</span>
+    <span class="material-card__label">.niki's_clean-up<wbr>_crew</span>
   </a>
 
 </div>

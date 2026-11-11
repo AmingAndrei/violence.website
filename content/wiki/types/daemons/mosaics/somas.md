@@ -25,7 +25,7 @@ The Shell is a humanoid construct piloted by the Heart. They are 1.9 m in height
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Somas are created by the Serpent as bodies to house itself in, being considered mutated [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. The Shells were implemented as a last-ditch solution to counteract the defects Somas possess and to act as a scaffold for the Serpent's abilities. They are social and cooperative, from an outside perspective having very little differences to [[humans]].
+Somas are created by the Serpent as bodies to house itself in. They mutated [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. The Shells were implemented as a last-ditch solution to counteract the defects Somas possess and to act as a scaffold for the Serpent's abilities. They are social and cooperative, from an outside perspective having very little differences to [[humans]].
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -36,7 +36,15 @@ There are still flaws with the Shells. Damage to the Shell will resonate and dam
 <div class="bestiary-divider"></div>
 
 Vexers are an extremely rare anomaly where Somas which retain the [[vespers|Vesper]] ability of using [[vectors|Vectors]], directly caused by the Serpent's failure to fully override the [[vespers|Vesper]] code. With enough training, Vexers can gain access to other [[vespers|Vesper]] abilities, albeit much harder for them to perform.
+# .mutations
+<div class="bestiary-divider"></div>
+
+Soma mutations are the Serpent's ultimate goal. A mutation is triggered when the Serpent manages to take full control of a Soma. The most common occurrence of this happening is when a Soma 'partially' dies, or dying without their Heart fully shattering, which, if the Serpent has enough influence, can force it to reform and bring the Soma back to life. In some cases, mutations can be forcefully triggered on a living Soma.
+
+Biologically, the Soma's cells will begin forming organic structures inside the Shell, including functional, albeit awfully tasting [[blood]]. This process will start with the Heart's outer structure and progress all the way until the Soma's entire body, including Shell, will turn organic, with the end goal of becoming a visual match to [[humans]]. Mentally, the Soma's mind will slowly be eroded and replaced/taken over by the Serpent, causing all sorts of delusions and depersonalisations, until all that is left is a fully functional body for the Serpent to use.
+
+Physical mutations cannot be slowed down, but mental ones can, with certain looping and grounding exercises allowing the Soma to retain control of themselves, although these same exercises can backfire and be exploited by the Serpent. Mutated Somas can use the abilities of the Serpent, although using them only accelerates mutation. Despite being organic, they remain bound by Soma biology, such as having no taste (despite having taste buds), being unable to sleep, or being able to be killed only if their Heart is destroyed (all other damage will be painful but not fatal and can actually cause the mutation to accelerate. The surviving [[vespers|Vesper]] code in Vexers prevents the Serpent from mutating them.
 # .production
 <div class="bestiary-divider"></div>
 
-Somas are created when a [[vespers|Vesper]] womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, inadvertently forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart. The retained [[vespers|Vesper]] code overpowers that of the Serpent, guaranteeing that without outside intervention, the Soma remains its own individual.
+Somas are created when a [[vespers|Vesper]] womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, inadvertently forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart. The retained [[vespers|Vesper]] code overpowers that of the Serpent, guaranteeing the Soma remains its own individual.
