@@ -18,7 +18,7 @@ Vectors are abilities unique to [[vespers|Vespers]], and subsequently [[somas|Ve
 # .source
 <div class="bestiary-divider"></div>
 
-Vectors vary in origin, depending on the type. Root Vectors are ingrained within the [[vespers|Vesper]]'s cells upon birth and are unique to that individual, while Branch Vectors are acquired later in life.
+Vectors vary in origin, depending on the type. Root Vectors are ingrained within the user's cells upon birth and are unique to that individual, while Branch Vectors are acquired later in life.
 # .characteristic
 <div class="bestiary-divider"></div>
 
@@ -31,6 +31,8 @@ Branch Vectors are modular Vectors, available to multiple individuals at a time.
 A Sandbox is a win-condition Vector technique. It involves the [[vespers|Vesper]] deploying a physical boundary, a wall of solid light projected outward, inside which their Root Vector is embedded into a runtime environment within the enclosed space, enforcing a personal set of rules based on the Root Vector. The only ways to counter a Sandbox are to physically destroy the boundary, from the inside or outside, forcefully halting the Sandbox; by deploying your own Sandbox, the two overlapping boundaries causing both to shatter; or to deploy your own Sandbox, but use the already deployed boundary as your own, attempting to overpower the other's Sandbox. A less used counter is deploying your own Sandbox, but applying its ruleset exclusively to your own body, essentially bypassing the surrounding Sandbox's imposed environment. [[vespers|Vespers]] can use the pre-existing physical infrastructure as boundary instead of deploying their own, which is significantly easier. A deployed boundary isn't static, with bigger dynamic sizes requiring more skill than a static or existent boundary.
 
 A Boundless Sandbox is a Sandbox with no boundary, instead the runtime environment expanding outward with no boundary to use as scaffolding. The only way to properly counter a Boundless Sandbox is to deploy your own Sandbox: since they do not have a boundary, a Boundless Sandbox is not really limited by size, which means that deploying your own Sandbox on top assigns and enforces it a size, that your own Sandbox, which causes a size error and causes extreme backlash, crashing both. The window for this counter is extremely narrow, as the Boundless Sandbox must be bound before it properly activates, but not before it begins deployment, as to avoid your own Sandbox boundary from being used against you, as Boundless Sandboxes can in fact use a boundary, although they do not need one. The size error is also only triggered if the Boundless Sandbox is bigger than the counter Sandbox, as the lack of boundary also means their actual area can be scaled to how its needed, so deploying a counter Sandbox on top of a Boundless Sandbox that is smaller than it will not do anything.
+
+All rules apply to [[somas|Soma]] Vexers as well.
 # .limitations
 <div class="bestiary-divider"></div>
 

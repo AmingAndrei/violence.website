@@ -33,4 +33,4 @@ Vespers can similarly use strong electric currents as a means of transport, able
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Vespers reproduce through light. Certain imperceptible frequencies and wavelengths of light resulting from Vesper existence, in the presence of a high enough [[anima|Anima]] resonance, will crystallise into a womb-like larva. This larva will then absorb the surrounding [[anima|Anima]] and radiation, eventually reaching a point of saturation which will create a mature Vesper.
+Vespers reproduce through light. Certain imperceptible frequencies and wavelengths of light resulting from Vesper existence, in the presence of a high enough [[anima|Anima]] resonance, will crystallise into a womb-like larva. This larva will then absorb the surrounding [[anima|Anima]] and radiation, eventually reaching a point of saturation which will create a mature Vesper. If the Serpent interrupts and corrupts the womb, it will create a [[somas|Soma]].

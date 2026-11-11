@@ -21,7 +21,7 @@ Somas are composed out of two distinct components, a Heart and a Shell.
 
 The Heart of a Soma is the true organism, resembling a yellow slug-larva-thing. They are completely helpless, can barely move on their own, cannot speak, and have very weak senses.
 
-The Shell is a humanoid construct piloted by the Heart. They are 1.9 m in height, have skin made out of a white, flexible, metallic alloy, have silver hair, and have animated screen eyes, displaying an animated yellow iris. Their faces are capable of displaying the full extent of [[humans|human]] emotion. They were designed by the Serpent to act as a scaffold and to resemble the appearance of both [[humans]] and [[angels|Angels]].
+The Shell is a humanoid construct piloted by the Heart. They are 1.9 m in height, have skin made out of a white, flexible, metallic alloy, have silver hair, and have animated screen eyes, displaying an animated yellow iris. Their faces are capable of displaying the full extent of [[humans|human]] emotion. They were designed by the Serpent to act as a scaffold for mutations and to bear resemblance to both [[humans]] and [[angels|Angels]].
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -35,15 +35,15 @@ There are still flaws with the Shells. Damage to the Shell will resonate and dam
 # .vexers
 <div class="bestiary-divider"></div>
 
-Vexers are an extremely rare anomaly where Somas which retain the [[vespers|Vesper]] ability of using [[vectors|Vectors]], directly caused by the Serpent's failure to fully override the [[vespers|Vesper]] code. With enough training, Vexers can gain access to other [[vespers|Vesper]] abilities, albeit much harder for them to perform.
+Vexers are an extremely rare anomaly where Somas which retain the [[vespers|Vesper]] ability of using [[vectors|Vectors]], directly caused by the Serpent's failure to fully override the [[vespers|Vesper]] code. With enough training, Vexers can gain access to other [[vespers|Vesper]] abilities, albeit much harder for them to perform. The surviving [[vespers|Vesper]] code in also what prevents the Serpent from mutating them.
 # .mutations
 <div class="bestiary-divider"></div>
 
-Soma mutations are the Serpent's ultimate goal. A mutation is triggered when the Serpent manages to take full control of a Soma. The most common occurrence of this happening is when a Soma 'partially' dies, or dying without their Heart fully shattering, which, if the Serpent has enough influence, can force it to reform and bring the Soma back to life. In some cases, mutations can be forcefully triggered on a living Soma.
+Soma mutations are the Serpent's final step in creating a powerful enough vessel for itself. A mutation is triggered when the Serpent manages to take full control of a Soma. The most common occurrence of this happening is when a Soma 'partially' dies, or dying without their Heart fully shattering, which, if the Serpent has enough influence, can force it to reform and bring the Soma back to life. In some cases, mutations can be forcefully triggered on a living Soma, such as by other mutated Somas.
 
-Biologically, the Soma's cells will begin forming organic structures inside the Shell, including functional, albeit awfully tasting [[blood]]. This process will start with the Heart's outer structure and progress all the way until the Soma's entire body, including Shell, will turn organic, with the end goal of becoming a visual match to [[humans]]. Mentally, the Soma's mind will slowly be eroded and replaced/taken over by the Serpent, causing all sorts of delusions and depersonalisations, until all that is left is a fully functional body for the Serpent to use.
+Biologically, the Soma's cells will begin forming organic structures inside the Shell, including functional, albeit awfully tasting [[blood]]. This process will start with the Heart's outer structure and use the Shell as a scaffold, progressing until the Soma's entire body, will turn organic, becoming a visual match to [[humans]]. Mentally, the Soma's mind will slowly be eroded and replaced/taken over by the Serpent, causing all sorts of delusions and depersonalisations, until all that is left is a fully functional body for the Serpent to use.
 
-Physical mutations cannot be slowed down, but mental ones can, with certain looping and grounding exercises allowing the Soma to retain control of themselves, although these same exercises can backfire and be exploited by the Serpent. Mutated Somas can use the abilities of the Serpent, although using them only accelerates mutation. Despite being organic, they remain bound by Soma biology, such as having no taste (despite having taste buds), being unable to sleep, or being able to be killed only if their Heart is destroyed (all other damage will be painful but not fatal and can actually cause the mutation to accelerate. The surviving [[vespers|Vesper]] code in Vexers prevents the Serpent from mutating them.
+Physical mutations cannot be slowed down, but mental ones can, with certain looping and grounding exercises allowing the Soma to retain control of themselves, although these same exercises can backfire and be exploited by the Serpent. As mutation progresses, Somas will grow exponentially stronger and gain access to the abilities and [[vectors|Vector]] of the Serpent, although using them only accelerates mutation. Despite being organic, they remain bound by Soma biology, such as having no taste (despite having taste buds), being unable to sleep, or being able to be killed only if their Heart is destroyed (all other damage will be painful but not fatal and can actually cause the mutation to accelerate.
 # .production
 <div class="bestiary-divider"></div>
 
