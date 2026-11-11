@@ -65,7 +65,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>
     </div>
-    <div class="absolutes-card__label">.holy_nails</div>
+    <div class="absolutes-card__label">.five_inch_nails</div>
   </a>
 
   <a class="absolutes-card" href="/wiki/absolutes/ring_a_ring_o'_roses">
