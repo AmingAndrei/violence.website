@@ -24,7 +24,7 @@ Niki's Clean-up Crew (unofficial name, Nikita doesn't like it) is a clandestine 
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Crew operates as a bastard sister of [[ultraviolet|Ultraviolet]], dealing with whatever [[ultraviolet|Ultraviolet]] can't, won't or doesn't know about. This mostly resumes to matters revolving around City Zero and its population. They mostly deal with [[somas|Soma]] mutations before the Serpent can fully take hold, and make sure their existence remains unknown.  
+The Crew operates as a bastard sister of [[ultraviolet|Ultraviolet]], dealing with whatever [[ultraviolet|Ultraviolet]] can't, won't or doesn't know about. This mostly boils down to matters revolving around City Zero and its population. They mostly deal with [[somas|Soma]] mutations before the Serpent can fully take hold, and make sure their existence remains unknown.  
 # .structure
 <div class="bestiary-divider"></div>
 
@@ -34,7 +34,7 @@ The Crew doesn't really have an hierarchy, although they officially run by Nikit
 # .conduct
 <div class="bestiary-divider"></div>
 
-The Crew operates entirely in the dark. The only people aware of their existence, outside of members, are the [[ultraviolet|Ultraviolet]] captain Lorand Aorello and the [[pale|Pale]] Executive Mihaela Rebreanu, although they act completely outside [[pale|Pale]] jurisdiction. Because of this and their unorthodox approaches, the Crew can get into conflicts with [[ultraviolet|Ultraviolet]] Operatorss.
+The Crew operates entirely in the dark. The only people aware of their existence, outside of members, are the [[ultraviolet|Ultraviolet]] captain Lorand Aorello and the [[pale|Pale]] Executive Mihaela Rebreanu, although they act completely outside [[pale|Pale]] jurisdiction. Because of this and their unorthodox approaches, the Crew can get into conflicts with [[ultraviolet|Ultraviolet]] Operators.
 # .assets
 <div class="bestiary-divider"></div>
 
