@@ -25,10 +25,11 @@ Stone Wyrms are usually solitary creatures. They spend most of their time in the
 # .abilities
 <div class="bestiary-divider"></div>
 
+## + Stone phasing
 Stone Wyrms have the ability to phase through solid ground and rock. They achieve this by binding to silicates in surrounding material to their own cells, expelling them to create thrust. This allows them to swim through the ground without producing any sort of visual disturbance. 
-
+## + Flight
 Flight is achieved through a similar method, by using their eyeholes to create a strong vacuum right directly in front of them and expelling all the air inside their body through surrounding cell walls, they can propel themselves forward. Their wings are too small and rigid to actually be useful for flight.
-
+## + Camouflage
 Stone Wyrms have the ability to camouflage themselves by sensing the chemical composition of surrounding silicate structures. This, in turn, allows their own cells to copy the appearance of the surrounding rock. They can also collapse their own bodies to flatten themselves, further blending in with the surrounding stone.
 # .reproduction
 <div class="bestiary-divider"></div>

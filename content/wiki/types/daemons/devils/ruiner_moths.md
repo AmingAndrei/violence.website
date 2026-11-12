@@ -25,10 +25,17 @@ Ruiner Moths are naturally extremely aggressive, as will attack anything that is
 # .abilities
 <div class="bestiary-divider"></div>
 
-Ruiner Moths leave behind small clouds of setae as they move. They can increase the amount of setae produces, producing increasingly larger and denser clouds, which can be launched towards their target. These setae are extremely unstable, and the Ruiner Moth can voluntarily choose to trigger them, turning the clouds into different types of explosions, from purely kinetic, to thermo-kinetic and even cryo-kinetic. The Ruiner Moth can control what type of setae it produces and when to trigger them. The denser the cloud, the bigger the explosion. Inhaling the setae is also toxic, and will lead to internal bleeding and asphyxiation, and they can still react to the external setae.
+## + Explosions
+Ruiner Moths leave behind clouds of setae as they move. They can increase the amount of setae produces, leaving increasingly larger and denser clouds, which can be launched towards their target. 
 
-The horns of a Ruiner Moth are its main sensory organ. They can retract into the head when necessary, and allow them to smell and hear their surroundings, with a pair of muscles allowing spherical movement of the antennae. These antennae have a horn-like structure and durability, which allows them to ram and gore others with them. They also have a bite-force of ~8,000 PSI.
-
+These setae are extremely unstable, and the Ruiner Moth can voluntarily choose to trigger them, turning the clouds into different types of explosions, from purely kinetic, to thermo-kinetic and even cryo-kinetic. The Ruiner Moth can control what type of setae it produces and when to trigger them. The denser the cloud, the bigger the explosion. 
+## + Toxic setae
+Inhaling the setae is toxic, and will lead to internal bleeding and asphyxiation, and can still react to the external setae.
+## + Horns
+The horns of a Ruiner Moth are its main sensory organ. They can retract into the head when necessary, and allow them to smell and hear their surroundings, with a pair of muscles allowing spherical movement of the antennae. These antennae have a horn-like structure and durability, which allows them to ram and gore others with them. 
+## + Bite strength
+Ruiner Moths have a bite-force of ~8,000 PSI.
+## + Coremata dexterity
 Ruiner Moths have two pairs of long, thin, and very flexible coremata. These coremata are extremely dexterous and can be used as limbs, their tentacle-like structure allowing the Ruiner Moth to interact with its surroundings much more precisely. They are covered in numerous tactile hairs, which can be used to grip objects easier and as tactile sensory organs.
 # .reproduction
 <div class="bestiary-divider"></div>

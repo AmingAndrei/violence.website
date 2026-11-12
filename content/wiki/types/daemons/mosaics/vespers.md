@@ -21,15 +21,20 @@ Vespers have no set anatomy. Each individual can very drastically in appearance,
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vespers are self-aware and extremely intelligent. The entire type is incidental, born as a side effect of Violence Against Art's existence, which left behind and permitted the refraction and multiplication of specific light frequencies that ultimately crystallised from [[anima|Anima]] contamination, leading to the formation of the pseudo-[[devils|Devils]] later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits and even body plans found in [[devils|Devils]]. They are otherwise mostly cooperative and social.
+Vespers are self-aware and extremely intelligent. The entire type is incidental, born as a side effect of Violence Against Art's existence, which left behind and permitted the refraction and multiplication of specific light frequencies that crystallised when subjected to [[devils|Devil]] influence, leading to the formation of the pseudo-[[devils|Devils]] later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits and even body plans found in [[devils|Devils]]. They are otherwise mostly cooperative and social.
 # .abilities
 <div class="bestiary-divider"></div>
 
-Vesper cells can expel infrared light for movement, using the momentum of the photons to reach extreme speeds. The process is done on an individual cellular level, with each cell negating air friction, and with the ability to instantaneously switch the direction of the emission, allows them extremely precise control in movement, bordering on teleportation. They can, similarly, use surrounding light sources for a similar effect, although this way their direction of travel is imposed by the light source and its intensity, while being considerably much easier to master and less mentally exhausting.
-
-Vespers can similarly use strong electric currents as a means of transport, able to use cables or electric arcs to transpose their entire bodies. This also extends to electronic devices, which they can inhabit indefinitely as long as it has a current actively running through it, and can even alter the currents in such a way they can control the device from inside.
-
-[[vectors|Vectors]] are powers and abilities native to Vespers.
+## + Photonic movement
+Vesper cells can expel infrared light for movement, using the momentum of the photons to reach extreme speeds. The process is done on an individual cellular level, with each cell negating air friction, and with the ability to instantaneously switch the direction of the emission, allows them extremely precise control in movement, bordering on teleportation. 
+## + Light sailing
+They can surrounding light sources for transport, although their direction of travel is imposed by that of the the light source and its intensity, while being considerably much easier to master and less mentally exhausting than infrared emission.
+## + Electric movement
+Vespers can use strong electric currents as a means of transport, able to use cables or electric arcs to transpose their entire bodies. 
+## + Electronic manipulation
+They can inhabit electronic devices as long as it has a current actively running through it, and can even alter the currents in such a way they can control the device from inside.
+## + [[vectors|Vectors]]
+[[vectors|Vectors]] are powers native to Vespers, allowing them to alter the behaviour of their cells and granting them various abilities.
 # .reproduction
 <div class="bestiary-divider"></div>
 

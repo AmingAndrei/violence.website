@@ -21,13 +21,20 @@ Kirlian Mimics are colonial organisms, composed of multiple segments. Each super
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Kirlian Mimics spend their idle times posing dramatically, with their joints able to lock in place. They will occasionally switch position, as prolonged sedentariness will cause their joints to stiffen. They will quickly snap to action whenever something enters their sensory range, but they do seem to have a lack of prolonged object permanence. Since the only non-flammable part of their body are their claws, they will attempt to avoid all types of fire.
+Kirlian Mimics spend their idle times posing dramatically, with their joints able to lock in place. They will occasionally switch position, as prolonged sedentariness will cause their joints to stiffen. They will quickly snap to action whenever something enters their sensory range, but they do seem to have a lack of prolonged object permanence.
 # .abilities
 <div class="bestiary-divider"></div>
 
+## + Copy
 Kirlian Mimics can copy the abilities of other creatures. They do this by reading the behaviour of [[anima|Anima]] in relation to their target, emulating the reading and by extension the ability. Since they reproduce only the outcome, the possible downfalls that may come with the origin of the ability are ignored.
 
-Kirlian Mimics copy other abilities instinctually and immediately gain awareness of how to use them upon acquiring them, with no set limit of held abilities. They can, however, only copy beings within a radius of 20 m around them; if the original possessor leaves this radius, the Kirlian Mimic will lose access to the ability on the spot. They can also copy some  [[anima|Anima]]-independent abilities, such as kinetic or energetic weapons, and even mirror other beings during fights, but cannot copy any [[pyrokinesis|anti-Anima]] abilities. Kirlian Mimics lack all senses. They navigate their surroundings by interpreting the [[anima|Anima]] around them and inside other beings.
+Kirlian Mimics copy other abilities instinctually and immediately gain awareness of how to use them upon acquiring them, with no set limit of held abilities.
+## - Limited range
+Kirlian Mimics can only copy beings within a radius of 20 m around them; if the original possessor leaves this radius, the Kirlian Mimic will lose access to the ability on the spot. 
+# - No senses
+Kirlian Mimics lack all senses. They navigate their surroundings by interpreting the [[anima|Anima]] around them and inside other beings.
+## - Fire weakness
+Since the only non-flammable part of their body are their claws, Kirlian Mimics will attempt to avoid all types of fire.
 # .reproduction
 <div class="bestiary-divider"></div>
 

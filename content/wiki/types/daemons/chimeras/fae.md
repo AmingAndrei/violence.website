@@ -26,9 +26,16 @@ Their neural structure is wired in such a way that makes outright lying an extre
 # .abilities
 <div class="bestiary-divider"></div>
 
-Fae have a great mastery over [[pyrokinesis|Pyrokinesis]], with their easiest techniques being releasing [[divine_flame|Divine Flame]] from their hands. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
+## + [[pyrokinesis|Pyrokinesis]]
+
+Fae have a greatest [[pyrokinesis|Pyrokinesis]] mastery of all Chimeras. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
+## - Iron weakness
 
 The greatest weakness Fae have is towards iron. Direct contact with elemental iron releases certain ions that disrupt their ability to release [[divine_flame|Divine Flame]], along with draining them of all energy and strength. The system returns to normal not long after contact is disrupted.
+
+## - Weak regeneration
+
+Fae have the weakest regeneration of all Chimeras, capable of healing only shallow, surface-level wounds.
 # .reproduction
 <div class="bestiary-divider"></div>
 

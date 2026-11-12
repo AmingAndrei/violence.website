@@ -27,7 +27,11 @@ They are the progenitor type of all Chimeras, the template used by the Furies to
 # .abilities
 <div class="bestiary-divider"></div>
 
+## + Regeneration
+
 Blacksalamanders are very [[anima|Anima]]-sensitive, and as a result can regenerate to an absurd degree. As long as the brainstem is at least 5% operational, Blacksalamanders are capable of fully regenerating their bodies, even if damage is inflicted to the heart or lungs, switching to an open, mechanically driven circulatory system and external digestion for that duration. 
+
+## + Adaption
 
 If a body part sustains more damage than others consecutively, it will adapt during regeneration to resist that kind of damage, and that information can be passed on to their offspring, although it will slowly fade unless actively used.
 # .reproduction

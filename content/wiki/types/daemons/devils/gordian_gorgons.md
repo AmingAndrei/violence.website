@@ -24,9 +24,16 @@ Gordian Gorgons are solitary, the only exception being very large hosts, where e
 # .abilities
 <div class="bestiary-divider"></div>
 
-Gordian Gorgons will pilot the corpses of their hosts as a means of movement. They do this by extending their tendrils along their host's body, forcefully flexing their muscles to create movement. Some of their tendrils will emerge from the corpse's mouth, powerful enough to completely overpower a grown [[humans|human]] and used for precise interactions with their environment (as the most they can force the corpse to do is shamble and lunge at things), reproduction, attack by whipping, and sensing, using echolocation, chemical receptors and direct contact to map out their surroundings.
-
-The host of a Gordian Gorgon hardens into a calcite-like structure, granting it increased durability while retaining flexibility. As the corpse remains in a state of suspended putrefaction, any damage done to it is permanent (unlike damage to the Devil itself, which can still consume [[blood]] to heal), and destroying large chunks of it leaves the Gordian Gorgon vulnerable or can outright kill it from exposure to the outside. Destroying the central core also kills it on the spot. The corpse of the host remains after death.
+## + Body control
+Gordian Gorgons will pilot the corpses of their hosts as a means of movement. They do this by extending their tendrils along their host's body, forcefully flexing their muscles to create movement. 
+## + Tendril multi-use
+Some of their tendrils will emerge from the corpse's mouth, powerful enough to completely overpower a grown [[humans|human]] and used for precise interactions with their environment (as the most they can force the corpse to do is shamble and lunge at things), reproduction, attack by whipping, and sensing, using echolocation, chemical receptors and direct contact to map out their surroundings.
+## + Host petrification
+The host of a Gordian Gorgon hardens into a calcite-like structure, granting it increased durability while retaining flexibility.
+## - No host regeneration
+As the corpse remains in a state of suspended putrefaction, any damage done to it is permanent (unlike damage to the Devil itself, which can still consume [[blood]] to heal), and destroying large chunks of it leaves the Gordian Gorgon vulnerable or can outright kill it from exposure to the outside. The corpse of the host remains after the Gordian Gorgon's death.
+## - Core dependency
+Destroying the central core kills the Gordian Gorgon on the spot.
 # .reproduction
 <div class="bestiary-divider"></div>
 

@@ -21,14 +21,21 @@ Circuit Titans are the biggest Devil type, reaching a total height of ~6 km. The
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Most if not all Circuit Titans are asleep. They sleep vertically, anchoring themselves into the ground. If an event of large enough violence were to occur, or if they were to be overly disturbed, they would wake up. They're extremely curious creatures and actively delight in spectating others. They are all single minded, and all individuals share the same goals set by Violence Against Nature.
+Most if not all Circuit Titans are asleep. They sleep vertically, anchoring themselves into the ground. If an event of large enough violence were to occur, or if they were to be overly disturbed, they would wake up. They're extremely curious creatures and actively delight in spectating others. They are all single minded, and all individuals share the goals given by Violence Against Nature.
 # .abilities
 <div class="bestiary-divider"></div>
 
-Circuit Titans are capable of sight, although their 'eye' is, in fact, their 'mouth'. The pupil is, in fact, an orifice lined with micro-serrated edges. The sclera is, in fact, a contracting muscle, able to change the position and size of the pupil as if the eye is rotating. The inside of the eye is lined with numerous black cells which act as both photoreceptors and digestive cells, which grant it extremely precise eyesight. This eye does have an eyelid to shield the makeshift eye, as the pupil is incapable of fully closing.
+## + Sight
 
-The tendrils of a Circuit Titan eventually split down to the size of thin cables, while retaining full motor control. These tendrils can then interface with electronic devices, which are then directly controlled by the Circuit Titan, even allowing them to communicate, as long as they remain in contact with the device.
+Circuit Titans are capable of sight, although their 'eye' is, in fact, their 'mouth'. The pupil is, in fact, an orifice lined with micro-serrated edges. The sclera is  a contracting muscle, able to change the position and size of the pupil as if the eye is rotating. 
 
+The inside of the eye is lined with numerous black cells which act as both photoreceptors and digestive cells, which grant it extremely precise eyesight. This eye does have an eyelid to shield the makeshift eye, as the pupil is incapable of fully closing.
+## + Dexterity
+The tendrils of a Circuit Titan eventually split down to the size of thin cables, while retaining full motor control. 
+## + Device control
+Their tendrils can then interface with electronic devices, which are then directly controlled by the Circuit Titan, even allowing them to communicate, as long as they remain in contact with the device.
+
+## + Environmental impact
 The immense size of a Circuit Titan actively alters the nearby climate, such as their cells drastically increasing the nearby static electricity, causing indefinite lighting storms, increasing the temperature of the surrounding area, which in turn affects not just the general climate, but also winds and airflow. These effects become even more prominent once awake and active.
 # .reproduction
 <div class="bestiary-divider"></div>

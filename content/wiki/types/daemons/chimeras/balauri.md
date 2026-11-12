@@ -27,9 +27,25 @@ Balauri are solitary creatures. And despite their size, they are extremely curio
 # .abilities
 <div class="bestiary-divider"></div>
 
-Balauri have the greatest brute force [[pyrokinesis|Pyrokinesis]] output of all Chimeras, capable of releasing [[divine_flame|Divine Flame]] from their mouth with ~26 MJ of force, cycling between active heads. Each head is also equipped with two olfactory systems, a pair standard nasal receptors and a vomeronasal organ, granting them an extremely keen sense of smell. They can fly at 120 km/h and can gallop at 60 km/h, and their wings alone are capable of outputting ~1.1 GJ of force.
+## + [[pyrokinesis|Pyrokinesis]]
 
-Each head is semi-autonomous, with independent thought and behaviour, linked together through a central spinal hub, coordinating motor functions and survival intent between heads. Balauri have the strongest regeneration of all Chimeras, capable of regenerating parts of their spine, entire limbs, and even heads if one should be severed. The speed of the regeneration is entirely dependent on the amount of food the Balaur can acquire. The regrown heads might possess different personalities, but will retain the memories of the original. If all three heads are severed, the Balaur will die from cardiac arrest.
+Balauri have the greatest brute force [[pyrokinesis|Pyrokinesis]] output of all Chimeras, capable of releasing [[divine_flame|Divine Flame]] from their mouth with ~26 MJ of force. They cycle between firing heads to maintain constant output.
+## + Heads
+
+Each head is semi-autonomous, with independent thought and behaviour, linked together through a central spinal hub, coordinating motor functions and intent. 
+
+## + Senses
+
+Each head is equipped with two olfactory systems, a pair standard nasal receptors and a vomeronasal organ, granting them an extremely keen sense of smell.
+
+## + Strength
+Balauri can fly at 120 km/h and can gallop at 60 km/h, and their wings alone are capable of outputting ~1.1 GJ of force.
+
+## + Regeneration
+
+Balauri have the strongest regeneration of all Chimeras, capable of regenerating parts of their spine, entire limbs, and even heads if one should be severed. The speed of the regeneration is entirely dependent on the amount of food the Balaur can acquire.
+
+The regrown heads might possess different personalities, but will retain the memories of the original. If all three heads are severed, the Balaur will die from cardiac arrest.
 # .reproduction
 <div class="bestiary-divider"></div>
 

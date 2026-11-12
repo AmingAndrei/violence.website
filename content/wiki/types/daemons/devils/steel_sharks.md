@@ -25,22 +25,23 @@ Steel Sharks are unanimously agreed to be the apex of the beauty standard no mat
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Steel Sharks are sapient, voluntarily aggressive and find pleasure in causing as much violence as possible. They hunt exclusively for sport. Steel Sharks are the most [[anima|Anima]]-dependent Devil type. If they lack the large enough [[anima|Anima]] necessary, only found within the FLIPSIDE, they will eventually collapse into a low energy state, vaguely resembling large weaponry, although they remain conscious during this state. While they do display sexual dimorphism similar to [[humans]], they have no inherent concept of gender or sex.
+Steel Sharks are sapient, voluntarily aggressive and find pleasure in causing as much violence as possible. While they do display sexual dimorphism similar to [[humans]], they have no inherent concept of gender or sex.
 # .abilities
 <div class="bestiary-divider"></div>
 
-The rule of thumb is that there is nothing other Devils can do that Steel Sharks can't also do, if not better.
-
-Steel Sharks have extremely developed senses, capable of pinpoint precision echolocation, thermal imaging, chemoreception, and airwave sensitivity. This makes them near omniscient of their surroundings up to 100 m. This, combined with their extreme speed, intelligence, and strength, makes a single Steel Shark a one man army. And while they're normally loud and explosive, they can choose to become completely silent, which combined with their dexterity and speed, makes them impossible to track.
-
-Steel Sharks are absurdly durable. The metal their cells are composed off is harder than tungsten carbide, has a melting point of ~5,000°C, is self-sharpening, self-healing, is completely chemically inert, block radiation, and all while having a density similar to silver. The only way to kill one is to damage its engine. All other types of damage will not affect their senses and only partially slow them down, with a single engine rev being capable of regenerating one third of their body mass. Damage to the engine will redirect all healing towards the engine, and if severe enough, will either require to [[anima|Anima]] resonance of Pandiavolum to heal, or kill the Steel Shark. Water can also dampen a Steel Shark's strength by flooding its engine and preventing maximum output.
-
+## + Apex
+There is nothing other Devils can do that Steel Sharks can't also do, if not better.
+## + Senses
+Steel Sharks have extremely developed senses, capable of pinpoint precision echolocation, thermal imaging, chemoreception, and airwave sensitivity. This makes them near omniscient of their surroundings up to 100 m. 
+## + Stealth
+Steel Sharks can become completely silent, which combined with their dexterity and speed, allows them to easily infiltrate locations without being noticed.
+## + Durability
+Steel Sharks are absurdly durable. The metal their cells are composed off is harder than tungsten carbide, has a melting point of ~5,000°C, is self-sharpening, self-healing, is completely chemically inert, block radiation, and all while having a density similar to silver. 
+## + Object storage
 Steel Sharks can absorb medium to small objects and devices. Once they make direct contact with said device or object, the cells and mechanical structure of the Steel Shark will disassemble it into its smallest possible components, storing them in its body, These components can then be rebuilt on command, recreating the object perfectly. This extends to all sort of trinkets, and they can even combine some of the stored objects into different once during reassembly, which they can effortlessly split back again.
-
+## + Radio manipulation
 Steel Sharks are able to interact with radio waves. They can both hear them, understanding whatever is transmitted through the frequency, and respond. When speaking, Steel Sharks emit both audible sound and radio waves, and they cannot stop and just speak through one or the other. In their low energy state, they can only communicate through radio, along with clanking. They can intercept all frequencies at once, and can choose to speak at any frequency or at every frequency at once.
-
-To combat their obvious weakness of requiring a large [[anima|Anima]] resonance to do anything, Steel Sharks consume [[blood]] as fuel. This also comes with a downside, as the Steel Shark be on a timer until the fuel runs out, and actions such as revving or using their maximum strength will drain it much faster. This also means that a Steel Shark can remain indefinitely active outside the FLIPSIDE if it has enough [[blood]].
-
+## + Categories
 Steel Sharks are not omnipotent, as they fall into several categories, determining their general abilities, fighting style, and to a slight degree their appearance:
 
 |                       |                                                                                                                                                    |
@@ -51,7 +52,16 @@ Steel Sharks are not omnipotent, as they fall into several categories, determini
 | Naginatakatachi (薙刀形) | Can create and control different types of bio-agents, such as insects or microscopic organisms.                                                    |
 | Oyumikatachi (大弓形)    | Can use short and long-range shelling, with a delay between shots dependent on the strength of the attack. Can also block attacks.                 |
 | Kenkatachi (剣形)       | Can do all of the above + has cellular-level control over it's body structure.                                                                     |
+## - Engine weak-point
+The only way to kill a Steel Shark is to damage its engine. All other types of damage will not affect their senses and only partially slow them down, with a single engine rev being capable of regenerating one third of their body mass.
 
+Damage to the engine will redirect all healing towards the engine, and if severe enough, will either require to [[anima|Anima]] resonance of Pandiavolum to heal, or kill the Steel Shark. 
+
+Water can also dampen a Steel Shark's strength by flooding its engine and preventing maximum output.
+## - High [[anima|Anima]] dependency
+Steel Sharks are also the most [[anima|Anima]]-dependent Devil type. If they lack the large enough [[anima|Anima]] necessary, only found within the FLIPSIDE, they will eventually collapse into a low energy state, vaguely resembling large weaponry, although they remain conscious during this state.
+
+To combat their obvious weakness of requiring a large [[anima|Anima]] resonance to do anything, Steel Sharks consume [[blood]] as fuel. This also comes with a downside, as the Steel Shark be on a timer until the fuel runs out, and actions such as revving or using their maximum strength will drain it much faster. This also means that a Steel Shark can remain indefinitely active outside the FLIPSIDE if it has enough [[blood]].
 # .reproduction
 <div class="bestiary-divider"></div>
 

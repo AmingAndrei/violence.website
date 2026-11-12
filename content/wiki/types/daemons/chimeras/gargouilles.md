@@ -31,11 +31,30 @@ Gargouilles will spend most of their lifetime solitary, guarding fixed territori
 # .abilities
 <div class="bestiary-divider"></div>
 
-Gargouilles have a specialised sack in their throat used to store water, which they use during [[pyrokinesis|Pyrokinesis]] to transform into hyper-pressurised jets, composed of both [[divine_flame|Divine Flame]] and boiling water, capable of reaching ~80,000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock. Their throats also possess a series of holes, through which the Gargouille can shoot out steam to whistle, using it as a primary method of communication.
+## + [[pyrokinesis|Pyrokinesis]]
 
-By using the stored water, Gargouilles can reach great flying speeds by using steam propulsion. Their tail feature a specialised set of gills extending its entire length, which, when submerged in water, will pump it directly into their throat sack, along with their hide, which has microscopic grooves which channel all water directly into their sack through capillary action.
+Gargouilles have a specialised sack in their throat used to store water, which they use during [[pyrokinesis|Pyrokinesis]] to transform into hyper-pressurised jets, composed of both [[divine_flame|Divine Flame]] and boiling water, capable of reaching ~80,000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock.
 
-Grotesques lack this throat sack and all adaptations relating to it. They are incapable of sustained flight, using their wings to glide short distances. They are, however, much stronger physically than Gargouilles, using their limbs to dig through solid rock with ease. They can use [[pyrokinesis|Pyrokinesis]] to expel a sticky, burning mucus from their mouths.
+Grotesques can use [[pyrokinesis|Pyrokinesis]] to expel a sticky, burning mucus from their mouths.
+
+## + Whistling
+
+Gargouille throats possess a series of holes, through which they can shoot out steam to whistle, using it as a primary method of communication.
+
+## + Steam propulsion
+
+By using the stored water, Gargouilles can reach great flying speeds by using steam propulsion.
+
+## + Water absorption
+
+Gargouille tail feature a specialised set of gills extending its entire length, which, when submerged in water, will pump it directly into their throat sack, along with their hide, which has microscopic grooves which channel all water directly into their sack through capillary action.
+
+## + Grotesque physical strength
+
+Grotesques are much stronger physically than Gargouilles, using their limbs to dig through solid rock with ease.
+## - Grotesques lack the throat sack
+
+Grotesques lack the throat sack and all adaptations relating to it. They are incapable of sustained flight, using their wings to glide short distances.
 # .reproduction
 <div class="bestiary-divider"></div>
 
