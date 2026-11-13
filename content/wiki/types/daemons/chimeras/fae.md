@@ -20,9 +20,7 @@ Fae have a humanoid body plan, reaching ~2 m in height. They have bluish-grey sk
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Fae are sapient, and highly social, forming large, highly industrialised cities and settlements, along the rims of craters, sinkholes, volcanoes caldera, and general circular depressions in the ground. The lingua franca of Fae is Faevael.
-
-Their neural structure is wired in such a way that makes outright lying an extremely taxing task, meaning they prefer lying for omission. To counteract this, Fae bureaucracy and legislature is incredibly dense and hard to navigate, anticipating every possible edge-case scenario. This also makes them extremely gullible, as they haven't developed the mental defences for lying. Their natural predators are [[mardykhora|Mardykhora]].
+Fae are sapient, and highly social, forming large, highly industrialised cities and settlements, along the rims of craters, sinkholes, volcanoes caldera, and general circular depressions in the ground, with a highly complex and confusing legislature, anticipating every possible edge-case scenario. The lingua franca of Fae is Faevael. Their natural predators are [[mardykhora|Mardykhora]].
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -30,12 +28,11 @@ Their neural structure is wired in such a way that makes outright lying an extre
 
 Fae have a greatest [[pyrokinesis|Pyrokinesis]] mastery of all Chimeras. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
 ## - Iron weakness
-
 The greatest weakness Fae have is towards iron. Direct contact with elemental iron releases certain ions that disrupt their ability to release [[divine_flame|Divine Flame]], along with draining them of all energy and strength. The system returns to normal not long after contact is disrupted.
-
 ## - Weak regeneration
-
 Fae have the weakest regeneration of all Chimeras, capable of healing only shallow, surface-level wounds.
+## - Credulity
+The Fae neural structure is wired in such a way that makes outright lying an extremely taxing task, meaning they naturally prefer lying by omission. This also makes them extremely gullible, as they haven't developed the mental defences for lying. 
 # .reproduction
 <div class="bestiary-divider"></div>
 

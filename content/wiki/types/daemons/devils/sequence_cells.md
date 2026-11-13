@@ -20,7 +20,7 @@ The body of a Sequence Cell is composed entirely out of sound waves. They have n
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Sequence Cells are very primitive organisms, operating mostly out in reaction to outside stimuli. Most are not even all that hard to kill; the real difficulty of Sequence Cells is their extreme reproductive speed, as their environment can lead to them multiplying endlessly. They can be notices from a distance through the unique sound they always emit, and their presence creates shapes in dust and sand.
+Sequence Cells are very primitive organisms, operating mostly out in reaction to outside stimuli. Most are not even all that hard to kill; the real difficulty of Sequence Cells is their extreme reproductive speed, as their environment can lead to them multiplying endlessly. They can be noticed from a distance through the unique sound they always emit, and their presence creates shapes in dust and sand.
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -37,7 +37,7 @@ They sense their environment through sound and temperature, as temperature modif
 ## + Liquid strengthening
 Sequence Cells can inhabit liquid media such as water, inside which their strength is greatly elevated, becoming visible to the naked eye through the wave distortions they produce, and allowing them to survive with significantly fewer anchors.
 ## - Anchor dependency
-Killing a Sequence Cell requires destroying its anchors and thus disrupting the configuration, without which it cannot maintain its shape and dies. The number and complexity of these anchors scales with the Sequence Cell's size, and a Sequence Cell's size is limited by the availability of anchors. After death or injury, red dust accumulated from the constant vibration is released from the surface of their anchors.
+One way of killing a Sequence Cell is destroying its anchor, which disrupts the configuration which it maintain its shape. The number and complexity of these anchors scales with the Sequence Cell's size, and a Sequence Cell's size is limited by the availability of anchors. After death or injury, red dust accumulated from the constant vibration is released from the surface of their anchors.
 ## - Solid barriers
 They cannot pass through solid matter.
 ## - Sound overpowering weakness

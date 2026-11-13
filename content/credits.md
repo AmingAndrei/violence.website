@@ -7,7 +7,7 @@ tags:
 <br><a href="/" class="nav-button">← HOME</a>
 <br><br><br><div class="credits-entry">
 <img src="assets/credits/aming.png" class="credits-img">
-<h1 class="credits-title">.aming // director, writer</h1>
+<h1 class="credits-title">.aming // director, writer, vox populi</h1>
 <div class="credits-meta">.∞/∅ // <a href="https://www.youtube.com/@amingandrei">youtube</a> // <a href="https://x.com/AmingAndrei">𝕏itter</a> // <a href="https://instagram.com/amingandrei">Instagram</a></div>
 
 Hello! I am the creator of this series, that is me. It originally started as a crackfic between... I want to say Control, Devil May Cry and... Evangelion, I think? The worldbuilding and writing went through multiple stages, most of which were kitchen sinks, to be entirely honest. The versions you're currently seeing are the most refined yet, and unfortunately, the sky's the limit and I'm Icarus.</div>
