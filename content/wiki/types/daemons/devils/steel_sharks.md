@@ -19,7 +19,7 @@ Steel Sharks (_Diavolos diavolos_, <ruby>金属鮫<rt>スティール・シャ�
 
 Steel Sharks are extremely humanoid in appearance, standing at ~2 m tall. Their bodies are made out numerous metallic plates and mechanical parts which are capable of rearranging themselves on a whim. Their entire cellular structure is made of metal. 
 
-Within their chests is located an engine, which acts as their 'heart'. Their faces display the entire range of [[humans|human]] emotions and expressions, even their eyes appear to react to stimuli, although they're purely cosmetic. Most if not all parts of their body are extremely sharp, such as their serrated teeth or chainsaw-like hair strands. 
+Within their chests is located an engine, which acts as their 'heart'. Their faces display the entire range of [[humans|human]] emotions and expressions, even their eyes appear to react to stimuli, although they're purely cosmetic. Most if not all parts of their body are extremely sharp, such as their serrated teeth or chisel chain-like hair strands. 
 
 Steel Sharks are unanimously agreed to be the apex of the beauty standard no matter the orientation, type, or personal conception about them.
 # .behaviour

@@ -24,10 +24,10 @@ Anima is the fundamental vital force animating all living beings, and the substa
 # .source
 <div class="bestiary-divider"></div>
 
-Anima is everywhere, acting as a field permeating the entire physical world. Although it is inexhaustible, the baseline is not equal everywhere, and some locations can have a higher resonance than others. Anima resonance is considerably higher in the FLIPSIDE, reaching its highest recorded maximum around Pandiavolum.
+Anima is everywhere, acting as a field permeating the entire physical world. Despite being inexhaustible, some locations can have a higher resonance than others. Anima resonance is considerably higher in the FLIPSIDE, reaching its highest its peak in Pandiavolum.
 # .properties
 <div class="bestiary-divider"></div>
 
 All living organisms absorb Anima as long as they remain alive. [[devils|Devils]] have the greatest Anima draw, being entirely made of it, and their bodies consequently act as an amplifier, increasing the local resonance around their vicinity. Locations with a very low or no Anima resonance are barren and devoid of life, and any being that enters such an area will die from deprivation.
 
-All beings leave imprints on the field as a whole, leaving behind biological data that can be later retrieved, including data that can be extrapolated from past and present entries, or even data that exists purely as a theoretical concept with no living counterpart.
+All beings leave imprints on the field. As a result, Anima stores the imprints of all past and present life forms, and even future or theoretical life forms which never lived, lives or will live.
