@@ -25,7 +25,7 @@ Sequence Cells are very primitive organisms, operating mostly out in reaction to
 <div class="bestiary-divider"></div>
 
 ## + Anchoring
-Sequence Cells must bind themselves to solid objects for their form to remain stable. These anchor objects will then be used as amplifiers, incorporated into a shifting sequences formed around the 'body'. These objects are usually similar or preferably even identical to each other, and their movement and shapes are determined by the individual Sequence Cell and their activity. Consuming [[blood]] allows the Sequence Cell to reform its configuration and quickly anchor itself to other objects.
+Sequence Cells must bind themselves to solid objects for their form to remain stable. These anchor objects will then be used as amplifiers, incorporated into shifting sequences formed around the 'body'. These objects are usually similar or preferably even identical to each other, and their movement and shapes are determined by the individual Sequence Cell and their activity. Consuming [[blood]] allows the Sequence Cell to reform its configuration and quickly anchor itself to other objects.
 ## + Sound manipulation
 Sequence Cells interact with their environment by manipulating sound, creating pressure differentials and kinetic force to manipulate objects or to move themselves.
 ## + Tool creation

@@ -29,7 +29,7 @@ Most if not all Circuit Titans are asleep. They sleep vertically, anchoring them
 
 Circuit Titans are capable of sight, although their 'eye' is, in fact, their 'mouth'. The pupil is, in fact, an orifice lined with micro-serrated edges. The sclera is  a contracting muscle, able to change the position and size of the pupil as if the eye is rotating. 
 
-The inside of the eye is lined with numerous black cells which act as both photoreceptors and digestive cells, which grant it extremely precise eyesight. This eye does have an eyelid to shield the makeshift eye, as the pupil is incapable of fully closing.
+The inside of the eye is lined with numerous black cells which act as both photoreceptors and digestive cells, which grant it extremely precise eyesight. The eye does have an eyelid to shield it.
 ## + Dexterity
 The tendrils of a Circuit Titan eventually split down to the size of thin cables, while retaining full motor control. 
 ## + Device control
