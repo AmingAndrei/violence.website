@@ -20,7 +20,7 @@ Humans (Homo sapiens) are the sapient, dominant beings outside the FLIPSIDE.
 
 Humans are primates, a high order of mammal. They achieve maturity at 18, reproduce sexually, give birth to live young, and pregnancy lasts 9 months. They have red [[blood]], and have a very primitive form of regeneration, capable of healing only very superficial wounds.
 
-Humans are, compared to [[angels|Angels]] and most [[Daemons]], very weak. The one things they have that [[angels|Angels]] and [[daemons|Daemons]] do not is the ability to oppose their nature. All humans have innate access to [[shadowcraft|Shadowcraft]] through Rafa.
+Humans are, compared to [[angels|Angels]] and most [[Daemons]], very weak. The one things they have that [[angels|Angels]] and [[daemons|Daemons]] do not is the ability to oppose their nature.
 
 After the Wild Hunt, almost all humans live in City Zero.
 

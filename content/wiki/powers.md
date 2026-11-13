@@ -27,10 +27,4 @@ cssclasses:
     <span class="power-card__label">.pyrokinesis</span>
   </a>
 
-  <a href="/wiki/powers/shadowcraft" class="power-card">
-    <div class="power-card__image" style="background-image:url('/assets/placeholder_powers.svg');"></div>
-    <span class="power-card__divider"></span>
-    <span class="power-card__label">.shadowcraft</span>
-  </a>
-
 </div>
