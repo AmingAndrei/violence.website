@@ -25,11 +25,11 @@ Vespers are self-aware and extremely intelligent. The entire type is incidental,
 # .abilities
 <div class="bestiary-divider"></div>
 
-## + Photonic movement
+## + Photon propulsion
 Vesper cells can expel infrared light for movement, using the momentum of the photons to reach extreme speeds. The process is done on an individual cellular level, with each cell negating air friction, and with the ability to instantaneously switch the direction of the emission, allows them extremely precise control in movement, bordering on teleportation. 
 ## + Light sailing
 They can surrounding light sources for transport, although their direction of travel is imposed by that of the the light source and its intensity, while being considerably much easier to master and less mentally exhausting than infrared emission.
-## + Electric movement
+## + Electric current movement
 Vespers can use strong electric currents as a means of transport, able to use cables or electric arcs to transpose their entire bodies. 
 ## + Electronic manipulation
 They can inhabit electronic devices as long as it has a current actively running through it, and can even alter the currents in such a way they can control the device from inside.
