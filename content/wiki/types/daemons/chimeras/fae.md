@@ -24,14 +24,20 @@ Fae are sapient, and highly social, forming large, highly industrialised cities 
 # .abilities
 <div class="bestiary-divider"></div>
 
-## + [[pyrokinesis|Pyrokinesis]]
+## …/[[pyrokinesis]]
 
 Fae have a greatest [[pyrokinesis|Pyrokinesis]] mastery of all Chimeras. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
-## - Iron weakness
+# .weaknesses
+<div class="bestiary-divider"></div>
+
+## …/iron
+
 The greatest weakness Fae have is towards iron. Direct contact with elemental iron releases certain ions that disrupt their ability to release [[divine_flame|Divine Flame]], along with draining them of all energy and strength. The system returns to normal not long after contact is disrupted.
-## - Weak regeneration
+## …/weak_regeneration
+
 Fae have the weakest regeneration of all Chimeras, capable of healing only shallow, surface-level wounds.
-## - Credulity
+## …/credulity
+
 The Fae neural structure is wired in such a way that makes outright lying an extremely taxing task, meaning they naturally prefer lying by omission. This also makes them extremely gullible, as they haven't developed the mental defences for lying. 
 # .reproduction
 <div class="bestiary-divider"></div>

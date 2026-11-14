@@ -25,15 +25,15 @@ Mardykhora are apex predators, and are the natural predator of [[fae|Fae]]. They
 # .abilities
 <div class="bestiary-divider"></div>
 
-## + [[pyrokinesis|Pyrokinesis]]
+## …/[[pyrokinesis]]
 
 The primary [[pyrokinesis|Pyrokinesis]] technique of Mardykhora involves shooting out multiple high-impact bursts from their mouths, and shooting out their tail spines omnidirectionally, with a regrowth period of mere minutes.
-## + Neurotoxin
+## …/neurotoxin
 
 Mardykhora secrete a neurotoxin all throughout their body: glands in their skin coat their fur with it, the spines on their tail, claws fangs and limb scales inject it, and their breath constantly releases it. 
 
 This toxin can induce shock within [[Fae]] in mere seconds. However, since main active ingredient of this substance is iron, it is treatable for other types. Mardykhora are themselves fully immune to it.
-## + Physical strength
+## …/strength
 
 Their legs allow them to easily overpower beings smaller than themselves, all while remaining entirely silent. Their opposable thumbs and toes allow them to manipulate objects and climb with ease.
 

@@ -24,23 +24,35 @@ Sequence Cells are very primitive organisms, operating mostly out in reaction to
 # .abilities
 <div class="bestiary-divider"></div>
 
-## + Anchoring
+## …/anchoring
+
 Sequence Cells must bind themselves to solid objects for their form to remain stable. These anchor objects will then be used as amplifiers, incorporated into shifting sequences formed around the 'body'. These objects are usually similar or preferably even identical to each other, and their movement and shapes are determined by the individual Sequence Cell and their activity. Consuming [[blood]] allows the Sequence Cell to reform its configuration and quickly anchor itself to other objects.
-## + Sound manipulation
+## …/sound_manipulation
+
 Sequence Cells interact with their environment by manipulating sound, creating pressure differentials and kinetic force to manipulate objects or to move themselves.
-## + Tool creation
+## …/tool_creation
+
 They can absorb objects from their surroundings into themselves and apply a partial amplifier effect to them, enforcing a similar sequential arrangement to the objects and using them to defend themselves or attack others. These constructs have a very limited life span.
-## + Size manipulation
+## …/size_change
+
 They can expand or shrink by up to 30% their size when necessary. 
-## + Senses
+## …/senses
+
 They sense their environment through sound and temperature, as temperature modifies the way sound waves move though a medium.
-## + Liquid strengthening
+## …/liquid_empowerment
+
 Sequence Cells can inhabit liquid media such as water, inside which their strength is greatly elevated, becoming visible to the naked eye through the wave distortions they produce, and allowing them to survive with significantly fewer anchors.
-## - Anchor dependency
+# .weaknesses
+<div class="bestiary-divider"></div>
+
+## …/anchor_dependency
+
 One way of killing a Sequence Cell is destroying its anchor, which disrupts the configuration which it maintain its shape. The number and complexity of these anchors scales with the Sequence Cell's size, and a Sequence Cell's size is limited by the availability of anchors. After death or injury, red dust accumulated from the constant vibration is released from the surface of their anchors.
-## - Solid barriers
+## …/solid_barriers
+
 They cannot pass through solid matter.
-## - Sound overpowering weakness
+## …/sound_overpowering
+
 Another method of killing a Sequence Cell is by overpowering its frequencies by creating an even louder noise source. The smaller and weaker the Sequence Cell the easier this is to do. In a liquid medium, this becomes much easier.
 # .reproduction
 <div class="bestiary-divider"></div>
@@ -49,4 +61,4 @@ Sequence Cells reproduce by division. When a Sequence Cell hits a jagged surface
 # .diet
 <div class="bestiary-divider"></div>
 
-Sequence Cells feed on sound, specifically on rhythmic sounds. Small Sequence Cells will absorb the sound and use it to increase their size. They consume [[blood]] through acoustic atomisation.
+Sequence Cells feed on sound, specifically on rhythmic sounds. Small Sequence Cells will absorb the sound and use it to increase their size, decreasing its volume in the process. They consume [[blood]] through acoustic atomisation.

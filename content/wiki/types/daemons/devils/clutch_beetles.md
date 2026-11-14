@@ -27,9 +27,11 @@ The process begins with the Clutch Beetle attaching itself to the nape of the or
 # .abilities
 <div class="bestiary-divider"></div>
 
-## + Wildcard
+## …/wildcard
+
 The abilities of individual Clutch Beetles vary. Virtually no two Clutch Beetles have the exact same ability. 
-## + Complex neural structure
+## …/neural_structure
+
 Their neural structure is extraordinarily complex, being made of dense microscopic fibres, capable sending signals up to ten times as fast as a regular neuron.
 # .reproduction
 <div class="bestiary-divider"></div>

@@ -27,15 +27,15 @@ Cipactin are highly social, forming large herds composed of multiple family band
 # .abilities
 <div class="bestiary-divider"></div>
 
-## + [[pyrokinesis|Pyrokinesis]]
+## …/[[pyrokinesis]]
 
 Cipactin use [[pyrokinesis|Pyrokinesis]] primarily as a method of transport, as they release [[divine_flame|Divine Flame]] at high pressures from the vents along their bodies, granting it rapid propulsion through water, reaching a maximum speed of 70 km/h.  They can also release [[divine_flame|Divine Flame]] in a large area around them from their frills.
 
-## + Underwater breathing
+## …/underwater_breathing
 
 Cipactin frills are highly vascularised and permit respiration through diffusion, although this form of breathing is less efficient for intensive activity.
 
-## + Mobility
+## …/mobility
 
 In water, the shape of a Cipactli's head, along with their rudder-like tail, help with water navigation. 
 

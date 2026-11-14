@@ -25,17 +25,19 @@ Most if not all Circuit Titans are asleep. They sleep vertically, anchoring them
 # .abilities
 <div class="bestiary-divider"></div>
 
-## + Sight
+## …/sight
 
 Circuit Titans are capable of sight, although their 'eye' is, in fact, their 'mouth'. The pupil is, in fact, an orifice lined with micro-serrated edges. The sclera is  a contracting muscle, able to change the position and size of the pupil as if the eye is rotating. 
 
 The inside of the eye is lined with numerous black cells which act as both photoreceptors and digestive cells, which grant it extremely precise eyesight. The eye does have an eyelid to shield it.
-## + Dexterity
-The tendrils of a Circuit Titan eventually split down to the size of thin cables, while retaining full motor control. 
-## + Device control
-Their tendrils can then interface with electronic devices, which are then directly controlled by the Circuit Titan, even allowing them to communicate, as long as they remain in contact with the device.
+## …/dexterity
 
-## + Environmental impact
+The tendrils of a Circuit Titan eventually split down to the size of thin cables, while retaining full motor control. 
+## …/electronic_manipulation
+
+Their tendrils can then interface with electronic devices, which are then directly controlled by the Circuit Titan, even allowing them to communicate, as long as they remain in contact with the device.
+## …/environmental_impact
+
 The immense size of a Circuit Titan actively alters the nearby climate, such as their cells drastically increasing the nearby static electricity, causing indefinite lighting storms, increasing the temperature of the surrounding area, which in turn affects not just the general climate, but also winds and airflow. These effects become even more prominent once awake and active.
 # .reproduction
 <div class="bestiary-divider"></div>

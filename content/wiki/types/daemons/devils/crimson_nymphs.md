@@ -29,19 +29,29 @@ Crimson Nymphs are sapient and very intelligent. They are mostly solitary and wi
 # .abilities
 <div class="bestiary-divider"></div>
 
-## + Spores
+## …/spores
+
 Crimson Nymphs can produce large quantities of spores, appearing as a red gas, expelled from the markings along their body. These spores, once inhaled, will cause nightmarish hallucinations with the sole purpose of causing extreme [[fear]] in the target. The appearance and severity of the hallucinations can be directly influenced by the Crimson Nymph through singing, although a Crimson Nymph can only control the hallucinations provoked by its own spores.
-## + [[haemocarbide|Haemocarbide]] constructs
+## …/[[haemocarbide]]
+
 Crimson Nymphs have the ability to directly create [[haemocarbide]] constructs, either out of consumed [[blood]] or out of their own [[blood]]-like sap, emerging out the marking along their bodies, which are highly vascularised. They can directly control the shape and size of these constructs, and in some cases even the momentum, with the only real limit being the available [[blood]]. 
-## + Sight
+## …/sight
+
 Crimson Nymphs can see, with their eyes being formed out of a specialised form of chlorophyll, repurposed to capture light and convert it into information to be later interpreted into a high definition image of their surroundings. 
-## + Senses
+## …/senses
+
 Their other senses, such as hearing and smell, are also extremely developed.
-## + Unique flora
+## …/unique_flora
+
 Some plant types are exclusively found in Crimson Nymph gardens, their seeds being exclusively created by the flower at the tip of their tail. 
-## + Root network
+## …/root_network
+
 Crimson Nymphs can interact with all plants in their garden through a root network, which can even be used to locate fauna within the territory or diagnose and interface with individual plants.
-## - Fire weakness
+# .weaknesses
+<div class="bestiary-divider"></div>
+
+## …/fire
+
 As they are plants, Crimson Nymphs are especially weak to fire.
 # .reproduction
 <div class="bestiary-divider"></div>
