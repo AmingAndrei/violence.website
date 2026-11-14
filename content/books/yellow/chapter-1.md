@@ -14,7 +14,7 @@ tags:
 
 <a href="/books/yellow/chapter-2" class="nav-button"> 2 <span>// </span>Save Yourself → </a>
 
-</div><br><br>
+</div><br>
 <div class="chapter-outer">
 <div class="chapter-inner" id="workskin">
 
@@ -80,7 +80,7 @@ tags:
 <p>With all of his strength, Jacques crawled toward his axe, rooted deep in the pavement. He pulled it out, lining its blade toward himself. He painfully exhaled…</p>
 <blockquote class="left"><p>“Your turn.”</p></blockquote>
 <p>…before thrusting it directly into his chest, using his own weight to drive it as deep as he could. The blood pooling in his torso rushed into the weapon’s frame. And it enjoyed that.</p>
-<p>The axe’s engine roared to life, throttling uncontrollably. Its chassis snapped and slid and melted into place, rearranging its frame into something else entirely, dragging itself through Jacques and out the other side, a mass of crooked and misshaped metal, and a single mechanical arm crawling its way out.</p></div></div><br><br><div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
+<p>The axe’s engine roared to life, throttling uncontrollably. Its chassis snapped and slid and melted into place, rearranging its frame into something else entirely, dragging itself through Jacques and out the other side, a mass of crooked and misshaped metal, and a single mechanical arm crawling its way out.</p></div></div><br><div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
 <a></a>
 

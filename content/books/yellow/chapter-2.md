@@ -13,7 +13,7 @@ tags:
 
   <a href="/books/yellow/chapter-3" class="nav-button">3 <span style="color:inherit;">// </span>Channels on TV →</a>
   
-</div><br><br>
+</div><br>
 <div class="chapter-outer">
 <div class="chapter-inner" id="workskin">
 
@@ -89,7 +89,7 @@ tags:
 <p>From the corner of his eye, Jacques saw a person approaching. A mechanical being: his skin a clean, polished white metal; his eyes large, yellow screens; his hair unremarkable, but obviously taken care of, each strand a shiny silver. He wore a coat similar to Jacques’, but they were nowhere close. This was obviously a person of high status, even if his movements didn’t portray that. He seemed unsure of how to carry himself, this awkwardness pouring from him, only drowned out by the way his mere presence lit up any room.</p>
 <p>Lorand Aorello, Captain of the Swordsman’s Division of Ultraviolet, and the Swordsman himself.</p>
 <blockquote class="right Soma"><p>“H-hey, Jacques! Velos! How are—How are you doing?”</p></blockquote>
-<p>The civilians, watching and hiding from the side-lines, gathered around him, chanting his name.</p></div></div><br><br>
+<p>The civilians, watching and hiding from the side-lines, gathered around him, chanting his name.</p></div></div><br>
 <div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
  <a href="/books/yellow/chapter-1" class="nav-button">← 1 <span style="color:inherit;">// </span>Easy Fight</a>
