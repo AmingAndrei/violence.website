@@ -16,14 +16,14 @@ tags:
     <span class="wiki-card__label">.types</span>
   </a>
 
+ <a href="/wiki/powers" class="wiki-card">
+    <img src="assets/icons/powers.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Powers"/>
+    <span class="wiki-card__label">.powers</span>
+  </a>
+
   <a href="/wiki/materials" class="wiki-card">
     <img src="assets/icons/materials.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Materials"/>
     <span class="wiki-card__label">.materials</span>
-  </a>
-
-  <a href="/wiki/powers" class="wiki-card">
-    <img src="assets/icons/powers.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Powers"/>
-    <span class="wiki-card__label">.powers</span>
   </a>
 
  <a href="/wiki/factions" class="wiki-card">

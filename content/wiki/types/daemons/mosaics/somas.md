@@ -49,20 +49,20 @@ Vexers are an extremely rare anomaly where Somas retain the [[vespers|Vesper]] a
 <div class="bestiary-divider"></div>
 
 Soma mutations are the Serpent's final step in creating a powerful enough vessel for itself. 
-# …/triggers
+## …/triggers
 
 A mutation is triggered when the Serpent manages to take full control of a Soma. The most common occurrence of this happening is when a Soma ‘partially’ dies, or dies without their Heart fully shattering, which, if the Serpent has enough influence, can force it to reform and bring the Soma back to life.
 
 In some cases, mutations can be forcefully triggered on a living Soma, such as by other mutated Somas. If a Soma is killed by Violence Against Art, they cannot mutate.
-# …/progression
+## …/progression
 
 Biologically, the Soma’s cells will begin forming organic structures inside the Shell, including functional, albeit awfully tasting [[blood]]. This process will start with the Heart’s outer structure and use the Shell as a scaffold, progressing until the Soma’s entire body turns organic, becoming a visual match to [[humans]]. Physical mutations cannot be slowed down.
 
 Mentally, the Soma’s mind will slowly be eroded and replaced or taken over by the Serpent, causing all sorts of delusions and depersonalisations, until all that is left is the Serpent. Mental mutations can be slowed down, with certain looping and grounding exercises allowing the Soma to retain some control of themselves, though they become less effective with time.
-# …/abilities
+## …/abilities
 
 As mutation progresses, Somas will grow exponentially stronger and gain access to the abilities and [[vectors|Vector]] of the Serpent, although using them only accelerates mutation.
-# …/physiology
+## …/physiology
 
 Despite being organic, they remain bound by Soma biology, such as having no taste (despite having taste buds), being unable to sleep, or being able to be killed only if their Heart is destroyed. All other damage will be painful but not fatal, and can actually cause the mutation to accelerate.
 # .production
