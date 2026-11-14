@@ -31,3 +31,5 @@ Anima is everywhere, acting as a field permeating the entire physical world. Des
 All living organisms absorb Anima as long as they remain alive. [[devils|Devils]] have the greatest Anima draw, being entirely made of it, and their bodies consequently act as an amplifier, increasing the local resonance around their vicinity. Locations with a very low or no Anima resonance are barren and devoid of life, and any being that enters such an area will die from deprivation.
 
 All beings leave imprints on the field. As a result, Anima stores the imprints of all past and present life forms, and even future or theoretical life forms which never lived, lives or will live.
+
+Violence Against Nature can use the wider Anima field to communicate with [[devils|Devils]] by screaming, sending ripples that instantly reach all [[devils|Devils]], everywhere, compelling them to do as told. While she can limit which [[devils|Devils]] hear her by type, she cannot limit it to just one individual.
