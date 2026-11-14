@@ -22,10 +22,11 @@ Viewers have a shadowy, humanoid appearance. They are completely black and featu
 <div class="bestiary-divider"></div>
 
 Viewers like to watch. They gravitate around Violence Against Art.
-# .abilities
+# .weaknesses
 <div class="bestiary-divider"></div>
 
-## - Total bystanders
+## …/spectators
+
 Viewers cannot communicate, are completely intangible and cannot interact in any way with the world. 
 
 They are normally totally invisible, however Violence Against Art can make them visible at will. Viewers created from [[revolutions|Revolutions]] will always remain visible to Violence Against Art.

@@ -18,7 +18,7 @@ Chromic Rot is a [[hybrids|hybrid]]-spread curse.
 # .origin
 <div class="bestiary-divider"></div>
 
-Chromic Rot originates from [[hybrids]] and usage of their failsafe. As it is understood, overuse of the failsafe will imprint on the wider [[anima|Anima]] resonance a variable which, when intercepted by a regular member of the [[hybrids|hybrid]]'s type, cannot be interpreted, causing it to corrupt and Chromic Rot to spontaneously manifest inside their body.
+Chromic Rot originates from [[hybrids]] and usage of their transformation. As it is understood, overuse will imprint on the wider [[anima|Anima]] resonance a variable that, when intercepted by a regular member of the [[hybrids|hybrid]]'s type, cannot be interpreted, causing it to corrupt and Chromic Rot to spontaneously manifest inside their body.
 
 The host is always random, and other [[hybrids]] and [[revolutions|Revolutions]] are immune to its effects. Its name was coined by the [[chromacy|Chromacy]], choosing to interpret it as a punishment by Lady Chroma for the continued existence of [[hybrids]].
 # .effects

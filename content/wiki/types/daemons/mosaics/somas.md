@@ -31,15 +31,18 @@ Somas are social and cooperative, from an outside perspective having very little
 # .abilities
 <div class="bestiary-divider"></div>
 
-## + Shell empowerment
+## …/shell_empowerment
 The Heart takes control of a Shell by being placed inside its chest cavity. From there, the Heart will spread a nervous filament throughout the entire chassis, taking direct control of the motoric and sensory functions of the Shell, which from this point acts as a direct extension of its body. The Shell grants Somas enhanced mobility and senses, and the ability to speak.
-## - Shell damage extension
+# .weaknesses
+<div class="bestiary-divider"></div>
+
+## …/shell_damage
 Damage to the Shell will resonate and damage the Heart, which can kill it.
-## - Shell integration
+## …/shell_integration
 While they can be upgraded and repaired, Shells cannot be reliably swapped, as the control method means the Heart becomes integrated inside one, making the transplant extremely complicated and dangerous, and causing extreme discomfort to the Soma while it is forced to adapt. 
-## - Shell senses localisation
+## …/shell_senses
 Most sensors and motoric controls are located in the head, which means Somas can enter a catatonic state if their head is injured or severed. 
-## - Heart weak-point
+## …/heart_vulnerability
 And damage to the Heart and chest area is almost always fatal.
 # .vexers
 <div class="bestiary-divider"></div>
