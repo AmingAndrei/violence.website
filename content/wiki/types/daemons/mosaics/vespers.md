@@ -17,11 +17,13 @@ Vespers (_Mosaica vespera_) are the most diverse type of Mosaic, serving as masc
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Vespers have no set anatomy. Each individual can very drastically in appearance, possessing an often abstract body plan. The one thing they all share is colouration, which is often bordering on the magenta spectrum.
+Vespers have no set anatomy. Each individual can very drastically in appearance, possessing an often abstract body plan. The one thing they all share is colouration, which is often bordering on the magenta spectrum. Usually, they will possess body plans and anatomical traits found in [[devils|Devils]].
+
+The entire type is incidental, born as a side effect of Violence Against Art's existence, which left behind and permitted the refraction and multiplication of specific light frequencies that crystallised under [[devils|Devil]] influence, creating pseudo-[[devils|Devils]] that later developed into Vespers.
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Vespers are self-aware and extremely intelligent. The entire type is incidental, born as a side effect of Violence Against Art's existence, which left behind and permitted the refraction and multiplication of specific light frequencies that crystallised when subjected to [[devils|Devil]] influence, leading to the formation of the pseudo-[[devils|Devils]] later known as Vespers. This is also where their capacity for extreme violence and auto-translating speech originate, along with some of their anatomy, as Vespers will imitate traits and even body plans found in [[devils|Devils]]. They are otherwise mostly cooperative and social.
+Vespers are self-aware and extremely intelligent. Their speech has the [[devils|Devil]] property of being automatically translated in the listener's mother language. Despite having the capacity for extreme violence, they are otherwise mostly cooperative and social.
 # .abilities
 <div class="bestiary-divider"></div>
 

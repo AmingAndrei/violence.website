@@ -6,7 +6,7 @@ tags:
 aliases:
   - Sawblood
 ---
-c<br><a href="/wiki/curses" class="nav-button">← CURSES</a>
+<br><a href="/wiki/curses" class="nav-button">← CURSES</a>
 <br><br>
 
 <div class="curses-image">

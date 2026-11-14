@@ -6,7 +6,7 @@ tags:
   - yellow
 ---
 <br><a href="/books/yellow" class="nav-button">← CHAPTERS</a>
-<br><br>
+<br>
 <div style="display:flex;justify-content:space-between;align-items:center;margin:3rem 0 1rem;">
 
   <a href="/books/yellow/chapter-1" class="nav-button">← 1 <span style="color:inherit;">// </span>Easy Fight</a>
