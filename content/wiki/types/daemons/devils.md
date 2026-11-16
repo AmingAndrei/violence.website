@@ -1,7 +1,5 @@
 ---
 title: DEVILS
-cssclasses:
-  - devil
 tags:
   - devil
   - daemons

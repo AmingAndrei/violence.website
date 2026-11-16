@@ -1,7 +1,5 @@
 ---
 title: TYNDALL HOUNDS
-cssclasses:
-  - devil
 tags:
   - devil
 aliases:

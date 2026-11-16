@@ -1,6 +1,5 @@
 ---
 title: RELOCATION CAGES
-cssclasses:
 tags:
   - technology
 aliases:

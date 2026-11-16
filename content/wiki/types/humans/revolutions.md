@@ -1,6 +1,5 @@
 ---
 title: REVOLUTIONS
-cssclasses:
 tags:
   - human
 aliases:

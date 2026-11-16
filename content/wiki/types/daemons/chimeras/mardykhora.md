@@ -1,7 +1,5 @@
 ---
 title: MARDYKHORA
-cssclasses:
-  - chimera
 tags:
   - chimera
 aliases:

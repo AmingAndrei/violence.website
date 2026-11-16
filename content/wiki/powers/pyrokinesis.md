@@ -1,6 +1,5 @@
 ---
 title: PYROKINESIS
-cssclasses:
 tags:
   - powers
 aliases:
@@ -34,4 +33,4 @@ Pyrokinetic tools are tools and devices used in conjunction with or powered by P
 # .limitations
 <div class="bestiary-divider"></div>
 
-As the main component of Pyrokinesis is [[divine_flame|Divine Flame]], all techniques are dependent on [[anima|Anima]] as fuel, with their overall strength scaling with the local [[anima|Anima]] resonance. Overuse strains the body.
+As the main component of Pyrokinesis is [[divine_flame|Divine Flame]], all techniques are dependent on [[anima|Anima]] as fuel, with their overall strength scaling with the local [[anima|Anima]] resonance, and thus the amount of fuel available. Overuse strains the body.

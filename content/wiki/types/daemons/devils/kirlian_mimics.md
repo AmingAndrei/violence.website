@@ -1,7 +1,5 @@
 ---
 title: KIRLIAN MIMICS
-cssclasses:
-  - devil
 tags:
   - devil
 aliases:

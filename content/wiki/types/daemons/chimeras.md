@@ -1,7 +1,5 @@
 ---
 title: CHIMERAS
-cssclasses:
-  - chimera
 tags:
   - chimera
   - daemons

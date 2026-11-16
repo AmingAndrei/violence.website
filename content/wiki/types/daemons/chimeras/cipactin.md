@@ -1,7 +1,5 @@
 ---
 title: CIPACTIN
-cssclasses:
-  - chimera
 tags:
   - chimera
 aliases:

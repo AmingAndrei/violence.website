@@ -3,7 +3,6 @@ title: MATERIALS
 tags:
   - wiki
   - material
-cssclasses:
 ---
 <br><a href="/wiki" class="nav-button">← WIKI</a>
 <br><br>

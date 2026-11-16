@@ -1,7 +1,5 @@
 ---
 title: PALE
-cssclasses:
-  - factions
 tags:
   - factions
 aliases:

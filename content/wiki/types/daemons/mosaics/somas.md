@@ -1,7 +1,5 @@
 ---
 title: SOMAS
-cssclasses:
-  - mosaic
 tags:
   - mosaic
 aliases:

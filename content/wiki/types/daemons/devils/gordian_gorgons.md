@@ -1,6 +1,5 @@
 ---
 title: GORDIAN GORGONS
-cssclasses:
 tags:
   - devil
 aliases:

@@ -1,6 +1,5 @@
 ---
 title: TECHNOLOGY
-cssclasses:
 tags:
   - technology
   - wiki

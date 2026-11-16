@@ -1,6 +1,5 @@
 ---
 title: BLUE ROSE
-cssclasses:
 tags:
   - curse
 aliases:

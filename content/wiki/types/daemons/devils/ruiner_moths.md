@@ -1,7 +1,5 @@
 ---
 title: RUINER MOTHS
-cssclasses:
-  - devil
 tags:
   - devil
 aliases:

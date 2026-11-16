@@ -1,6 +1,5 @@
 ---
 title: RADIO COMPUTER NETWORK
-cssclasses:
 tags:
   - technology
 aliases:

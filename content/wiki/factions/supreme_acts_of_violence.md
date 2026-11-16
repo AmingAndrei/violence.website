@@ -1,6 +1,5 @@
 ---
 title: SUPREME ACTS OF
-cssclasses:
 tags:
   - factions
 aliases:

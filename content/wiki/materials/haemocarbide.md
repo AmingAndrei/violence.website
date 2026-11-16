@@ -1,6 +1,5 @@
 ---
 title: HAEMOCARBIDE
-cssclasses:
 tags:
   - material
 aliases:

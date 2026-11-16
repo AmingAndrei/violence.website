@@ -1,7 +1,5 @@
 ---
 title: STEEL SHARKS
-cssclasses:
-  - devil
 tags:
   - devil
 aliases:

@@ -1,6 +1,5 @@
 ---
 title: VECTORS
-cssclasses:
 tags:
   - powers
 aliases:

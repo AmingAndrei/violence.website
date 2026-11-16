@@ -1,6 +1,5 @@
 ---
 title: NV DEOGEN
-cssclasses:
 tags:
   - absolute
 aliases:

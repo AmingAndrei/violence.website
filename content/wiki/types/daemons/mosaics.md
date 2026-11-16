@@ -1,6 +1,5 @@
 ---
 title: MOSAICS
-cssclasses:
 tags:
   - mosaic
   - daemons

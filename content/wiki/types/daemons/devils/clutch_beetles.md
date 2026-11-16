@@ -1,7 +1,5 @@
 ---
 title: CLUTCH BEETLES
-cssclasses:
-  - devil
 tags:
   - devil
 aliases:

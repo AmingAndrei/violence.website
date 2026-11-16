@@ -1,6 +1,5 @@
 ---
 title: HYBRIDS
-cssclasses:
 tags:
   - powers
 aliases:

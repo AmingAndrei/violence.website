@@ -1,6 +1,5 @@
 ---
 title: BLOOD
-cssclasses:
 tags:
   - material
 aliases:
@@ -24,8 +23,8 @@ Blood is a body fluid and one of the three parts of a living being, alongside bo
 # .source
 <div class="bestiary-divider"></div>
 
-Blood is found and produced in the bodies of nearly all all living beings.
+Blood is found and produced in the bodies of nearly all living beings.
 # .properties
 <div class="bestiary-divider"></div>
 
-Blood is rich in concentrated [[anima|Anima]], enough so that it can act as a direct source of physical, highly concentrated [[anima|Anima]]. The downsides is that the [[anima|Anima]] will dissipate within seconds after the blood leaves the body, with no way to replenish it after.
+Blood is rich in concentrated [[anima|Anima]], enough so that it can act as a direct source of physical, highly concentrated [[anima|Anima]]. The downside is that the [[anima|Anima]] will dissipate within seconds of the blood leaving the body.

@@ -3,7 +3,6 @@ title: POWERS
 tags:
   - wiki
   - powers
-cssclasses:
 ---
 <br><a href="/wiki" class="nav-button">← WIKI</a>
 <br><br>

@@ -1,6 +1,5 @@
 ---
 title: JUMPSTARTERS
-cssclasses:
 tags:
   - technology
 aliases:

@@ -1,6 +1,5 @@
 ---
 title: FEAR
-cssclasses:
 tags:
   - material
 aliases:

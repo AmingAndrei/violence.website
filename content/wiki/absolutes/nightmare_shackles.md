@@ -1,6 +1,5 @@
 ---
 title: NIGHTMARE SHACKLES
-cssclasses:
 tags:
   - absolute
 aliases:

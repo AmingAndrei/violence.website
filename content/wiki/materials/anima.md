@@ -1,6 +1,5 @@
 ---
 title: ANIMA
-cssclasses:
 tags:
   - material
 aliases:

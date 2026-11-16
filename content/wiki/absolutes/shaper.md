@@ -1,6 +1,5 @@
 ---
 title: SHAPER
-cssclasses:
 tags:
   - absolute
 aliases:

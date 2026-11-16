@@ -1,7 +1,5 @@
 ---
 title: NIKI'S CLEAN-UP CREW
-cssclasses:
-  - factions
 tags:
   - factions
 aliases:

@@ -1,7 +1,5 @@
 ---
 title: FAE
-cssclasses:
-  - chimera
 tags:
   - chimera
 aliases:

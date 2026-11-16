@@ -1,6 +1,5 @@
 ---
 title: SAWBLOOD
-cssclasses:
 tags:
   - curse
 aliases:

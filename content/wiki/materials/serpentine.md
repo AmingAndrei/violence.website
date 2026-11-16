@@ -1,6 +1,5 @@
 ---
 title: SERPENTINE
-cssclasses:
 tags:
   - material
 aliases:
@@ -28,6 +27,6 @@ Serpentine is entirely produced to artificial synthesis.
 # .properties
 <div class="bestiary-divider"></div>
 
-Serpentine is primarily used in the production of long range weaponry and firearms. It leaves behind no residue and no strong odor, although beings with a keener sense of smell can still track it. Moisture can temporarily wet the compound and prevent it from firing until it dries.
+Serpentine is primarily used in the production of long range weaponry and firearms. It leaves behind no residue and no strong odour, although beings with a keener sense of smell can still track it. Moisture can temporarily wet the compound and prevent it from firing until it dries.
 
 While other types of long range weapons exists, serpentine weapons are still popular due to being extremely reliable and easy to use.

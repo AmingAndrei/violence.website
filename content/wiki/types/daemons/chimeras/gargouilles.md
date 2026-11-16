@@ -1,7 +1,5 @@
 ---
 title: GARGOUILLES
-cssclasses:
-  - chimera
 tags:
   - chimera
 aliases:

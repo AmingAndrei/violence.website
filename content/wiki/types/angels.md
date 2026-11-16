@@ -1,6 +1,5 @@
 ---
 title: ANGELS
-cssclasses:
 tags:
   - type
   - angel

@@ -1,6 +1,5 @@
 ---
 title: FAEL CORES
-cssclasses:
 tags:
   - technology
 aliases:

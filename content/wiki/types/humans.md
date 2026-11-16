@@ -1,6 +1,5 @@
 ---
 title: HUMANS
-cssclasses:
 tags:
   - type
   - human

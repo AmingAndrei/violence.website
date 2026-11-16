@@ -1,7 +1,5 @@
 ---
 title: BALAURI
-cssclasses:
-  - chimera
 tags:
   - chimera
 aliases:

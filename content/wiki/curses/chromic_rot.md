@@ -1,6 +1,5 @@
 ---
 title: CHROMIC ROT
-cssclasses:
 tags:
   - curse
 aliases:

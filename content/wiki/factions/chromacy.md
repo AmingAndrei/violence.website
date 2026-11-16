@@ -1,7 +1,5 @@
 ---
 title: CHROMACY
-cssclasses:
-  - factions
 tags:
   - factions
 aliases:

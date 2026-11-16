@@ -1,6 +1,5 @@
 ---
 title: HELLFIRE
-cssclasses:
 tags:
   - material
 aliases:

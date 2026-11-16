@@ -1,7 +1,5 @@
 ---
 title: VESPERS
-cssclasses:
-  - mosaic
 tags:
   - mosaic
 aliases:

@@ -1,6 +1,5 @@
 ---
 title: SEQUENCE CELLS
-cssclasses:
 tags:
   - devil
 aliases:

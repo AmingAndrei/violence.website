@@ -1,6 +1,5 @@
 ---
 title: BLACK KNIGHT SATELLITE
-cssclasses:
 tags:
   - technology
 aliases:

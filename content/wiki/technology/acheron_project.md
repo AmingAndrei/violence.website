@@ -1,6 +1,5 @@
 ---
 title: ACHERON PROJECT
-cssclasses:
 tags:
   - technology
 aliases:
@@ -16,11 +15,11 @@ aliases:
 </div>
 
 The Acheron project was a clandestine research project responsible for officially discovering the FLIPSIDE.
-# .design
+# .history
 <div class="bestiary-divider"></div>
 
 The Acheron project was founded in 33 AAV by a coalition of governments. In 32 AAV, Mihaela Rebreanu became the director of the entire project, up until its dissolution in 0 AAV/AV.
-# .specs
+# .goals
 <div class="bestiary-divider"></div>
 
 The goal of the Acheron project started as the research of anomalous phenomena and signals in key locations across the globe. After Mihaela's enrollment, the project soon established a passage through to the FLIPSIDE, and managed to make contact with Violence Against Art, who provided valuable help to the group.

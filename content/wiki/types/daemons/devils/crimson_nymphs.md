@@ -1,7 +1,5 @@
 ---
 title: CRIMSON NYMPHS
-cssclasses:
-  - devil
 tags:
   - devil
 aliases:

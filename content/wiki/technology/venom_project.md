@@ -1,6 +1,5 @@
 ---
 title: VENOM PROJECT
-cssclasses:
 tags:
   - technology
 aliases:

@@ -3,7 +3,6 @@ title: CURSES
 tags:
   - wiki
   - curse
-cssclasses:
 ---
 <br><a href="/wiki/" class="nav-button">← WIKI</a><br><br>
 <div class="curses-grid">

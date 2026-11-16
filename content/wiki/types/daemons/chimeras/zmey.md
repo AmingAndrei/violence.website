@@ -1,7 +1,5 @@
 ---
 title: ZMEY
-cssclasses:
-  - chimera
 tags:
   - chimera
 aliases:
@@ -16,7 +14,7 @@ Zmey (_Zmey vulgaris_) are a type of serpentine Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Zmey have a reptilian body plan, reaching ~30 m in length, most of which is comprised by their neck and tail. They are hexapods, their legs possessing insect-like joint articulation, followed by regular reptilian feet, along with a pair of wings. Their heads have an elongated snout and multiple pairs of horns forming a crown. Their skeletal system consists of both an endoskeleton and a metallic exoskeleton composed of overlapping metal scales. The colour of their [[divine_flame|Divine Flame]] is yellow.
+Zmey have a reptilian body plan, reaching ~30 m in length, most of which is composed of their neck and tail. They are hexapods, their legs possessing insect-like joint articulation, followed by regular reptilian feet, along with a pair of wings. Their heads have an elongated snout and multiple pairs of horns forming a crown. Their skeletal system consists of both an endoskeleton and a metallic exoskeleton composed of overlapping metal scales. The colour of their [[divine_flame|Divine Flame]] is yellow.
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -29,7 +27,7 @@ Zmey are solitary creatures. They are easily frightened, preferring to run inste
 Zmey breathe [[divine_flame|Divine Flame]] out as a pressurised vapour.
 ## …/exoskeleton_trap
 
-The exoskeleton of a Zmey isn't flush with their body. Instead, it has gaps between it and the skin, which they use in conjunction with [[pyrokinesis|Pyrokinesis]]  to create a [[divine_flame|Divine Flame]] build-up below the metal scales. 
+The exoskeleton of a Zmey isn't flush with their body. Instead, it has gaps between it and the skin, which they use in conjunction with [[pyrokinesis|Pyrokinesis]] to create a [[divine_flame|Divine Flame]] build-up below the metal scales. 
 
 This not only heats them up, causing severe burns to the touch, but also means that, should the scales be even slightly breached, the attacker will be instantly incinerated by the erupting flames.
 ## …/limb_segmentation
@@ -38,7 +36,7 @@ Their tails, legs and wings are segmented, linked together through vascularised 
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Zmey reproduce sexually. The scales of female Zmey become golden from the hormone spikes caused by the approaching mating season. Male Zmey court females by embellishing their nests with as many eye-catching objects it can scavenge, even resorting to stealing from other males. The female lays 4 eggs/clutch, which are taken care of by both parents, in shifts. The average Zmey life span is ~60 years.
+Zmey reproduce sexually. The scales of female Zmey become golden from the hormone spikes caused by the approaching mating season. Male Zmey court females by embellishing their nests with as many eye-catching objects they can scavenge, even resorting to stealing from other males. The female lays 4 eggs/clutch, which are taken care of by both parents, in shifts. The average Zmey life span is ~60 years.
 # .diet
 <div class="bestiary-divider"></div>
 

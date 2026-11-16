@@ -1,6 +1,5 @@
 ---
 title: FIVE INCH NAILS
-cssclasses:
 tags:
   - absolute
 aliases:

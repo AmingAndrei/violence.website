@@ -3,8 +3,6 @@ title: FACTIONS
 tags:
   - wiki
   - factions
-cssclasses:
-  - factions
 ---
 <br><a href="/wiki/" class="nav-button">← WIKI</a>
 <br><br>

@@ -1,6 +1,5 @@
 ---
 title: RING A RING O' ROSES
-cssclasses:
 tags:
   - absolute
 aliases:

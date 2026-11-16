@@ -1,6 +1,5 @@
 ---
 title: ABSOLUTES
-cssclasses:
 tags:
   - absolute
   - wiki
@@ -60,7 +59,7 @@ Absolutes do have one counter, that being [[hellfire|Hellfire]], which can not o
     <div class="absolutes-card__label">.twin_mirrors</div>
   </a>
 
- <a class="absolutes-card" href="#">
+ <a class="absolutes-card" href="/wiki/absolutes/five_inch_nails">
     <div class="absolutes-card__frame" style="background-image:url('/assets/placeholder.gif');">
       <span class="absolutes-card__corner absolutes-card__corner--tl"></span>
       <span class="absolutes-card__corner absolutes-card__corner--br"></span>

@@ -1,7 +1,5 @@
 ---
 title: CIRCUIT TITANS
-cssclasses:
-  - devil
 tags:
   - devil
 aliases:

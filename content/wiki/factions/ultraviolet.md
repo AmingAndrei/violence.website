@@ -1,7 +1,5 @@
 ---
 title: ULTRAVIOLET
-cssclasses:
-  - factions
 tags:
   - factions
 aliases:

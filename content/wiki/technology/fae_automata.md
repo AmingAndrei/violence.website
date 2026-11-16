@@ -1,6 +1,5 @@
 ---
 title: FAE AUTOMATA
-cssclasses:
 tags:
   - technology
 aliases:

@@ -1,7 +1,5 @@
 ---
 title: STONE WYRMS
-cssclasses:
-  - devil
 tags:
   - devil
 aliases:

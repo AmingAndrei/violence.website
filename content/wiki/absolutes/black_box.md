@@ -1,6 +1,5 @@
 ---
 title: BLACK BOX
-cssclasses:
 tags:
   - absolute
 aliases:

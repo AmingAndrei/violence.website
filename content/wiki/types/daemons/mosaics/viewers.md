@@ -1,7 +1,5 @@
 ---
 title: VIEWERS
-cssclasses:
-  - mosaic
 tags:
   - mosaic
 aliases:

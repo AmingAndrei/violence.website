@@ -1,6 +1,5 @@
 ---
 title: DIVINE FLAME
-cssclasses:
 tags:
   - material
 aliases:
