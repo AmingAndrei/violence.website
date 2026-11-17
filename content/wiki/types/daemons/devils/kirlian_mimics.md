@@ -15,7 +15,7 @@ Kirlian Mimics (_Diavolos simulacrum_) are a type of copycat Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Kirlian Mimics are colonial organisms, composed of multiple segments. Each superorganism is humanoid, reaching ~1.8 m in height. They resemble featureless, wooden mannequins. Their only facial feature are their eyes, resembling large, black cavities extending into their skull. Their hands are proportionally oversized for their body, and each has five articulated fingers, extending into sharp, metal claws.
+Kirlian Mimics are colonial organisms, composed of multiple segments. Each superorganism is humanoid, reaching ~1.8 m in height. They resemble featureless, wooden mannequins. Their only facial feature is their eyes, resembling large, black cavities extending into their skull. Their hands are proportionally oversized for their body, and each has five articulated fingers, extending into sharp, metal claws.
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -39,7 +39,7 @@ Kirlian Mimics can only copy beings within a radius of 20 m around them; if the 
 Kirlian Mimics lack all senses. They navigate their surroundings by interpreting the [[anima|Anima]] around them and inside other beings.
 ## …/fire
 
-Since the only non-flammable part of their body are their claws, Kirlian Mimics will attempt to avoid all types of fire.
+Since their bodies are made of wood, Kirlian Mimics will attempt to avoid all types of fire.
 # .reproduction
 <div class="bestiary-divider"></div>
 

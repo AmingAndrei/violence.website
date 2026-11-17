@@ -22,4 +22,4 @@ The Shaper resembles a dagger-sword, reaching ~50 cm in length. It's double-edge
 # .abilities
 <div class="bestiary-divider"></div>
 
-The Shaper, retaining some of the properties in acquired when it was a regular weapon and was used by ████ to carve Violence Against Nature out of his own spirit, is capable of directly interacting with the spirit inside a being, the [[anima|Anima]] inside one's body. The Absolute needs to be physically stabbing into the being to do so. Beyond that, it's a wild card.
+The Shaper, retaining some of the properties it acquired when it was a regular weapon and was used by ████ to carve Violence Against Nature out of his own spirit, is capable of directly interacting with the spirit inside a being, the [[anima|Anima]] inside one's body. The Absolute needs to be physically stabbed into the being to do so. Beyond that, it's a wild card.

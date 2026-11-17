@@ -31,7 +31,7 @@ Gargouilles will spend most of their lifetime solitary, guarding fixed territori
 
 ## …/[[pyrokinesis]]
 
-Gargouilles have a specialised sack in their throat used to store water, which they use during [[pyrokinesis|Pyrokinesis]] to transform into hyper-pressurised jets, composed of both [[divine_flame|Divine Flame]] and boiling water, capable of reaching ~80,000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock.
+Gargouilles have a specialised sac in their throat used to store water, which they use during [[pyrokinesis|Pyrokinesis]] to transform into hyper-pressurised jets, composed of both [[divine_flame|Divine Flame]] and boiling water, capable of reaching ~80,000 PSI. They use this jet both as a ranged attack and to excavate large chunks of rock.
 
 Grotesques can use [[pyrokinesis|Pyrokinesis]] to expel a sticky, burning mucus from their mouths.
 
@@ -45,7 +45,7 @@ By using the stored water, Gargouilles can reach great flying speeds by using st
 
 ## …/water_absorbtion
 
-Gargouille tail feature a specialised set of gills extending its entire length, which, when submerged in water, will pump it directly into their throat sack, along with their hide, which has microscopic grooves which channel all water directly into their sack through capillary action.
+Gargouille tails feature a specialised set of gills extending its entire length, which, when submerged in water, will pump it directly into their throat sac, along with their hide, which has microscopic grooves which channel all water directly into their sac through capillary action.
 
 ## …/grotesque_strength
 
@@ -53,13 +53,13 @@ Grotesques are much stronger physically than Gargouilles, using their limbs to d
 # .weaknesses
 <div class="bestiary-divider"></div>
 
-## …/grotesque_throat_sack
+## …/grotesque_throat_sac
 
-Grotesques lack the throat sack and all adaptations relating to it. They are incapable of sustained flight, using their wings to glide short distances.
+Grotesques lack the throat sac and all adaptations relating to it. They are incapable of sustained flight, using their wings to glide short distances.
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Gargouilles reproduce sexually. They don't have fixed mating seasons, instead relying on the weather, preferring rain. Gargouilles display lekking behaviour, with Grotesques selecting based on overall size and fitness. Gargouilles will then help with expansion of the cave and with bringing food to their Grotesque mates, leaving after the young hatch. Grotesques lay 1-2 eggs/clutch. As side effect of the brumation, the average Gargouille life span is ~300 years.
+Gargouilles reproduce sexually. They don't have fixed mating seasons, instead relying on the weather, preferring rain. Gargouilles display lekking behaviour, with Grotesques selecting based on overall size and fitness. Gargouilles will then help with expansion of the cave and with bringing food to their Grotesque mates, leaving after the young hatch. Grotesques lay 1-2 eggs/clutch. As a side effect of the brumation, the average Gargouille life span is ~300 years.
 # .diet
 <div class="bestiary-divider"></div>
 

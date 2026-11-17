@@ -21,6 +21,11 @@ tags:
     <span class="wiki-card__label">.powers</span>
   </a>
 
+ <a href="/wiki/map" class="wiki-card">
+    <img src="assets/icons/map.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Map"/>
+    <span class="wiki-card__label">.map</span>
+  </a>
+
   <a href="/wiki/materials" class="wiki-card">
     <img src="assets/icons/materials.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Materials"/>
     <span class="wiki-card__label">.materials</span>

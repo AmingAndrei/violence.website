@@ -23,7 +23,7 @@ Haemocarbide is a red, crystalline metal.
 # .source
 <div class="bestiary-divider"></div>
 
-Haemocarbide is created from [[blood]]. Certain organism can use their own or others' [[blood]] to create haemocarbide constructs.
+Haemocarbide is created from [[blood]]. Some beings can use their own or others' [[blood]] to create haemocarbide constructs.
 # .properties
 <div class="bestiary-divider"></div>
 

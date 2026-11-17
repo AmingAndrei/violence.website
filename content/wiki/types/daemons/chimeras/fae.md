@@ -18,13 +18,13 @@ Fae have a humanoid body plan, reaching ~2 m in height. They have bluish-grey sk
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Fae are sapient, and highly social, forming large, highly industrialised cities and settlements, along the rims of craters, sinkholes, volcanoes caldera, and general circular depressions in the ground, with a highly complex and confusing legislature, anticipating every possible edge-case scenario. The lingua franca of Fae is Faevael. Their natural predators are [[mardykhora|Mardykhora]].
+Fae are sapient, and highly social, forming large, highly industrialised cities and settlements, along the rims of craters, sinkholes, volcanic calderas, and general circular depressions in the ground, with a highly complex and confusing legislation, anticipating every possible edge-case scenario. The lingua franca of Fae is Faevael. Their natural predators are [[mardykhora|Mardykhora]].
 # .abilities
 <div class="bestiary-divider"></div>
 
 ## …/[[pyrokinesis]]
 
-Fae have a greatest [[pyrokinesis|Pyrokinesis]] mastery of all Chimeras. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
+Fae have the greatest mastery of [[pyrokinesis|Pyrokinesis]] of all Chimeras. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
 # .weaknesses
 <div class="bestiary-divider"></div>
 

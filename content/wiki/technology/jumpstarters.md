@@ -19,7 +19,7 @@ Jumpstarters are a type of [[serpentine]] firearm designed for [[hybrids|hybrid]
 # .design
 <div class="bestiary-divider"></div>
 
-Jumpstarters are one-handed weapons. They possess a very thin barrel, and lack a full-length reciprocating slide. The grip is positioned at a 55° angle, with panels composed out of wood. They are top loaders, and can hold only one bullet in the chamber. 
+Jumpstarters are one-handed weapons. They possess a very thin barrel, and lack a full-length reciprocating slide. The grip is positioned at a 55° angle, with panels made of wood. They are top loaders, and can hold only one bullet in the chamber. 
 # .specs
 <div class="bestiary-divider"></div>
 

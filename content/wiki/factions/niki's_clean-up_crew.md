@@ -26,7 +26,7 @@ The Crew operates as a bastard sister of [[ultraviolet|Ultraviolet]], dealing wi
 # .structure
 <div class="bestiary-divider"></div>
 
-The Crew doesn't really have an hierarchy, although they officially run by Nikita Aorello. All¹ of its members are [[vespers|Vespers]], personally recruited by Nikita. Members have free discretion of how to approach missions, most of which are self-assigned based on word-of-mouth, the Serpent's own signal, and other contextual clues.
+The Crew doesn't really have a hierarchy, although they are officially ran by Nikita Aorello. All¹ of its members are [[vespers|Vespers]], personally recruited by Nikita. Members have free discretion of how to approach missions, most of which are self-assigned based on word-of-mouth, the Serpent's own signal, and other contextual clues.
 
 ¹The one exception is Lorand Aorello, who is a [[somas|Soma]] and considered a half-member due to also working for [[ultraviolet|Ultraviolet]].
 # .conduct
