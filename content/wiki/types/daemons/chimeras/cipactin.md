@@ -21,13 +21,13 @@ Along the full length of their bodies and on their limbs are numerous frills, sp
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Cipactin are highly social, forming large herds composed of multiple family bands, each family consisting ~20 individuals, of which 1 matriarch and her breeding/guard male, 2-4 subordinate males, with the rest being females and their offspring. They are used as beasts of burden by the [[Fae]], for their strength and adaptability to different terrain.
+Cipactin are highly social, forming large herds composed of multiple family bands, each family consisting of ~20 individuals, of which 1 matriarch and her breeding/guard male, 2-4 subordinate males, with the rest being females and their offspring. They are used as beasts of burden by the [[Fae]], for their strength and adaptability to different terrain.
 # .abilities
 <div class="bestiary-divider"></div>
 
 ## …/[[pyrokinesis]]
 
-Cipactin use [[pyrokinesis|Pyrokinesis]] primarily as a method of transport, as they release [[divine_flame|Divine Flame]] at high pressures from the vents along their bodies, granting it rapid propulsion through water, reaching a maximum speed of 70 km/h.  They can also release [[divine_flame|Divine Flame]] in a large area around them from their frills.
+Cipactin use [[pyrokinesis|Pyrokinesis]] primarily as a method of transport, as they release [[divine_flame|Divine Flame]] at high pressures from the vents along their bodies, granting them rapid propulsion through water, reaching a maximum speed of 70 km/h. They can also release [[divine_flame|Divine Flame]] in a large area around them from their frills.
 
 ## …/underwater_breathing
 
@@ -35,9 +35,9 @@ Cipactin frills are highly vascularised and permit respiration through diffusion
 
 ## …/mobility
 
-In water, the shape of a Cipactli's head, along with their rudder-like tail, help with water navigation. 
+In water, the shape of a Cipactli's head, along with their rudder-like tail, helps with water navigation. 
 
-On land, Cipactin are surprisingly mobile. Their limbs are thick and muscular, allowing them to support 3× their weight, the tail acting as a counter-balance, and casually gallop at ~60 km/h. Their forepaws are also highly dexterous, which aids in climbing and traversing rough terrain.
+On land, Cipactin are surprisingly mobile. Their limbs are thick and muscular, allowing them to support 3× their weight and casually gallop at ~60 km/h, with their tail acting as a counter-balance. Their paws are also highly dexterous, which aids in climbing and traversing rough terrain.
 # .reproduction
 <div class="bestiary-divider"></div>
 

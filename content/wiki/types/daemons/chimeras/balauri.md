@@ -15,9 +15,9 @@ Balauri (Sg. _Balaur_, _Balaur regia_) are a type of draconic Chimera.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Balauri have a reptilian body plan, with males reaching ~60 m in length, while females average ~80 m. They are quadrupeds, along with a pair of wings. Their bodies covered in dark-blue scales, dense fur lining their necks, wings and ears. Their tail is bifurcated into two prehensile tips, used for grasping objects or anchoring themselves.
+Balauri have a reptilian body plan, with males reaching ~60 m in length, while females average ~80 m. They are quadrupeds, along with a pair of wings. Their bodies are covered in dark-blue scales, dense fur lining their necks, wings and ears. Their tail is bifurcated into two prehensile tips, used for grasping objects or anchoring themselves.
 
-All Balauri possess 3 individual heads, mostly independent and supported by its own long neck. Their heads are reptilian with bat influences, have eyes with red sclera and black irises, and have a forked tongue. The colour of their [[divine_flame|Divine Flame]] is purple.
+All Balauri possess 3 individual heads, mostly independent and supported by their own long neck. Their heads are reptilian with bat influences, have eyes with red sclera and black irises, and have a forked tongue. The colour of their [[divine_flame|Divine Flame]] is purple.
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -27,18 +27,16 @@ Balauri are solitary creatures. And despite their size, they are extremely curio
 
 ## …/[[pyrokinesis]]
 
-Balauri have the greatest brute force [[pyrokinesis|Pyrokinesis]] output of all Chimeras, capable of releasing [[divine_flame|Divine Flame]] from their mouth with ~26 MJ of force. They cycle between firing heads to maintain constant output.
+Balauri have the greatest brute force [[pyrokinesis|Pyrokinesis]] output of all Chimeras, capable of releasing [[divine_flame|Divine Flame]] from their mouth with ~26 MN of force. They cycle between firing heads to maintain constant output.
 ## …/multiple_heads
 
 Each head is semi-autonomous, with independent thought and behaviour, linked together through a central spinal hub, coordinating motor functions and intent. 
-
 ## …/olfactory_senses
 
-Each head is equipped with two olfactory systems, a pair standard nasal receptors and a vomeronasal organ, granting them an extremely keen sense of smell.
-
+Each head is equipped with two olfactory systems, a pair of standard nasal receptors and a vomeronasal organ, granting them an extremely keen sense of smell.
 ## …/strength
-Balauri can fly at 120 km/h and can gallop at 60 km/h, and their wings alone are capable of outputting ~1.1 GJ of force.
 
+Balauri can fly at 120 km/h and can gallop at 60 km/h, and their wings alone are capable of outputting ~1.1 GN of force.
 ## …/regeneration
 
 Balauri have the strongest regeneration of all Chimeras, capable of regenerating parts of their spine, entire limbs, and even heads if one should be severed. The speed of the regeneration is entirely dependent on the amount of food the Balaur can acquire.

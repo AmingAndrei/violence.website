@@ -69,10 +69,10 @@ tags:
 <p>Jacques had to run as fast as he could. The Wyrm was breathing down his neck, barely missing him each time. But he found it strange how fast it was rising, one attack after the other, barely spending any time underground. The arc of the breaching was too sharp; why would it move like that?</p>
 <p>The Wyrm went past Jacques, attempting to predict his movement. It broke the underground ductwork, streams jetting out right in front of him. But he remembered this trick, able to evade past the erupting pipes. And there was another inconsistency, as it seemed to circle between him and Velos, trying to do the same to both of them. It was a smart idea, yes: attempt to drown out his engine, weaken him. But there was still a gap forming between them, and this distraction only widened it. It was fast, too fast.</p>
 <p>The radio sparkled again, their handler once more.</p>
-<blockquote class="right"><p>“Jacques, Lorand’s en route to your location. Hold out just a little longer.”</p></blockquote>
+<blockquote class="right"><p><i>“Jacques, Lorand’s en route to your location. Hold out just a little longer.”</i></p></blockquote>
 <blockquote class="left"><p>“Alright—”</p></blockquote>
 <blockquote class="right Steelshark"><p>“NO NEED! Jacques and I got this, don’t we~?”</p></blockquote>
-<blockquote class="right"><p>“Velos—”</p></blockquote>
+<blockquote class="right"><p><i>“Velos—”</i></p></blockquote>
 <blockquote class="right Steelshark"><p>“I SAID WE GOT THIS!”</p></blockquote>
 <p>Velos gritted his teeth as he cut both of them off. He needed to kill the Stone Wyrm right this instant. The blood he drained from Jacques’ body was already running out. He had one definitive shot.</p>
 <p>And the opportunity emerged as the Wyrm, tired of its chase, rose out of the ground, charging directly at Jacques. The man stood there, glaring at the approaching creature. A mere moment before it reached him, Velos jumped in front, engine roaring and revving uncontrollably, sparks flying out of his chassis, plates vibrating at once. He grabbed the tip of the Wyrm’s head.</p>

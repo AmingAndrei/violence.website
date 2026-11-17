@@ -15,11 +15,11 @@ Clutch Beetles (_Diavolos ultraforma_) are a type of insectoid Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Clutch Beetles are extremely [[anima|Anima]]-sensitive, and can vary drastically between appearance, with each individual being virtually unique in appearance and abilities. to the point they might not even be considered the same type. Some of the only shared characteristics are their their size, reaching an average length of ~6 cm, the presence of an elytra, and the lack of eyes.
+Clutch Beetles are extremely [[anima|Anima]]-sensitive, and can vary drastically, with each individual being virtually unique in appearance and abilities, to the point they might not even be considered the same type. Some of the only shared characteristics are their size, reaching an average length of ~6 cm, the presence of elytra, and the lack of eyes.
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Clutch Beetles are parasitic organisms. While they can survive as independent organisms independently, they will attempt to parasitise a possible host when given the chance, with all non-[[daemons|Daemon]], non-[[angels|Angel]] and non-[[revolutions|Revolution]] vertebrates being viable candidates. They will, however, prefer beings that are injured or dying. Their general behaviour, such as aggressiveness and sociality, also vary drastically between individuals.
+Clutch Beetles are parasitic organisms. While they can survive as independent organisms, they will attempt to parasitise a possible host whenever given the chance, with all non-[[daemons|Daemon]], non-[[angels|Angel]] and non-[[revolutions|Revolution]] vertebrates being viable candidates. They will, however, prefer beings that are injured or dying. Their general behaviour, such as aggressiveness and sociality, varies drastically between individuals.
 
 The process begins with the Clutch Beetle attaching itself to the nape of the organism. It will then painlessly make its way inside, attaching itself to the host's brainstem, before merging to the host's peripheral nervous system, replacing the nerves throughout its body with the Clutch Beetle's. Clutch Beetles are forever fused to their hosts, and the resulting organisms are [[hybrids]]. The process takes less than a second and releases large quantities of heat and light.
 # .abilities
@@ -30,7 +30,7 @@ The process begins with the Clutch Beetle attaching itself to the nape of the or
 The abilities of individual Clutch Beetles vary. Virtually no two Clutch Beetles have the exact same ability. 
 ## …/neural_structure
 
-Their neural structure is extraordinarily complex, being made of dense microscopic fibres, capable sending signals up to ten times as fast as a regular neuron.
+Their neural structure is extraordinarily complex, being made of dense microscopic fibres, capable of sending signals up to ten times as fast as a [[humans|human]] neuron.
 # .reproduction
 <div class="bestiary-divider"></div>
 

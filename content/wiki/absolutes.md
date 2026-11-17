@@ -9,7 +9,7 @@ aliases:
 ---
 <br><a href="/wiki" class="nav-button">← WIKI</a><br><br>Absolutes are objects of power, items which have anomalous traits and abilities.
 
-In essence, Absolutes have absolute dominion over a concept they physically embody. They can be created, although most are autogenic, when [[anima|Anima]], infused with violence or malice reach criticality and surge into an object or concept.
+In essence, Absolutes have absolute dominion over a concept they physically embody. They can be created, although most are autogenic, when [[anima|Anima]], infused with violence or malice, reaches criticality and surges into an object or concept.
 
 While all Absolutes are considered unique, some Absolutes may be made up of multiple, identical or counterpart individuals. All of them are also virtually indestructible.
 
