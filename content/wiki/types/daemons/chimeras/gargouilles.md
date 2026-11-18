@@ -17,7 +17,7 @@ Gargouilles (Fem. _Grotesques_, _Gargouillus pluvius_) are a type of sentinel Ch
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Gargouilles have a somewhat mammalian body plan, reaching ~14 m in length. They are quadrupeds, along with a pair of large wings. Their bodies are covered in a thick, mineralised hide, resembling stone to the touch. Their heads are bat-like in appearance, having short snouts with pronounced nasal cavities, and a pair of large, ear-like horns. Their wings are significantly larger than the rest of their limbs, so much so that they're used as primary front limbs when walking. Their tails are also significantly longer than their body, with a large fin going its entire length.
+Gargouilles have a somewhat mammalian body plan with reptilian elements, reaching ~14 m in length. They are quadrupeds, along with a pair of large wings. Their bodies are covered in a thick, mineralised hide, resembling stone to the touch. Their heads are bat-like in appearance, having short snouts with pronounced nasal cavities, and a pair of large, ear-like horns. Their wings are significantly larger than the rest of their limbs, so much so that they're used as primary front limbs when walking. Their tails are also significantly longer than their body, with a large fin going its entire length.
 
 Grotesques are smaller, having a stockier build, reaching ~7 m. Their features are generally less pronounced, with their wings and tail more proportionate to their body. The colour of both genders' [[divine_flame|Divine Flame]] is blue.
 # .behaviour

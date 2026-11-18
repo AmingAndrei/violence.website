@@ -36,7 +36,7 @@ Their neural structure is extraordinarily complex, being made of dense microscop
 
 Clutch Beetles reproduce asexually. They lay thousands of eggs at a time, out of which only a handful of larvae hatch. All larvae are identical at birth, and will eat all the eggs that have yet to hatch. Differentiation begins during pupation, during which the larvae are at their most sensitive to environmental [[anima|Anima]]. An overwhelming majority of larvae do not reach adulthood due to developmental failures. Adult Clutch Beetles are extremely rare.
 
-[[hybrids|Hybrids]] will always give birth to other [[hybrids]], if:
+[[hybrids|Hybrids]] will give birth to other [[hybrids]], if:
 
 | Parent 1            | Parent 2            | Child               |
 | ------------------- | ------------------- | ------------------- |
@@ -45,7 +45,9 @@ Clutch Beetles reproduce asexually. They lay thousands of eggs at a time, out of
 | [[fae\|Fae]]        | [[humans\|Human]]   | Half-breed          |
 | [[fae\|Fae]]        | [[hybrids\|Hybrid]] | Half-breed          |
 | Half-breed          | [[humans\|Human]]   | [[humans\|Human]]   |
-| [[hybrids\|Hybrid]] | Half-breed          | [[hybrids\|Hybrid]] |
+| [[hybrids\|Hybrid]] | Half-breed          | [[humans\|Human]]   |
+| Half-breed          | Half-breed          | [[humans\|Human]]   |
+| [[fae\|Fae]]        | Half-breed          | Half-breed          |
 
 
 The abilities of the parent cannot be used to predict the abilities of the child.

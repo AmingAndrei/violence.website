@@ -54,11 +54,3 @@ tags:
 </div>
 
 <div class="compendium-divider" aria-hidden="true"></div>
-<div class="wiki-grid">
-
-  <a href="#" class="wiki-card">
-    <img src="assets/icons/flora.svg" width="80" height="80" class="wiki-card__icon--invert" alt="Flora"/>
-    <span class="wiki-card__label">.flora</span>
-  </a>
-
-</div>

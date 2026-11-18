@@ -24,11 +24,23 @@ Humans are, compared to [[angels|Angels]] and most [[daemons|Daemons]], very wea
 After the Wild Hunt, almost all humans live in City Zero.
 
 Humans come in different sub-types:
-- [[hybrids|Hybrids]], created when a human fuses to a [[clutch_beetles|Clutch Beetle]]. All¹ offspring born after becoming a [[hybrids|hybrid]] will also be [[hybrids]].
-- Half-breeds, if one of the parents is a [[fae|Fae]]. Half-breed offspring will be regular humans, unless the other parent is once again a [[fae|Fae]].
+- [[hybrids|Hybrids]], created when a human fuses to a [[clutch_beetles|Clutch Beetle]].
+- Half-breeds, if one of the parents is a [[fae|Fae]].
 - [[viewers|Viewers]], created when a human is personally killed by Violence Against Art.
 
-¹The offspring will be born as a half-breed/regular human if one of the parents is a [[Fae]]/half-breed.<br><br>
+The full reproduction table is:
+
+| Parent 1            | Parent 2            | Child               |
+| ------------------- | ------------------- | ------------------- |
+| [[hybrids\|Hybrid]] | [[humans\|Human]]   | [[hybrids\|Hybrid]] |
+| [[hybrids\|Hybrid]] | [[hybrids\|Hybrid]] | [[hybrids\|Hybrid]] |
+| [[fae\|Fae]]        | [[humans\|Human]]   | Half-breed          |
+| [[fae\|Fae]]        | [[hybrids\|Hybrid]] | Half-breed          |
+| Half-breed          | [[humans\|Human]]   | [[humans\|Human]]   |
+| [[hybrids\|Hybrid]] | Half-breed          | [[humans\|Human]]   |
+| Half-breed          | Half-breed          | [[humans\|Human]]   |
+| [[fae\|Fae]]        | Half-breed          | Half-breed          |
+<br><br>
   <a href="/wiki/types/humans/revolutions" class="main-nav-card">
     <img src="assets/icons/revolutions.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Revolutions"/>
     <span class="main-nav-card__label">.revolutions</span>

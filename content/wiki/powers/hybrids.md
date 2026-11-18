@@ -26,7 +26,7 @@ They also gain the [[devils|Devil]] ability to sense and be empowered by fear, a
 
 [[gordian_gorgons|Gordian Gorgons]] attempting to infect the hybrid will suffer from excruciating pain caused by a forced backlash from the [[clutch_beetles|Clutch Beetle]]'s nerves, and any eggs that may have entered the hybrid's body will die on the spot. Hybrids remain vulnerable to the [[toxin]], and they become almost entirely immune to the FLIPSIDE's negation effect, with the only side effect being a head-splitting headache while inside the dimension.
 
-Hybrids can be born as hybrids, depending on their parentage, if:
+Hybrids will give birth to other hybrids, if:
 
 | Parent 1            | Parent 2            | Child               |
 | ------------------- | ------------------- | ------------------- |
@@ -35,13 +35,15 @@ Hybrids can be born as hybrids, depending on their parentage, if:
 | [[fae\|Fae]]        | [[humans\|Human]]   | Half-breed          |
 | [[fae\|Fae]]        | [[hybrids\|Hybrid]] | Half-breed          |
 | Half-breed          | [[humans\|Human]]   | [[humans\|Human]]   |
-| [[hybrids\|Hybrid]] | Half-breed          | [[hybrids\|Hybrid]] |
+| [[hybrids\|Hybrid]] | Half-breed          | [[humans\|Human]]   |
+| Half-breed          | Half-breed          | [[humans\|Human]]   |
+| [[fae\|Fae]]        | Half-breed          | Half-breed          |
 # .abilities
 <div class="bestiary-divider"></div>
 
 ## …/transformation
 
-Whenever a hybrid suffers lethal, instantaneous trauma, it will trigger an emergency failsafe in the [[clutch_beetles|Clutch Beetle]], which will at all costs attempt to keep its host alive. [[jumpstarters|Jumpstarters]] can be used to force the failsafe to trigger without posing any risk to the hybrid. During this state, the hybrid will undergo a transformation, reflective of the [[clutch_beetles|Clutch Beetle]]'s own abilities and the host's genetic and psychological profile.
+Whenever a hybrid suffers lethal, instantaneous trauma, it will trigger an emergency failsafe in the [[clutch_beetles|Clutch Beetle]], which will at all costs attempt to keep its host alive. [[jumpstarters|Jumpstarters]] can be used to safely force the failsafe to trigger. During this state, the hybrid will undergo a transformation, reflective of the [[clutch_beetles|Clutch Beetle]]'s own abilities and the host's genetic and psychological profile.
 
 Generally, these transformations will fall into three categories:
 

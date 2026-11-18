@@ -17,7 +17,7 @@ Pyrokinesis is composed of various techniques unique to [[chimeras|Chimeras]].
 # .overview
 <div class="bestiary-divider"></div>
 
-Pyrokinesis is entirely dependent on the presence of a [[divine_flame|Divine Flame]] soul, limiting its usage to only [[chimeras|Chimeras]] and [[fae|Fae]] half-breeds. All [[chimeras|Chimeras]] are born with some form of Pyrokinesis knowledge ingrained into them.
+Pyrokinesis is entirely dependent on the presence of a [[divine_flame|Divine Flame]] soul, limiting its usage to only [[chimeras|Chimeras]]. All [[chimeras|Chimeras]] are born with some form of Pyrokinesis knowledge ingrained into them.
 # .mechanics
 <div class="bestiary-divider"></div>
 

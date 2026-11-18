@@ -37,7 +37,7 @@ Cipactin frills are highly vascularised and permit respiration through diffusion
 
 In water, the shape of a Cipactli's head, along with their rudder-like tail, helps with water navigation. 
 
-On land, Cipactin are surprisingly mobile. Their limbs are thick and muscular, allowing them to support 3× their weight and casually gallop at ~60 km/h, with their tail acting as a counter-balance. Their paws are also highly dexterous, which aids in climbing and traversing rough terrain.
+On land, Cipactin are surprisingly mobile. Their limbs are thick and muscular, allowing them to support 3× their weight and casually run at ~60 km/h, with their tail acting as a counter-balance. Their paws are also highly dexterous, which aids in climbing and traversing rough terrain.
 # .reproduction
 <div class="bestiary-divider"></div>
 

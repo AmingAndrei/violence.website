@@ -23,6 +23,6 @@ Sawblood is transmitted through contact with infected [[blood]]. A single drop o
 
 Sawblood manifests as the host's [[blood]] spontaneously crystallising into rapidly spinning [[haemocarbide]] saws inside their body. These saws will rend the host's body from inside out, in some cases even pierce the skin and sever limbs.
 
-The saws will sporadically form and dissolve back into [[blood]] until the host dies, after which the [[blood]] will return to normal, although it will remain infectious. Completely removing and replacing the [[blood]] inside the host will instead make both batches infectious. 
+The saws will sporadically form and dissolve back into [[blood]] until the host dies, after which the [[blood]] will return to normal, although it will remain infectious. Completely removing and replacing the [[blood]] inside the host will instead make both batches infectious. Death is guaranteed.
 
-Different strains of Sawblood are used as an ingredient in [[jumpstarters|Jumpstarter]] charges, diluted enough that the [[hybrids|hybrid]] regeneration is capable of overpowering and destroying them before spreading. Death is otherwise guaranteed. 
+Different strains of Sawblood are used as an ingredient in [[jumpstarters|Jumpstarter]] charges, diluted enough that the [[hybrids|hybrid]] regeneration instantly overpowers and destroys them before doing any damage.

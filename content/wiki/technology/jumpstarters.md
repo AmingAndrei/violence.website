@@ -23,7 +23,7 @@ Jumpstarters are one-handed weapons. They possess a very thin barrel, and lack a
 # .specs
 <div class="bestiary-divider"></div>
 
-Jumpstarters are designed to fire specialised bullets called charges. Each charge is composed of a thin metallic frame and glass, holding within a highly diluted form of [[Sawblood]]. When fired into the body of a [[hybrids|hybrid]], each charge is supposed to interact differently with their transformation. Usage of a Jumpstarter is excruciatingly painful, although this feeling only lasts for 0.6 seconds.
+Jumpstarters are designed to fire specialised bullets called charges. Each charge is composed of a thin metallic frame and glass, holding within a highly diluted form of [[Sawblood]]. When fired into the body of a [[hybrids|hybrid]], each charge is supposed to interact differently with their transformation. Usage of a Jumpstarter is excruciatingly painful, although the feeling only lasts for 0.6 seconds and poses no other threat.
 
 The charges are colour-coded to determine their usage:
 - Activator (Blue): fully triggers the [[hybrids|hybrid]]'s transformation;

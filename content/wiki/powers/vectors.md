@@ -58,7 +58,7 @@ A deployed boundary isn't static, with bigger dynamic sizes requiring more skill
 Two [[vespers|Vespers]] can work together, with one deploying a boundary and the other the Sandbox itself.
 ## …/counters
 
-The only ways to counter a Sandbox are to physically destroy the boundary, from the inside or outside, forcefully halting the Sandbox; by deploying your own Sandbox, the two overlapping boundaries causing both to shatter; or to deploy your own Sandbox, but use the already deployed boundary as your own, attempting to overpower the other's Sandbox.
+Ways of countering a Sandbox are to physically destroy the boundary, from the inside or outside, forcefully halting the Sandbox; to deploy your own Sandbox, with the two overlapping boundaries causing both to shatter; or to deploy your own Sandbox, but use the already deployed boundary as your own, attempting to overpower the other's Sandbox.
 
 A less used counter is deploying your own Sandbox, but applying its ruleset exclusively to your own body, essentially bypassing the surrounding Sandbox's imposed environment.
 ## …/boundless_sandbox

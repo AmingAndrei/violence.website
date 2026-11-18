@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="BLACKSALAMANDER" /> </div>
 
-Blacksalamanders (_Chimaeria primigenius_) are a type of Chimera.
+Blacksalamanders (_Chimaeria primigenius_) are the ancestor type of all Chimeras.
 # .anatomy
 <div class="bestiary-divider"></div>
 

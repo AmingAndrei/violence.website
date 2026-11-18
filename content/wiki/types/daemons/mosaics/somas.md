@@ -21,7 +21,7 @@ Somas are composed of two distinct components, a Heart and a Shell.
 
 The Heart of a Soma is the true organism, resembling a yellow slug-larva-thing. They are completely helpless, can barely move on their own, cannot speak, and have very weak senses.
 
-The Shell is a humanoid construct piloted by the Heart, implemented as a last-ditch solution to counteract the Heart's defects. It is 1.9 m in height, has skin made out of a white, flexible, metallic alloy, silver hair, and yellow screen eyes, displaying an animated iris. Its face is capable of displaying the full extent of [[humans|human]] emotion. Shells were designed by the Serpent to act as a scaffold for mutations and to bear resemblance to both [[humans]] and [[angels|Angels]].
+The Shell is a humanoid construct piloted by the Heart, implemented as a last-ditch solution to counteract the Heart's defects. It is 1.9 m in height, has skin made out of a white, flexible, metallic alloy, silver hair, and yellow screen eyes, displaying an animated iris. Its face is capable of displaying the full extent of [[humans|human]] emotion. The Shells were designed by the Serpent to act as a scaffold for mutations and to bear resemblance to both [[humans]] and [[angels|Angels]].
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -49,7 +49,7 @@ Vexers are an extremely rare anomaly where Somas retain the [[vespers|Vesper]] a
 # .mutations
 <div class="bestiary-divider"></div>
 
-Soma mutations are the Serpent's final step in creating a powerful enough vessel for itself. 
+Soma mutations are a method by which the Serpent can bypass the Heart's flaws, allowing it to reach its goal of creating a powerful enough vessel for itself.
 ## …/triggers
 
 A mutation is triggered when the Serpent manages to take full control of a Soma. The most common occurrence of this happening is when a Soma 'partially' dies, or dies without their Heart fully shattering, which, if the Serpent has enough influence, can force it to reform and bring the Soma back to life.
@@ -69,6 +69,6 @@ Despite being organic, they remain bound by Soma biology, such as having no tast
 # .production
 <div class="bestiary-divider"></div>
 
-Somas are created by the Serpent as bodies to house itself in. They are corrupted [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. 
+Somas are flawed creation of the Serpent, made to serve as bodies for the Serpent to house itself in. They are corrupted [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. 
 
-Somas are created when a [[vespers|Vesper]] womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, inadvertently forcing the womb into a state of permanent neoteny, eventually creating a Soma Heart.
+Somas are created when a [[vespers|Vesper]] womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, which inadvertently forces the womb into a state of permanent neoteny and creating a Soma Heart.
