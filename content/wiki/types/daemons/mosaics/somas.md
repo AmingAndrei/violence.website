@@ -17,7 +17,7 @@ Somas (_Mosaica soma_) are a type of humanoid* Mosaics.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Somas are composed out of two distinct components, a Heart and a Shell.
+Somas are composed of two distinct components, a Heart and a Shell.
 
 The Heart of a Soma is the true organism, resembling a yellow slug-larva-thing. They are completely helpless, can barely move on their own, cannot speak, and have very weak senses.
 
@@ -52,14 +52,14 @@ Vexers are an extremely rare anomaly where Somas retain the [[vespers|Vesper]] a
 Soma mutations are the Serpent's final step in creating a powerful enough vessel for itself. 
 ## …/triggers
 
-A mutation is triggered when the Serpent manages to take full control of a Soma. The most common occurrence of this happening is when a Soma ‘partially’ dies, or dies without their Heart fully shattering, which, if the Serpent has enough influence, can force it to reform and bring the Soma back to life.
+A mutation is triggered when the Serpent manages to take full control of a Soma. The most common occurrence of this happening is when a Soma 'partially' dies, or dies without their Heart fully shattering, which, if the Serpent has enough influence, can force it to reform and bring the Soma back to life.
 
 In some cases, mutations can be forcefully triggered on a living Soma, such as by other mutated Somas. If a Soma is killed by Violence Against Art, they cannot mutate.
 ## …/progression
 
-Biologically, the Soma’s cells will begin forming organic structures inside the Shell, including functional, albeit awfully tasting [[blood]]. This process will start with the Heart’s outer structure and use the Shell as a scaffold, progressing until the Soma’s entire body turns organic, becoming a visual match to [[humans]]. Physical mutations cannot be slowed down.
+Biologically, the Soma's cells will begin forming organic structures inside the Shell, including functional, albeit awfully tasting [[blood]]. This process will start with the Heart's outer structure and use the Shell as a scaffold, progressing until the Soma's entire body turns organic, becoming a visual match to [[humans]]. Physical mutations cannot be slowed down.
 
-Mentally, the Soma’s mind will slowly be eroded and replaced or taken over by the Serpent, causing all sorts of delusions and depersonalisations, until all that is left is the Serpent. Mental mutations can be slowed down, with certain looping and grounding exercises allowing the Soma to retain some control of themselves, though they become less effective with time.
+Mentally, the Soma's mind will slowly be eroded and replaced or taken over by the Serpent, causing all sorts of delusions and depersonalisations, until all that is left is the Serpent. Mental mutations can be slowed down, with certain looping and grounding exercises allowing the Soma to retain some control of themselves, though they become less effective with time.
 ## …/abilities
 
 As mutation progresses, Somas will grow exponentially stronger and gain access to the abilities and [[vectors|Vector]] of the Serpent, although using them only accelerates mutation.

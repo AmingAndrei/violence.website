@@ -32,7 +32,7 @@ Below the Executive are the Mayor and the Bureau heads. These roles are elected 
 
 The Mayor acts as the spokesperson for the Pale and as middle ground between the Bureau heads. Every decision, no matter how insignificant, is first parsed through the Executive, who at any point can overturn it or impose their own, without any interference from the wider government, and appoint or demote anyone from any position.
 
-The [[ultraviolet|Ultraviolet]] captains are, informally, just below the Executive in terms of authoritative power, although they aren't actually members of the Pale.
+The [[ultraviolet|Ultraviolet]] Captains are, informally, just below the Executive in terms of authoritative power, although they aren't actually members of the Pale.
 # .conduct
 <div class="bestiary-divider"></div>
 

@@ -32,7 +32,7 @@ The Crew doesn't really have a hierarchy, although they are officially ran by Ni
 # .conduct
 <div class="bestiary-divider"></div>
 
-The Crew operates entirely in the dark. The only people aware of their existence, outside of members, are the [[ultraviolet|Ultraviolet]] captain Lorand Aorello and the [[pale|Pale]] Executive Mihaela Rebreanu, although they act completely outside [[pale|Pale]] jurisdiction. Because of this and their unorthodox approaches, the Crew can get into conflicts with [[ultraviolet|Ultraviolet]] Operators.
+The Crew operates entirely in the dark. The only people aware of their existence, outside of members, are the [[ultraviolet|Ultraviolet]] Captain Lorand Aorello and the [[pale|Pale]] Executive Mihaela Rebreanu, although they act completely outside [[pale|Pale]] jurisdiction. Because of this and their unorthodox approaches, the Crew can get into conflicts with [[ultraviolet|Ultraviolet]] Operators.
 # .assets
 <div class="bestiary-divider"></div>
 

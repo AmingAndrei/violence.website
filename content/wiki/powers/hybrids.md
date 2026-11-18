@@ -20,11 +20,11 @@ Hybrids are half-[[devils|Devil]] organisms.
 
 Hybrids are the result of a [[clutch_beetles|Clutch Beetle]] fusing with a vertebrate host, replacing their peripheral nervous system with the [[clutch_beetles|Clutch Beetle]]'s own.
 
-Hybrids have increased reflexes and senses compared to their type’s baseline, or even restored if missing, as a result of using the [[clutch_beetles|Clutch Beetle]]’s neural infrastructure as their own. The only sense that remains untouched is sight, as a result of it being part of the central nervous system.
+Hybrids have increased reflexes and senses compared to their type's baseline, or even restored if missing, as a result of using the [[clutch_beetles|Clutch Beetle]]'s neural infrastructure as their own. The only sense that remains untouched is sight, as a result of it being part of the central nervous system.
 
 They also gain the [[devils|Devil]] ability to sense and be empowered by fear, and their abilities scale with the local [[anima|Anima]] resonance.
 
-[[gordian_gorgons|Gordian Gorgons]] attempting to infect the hybrid will suffer from excruciating pain caused by a forced backlash from the [[clutch_beetles|Clutch Beetle]]’s nerves, and any eggs that may have entered the hybrid’s body will die on the spot. Hybrids remain vulnerable to the [[toxin]], and they become almost entirely immune to the FLIPSIDE’s negation effect, with the only side effect being a head-splitting headache while inside the dimension.
+[[gordian_gorgons|Gordian Gorgons]] attempting to infect the hybrid will suffer from excruciating pain caused by a forced backlash from the [[clutch_beetles|Clutch Beetle]]'s nerves, and any eggs that may have entered the hybrid's body will die on the spot. Hybrids remain vulnerable to the [[toxin]], and they become almost entirely immune to the FLIPSIDE's negation effect, with the only side effect being a head-splitting headache while inside the dimension.
 
 Hybrids can be born as hybrids, depending on their parentage, if:
 
@@ -41,7 +41,7 @@ Hybrids can be born as hybrids, depending on their parentage, if:
 
 ## …/transformation
 
-Whenever a hybrid suffers lethal, instantaneous trauma, it will trigger an emergency failsafe in the [[clutch_beetles|Clutch Beetle]], which will at all costs attempt to keep its host alive. [[jumpstarters|Jumpstarters]] can be used to force the failsafe to trigger without posing any risk to the hybrid. During this state, the hybrid will undergo a transformation, reflective of the [[clutch_beetles|Clutch Beetle]]’s own abilities and the host’s genetic and psychological profile.
+Whenever a hybrid suffers lethal, instantaneous trauma, it will trigger an emergency failsafe in the [[clutch_beetles|Clutch Beetle]], which will at all costs attempt to keep its host alive. [[jumpstarters|Jumpstarters]] can be used to force the failsafe to trigger without posing any risk to the hybrid. During this state, the hybrid will undergo a transformation, reflective of the [[clutch_beetles|Clutch Beetle]]'s own abilities and the host's genetic and psychological profile.
 
 Generally, these transformations will fall into three categories:
 
@@ -61,7 +61,7 @@ The [[blood]] of the hybrid will turn silver and become extremely toxic for othe
 
 ## …/fuel
 
-All the abilities of a hybrid are powered by their own [[blood]], which the [[clutch_beetles|Clutch Beetle]] uses as fuel. This means that the failsafe state will forcefully halt or not even trigger if the hybrid doesn’t have enough [[blood]] in their body.
+All the abilities of a hybrid are powered by their own [[blood]], which the [[clutch_beetles|Clutch Beetle]] uses as fuel. This means that the failsafe state will forcefully halt or not even trigger if the hybrid doesn't have enough [[blood]] in their body.
 
 This can be somewhat circumvented by consuming the [[blood]] of others, which will be used instead, and can allow the hybrid to remain transformed indefinitely.
 ## …/others

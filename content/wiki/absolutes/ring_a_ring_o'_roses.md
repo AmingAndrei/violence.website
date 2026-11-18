@@ -18,7 +18,7 @@ The Ring a Ring o' Roses is an Absolute, embodying the concept of command.
 # .design
 <div class="bestiary-divider"></div>
 
-The Ring a Ring o' Roses resembles a small ring, composed entirely out of twisted thorns. The branches are silver and cable-like, and the thorns are cyan, crystalline structures that pierce deep into the wearer's flesh.
+The Ring a Ring o' Roses resembles a small ring, composed of twisted thorns. The branches are silver and cable-like, and the thorns are cyan, crystalline structures that pierce deep into the wearer's flesh.
 # .abilities
 <div class="bestiary-divider"></div>
 

@@ -19,7 +19,7 @@ Stone Wyrms have a serpentine body plan, reaching ~30 m in length, possessing a 
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Stone Wyrms are usually solitary creatures. They spend most of their time in the ground, using vibrations to sense fauna above them, ambushing them and dragging them below ground. They do require air to breathe, making them susceptible to flooding, which will force them to resurface, although they can syphon air through the roots of nearby plants to bypass this. They are extremely intelligent, capable of forming complex hunting strategies.
+Stone Wyrms are usually solitary creatures. They spend most of their time in the ground, using vibrations to sense fauna above them, ambushing them and dragging them below ground. They do require air to breathe, making them susceptible to flooding, which will force them to resurface, although they can siphon air through the roots of nearby plants to bypass this. They are extremely intelligent, capable of forming complex hunting strategies.
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -39,4 +39,4 @@ Stone Wyrms reproduce asexually. They lay irregularly shaped eggs resembling loc
 # .diet
 <div class="bestiary-divider"></div>
 
-Stone Wyrms can consume any organic matter. The inside of their bodies is lined with digestive cells which will absorb any nutrients that enter. Their most common way of eating is by passively moving through the ground, absorbing all of the organic compounds in the soil, or the nutrients of nearby plants, syphoning their nutrients through their root system, drying and killing the plant on the spot. They can also force food into their eyeholes, which will be broken down by the friction of moving through the ground, but that is less common.
+Stone Wyrms can consume any organic matter. The inside of their bodies is lined with digestive cells which will absorb any nutrients that enter. Their most common way of eating is by passively moving through the ground, absorbing all of the organic compounds in the soil, or the nutrients of nearby plants, siphoning their nutrients through their root system, drying and killing the plant on the spot. They can also force food into their eyeholes, which will be broken down by the friction of moving through the ground, but that is less common.

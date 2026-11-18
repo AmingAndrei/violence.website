@@ -27,4 +27,4 @@ The toxin first appeared during the Wild Hunt, and is found throughout the entir
 # .properties
 <div class="bestiary-divider"></div>
 
-The toxin is pink, iridescent, nonflammable, odourless, and extremely dangerous to all forms of life. Once inhaled, it will cause choking, coughing fits, and death in less than a minute. Survival is possible if treated fast enough, although it will leave behind extreme internal damage and scarring, including neuronal damage. [[daemons|Daemons]], [[angels|Angels]] and [[revolutions|Revolutions]] are completely immune to it. There is no easy or reliable way to destroy or neutralise it.
+The toxin is pink, iridescent, non-flammable, odourless, and extremely dangerous to all forms of life. Once inhaled, it will cause choking, coughing fits, and death in less than a minute. Survival is possible if treated fast enough, although it will leave behind extreme internal damage and scarring, including neuronal damage. [[daemons|Daemons]], [[angels|Angels]] and [[revolutions|Revolutions]] are completely immune to it. There is no easy or reliable way to destroy or neutralise it.

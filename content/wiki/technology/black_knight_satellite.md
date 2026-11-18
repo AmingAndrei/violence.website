@@ -18,7 +18,7 @@ The Black Knight Satellite is an artificial satellite of [[mosaics|Mosaic]] orig
 # .design
 <div class="bestiary-divider"></div>
 
-The Black Knight Satellite is cylindrical in shape and 8 m in length, composed of a black, matte material. It has little to no angled surfaces, instead possessing rounded edges. Its standout component is its lens, composed out a highly intricate framework of quartz filigrees. The lens' colour is a combination of splashes of cyan, magenta, and yellow.
+The Black Knight Satellite is cylindrical in shape and 8 m in length, composed of a black, matte material. It has little to no angled surfaces, instead possessing rounded edges. Its standout component is its lens, composed of highly intricate framework of quartz filigrees. The lens' colour is a combination of splashes of cyan, magenta, and yellow.
 # .specs
 <div class="bestiary-divider"></div>
 

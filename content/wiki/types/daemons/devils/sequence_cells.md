@@ -15,7 +15,7 @@ Sequence Cells (_Diavolos strepitator_) are a type of obstreperous Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-The body of a Sequence Cell is composed entirely out of sound waves. They have no set size, although their average adult size is ~1.2 m in diameter. While they themselves are invisible, their outline can be seen through the anchor objects around them.
+The body of a Sequence Cell is composed entirely of sound waves. They have no set size, although their average adult size is ~1.2 m in diameter. While they themselves are invisible, their outline can be seen through the anchor objects around them.
 # .behaviour
 <div class="bestiary-divider"></div>
 
