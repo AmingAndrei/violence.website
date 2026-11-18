@@ -15,7 +15,7 @@ Stone Wyrms (_Diavolos saxumvermis_) are a type of stone Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Stone Wyrms have a serpentine body plan, reaching ~30 m in length, possessing a pair of wings, with a wing span of ~12 m. Their heads are mostly featureless, with the exception of several pairs of horns and two eyeholes. The inside of a Stone Wyrm is completely hollow, their entire bodies being an empty rock cylinder. Their entire bodies are made out stone, with variable chemical composition based on location.
+Stone Wyrms have a serpentine body plan, reaching ~30 m in length, possessing a pair of wings, with a wing span of ~12 m. Their heads are mostly featureless, with the exception of several pairs of horns and two eyeholes. The inside of a Stone Wyrm is completely hollow, their entire bodies being an empty rock cylinder. Their entire bodies are made of stone, with variable chemical composition based on location.
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -28,7 +28,7 @@ Stone Wyrms are usually solitary creatures. They spend most of their time in the
 Stone Wyrms have the ability to phase through solid ground and rock. They achieve this by binding to silicates in surrounding material to their own cells, expelling them to create thrust. This allows them to swim through the ground without producing any sort of visual disturbance. 
 ## …/flight
 
-Flight is achieved through a similar method, by using their eyeholes to create a strong vacuum right directly in front of them and expelling all the air inside their body through surrounding cell walls, they can propel themselves forward. Their wings are too small and rigid to actually be useful for flight.
+Flight is achieved create a strong vacuum in front of them, using the suction force to propel themselves forward. All the vacuumed air is expelled through their cell walls as a secondary form of propulsion. Their wings are too small and rigid to actually be useful for flight.
 ## …/camouflage
 
 Stone Wyrms have the ability to camouflage themselves by sensing the chemical composition of surrounding silicate structures. This, in turn, allows their own cells to copy the appearance of the surrounding rock. They can also collapse their own bodies to flatten themselves, further blending in with the surrounding stone.

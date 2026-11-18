@@ -21,11 +21,11 @@ Somas are composed of two distinct components, a Heart and a Shell.
 
 The Heart of a Soma is the true organism, resembling a yellow slug-larva-thing. They are completely helpless, can barely move on their own, cannot speak, and have very weak senses.
 
-The Shell is a humanoid construct piloted by the Heart, implemented as a last-ditch solution to counteract the Heart's defects. They are 1.9 m in height, have skin made out of a white, flexible, metallic alloy, have silver hair, and have animated screen eyes, displaying an animated yellow iris. Their faces are capable of displaying the full extent of [[humans|human]] emotion. They were designed by the Serpent to act as a scaffold for mutations and to bear resemblance to both [[humans]] and [[angels|Angels]].
+The Shell is a humanoid construct piloted by the Heart, implemented as a last-ditch solution to counteract the Heart's defects. It is 1.9 m in height, has skin made out of a white, flexible, metallic alloy, silver hair, and yellow screen eyes, displaying an animated iris. Its face is capable of displaying the full extent of [[humans|human]] emotion. Shells were designed by the Serpent to act as a scaffold for mutations and to bear resemblance to both [[humans]] and [[angels|Angels]].
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Somas are social and cooperative, from an outside perspective having very little differences to [[humans]].
+Somas are social and cooperative, from an outside perspective having very few differences from [[humans]].
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -40,8 +40,8 @@ Damage to the Shell will resonate and damage the Heart, which can kill it.
 While they can be upgraded and repaired, Shells cannot be reliably swapped, as the control method means the Heart becomes integrated inside one, making the transplant extremely complicated and dangerous, and causing extreme discomfort to the Soma while it is forced to adapt. 
 ## …/shell_senses
 Most sensors and motoric controls are located in the head, which means Somas can enter a catatonic state if their head is injured or severed. 
-## …/heart_vulnerability
-And damage to the Heart and chest area is almost always fatal.
+## …/heart_fragility
+Damage to the Heart and chest area is almost always fatal.
 # .vexers
 <div class="bestiary-divider"></div>
 
@@ -57,7 +57,7 @@ A mutation is triggered when the Serpent manages to take full control of a Soma.
 In some cases, mutations can be forcefully triggered on a living Soma, such as by other mutated Somas. If a Soma is killed by Violence Against Art, they cannot mutate.
 ## …/progression
 
-Biologically, the Soma's cells will begin forming organic structures inside the Shell, including functional, albeit awfully tasting [[blood]]. This process will start with the Heart's outer structure and use the Shell as a scaffold, progressing until the Soma's entire body turns organic, becoming a visual match to [[humans]]. Physical mutations cannot be slowed down.
+Biologically, the Soma's cells will begin forming organic structures inside the Shell, including functional, albeit awful-tasting [[blood]]. This process will start with the Heart's outer structure and use the Shell as a scaffold, progressing until the Soma's entire body turns organic, becoming a visual match to [[humans]]. Physical mutations cannot be slowed down.
 
 Mentally, the Soma's mind will slowly be eroded and replaced or taken over by the Serpent, causing all sorts of delusions and depersonalisations, until all that is left is the Serpent. Mental mutations can be slowed down, with certain looping and grounding exercises allowing the Soma to retain some control of themselves, though they become less effective with time.
 ## …/abilities

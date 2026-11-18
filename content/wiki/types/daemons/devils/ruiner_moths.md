@@ -15,22 +15,22 @@ Ruiner Moths (_Diavolos dragotinea_) are a type of draconic Devil.
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Ruiner Moths have a lepidopteran appearance, reaching ~12 m in length. They have a carbon-fibre exoskeleton to support their weight, covered in soot-like setae that constantly shed. Their legs are bulky, with flexible claws on their tarsus. Their wings are very flexible and have a tattered cloth appearance, allowing the reach ~200 km/h in flight. Their mouth has a jaw-like outer structure, with both a mandible and a maxilla, their fangs being serrated extension of their exoskeleton, while also having an insect mandibular structure inner structure. Their main sensory organs are a pair or retractable, forward facing horn-like antennae, located where the eyes would normally be.
+Ruiner Moths have a lepidopteran appearance, reaching ~12 m in length. They have a carbon-fibre exoskeleton to support their weight, covered in soot-like setae that constantly shed. Their legs are bulky, with flexible claws on their tarsus. Their wings are very flexible and have a tattered cloth appearance, allowing them to reach ~200 km/h in flight. Their mouth has a jaw-like outer structure, with both a mandible and a maxilla, their fangs being serrated extensions of their exoskeleton, while also having an inner mandibular structure. Their main sensory organs are a pair of retractable, forward-facing, horn-like antennae, located where the eyes would normally be.
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Ruiner Moths are naturally extremely aggressive, as will attack anything that is within perception range. This isn't territorial behaviour, as they will periodically relocate themselves if they find themselves in a safe area. They will go out of their way just to attack things, stopping whatever they were doing and reordering their priorities just to jump other creatures. They're solitary, will attack each other, and are capable of vocalisations such as roaring.
+Ruiner Moths are naturally extremely aggressive, and will attack anything that is within perception range. This isn't territorial behaviour, as they will periodically relocate themselves if they find themselves in a safe area. They will go out of their way just to attack things, stopping whatever they were doing and reordering their priorities just to jump other creatures. They're solitary, will attack each other, and are capable of vocalisations such as roaring.
 # .abilities
 <div class="bestiary-divider"></div>
 
 ## …/explosions
 
-Ruiner Moths leave behind clouds of setae as they move. They can increase the amount of setae produces, leaving increasingly larger and denser clouds, which can be launched towards their target. 
+Ruiner Moths leave behind clouds of setae as they move. They can increase the amount of setae produced, leaving increasingly larger and denser clouds, which can be launched towards their target. 
 
 These setae are extremely unstable, and the Ruiner Moth can voluntarily choose to trigger them, turning the clouds into different types of explosions, from purely kinetic, to thermo-kinetic and even cryo-kinetic. The Ruiner Moth can control what type of setae it produces and when to trigger them. The denser the cloud, the bigger the explosion. 
 ## …/toxic_setae
 
-Inhaling the setae is toxic, and will lead to internal bleeding and asphyxiation, and can still react to the external setae.
+Inhaling the setae is toxic, will lead to internal bleeding and asphyxiation, and the setae will retain all of their explosive properties.
 ## …/horns
 
 The horns of a Ruiner Moth are its main sensory organ. They can retract into the head when necessary, and allow them to smell and hear their surroundings, with a pair of muscles allowing spherical movement of the antennae. These antennae have a horn-like structure and durability, which allows them to ram and gore others with them. 

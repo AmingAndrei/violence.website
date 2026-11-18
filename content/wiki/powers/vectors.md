@@ -67,20 +67,20 @@ A Boundless Sandbox is a Sandbox with no boundary, with the runtime environment 
 
 The only way to properly counter a Boundless Sandbox is to deploy your own Sandbox: since they do not have a boundary, a Boundless Sandbox is not really limited by size, which means that deploying your own Sandbox on top assigns and enforces it a size, that of your own Sandbox, which causes a size error and results in extreme backlash, crashing both.
 
-The window for this counter is extremely narrow, as the Boundless Sandbox must be bound before it properly activates, but not before it begins deployment, as to avoid your own Sandbox boundary from being used against you, as Boundless Sandboxes can in fact use a boundary, despite not needing one.
+The window for this counter is extremely narrow, as the Boundless Sandbox must be bound before it properly activates, but not before it begins deployment, so as to avoid your own Sandbox boundary from being used against you, as Boundless Sandboxes can in fact use a boundary, despite not needing one.
 # .limitations
 <div class="bestiary-divider"></div>
 
 ## …/[[anima]]
 
-Vectors use a form of processed [[anima|Anima]] as fuel, siphoned from their environment and stored within the [[vespers|Vesper]]'s cells, without which the Vectors simply stop functioning. Their cells have an capacity, determining how much [[anima|Anima]] can be stored at a time, and a bandwidth, which determines how fast [[anima|Anima]] can be absorbed from their surroundings.
+Vectors use a form of processed [[anima|Anima]] as fuel, siphoned from their environment and stored within the [[vespers|Vesper]]'s cells, without which the Vectors simply stop functioning. Their cells have a capacity, determining how much [[anima|Anima]] can be stored at a time, and a bandwidth, which determines how fast [[anima|Anima]] can be absorbed from their surroundings.
 
-Each Vector has its own [[anima|Anima]] cost, which draws upon from the internal capacity to function, with some being more efficient cost-wise than others. Overuse will quickly burn through [[anima|Anima]] reserves, with the bandwidth limiting how fast they can replenish.
+Each Vector has its own [[anima|Anima]] cost, which draws on the internal capacity to function, with some being more efficient cost-wise than others. Overuse will quickly burn through [[anima|Anima]] reserves, with the bandwidth limiting how fast they can replenish.
 
 The siphon's efficiency is influenced by the local [[anima|Anima]] resonance and by the [[vespers|Vesper]]'s own malice, directly increasing with their malice towards the target.
 ## …/sandbox_limitations
 
-Sandboxes are extremely hard to deploy, only used by a handful of skilled [[vespers|Vespers]], and most of which using a pre-existing boundary instead of creating their own. You need not only skill, focus, and understanding of your Root Vector, but also enough [[anima|Anima]] reserves, although practice and understanding of the background code can allow for more efficient [[anima|Anima]] usage.
+Sandboxes are extremely hard to deploy, only used by a handful of skilled [[vespers|Vespers]], and most of whom use a pre-existing boundary instead of creating their own. You need not only skill, focus, and understanding of your Root Vector, but also enough [[anima|Anima]] reserves, although practice and understanding of the background code can allow for more efficient [[anima|Anima]] usage.
 
 [[kirlian_mimics|Kirlian Mimics]] can copy Sandboxes, but only if one was deployed within its radius and cannot deploy their own boundaries.
 

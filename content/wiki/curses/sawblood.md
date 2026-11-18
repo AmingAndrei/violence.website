@@ -13,7 +13,7 @@ aliases:
   <img src="/assets/placeholder.gif" alt="Sawblood"/>
 </div>
 
-Sawblood is bloodborne curse.
+Sawblood is a bloodborne curse.
 # .origin
 <div class="bestiary-divider"></div>
 

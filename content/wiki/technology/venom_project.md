@@ -14,7 +14,7 @@ aliases:
   <span class="absolutes-image__corner absolutes-image__corner--br"></span>
 </div>
 
-The VENOM project is a secret project ran by the [[pale|Pale]].
+The VENOM project is a secret project run by the [[pale|Pale]].
 # .design
 <div class="bestiary-divider"></div>
 

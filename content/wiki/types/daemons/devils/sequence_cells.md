@@ -19,7 +19,7 @@ The body of a Sequence Cell is composed entirely of sound waves. They have no se
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Sequence Cells are very primitive organisms, operating mostly out in reaction to outside stimuli. Most are not even all that hard to kill; the real difficulty of Sequence Cells is their extreme reproductive speed, as their environment can lead to them multiplying endlessly. They can be noticed from a distance through the unique sound they always emit, and their presence creates shapes in dust and sand.
+Sequence Cells are very primitive organisms. Most are not even all that hard to kill; the real difficulty of Sequence Cells is their extreme reproductive speed, as their environment can lead to them multiplying endlessly. They can be noticed from a distance through the unique sound they always emit, and their presence creates shapes in dust and sand.
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -34,10 +34,10 @@ Sequence Cells interact with their environment by manipulating sound, creating p
 They can absorb objects from their surroundings into themselves and apply a partial amplifier effect to them, enforcing a similar sequential arrangement to the objects and using them to defend themselves or attack others. These constructs have a very limited life span.
 ## …/size_change
 
-They can expand or shrink by up to 30% their size when necessary. 
+They can expand or shrink by up to 33% of their size when necessary. 
 ## …/senses
 
-They sense their environment through sound and temperature, as temperature modifies the way sound waves move though a medium.
+They sense their environment through sound and temperature, as temperature modifies the way sound waves move through a medium.
 ## …/liquid_empowerment
 
 Sequence Cells can inhabit liquid media such as water, inside which their strength is greatly elevated, becoming visible to the naked eye through the wave distortions they produce, and allowing them to survive with significantly fewer anchors.
@@ -46,7 +46,7 @@ Sequence Cells can inhabit liquid media such as water, inside which their streng
 
 ## …/anchor_dependency
 
-One way of killing a Sequence Cell is destroying its anchor, which disrupts the configuration which it maintain its shape. The number and complexity of these anchors scales with the Sequence Cell's size, and a Sequence Cell's size is limited by the availability of anchors. After death or injury, red dust accumulated from the constant vibration is released from the surface of their anchors.
+One way of killing a Sequence Cell is destroying its anchor, which disrupts the configuration by which it maintain itself. The number and complexity of these anchors scales with the Sequence Cell's size, and a Sequence Cell's size is limited by the availability of anchors. After death or injury, red dust accumulated from the constant vibration is released from the surface of their anchors.
 ## …/solid_barriers
 
 They cannot pass through solid matter.
