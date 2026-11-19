@@ -11,11 +11,11 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="CIRCUIT TITAN" /> </div>
 
-Circuit Titans (_Diavolos colossus_) are a type of gigantic Devil.
+Circuit Titans (_Diavolos colossus_) are a type of gigantic [[devils|Devil]].
 # .anatomy
 <div class="bestiary-divider"></div>
 
-Circuit Titans are the biggest Devil type, reaching a total height of ~6 km. Their bodies are made out of black, high-tensile fibre optic cables, forming a central torso and two bilateral appendages. They fractally split into smaller and smaller tendril bundles at regular intervals, which they can control individually with great dexterity. Their head is ellipsoidal, adorned with asymmetrical, differently sized horns. Most of their face is occupied by a single, large, glowing eye, strong enough to clearly illuminate large areas at a time.
+Circuit Titans are the biggest [[devils|Devil]] type, reaching a total height of ~6 km. Their bodies are made out of black, high-tensile fibre optic cables, forming a central torso and two bilateral appendages. They fractally split into smaller and smaller tendril bundles at regular intervals, which they can control individually with great dexterity. Their head is ellipsoidal, adorned with asymmetrical, differently sized horns. Most of their face is occupied by a single, large, glowing eye, strong enough to clearly illuminate large areas at a time.
 # .behaviour
 <div class="bestiary-divider"></div>
 
@@ -40,7 +40,7 @@ The immense size of a Circuit Titan actively alters the nearby climate, such as 
 # .reproduction
 <div class="bestiary-divider"></div>
 
-No one knows.
+All Circuit Titans are personally created by Violence Against Nature.
 # .diet
 <div class="bestiary-divider"></div>
 

@@ -27,6 +27,7 @@ Humans come in different sub-types:
 - [[hybrids|Hybrids]], created when a human fuses to a [[clutch_beetles|Clutch Beetle]].
 - Half-breeds, if one of the parents is a [[fae|Fae]].
 - [[viewers|Viewers]], created when a human is personally killed by Violence Against Art.
+- [[revolutions|Revolutions]], embodying the best of what humanity has to offer.
 
 The full reproduction table is:
 

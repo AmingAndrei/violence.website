@@ -18,10 +18,12 @@ The Five Inch Nails are an Absolute, embodying the concept of finality.
 # .design
 <div class="bestiary-divider"></div>
 
-The Five Inch Nails are a group of ~8 flat head nails. The material they're made of appears as a mix between tungsten and volcanic glass. They appear to have no surface imperfections.
+The Five Inch Nails are a group of flat head nails, each ~13 cm in length. The material they're made of appears as a mix between tungsten and volcanic glass. They appear to have no surface imperfections.
 # .abilities
 <div class="bestiary-divider"></div>
 
-The Nails were created by the [[angels|Angels]], as a method of killing the [[supreme_acts_of_violence|Supreme Acts of Violence]] for good. Whenever a nail is driven into a living target, it resonates and destroys their very being, forcing them to drop dead on the spot. This effect fully bypasses any form of immortality.
+The Nails were created by the [[angels|Angels]] as a method of permanently killing the [[supreme_acts_of_violence|Supreme Acts of Violence]]. Most of the Nails were destroyed by Violence Against Nature, with only eight surviving.
 
-The nails need to be fully driven into the target for the effect to trigger. Once a nail enters a target, it remains embedded forever until the nail is fully driven. Each nail can only be used once, disappearing after the target's death. Most of the nails were destroyed by Violence Against Nature, with only 8 surviving.
+When a Nail is fully driven into a living target, it resonates and shatters their very being, killing them. This effect bypasses all forms of immortality, regeneration, resurrection, and other mechanisms that would otherwise allow a being to return from death.
+
+A Nail must be fully driven into its target to activate its effect. Partial penetration does not trigger the effect, but it does permanently fix the Nail in place, with no way to remove it. It remains embedded until it is fully driven in. Each Nail can only be used once, and upon successfully killing its target, the Nail disappears.

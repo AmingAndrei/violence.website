@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="GORDIAN GORGON" /> </div>
 
-Gordian Gorgons (_Diavolos chordae_) are a type of parasitic Devil.
+Gordian Gorgons (_Diavolos chordae_) are a type of parasitic [[devils|Devil]].
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -19,7 +19,7 @@ Gordian Gorgons have a radially symmetrical anatomy, possessing ~30 muscular ten
 # .behaviour
 <div class="bestiary-divider"></div>
 
-Gordian Gorgons are solitary, the only exception being very large hosts, where each controls its own region of the body. They use their host both for mobility and defence, as they cannot survive outside the host's body or change hosts, drying out and dying. They are not sapient, although they are curious beings, using their tendrils to tinker with their surroundings, and can even learn repetitive actions. While the Devil itself leaves no smell behind, the corpse of the host does.
+Gordian Gorgons are solitary, the only exception being very large hosts, where each controls its own region of the body. They use their host both for mobility and defence, as they cannot survive outside the host's body or change hosts, drying out and dying. They are not sapient, although they are curious beings, using their tendrils to tinker with their surroundings, and can even learn repetitive actions. While the [[devils|Devil]] itself leaves no smell behind, the corpse of the host does.
 # .abilities
 <div class="bestiary-divider"></div>
 
@@ -37,7 +37,7 @@ The host of a Gordian Gorgon hardens into a calcite-like structure, granting it 
 
 ## …/host_regeneration
 
-As the corpse remains in a state of suspended putrefaction, any damage done to it is permanent (unlike damage to the Devil itself, which can still consume [[blood]] to heal), and destroying large chunks of it leaves the Gordian Gorgon vulnerable or can outright kill it from exposure to the outside. The corpse of the host remains after the Gordian Gorgon's death.
+As the corpse remains in a state of suspended putrefaction, any damage done to it is permanent (unlike damage to the [[devils|Devil]] itself, which can still consume [[blood]] to heal), and destroying large chunks of it leaves the Gordian Gorgon vulnerable or can outright kill it from exposure to the outside. The corpse of the host remains after the Gordian Gorgon's death.
 ## …/core_vulnerability
 
 Destroying the central core kills the Gordian Gorgon on the spot.

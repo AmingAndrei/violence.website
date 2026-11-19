@@ -10,7 +10,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="FAE" /> </div>
 
-Fae (_Fae sapiens_) are a type of humanoid Chimera.
+Fae (_Fae sapiens_) are a type of humanoid [[chimeras|Chimera]].
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -24,7 +24,7 @@ Fae are sapient, and highly social, forming large, highly industrialised cities 
 
 ## …/[[pyrokinesis]]
 
-Fae have the greatest mastery of [[pyrokinesis|Pyrokinesis]] of all Chimeras. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
+Fae have the greatest mastery of [[pyrokinesis|Pyrokinesis]] of all [[Chimeras]]. Whenever using [[pyrokinesis|Pyrokinesis]], a Fae's hair will begin burning, although this doesn't damage it.
 # .weaknesses
 <div class="bestiary-divider"></div>
 
@@ -33,7 +33,7 @@ Fae have the greatest mastery of [[pyrokinesis|Pyrokinesis]] of all Chimeras. Wh
 The greatest weakness Fae have is towards iron. Direct contact with elemental iron releases certain ions that disrupt their ability to release [[divine_flame|Divine Flame]], along with draining them of all energy and strength. The system returns to normal not long after contact is disrupted.
 ## …/weak_regeneration
 
-Fae have the weakest regeneration of all Chimeras, capable of healing only shallow, surface-level wounds.
+Fae have the weakest regeneration of all [[Chimeras]], capable of healing only shallow, surface-level wounds.
 ## …/credulity
 
 The Fae neural structure is wired in such a way that makes outright lying an extremely taxing task, meaning they naturally prefer lying by omission. This also makes them extremely gullible, as they haven't developed the mental defences for lying. 

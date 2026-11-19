@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--mosaic mosaic--key"> <img src="/assets/placeholder.gif" alt="VIEWER" /> </div>
 
-Viewers (_Homo sapiens_) are artificial Mosaics.
+Viewers (_Homo sapiens_) are [[Mosaics]] created from [[humans]].
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -27,7 +27,7 @@ Viewers like to watch. They gravitate around Violence Against Art.
 
 Viewers cannot communicate, are completely intangible and cannot interact in any way with the world. 
 
-They are normally totally invisible, however Violence Against Art can make them visible at will. Viewers created from [[revolutions|Revolutions]] will always remain visible to Violence Against Art.
+They are normally totally invisible, however Violence Against Art can reveal them at will. Viewers created from [[revolutions|Revolutions]] will always remain visible to Violence Against Art.
 # .production
 <div class="bestiary-divider"></div>
 

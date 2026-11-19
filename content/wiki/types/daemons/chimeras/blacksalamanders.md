@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="BLACKSALAMANDER" /> </div>
 
-Blacksalamanders (_Chimaeria primigenius_) are the ancestor type of all Chimeras.
+Blacksalamanders (_Chimaeria primigenius_) are the ancestor type of all [[Chimeras]].
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -21,7 +21,7 @@ Blacksalamanders have a reptilian body plan, reaching ~20 cm in length. They hav
 
 Blacksalamanders are nocturnal, and spend the day in damp, dark places. 
 
-They are the progenitor type of all Chimeras, the template used by the Furies to graft the [[divine_flame|Divine Flame]] into, allowing them to evolve and diversify into the other Chimera types.
+They are the progenitor type of all [[Chimeras]], the template used by the Furies to graft the [[divine_flame|Divine Flame]] into, allowing them to evolve and diversify into the other [[chimeras|Chimera]] types.
 # .abilities
 <div class="bestiary-divider"></div>
 

@@ -28,11 +28,11 @@ The Crew operates as a bastard sister of [[ultraviolet|Ultraviolet]], dealing wi
 
 The Crew doesn't really have a hierarchy, although they are officially ran by Nikita Aorello. All¹ of its members are [[vespers|Vespers]], personally recruited by Nikita. Members have free discretion of how to approach missions, most of which are self-assigned based on word-of-mouth, the Serpent's own signal, and other contextual clues.
 
-¹The one exception is Lorand Aorello, who is a [[somas|Soma]] and considered a half-member due to also working for [[ultraviolet|Ultraviolet]].
+¹The one exception is Lorand Aorello, who is a [[somas|Soma]] and considered a half-member.
 # .conduct
 <div class="bestiary-divider"></div>
 
-The Crew operates entirely in the dark. The only people aware of their existence, outside of members, are the [[ultraviolet|Ultraviolet]] Captain Lorand Aorello and the [[pale|Pale]] Executive Mihaela Rebreanu, although they act completely outside [[pale|Pale]] jurisdiction. Because of this and their unorthodox approaches, the Crew can get into conflicts with [[ultraviolet|Ultraviolet]] Operators.
+The Crew operates entirely in the dark. The only people aware of their existence, outside of full members, are the [[ultraviolet|Ultraviolet]] Captain Lorand Aorello and the [[pale|Pale]] Executive Mihaela Rebreanu, although they act completely outside of the [[pale|Pale]]'s jurisdiction and knowledge. Because of this and their unorthodox approaches, the Crew can get into conflicts with [[ultraviolet|Ultraviolet]] Operators.
 # .assets
 <div class="bestiary-divider"></div>
 

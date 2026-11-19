@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STEEL SHARK" /> </div>
 
-Steel Sharks (_Diavolos diavolos_, <ruby>金属鮫<rt>スティール・シャーク</rt></ruby>) are the most dangerous and violent type of Devil, the kin of Violence Against Nature.
+Steel Sharks (_Diavolos diavolos_, <ruby>金属鮫<rt>スティール・シャーク</rt></ruby>) are the most dangerous and violent type of [[devils|Devil]], the kin of Violence Against Nature.
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -29,7 +29,7 @@ Steel Sharks are sapient, voluntarily aggressive and find pleasure in causing as
 
 ## …/apex
 
-There is nothing other Devil types can do that Steel Sharks can't, if not better.
+There is nothing other [[devils|Devil]] types can do that Steel Sharks can't, if not better.
 ## …/senses
 
 Steel Sharks have extremely developed senses, capable of pinpoint precision echolocation, thermal imaging, chemoreception, and airwave sensitivity. This makes them near omniscient of their surroundings up to 100 m. 
@@ -69,13 +69,13 @@ Damage to the engine will redirect all healing towards the engine, and if severe
 Water can also dampen a Steel Shark's strength by flooding its engine and preventing maximum output.
 ## …/low_[[anima]]
 
-Steel Sharks are the most [[anima|Anima]]-dependent Devil type. If they lack the the large enough [[anima|Anima]] resonance necessary, only found in the FLIPSIDE, they will eventually collapse into a low energy state, vaguely resembling large weaponry, although they remain conscious during this state.
+Steel Sharks are the most [[anima|Anima]]-dependent [[devils|Devil]] type, and require an absurdly high [[anima|Anima]] resonance, without which (i.e. outside of the FLIPSIDE) they will eventually collapse into a low energy state. In this state, they vaguely resemble large weaponry, and remain fully conscious.
 
 To combat their obvious weakness of requiring a large [[anima|Anima]] resonance to do anything, Steel Sharks consume [[blood]] as fuel. This also comes with a downside, as the Steel Shark is on a timer until the fuel runs out, and actions such as revving or using their maximum strength will drain it much faster. This also means that a Steel Shark can remain indefinitely active outside the FLIPSIDE if it has enough [[blood]].
 # .reproduction
 <div class="bestiary-divider"></div>
 
-Steel Sharks do not reproduce. They will coalesce within Pandiavolum when [[anima|Anima]] resonance exceeds a certain threshold. All Devils outside of Pandiavolum will instinctually attempt to create suitable conditions and engineer an environment that allows for a Steel Shark to be born.
+Steel Sharks do not reproduce. They coalesce within Pandiavolum when [[anima|Anima]] resonance exceeds a certain threshold. All [[Devils]] types will instinctively and unconsciously attempt to create the right conditions for a Steel Shark protoform to form, which, when reaching a critical threshold, will instantly mature into a full Steel Shark.
 # .diet
 <div class="bestiary-divider"></div>
 

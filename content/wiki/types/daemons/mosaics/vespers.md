@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--mosaic mosaic--magenta"> <img src="/assets/placeholder.gif" alt="VESPER" /> </div>
 
-Vespers (_Mosaica vespera_) are the most diverse type of Mosaic.
+Vespers (_Mosaica vespera_) are the most diverse type of [[mosaics|Mosaic]].
 # .anatomy
 <div class="bestiary-divider"></div>
 

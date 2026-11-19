@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="MARDYKHORA" /> </div>
 
-Mardykhora (Sg. _Mardykhor_, _Mardykhor faevorus_) are a type of hyper-predatory Chimera.
+Mardykhora (Sg. _Mardykhor_, _Mardykhor faevorus_) are a type of hyper-predatory [[chimeras|Chimera]].
 # .anatomy
 <div class="bestiary-divider"></div>
 

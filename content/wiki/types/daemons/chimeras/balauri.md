@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="BALAUR" /> </div>
 
-Balauri (Sg. _Balaur_, _Balaur regia_) are a type of draconic Chimera.
+Balauri (Sg. _Balaur_, _Balaur regia_) are a type of draconic [[chimeras|Chimera]].
 # .anatomy
 <div class="bestiary-divider"></div>
 
@@ -27,7 +27,7 @@ Balauri are solitary creatures. And despite their size, they are extremely curio
 
 ## …/[[pyrokinesis]]
 
-Balauri have the greatest brute force [[pyrokinesis|Pyrokinesis]] output of all Chimeras, capable of releasing [[divine_flame|Divine Flame]] from their mouth with ~26 MN of force. They cycle between firing heads to maintain constant output.
+Balauri have the greatest brute force [[pyrokinesis|Pyrokinesis]] output of all [[Chimeras]], capable of releasing [[divine_flame|Divine Flame]] from their mouth with ~26 MN of force. They cycle between firing heads to maintain constant output.
 ## …/multiple_heads
 
 Each head is semi-autonomous, with independent thought and behaviour, linked together through a central spinal hub, coordinating motor functions and intent. 
@@ -39,7 +39,7 @@ Each head is equipped with two olfactory systems, a pair of standard nasal recep
 Balauri can fly at 120 km/h and can gallop at 60 km/h, and their wings alone are capable of outputting ~1.1 GN of force.
 ## …/regeneration
 
-Balauri have the strongest regeneration of all Chimeras, capable of regenerating parts of their spine, entire limbs, and even heads if one should be severed. The speed of the regeneration is entirely dependent on the amount of food the Balaur can acquire.
+Balauri have the strongest regeneration of all [[Chimeras]], capable of regenerating parts of their spine, entire limbs, and even heads if one should be severed. The speed of the regeneration is entirely dependent on the amount of food the Balaur can acquire.
 
 The regrown heads might possess different personalities, but will retain the memories of the original. If all three heads are severed, the Balaur will die from cardiac arrest.
 # .reproduction

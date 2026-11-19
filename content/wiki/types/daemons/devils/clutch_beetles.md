@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="CLUTCH BEETLES" /> </div>
 
-Clutch Beetles (_Diavolos ultraforma_) are a type of insectoid Devil.
+Clutch Beetles (_Diavolos ultraforma_) are a type of insectoid [[devils|Devil]].
 # .anatomy
 <div class="bestiary-divider"></div>
 

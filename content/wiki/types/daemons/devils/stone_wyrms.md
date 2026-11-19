@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="STONE WYRM" /> </div>
 
-Stone Wyrms (_Diavolos saxumvermis_) are a type of stone Devil.
+Stone Wyrms (_Diavolos saxumvermis_) are a type of stone [[devils|Devil]].
 # .anatomy
 <div class="bestiary-divider"></div>
 

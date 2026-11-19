@@ -17,6 +17,6 @@ Revolutions represent the best of [[humans|humanity]], embodying all of their st
 
 Revolutions are also immune to the [[toxin]], [[gordian_gorgons|Gordian Gorgon]] infection, [[clutch_beetles|Clutch Beetle]] parasitism, and [[chromic_rot|Chromic Rot]]. If one becomes a [[viewers|Viewer]], they will always remain visible to Violence Against Art.
 
-The caveat to their existence is that their life is fleeting. As they age, their bodies begin breaking down, and they begin coughing more and more of their insides, liquified into a black, rainbow iridescent substance, the same substance their [[blood]] is composed of. The condition is fatal, and most Revolutions die by 30.
+The caveat to their existence is that their life is fleeting. As they age, their bodies begin breaking down, and they begin coughing more and more of their insides, liquified into a black, rainbow iridescent substance, the same substance their [[blood]] is composed of. The condition is fatal, and often leads to them dying young.
 
 Revolutions are a [[humans|human]]-exclusive phenomenon, due to the higher thought necessary. Due to their unique relation to [[anima|Anima]], [[daemons|Daemons]] cannot birth Revolutions.

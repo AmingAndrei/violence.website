@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="CRIMSON NYMPH" /> </div>
 
-Crimson Nymphs (_Diavolos haemophyta_) are a type of plant Devil.
+Crimson Nymphs (_Diavolos haemophyta_) are a type of plant [[devils|Devil]].
 # .anatomy
 <div class="bestiary-divider"></div>
 

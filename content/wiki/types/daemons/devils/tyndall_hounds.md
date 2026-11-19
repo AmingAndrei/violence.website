@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="TYNDALL HOUND" /> </div>
 
-Tyndall Hounds (_Diavolos occultus_) are a type of canine Devil.
+Tyndall Hounds (_Diavolos occultus_) are a type of canine [[devils|Devil]].
 # .anatomy
 <div class="bestiary-divider"></div>
 

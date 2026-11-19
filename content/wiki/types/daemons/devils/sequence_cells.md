@@ -11,7 +11,7 @@ aliases:
 
 <div class="bestiary-image--devil"> <img src="/assets/placeholder.gif" alt="SEQUENCE CELLS" /> </div>
 
-Sequence Cells (_Diavolos strepitator_) are a type of obstreperous Devil.
+Sequence Cells (_Diavolos strepitator_) are a type of obstreperous [[devils|Devil]].
 # .anatomy
 <div class="bestiary-divider"></div>
 
