@@ -4,7 +4,7 @@ tags:
   - wiki
   - factions
 ---
-<br><a href="/wiki/" class="nav-button">← WIKI</a>
+<br><a href="/wiki" class="nav-button">← WIKI</a>
 <br><br>
 <div class="factions-grid--trio factions-grid--trio--labels-visible">
 
@@ -12,7 +12,7 @@ tags:
   <polygon points="50,8.66 10,77.94 90,77.94"></polygon>
 </svg>
 
-  <a href="/factions/pale" class="material-card factions-grid--trio__node factions-grid--trio__node--top">
+  <a href="/wiki/factions/pale" class="material-card factions-grid--trio__node factions-grid--trio__node--top">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -26,7 +26,7 @@ tags:
     <span class="material-card__label">.pale</span>
   </a>
 
-  <a href="/factions/ultraviolet" class="material-card factions-grid--trio__node factions-grid--trio__node--left">
+  <a href="/wiki/factions/ultraviolet" class="material-card factions-grid--trio__node factions-grid--trio__node--left">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -40,7 +40,7 @@ tags:
     <span class="material-card__label">.ultraviolet</span>
   </a>
 
-  <a href="/factions/chromacy" class="material-card factions-grid--trio__node factions-grid--trio__node--right">
+  <a href="/wiki/factions/chromacy" class="material-card factions-grid--trio__node factions-grid--trio__node--right">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -62,7 +62,7 @@ tags:
 <br>
 <div class="material-grid material-grid--labels-visible factions-grid--list">
 
-  <a href="/factions/supreme_acts_of_violence" class="material-card">
+  <a href="/wiki/factions/supreme_acts_of_violence" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -76,7 +76,7 @@ tags:
     <span class="material-card__label">.sav</span>
   </a>
 
- <a href="/factions/niki's_clean-up_crew" class="material-card">
+ <a href="/wiki/factions/nikis_clean-up_crew" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">

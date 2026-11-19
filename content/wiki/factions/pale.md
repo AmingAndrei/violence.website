@@ -22,7 +22,7 @@ The Pale is the governmental power of City Zero, ruling alongside [[ultraviolet|
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Pale was founded in 1 AV by Mihaela Rebreanu, and is responsible for overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside City Zero. 
+The Pale was founded in 1 AV by Mihaela Rebreanu from the remains of the [[acheron_project|Acheron project]], and is responsible for overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside City Zero. 
 # .structure
 <div class="bestiary-divider"></div>
 
@@ -52,5 +52,5 @@ Any citizen within Pale territory can own private property, distinguished from p
 - [[venom_project|VENOM project]];
 - Most material extraction sites in the FLIPSIDE, run by hired [[ultraviolet|Ultraviolet]] Operators;
 - Signal Stations, partial ownership with [[ultraviolet|Ultraviolet]];
-- Absolutes:
-	- [[nightmare_shackles|Nightmare Shackle]] (Green), used to retain Violence Against God inside the Sarcophagus.
+- [[Absolutes]]:
+	- [[nightmare_shackles|Nightmare Shackle]] (Green), used to bind Violence Against God inside the Sarcophagus.

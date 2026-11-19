@@ -44,7 +44,11 @@ Steel Sharks are absurdly durable. The metal their cells are composed of is hard
 Steel Sharks can absorb medium to small objects and devices. Once they make direct contact with said device or object, the cells and mechanical structure of the Steel Shark will disassemble it into its smallest possible components, storing them in its body. These components can then be rebuilt on command, recreating the object perfectly. This extends to all sorts of trinkets, and they can even combine some of the stored objects into different ones during reassembly, which they can effortlessly split back again.
 ## …/radio_manipulation
 
-Steel Sharks are able to interact with radio waves. They can both hear them, understanding whatever is transmitted through the frequency, and respond. When speaking, Steel Sharks emit both audible sound and radio waves, and they cannot stop and just speak through one or the other. In their low energy state, they can only communicate through radio, along with clanking. They can intercept all frequencies at once, and can choose to speak at any frequency or at every frequency at once.
+Steel Sharks are able to interact with radio waves. They can both hear them, understanding whatever is transmitted through the frequency, and respond. When speaking, Steel Sharks emit both audible sound and radio waves, and they cannot speak through just one or the other. 
+
+In their low energy state, they can only communicate through radio, along with clanking. They can intercept all frequencies at once, and can choose to speak at any frequency or at every frequency at once.
+
+Because of this ability, Steel Sharks can directly interact with radio devices such as the [[radio_computer_network|Radio Computer Network]], as they can intercept the signals and modify them to their liking.
 ## …/forms
 
 Steel Sharks fall into several categories, determining their general abilities, fighting style, and to a slight degree their appearance:

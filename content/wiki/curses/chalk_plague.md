@@ -23,4 +23,4 @@ The Chalk Plague appeared in 660 AAV, created by Violence Against Art and overse
 
 The Chalk Plague derived its name from the white, chalk-like dust it left behind. Inhaling this chalk had an extremely irritative effect on the host's lungs, causing them to immediately enter a violent coughing fit. The particles would multiply inside the host's lungs, causing them to cough significantly more chalk than inhaled.
 
-Once the particles passed the blood-brain barrier, the host would display signs of dementia and schizophrenia, along with the ability to see projections of Chiron. Hosts would die from asphyxiation, extreme respiratory injury and brain damage.
+Once the particles passed the blood-brain barrier, the host would display signs of dementia and schizophrenia, along with the ability to see projections of Chiron. Hosts would die from asphyxiation, extreme respiratory injury and brain damage. [[revolutions|Revolutions]] were completely immune to the Plague's effects.

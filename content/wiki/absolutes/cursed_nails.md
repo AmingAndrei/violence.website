@@ -1,24 +1,24 @@
 ---
-title: FIVE INCH NAILS
+title: CURSED NAILS
 tags:
   - absolute
 aliases:
-  - Five Inch Nails
+  - Cursed Nails
 ---
 <br><a href="/wiki/absolutes" class="nav-button">← ABSOLUTES</a>
 <br><br>
 
 <div class="absolutes-image">
-  <img src="/assets/placeholder.gif" alt="Black Box"/>
+  <img src="/assets/placeholder.gif" alt="Cursed Nails"/>
   <span class="absolutes-image__corner absolutes-image__corner--tl"></span>
   <span class="absolutes-image__corner absolutes-image__corner--br"></span>
 </div>
 
-The Five Inch Nails are an Absolute, embodying the concept of finality.
+The Cursed Nails are an [[absolutes|Absolute]], embodying the concept of finality.
 # .design
 <div class="bestiary-divider"></div>
 
-The Five Inch Nails are a group of flat head nails, each ~13 cm in length. The material they're made of appears as a mix between tungsten and volcanic glass. They appear to have no surface imperfections.
+The Cursed Nails are a group of flat head nails, each ~13 cm in length. The material they're made of appears as a mix between tungsten and volcanic glass. They appear to have no surface imperfections.
 # .abilities
 <div class="bestiary-divider"></div>
 

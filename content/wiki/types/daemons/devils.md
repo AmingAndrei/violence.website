@@ -8,9 +8,9 @@ aliases:
   - Devil
 ---
 <br><a href="/wiki/types/daemons" class="nav-button">← DAEMONS</a><br><br>
-Devils (_Diavolos_ class), also called _Living Creatures_ or the _Highest of Daemons_, are the most dangerous and violent of all high Daemons found in the FLIPSIDE, and one of its main threats. They are all descendants and aspects of Violence Against Nature.
+Devils (_Diavolos_ class), also called _Living Creatures_ or the _Highest of [[daemons|Daemons]]_, are the most dangerous and violent of all High [[daemons|Daemons]] found in the FLIPSIDE. They are all descendants and aspects of Violence Against Nature, embodying VIOLENCE in its most fundamental form.
 
-As a group, Devils share little to no similarity with each other. No two Devil types are alike, with the differences being so extreme no sane taxonomist would even attempt to classify them on the same branch of life, or even on a branch of life at all. Even differentiating them into 'types' is for the most part a classification misnomer. Despite this, Devil biology does obey some common rules:
+As a group, Devils share little to no similarity with each other. No two Devil types are alike. Even differentiating them into 'types' is for the most part a classification misnomer. Despite this, Devil biology does obey some common rules:
 
 - All¹ Devils are blind, despite some types seemingly possessing eyes.
 - Devils leave no corpse behind, with any and all remains disintegrating into a red dust upon death or injury, with the process being so efficient they don't leave behind any smell.

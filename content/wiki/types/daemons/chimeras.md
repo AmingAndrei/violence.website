@@ -8,7 +8,7 @@ aliases:
   - Chimera
 ---
 <br><a href="/wiki/types/daemons" class="nav-button">← DAEMONS</a><br><br>
-Chimeras (_Chimaeria_ class) are a type of high Daemon displaying chimeric traits and behaviours.
+Chimeras (_Chimaeria_ class) are a type of High [[daemons|Daemon]] whose very existence is a HERESY against the natural order of life, displaying chimeric traits and behaviours.
 
 All Chimeras are comprised of two constituents:
 

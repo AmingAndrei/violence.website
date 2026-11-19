@@ -43,6 +43,6 @@ The full reproduction table is:
 | [[fae\|Fae]]        | Half-breed          | Half-breed          |
 <br><br>
   <a href="/wiki/types/humans/revolutions" class="main-nav-card">
-    <img src="assets/icons/revolutions.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Revolutions"/>
+    <img src="/assets/icons/revolutions.svg" width="80" height="80" class="main-nav-card__icon main-nav-card__icon--invert" alt="Revolutions"/>
     <span class="main-nav-card__label">.revolutions</span>
   </a>

@@ -25,9 +25,9 @@ Viewers like to watch. They gravitate around Violence Against Art.
 
 ## …/spectators
 
-Viewers cannot communicate, are completely intangible and cannot interact in any way with the world. 
+Viewers cannot communicate, are completely intangible and cannot interact in any meaningful way with the world.
 
-They are normally totally invisible, however Violence Against Art can reveal them at will. Viewers created from [[revolutions|Revolutions]] will always remain visible to Violence Against Art.
+Normally, Viewers are completely invisible, even to Violence Against Art, although he has the ability to make them visible at will. Viewers created from [[revolutions|Revolutions]] can partially oppose this, as they while Violence Against Art can force them back into invisibility, they will always remain visible to him.
 # .production
 <div class="bestiary-divider"></div>
 

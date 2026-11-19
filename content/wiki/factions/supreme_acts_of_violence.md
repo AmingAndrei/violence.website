@@ -4,6 +4,7 @@ tags:
   - factions
 aliases:
   - Supreme Acts of Violence
+  - Supreme Acts
 ---
 <br><a href="/wiki/factions" class="nav-button">← FACTIONS</a>
 <br><br>
@@ -34,10 +35,9 @@ The Supreme Acts are a trio of physical embodiments of violence of the highest d
 # .conduct
 <div class="bestiary-divider"></div>
 
-The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE, completely unharmed.
+The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the FLIPSIDE, completely unharmed. The [[cursed_nails|Cursed Nails]] were created by the [[angels|Angels]] as a way of bypassing their immortality, although most of them were destroyed by Violence Against Nature they tried using them.
 # .assets
 <div class="bestiary-divider"></div>
 
-- The FLIPSIDE (not really but no one is going to argue against it);
 - Pandiavolum;
 - [[shaper|Shaper]].

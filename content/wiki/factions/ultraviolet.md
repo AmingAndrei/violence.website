@@ -33,7 +33,7 @@ The Operator hierarchy is based on strength, with the Captains being the demonst
 | Active    |                                                                                                        |                   |                                                             |
 | --------- | ------------------------------------------------------------------------------------------------------ | ----------------- | ----------------------------------------------------------- |
 |           | Swordsman's Division                                                                                   | Victor's Division | Dogman's Division                                           |
-| Captain   | Lorand Aorello ([[somas\|Soma]] // Vexer)                                                              | Victor (Victor)   | Chromopher Adoki ([[humans\|Human]] // [[hybrids\|Hybrid]]) |
+| Captain   | Lorand Aorello ([[somas\|Soma // Vexer]])                                                              | Victor (Victor)   | Chromopher Adoki ([[humans\|Human]] // [[hybrids\|Hybrid]]) |
 | Operators | Jacques Ren ([[humans\|Human]] // [[hybrids\|Hybrid]])<br>Azuria Velos ([[steel_sharks\|Steel Shark]]) | -                 | -                                                           |
 
 | Retired |                                                        |                            |
@@ -53,4 +53,6 @@ Ultraviolet makes great use of the Signal Stations outside City Zero, intercepti
 <div class="bestiary-divider"></div>
 
 - The Spine, unofficial headquarters shared with the [[pale|Pale]];
-- Signal Stations, partial ownership with the [[pale|Pale]].
+- Signal Stations, partial ownership with the [[pale|Pale]];
+- [[jumpstarters|Jumpstarters]];
+- [[relocation_cages|Relocation cages]].

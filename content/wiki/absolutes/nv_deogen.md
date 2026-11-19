@@ -14,7 +14,7 @@ aliases:
   <span class="absolutes-image__corner absolutes-image__corner--br"></span>
 </div>
 
-The NV Deogen is an Absolute, embodying the concept of pursuit.
+The NV Deogen is an [[absolutes|Absolute]], embodying the concept of pursuit.
 # .design
 <div class="bestiary-divider"></div>
 

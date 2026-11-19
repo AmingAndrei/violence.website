@@ -8,7 +8,7 @@ tags:
 <br><br>
 <div class="material-grid material-grid--labels-visible">
 
-<a href="/materials/anima" class="material-card">
+<a href="/wiki/materials/anima" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -22,7 +22,7 @@ tags:
     <span class="material-card__label">.anima</span>
 </a>
 
-<a href="/materials/fear" class="material-card">
+<a href="/wiki/materials/fear" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -36,7 +36,7 @@ tags:
     <span class="material-card__label">.fear</span>
 </a>
 
-<a href="/materials/blood" class="material-card">
+<a href="/wiki/materials/blood" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -50,7 +50,7 @@ tags:
     <span class="material-card__label">.blood</span>
 </a>
 
-<a href="/materials/haemocarbide" class="material-card">
+<a href="/wiki/materials/haemocarbide" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -64,7 +64,7 @@ tags:
     <span class="material-card__label">.haemocarbide</span>
 </a>
 
-<a href="/materials/divine_flame" class="material-card">
+<a href="/wiki/materials/divine_flame" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -78,7 +78,7 @@ tags:
     <span class="material-card__label">.divine_flame</span>
 </a>
 
-<a href="/materials/hellfire" class="material-card">
+<a href="/wiki/materials/hellfire" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -92,7 +92,7 @@ tags:
     <span class="material-card__label">.hellfire</span>
 </a>
 
-<a href="/materials/toxin" class="material-card">
+<a href="/wiki/materials/toxin" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">
@@ -106,7 +106,7 @@ tags:
     <span class="material-card__label">.toxin</span>
 </a>
 
-<a href="/materials/serpentine" class="material-card">
+<a href="/wiki/materials/serpentine" class="material-card">
     <div class="material-card__icon-wrap">
       <span class="material-card__glow"></span>
       <div class="material-card__frame">

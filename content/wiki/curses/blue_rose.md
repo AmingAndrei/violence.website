@@ -23,6 +23,6 @@ The Blue Rose can be understood as an effect of Violence Against Nature on the w
 
 The Blue Rose is, at its simplest, Violence Against Nature's ability to shatter reality. 
 
-In terms of effects toward other beings, and especially [[devils|Devils]], the wounds inflicted by Violence Against Nature cannot be healed, as the existence of the body stops, essentially forcing reality to behave as if it never existed. A wound inflicted by Violence Against Nature on a [[devils|Devil]] will never be able to be regenerated, repaired, or replaced, ever, as reality behaves as if there is nothing to heal.
+In terms of effects toward other beings, and especially [[devils|Devils]], the wounds inflicted by her cannot be healed, as the existence of the wounded part stops, essentially forcing reality to behave as if it never existed. A wound inflicted by Violence Against Nature on a [[devils|Devil]] will never be able to be regenerated or repaired, ever, as reality behaves as if there is nothing to regenerate or repair.
 
-Violence Against Nature can also use the effects of the Blue Rose on space itself, punching holes through and smashing spatial reality into shards, severing the link between distance and position. These fractures can be used as a weapon or as short-lived portals, as the shards will reform themselves after a short period.
+Violence Against Nature can also use the effects of the Blue Rose on space itself, punching holes through and smashing spatial reality into shards, severing the link between distance and position. She can use these fractures as a weapon or as short-lived portals. The shards will reform themselves after a short period.

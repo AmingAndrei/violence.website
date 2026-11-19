@@ -11,18 +11,18 @@ tags:
 
 <div class="types-grid">
 
-  <a href="/types/angels" class="types-card">
-    <img src="assets/icons/angels.svg" class="types-card__icon types-card__icon--invert" alt="Angels"/>
+  <a href="/wiki/types/angels" class="types-card">
+    <img src="/assets/icons/angels.svg" class="types-card__icon types-card__icon--invert" alt="Angels"/>
     <span class="types-card__label">.angels</span>
   </a>
 
   <a href="/wiki/types/daemons" class="types-card">
-    <img src="assets/icons/daemons.svg" class="types-card__icon types-card__icon--invert" alt="Daemons"/>
+    <img src="/assets/icons/daemons.svg" class="types-card__icon types-card__icon--invert" alt="Daemons"/>
     <span class="types-card__label">.daemons</span>
   </a>
   
   <a href="/wiki/types/humans" class="types-card types-card--wide">
-    <img src="assets/icons/humans.svg" class="types-card__icon types-card__icon--invert" alt="Humans"/>
+    <img src="/assets/icons/humans.svg" class="types-card__icon types-card__icon--invert" alt="Humans"/>
     <span class="types-card__label">.humans</span>
   </a>
 
