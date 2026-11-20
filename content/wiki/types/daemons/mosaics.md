@@ -8,7 +8,7 @@ aliases:
   - Mosaic
 ---
 <br><a href="/wiki/types/daemons" class="nav-button">← DAEMONS</a><br><br>
-Mosaics (_Mosaica_ class) are semi-colonial artificial High [[daemons|Daemons]], representing the most diverse group of individuals in the FLIPSIDE, existentially a form of FRAUD originating from Violence Against Art.
+Mosaics (_Mosaica_ class) are semi-colonial artificial High [[daemons|Daemons]], representing the most diverse group of individuals in the [[FLIPSIDE]], existentially a form of FRAUD originating from Violence Against Art.
 
 Mosaic cells are cyanobacteria-like crystalline nano-organisms, formed entirely from solid light, that are, in truth, their own individual being, forming a single colonial organism. They have an individual processing power similar to supercomputers, and can function as a mix between myocytes and osteocytes, with dedicated clusters forming audio-visual sensors. Genetically, Mosaics have a layered infrastructure, with all types utilising Violence Against Art's base code as a library.
 

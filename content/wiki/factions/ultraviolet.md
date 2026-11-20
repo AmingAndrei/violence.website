@@ -22,7 +22,7 @@ Ultraviolet is the military power of City Zero, ruling alongside the [[pale|Pale
 # .purpose
 <div class="bestiary-divider"></div>
 
-Ultraviolet started as the expedition branch of the [[acheron_project|Acheron project]], becoming independent after the Wild Hunt. Currently, it has complete responsibility over anything and everything related to the FLIPSIDE. This includes exploration, research and development, and neutralising anything that could pose a threat to themselves or to City Zero, lethally or not. They can extend into civilian matters, if there is suspicion of FLIPSIDE interference of any kind or upon payment. They are responsible with keeping a public register of all [[hybrids]] living within City Zero and limiting their activity so as to prevent the spread of [[chromic_rot|Chromic Rot]].
+Ultraviolet started as the expedition branch of the [[acheron_project|Acheron project]], becoming independent after the Storm. Currently, it has complete responsibility over anything and everything related to the [[FLIPSIDE]]. This includes exploration, research and development, and neutralising anything that could pose a threat to themselves or to City Zero, lethally or not. They can extend into civilian matters, if there is suspicion of [[FLIPSIDE]] interference of any kind or upon payment. They are responsible with keeping a public register of all [[hybrids]] living within City Zero and limiting their activity so as to prevent the spread of [[chromic_rot|Chromic Rot]].
 # .structure
 <div class="bestiary-divider"></div>
 

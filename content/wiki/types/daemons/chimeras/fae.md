@@ -42,7 +42,7 @@ The Fae neural structure is wired in such a way that makes outright lying an ext
 
 Fae reproduce sexually, giving birth to live young, which are nursed for ~2 years. The gestation period is ~9 months, and full sexual maturity is reached in ~18 years, after which the aging rate slows drastically. The average Fae life span is ~120 years, with only a minimal decrease in performance.
 
-Fae are capable of reproducing with [[humans]]. The result is a half-breed, anatomically identical to a [[humans|human]], including vulnerability to the [[toxin]], but with Fae traits such as a [[divine_flame|Divine Flame]] soul (and thus access to [[pyrokinesis|Pyrokinesis]]), slower aging, higher muscle strength, and almost total immunity to the FLIPSIDE's negation effect (with a side effect of mild nausea while inside the dimension).
+Fae are capable of reproducing with [[humans]]. The result is a half-breed, anatomically identical to a [[humans|human]], including vulnerability to the [[toxin]], but with Fae traits such as a [[divine_flame|Divine Flame]] soul (and thus access to [[pyrokinesis|Pyrokinesis]]), slower aging, higher muscle strength, and almost total immunity to the [[flipside|FLIPSIDE]]'s negation effect (with a side effect of mild nausea while inside the dimension).
 
 | Parent 1            | Parent 2            | Child               |
 | ------------------- | ------------------- | ------------------- |

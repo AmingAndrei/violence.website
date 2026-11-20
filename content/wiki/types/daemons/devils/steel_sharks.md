@@ -38,7 +38,7 @@ Steel Sharks have extremely developed senses, capable of pinpoint precision echo
 Steel Sharks can become completely silent, which combined with their dexterity and speed, allows them to easily infiltrate locations without being noticed.
 ## …/durability
 
-Steel Sharks are absurdly durable. The metal their cells are composed of is harder than tungsten carbide, has a melting point of ~5,000°C, is self-sharpening, self-healing, is completely chemically inert, blocks radiation, and all while having a density similar to silver. 
+Steel Sharks are absurdly durable. The metal their cells are composed of is harder than tungsten carbide, has a melting point of ~5,000 °C, is self-sharpening, self-healing, is completely chemically inert, blocks radiation, and all while having a density similar to silver. 
 ## …/object_storage
 
 Steel Sharks can absorb medium to small objects and devices. Once they make direct contact with said device or object, the cells and mechanical structure of the Steel Shark will disassemble it into its smallest possible components, storing them in its body. These components can then be rebuilt on command, recreating the object perfectly. This extends to all sorts of trinkets, and they can even combine some of the stored objects into different ones during reassembly, which they can effortlessly split back again.
@@ -73,9 +73,9 @@ Damage to the engine will redirect all healing towards the engine, and if severe
 Water can also dampen a Steel Shark's strength by flooding its engine and preventing maximum output.
 ## …/low_[[anima]]
 
-Steel Sharks are the most [[anima|Anima]]-dependent [[devils|Devil]] type, and require an absurdly high [[anima|Anima]] resonance, without which (i.e. outside of the FLIPSIDE) they will eventually collapse into a low energy state. In this state, they vaguely resemble large weaponry, and remain fully conscious.
+Steel Sharks are the most [[anima|Anima]]-dependent [[devils|Devil]] type, and require an absurdly high [[anima|Anima]] resonance, only found in the [[FLIPSIDE]]. On [[sol|Sol]], they will eventually collapse into a low energy state. In this state, they vaguely resemble large weaponry, and remain fully conscious.
 
-To combat their obvious weakness of requiring a large [[anima|Anima]] resonance to do anything, Steel Sharks consume [[blood]] as fuel. This also comes with a downside, as the Steel Shark is on a timer until the fuel runs out, and actions such as revving or using their maximum strength will drain it much faster. This also means that a Steel Shark can remain indefinitely active outside the FLIPSIDE if it has enough [[blood]].
+To combat their obvious weakness of requiring a large [[anima|Anima]] resonance to do anything, Steel Sharks consume [[blood]] as fuel. This also comes with a downside, as the Steel Shark is on a timer until the fuel runs out, and actions such as revving or using their maximum strength will drain it much faster. This also means that a Steel Shark can remain indefinitely active outside the [[FLIPSIDE]] if it has enough [[blood]].
 # .reproduction
 <div class="bestiary-divider"></div>
 

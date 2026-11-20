@@ -23,7 +23,7 @@ Anima is the fundamental vital force animating all living beings, and the substa
 # .source
 <div class="bestiary-divider"></div>
 
-Anima is everywhere, acting as a field permeating the entire physical world. Although it is inexhaustible, some locations can exhibit higher resonances than others. Anima resonance is considerably higher in the FLIPSIDE, reaching its peak in Pandiavolum.
+Anima is everywhere across [[sol|Sol]] and the [[flipside|FLIPSIDE]], acting as a field permeating the entire physical world. Although it is inexhaustible, some locations can exhibit higher resonances than others, such as in the [[flipside|FLIPSIDE]], where the resonance scales as one gets closer to Pandiavolum.
 # .properties
 <div class="bestiary-divider"></div>
 

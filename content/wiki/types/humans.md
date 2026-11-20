@@ -15,13 +15,13 @@ aliases:
 
 <div class="bestiary-image--angel"> <img src="/assets/placeholder.gif" alt="HUMAN" /> </div>
 
-Humans (_Homo sapiens_) are the sapient, dominant beings outside the FLIPSIDE.
+Humans (_Homo sapiens_) are the sapient, dominant type on [[Sol]].
 
 Humans are primates, a high order of mammal. They achieve maturity at 18, reproduce sexually, give birth to live young, and pregnancy lasts 9 months. They have red [[blood]], and have a very primitive form of regeneration, capable of healing only very superficial wounds.
 
 Humans are, compared to [[angels|Angels]] and most [[daemons|Daemons]], very weak. However, unlike humans, [[angels|Angels]] and [[daemons|Daemons]] fundamentally lack the ability to change or oppose their own nature. What they are will always triumph over who they are. Humans, as living beings, are subject to this same principle, but to a considerably lesser degree.
 
-After the Wild Hunt, almost all humans live in City Zero.
+After the Storm, almost all humans live in City Zero.
 
 Humans come in different sub-types:
 - [[hybrids|Hybrids]], created when a human fuses to a [[clutch_beetles|Clutch Beetle]].

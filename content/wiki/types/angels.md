@@ -18,6 +18,6 @@ Angels are humanoid, typically reaching ~2 m in height. Their eyes have black sc
 
 Angels are sapient, and immensely powerful. They are to [[humans]] what [[humans]] are to ants, and this led to them becoming lazy, vain and petty, choosing to not interact with what they deem as lesser beings due to seeing it as too much of a hassle. Their divine nature does not make them omnipotent or invulnerable, and they can die.
 
-Angels reproduce through factory production, casting porcelain shells into which they pour harvested organic mass. The process can sometimes give birth to physically incomplete Angels. They do not need to eat, although they can. They are immune to the FLIPSIDE's negation effect, but not to the effects of the [[toxin]].
+Angels reproduce through factory production, casting porcelain shells into which they pour harvested organic mass. The process can sometimes give birth to physically incomplete Angels. They do not need to eat, although they can. They are immune to the [[FLIPSIDE]]'s negation effect, but not to the effects of the [[toxin]].
 
 The arrival of the [[supreme_acts_of_violence|Supreme Acts of Violence]] and of [[devils|Devils]] brought an end to their stagnation, and caused them to retreat into hiding. The Angels then created the [[cursed_nails|Cursed Nails]] as a way of permanently killing the [[supreme_acts_of_violence|Supreme Acts]], although most of the Nails were destroyed by Violence Against Nature.
