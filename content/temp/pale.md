@@ -1,0 +1,56 @@
+---
+title: PALE
+tags:
+  - factions
+aliases:
+  - Pale
+---
+<br><a href="/wiki/factions" class="nav-button">← FACTIONS</a>
+<br><br>
+
+<div class="material-image">
+  <div class="material-image__frame">
+    <span class="material-image__corner material-image__corner--tl"></span>
+    <span class="material-image__corner material-image__corner--tr"></span>
+    <span class="material-image__corner material-image__corner--bl"></span>
+    <span class="material-image__corner material-image__corner--br"></span>
+  </div>
+  <img src="/assets/factions/pale_logo.png" alt="The Pale"/>
+</div>
+
+The Pale is the governmental power of City Zero, ruling alongside [[ultraviolet|Ultraviolet]] and the [[chromacy|Chromacy]].
+# .purpose
+<div class="bestiary-divider"></div>
+
+The Pale was founded in 1 AV by Mihaela Rebreanu from the remains of the [[acheron_project|Acheron project]], and is responsible for overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside City Zero. 
+# .structure
+<div class="bestiary-divider"></div>
+
+The Pale is ruled by one Executive, currently Mihaela Rebreanu, acting as the supreme authority in the government. The Executive has absolute say over any actions happening within City Zero or any territory occupied by the Pale. The role of Executive is permanent, with replacements occurring only if the current Executive dies, voluntarily steps down, or is otherwise deemed unfit, such as if suffering from a form of mental deterioration that could impair reason, or abusing their power to the detriment of the citizens. The successor is always chosen by the prior Executive beforehand, in case of emergency, and the transfer of power is immediate. The current successor is Lorand Aorello.
+
+Below the Executive are the Mayor and the Bureau heads. These roles are elected democratically, with all citizens over 30 having the chance to run for a position in the yearly elections, and anyone over 18 can vote. Internal political parties are allowed, but any party that attempts to undermine the Executive's power or to interfere with the Pale's overall purpose will be swiftly abolished.
+
+The Mayor acts as the spokesperson for the Pale and as middle ground between the Bureau heads. Every decision, no matter how insignificant, is first parsed through the Executive, who at any point can overturn it or impose their own, without any interference from the wider government, and appoint or demote anyone from any position.
+
+The [[ultraviolet|Ultraviolet]] Captains are, informally, just below the Executive in terms of authoritative power, although they aren't actually members of the Pale.
+# .conduct
+<div class="bestiary-divider"></div>
+
+Economically, the Pale enforces a mixed economy, where all means of production for base, essential products are owned by the state. Individual companies and vendors can bid for access to the base resources, which are then sold or used in the manufacturing process of other products. Businesses completely independent from the Pale's supply do exist, procuring their means of production through private means, ensuring demand doesn't exceed supply. The Pale is the administrator of the current [[radio_computer_network|Radio Computer Network]], and is responsible for running the [[venom_project|VENOM project]].
+
+Wealth can be accumulated and luxury goods do exist with permission from the Pale, although companies and individuals with enough wealth or influence to pose a risk of economic exploitation of the citizens or of the Pale will be held under harsher regulations, if not outright be charged as a criminal offence and culled, with all the wealth being reabsorbed by the Pale.
+
+The Pale employs a rehabilitative justice system. The Executive is exempt from most laws, and can grant immunity or detain anyone at any point, all guaranteed by public trust. There are certain offences which will result in permanent incarceration or even execution, such as any attempt at sabotaging City Zero's security grid or life support systems, attempts to enter the city's foundation, or any attempt at the life of any member of the Pale, [[ultraviolet|Ultraviolet]] Captain or the [[chromacy|Chromacy]]. This is a zero tolerance policy with immediate punishment. 
+
+Any citizen within Pale territory can own private property, distinguished from personal property, and has complete freedom of speech and of association, along with a completely free healthcare, housing, education and emergency services and the right to privacy, religion, bodily autonomy and political participation, and even a welfare system covering food and utilities for people who cannot work due to medical conditions. Freedom of movement is restricted to the confines of City Zero.
+# .assets
+<div class="bestiary-divider"></div>
+
+- City Zero;
+- The Spine;
+- [[radio_computer_network|Radio Computer Network]];
+- [[venom_project|VENOM project]];
+- Most material extraction sites in the [[FLIPSIDE]], run by hired [[ultraviolet|Ultraviolet]] Operators;
+- Signal Stations, partial ownership with [[ultraviolet|Ultraviolet]];
+- [[Absolutes]]:
+	- [[nightmare_shackles|Nightmare Shackle]] (Green), used to bind Violence Against God inside the Sarcophagus.

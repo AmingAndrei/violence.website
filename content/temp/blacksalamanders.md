@@ -1,0 +1,42 @@
+---
+title: BLACKSALAMANDERS
+tags:
+  - chimera
+aliases:
+  - Blacksalamanders
+  - Blacksalamander
+---
+<br><a href="/wiki/types/daemons/chimeras" class="nav-button">← CHIMERAS</a>
+<br><br>
+
+<div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="BLACKSALAMANDER" /> </div>
+
+Blacksalamanders (_Chimaeria primigenius_) are the ancestor type of all [[Chimeras]].
+# .anatomy
+<div class="bestiary-divider"></div>
+
+Blacksalamanders have a reptilian body plan, reaching ~20 cm in length. They have pitch black skin, and are hexapods. They have no [[divine_flame|Divine Flame]].
+# .behaviour
+<div class="bestiary-divider"></div>
+
+Blacksalamanders are nocturnal, and spend the day in damp, dark places. 
+
+They are the progenitor type of all [[Chimeras]], the template used by the Furies to graft the [[divine_flame|Divine Flame]] into, allowing them to evolve and diversify into the other [[chimeras|Chimera]] types.
+# .abilities
+<div class="bestiary-divider"></div>
+
+## …/regeneration
+
+Blacksalamanders are very [[anima|Anima]]-sensitive, and as a result can regenerate to an absurd degree. As long as the brainstem is at least 5% operational, Blacksalamanders are capable of fully regenerating their bodies, even if damage is inflicted to the heart or lungs, switching to an open, mechanically driven circulatory system and external digestion for that duration. 
+
+## …/adaptation
+
+If a body part sustains more damage than others consecutively, it will adapt during regeneration to resist that kind of damage, and that information can be passed on to their offspring, although it will slowly fade unless actively used.
+# .reproduction
+<div class="bestiary-divider"></div>
+
+Blacksalamanders reproduce sexually. They display no sexual dimorphism. During mating season, they will migrate towards nearby bodies of water, where they will lay ~300 eggs. The average Blacksalamander life span is ~10 years.
+# .diet
+<div class="bestiary-divider"></div>
+
+Blacksalamanders are carnivores, eating insects and small fish. In some cases, Blacksalamanders will resort to cannibalism, especially towards the young of other Blacksalamanders.

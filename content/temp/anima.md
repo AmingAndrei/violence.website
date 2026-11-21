@@ -1,0 +1,34 @@
+---
+title: ANIMA
+tags:
+  - material
+aliases:
+  - Anima
+---
+<br><a href="/wiki/materials" class="nav-button">← MATERIALS</a>
+<br><br>
+
+<div class="material-image">
+  <span class="material-image__glow"></span>
+  <div class="material-image__frame">
+    <span class="material-image__corner material-image__corner--tl"></span>
+    <span class="material-image__corner material-image__corner--tr"></span>
+    <span class="material-image__corner material-image__corner--bl"></span>
+    <span class="material-image__corner material-image__corner--br"></span>
+  </div>
+  <img src="/assets/placeholder_icon.svg" alt="Anima"/>
+</div>
+
+Anima is the fundamental vital force animating all living beings, and the substance the 'spirit' of living beings is composed of.
+# .source
+<div class="bestiary-divider"></div>
+
+Anima is everywhere across [[sol|Sol]] and the [[flipside|FLIPSIDE]], acting as a field permeating the entire physical world. Although it is inexhaustible, some locations can exhibit higher resonances than others, such as in the [[flipside|FLIPSIDE]], where the resonance scales as one gets closer to Pandiavolum.
+# .properties
+<div class="bestiary-divider"></div>
+
+All living organisms absorb Anima as long as they remain alive. [[devils|Devils]] have the greatest Anima draw, being entirely made of it, and their bodies consequently act as an amplifier, increasing the local resonance around their vicinity. Locations with a very low or no Anima resonance are barren and devoid of life, and any being that enters such an area will die from deprivation.
+
+All beings leave imprints on the field. As a result, Anima stores the imprints of all past and present life forms, and even future or theoretical life forms that may never exist.
+
+Violence Against Nature can use the wider Anima field to communicate with [[devils|Devils]] by screaming, sending ripples that instantly reach all [[devils|Devils]], everywhere, compelling them to do as told. While she can limit which [[devils|Devils]] hear her by type, she cannot limit it to just one individual.

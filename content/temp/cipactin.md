@@ -1,0 +1,48 @@
+---
+title: CIPACTIN
+tags:
+  - chimera
+aliases:
+  - Cipactin
+  - Cipactli
+---
+<br><a href="/wiki/types/daemons/chimeras" class="nav-button">← CHIMERAS</a>
+<br><br>
+
+<div class="bestiary-image--chimera"> <img src="/assets/placeholder.gif" alt="CIPACTLI" /> </div>
+
+Cipactin (Sg. _Cipactli_, _Cipactli maritimum_) are a type of amphibious [[chimeras|Chimera]].
+# .anatomy
+<div class="bestiary-divider"></div>
+
+Cipactin have a reptilian body plan, reaching ~6 m in length, 50% of which is their tail. They are bipedal, possessing only one pair of limbs, with a shoulder height of 2 m. They have forward-facing eyes near the nasal region, and a large mouth filled with numerous small, sharp teeth.
+
+Along the full length of their bodies and on their limbs are numerous frills, spines, and fin-like appendages, along with vent-like openings running the entire length of their bodies. While the colouration of their scales is dark blue and black, their frills are bright, usually around the orange spectrum. When healthy, their joints produce a distinctive grinding noise when moving. The colour of their [[divine_flame|Divine Flame]] is orange.
+# .behaviour
+<div class="bestiary-divider"></div>
+
+Cipactin are highly social, forming large herds composed of multiple family bands, each family consisting of ~20 individuals, of which 1 matriarch and her breeding/guard male, 2-4 subordinate males, with the rest being females and their offspring. They are used as beasts of burden by the [[Fae]], for their strength and adaptability to different terrain.
+# .abilities
+<div class="bestiary-divider"></div>
+
+## …/[[pyrokinesis]]
+
+Cipactin use [[pyrokinesis|Pyrokinesis]] primarily as a method of transport, as they release [[divine_flame|Divine Flame]] at high pressures from the vents along their bodies, granting them rapid propulsion through water, reaching a maximum speed of 70 km/h. They can also release [[divine_flame|Divine Flame]] in a large area around them from their frills.
+
+## …/underwater_breathing
+
+Cipactin frills are highly vascularised and permit respiration through diffusion, although this form of breathing is less efficient for intensive activity.
+
+## …/mobility
+
+In water, the shape of a Cipactli's head, along with their rudder-like tail, helps with water navigation. 
+
+On land, Cipactin are surprisingly mobile. Their limbs are thick and muscular, allowing them to support 3× their weight and casually run at ~60 km/h, with their tail acting as a counter-balance. Their paws are also highly dexterous, which aids in climbing and traversing rough terrain.
+# .reproduction
+<div class="bestiary-divider"></div>
+
+Cipactin reproduce sexually. Females lay 1-2 eggs, collectively guarded by the entire family band. After reaching maturity, males will compete to become the breeding male of other family bands. Bachelors will remain independent and will attempt again during the next mating season. The average Cipactli life span is ~20 years in the wild, and ~40 domesticated.
+# .diet
+<div class="bestiary-divider"></div>
+
+Cipactin are omnivorous, with a big percentage of their diet in the wild consisting of aquatic flora.
