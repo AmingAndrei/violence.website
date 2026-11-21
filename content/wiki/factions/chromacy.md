@@ -22,27 +22,44 @@ The Chromacy is the spiritual power of City Zero, ruling alongside the [[pale|Pa
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Chromacy's role is to act as ruling authority over Chromaticism, its doctrine, and its followers, called chromaticans. It is their primary goal to guide their followers onto 'the Golden Path', a future constantly monitored with the help of the Oracle Machine.
+The Chromacy is the ruling authority over Chromaticism, its doctrine and its followers, known as chromaticans. Its primary purpose is to guide [[humans|humanity]] along the 'Golden Path', a future interpreted through the readings of the Oracle Machine.
 # .structure
 <div class="bestiary-divider"></div>
 
-The supreme authority and object of worship of Chromaticism is Fair Lady Chroma. It is believed She is a messianic figure, a physical manifestation of the world, and is the one there for us at the beginning of our lives and waiting at end. In reality, Lady Chroma is a corrupted interpretation of Violence Against Nature, the recollection of an encounter twisted through the years. None of the parties involved know this.
+## …/fair_lady_chroma
 
-The Oracle Machine is a device from ~2000 AAV, built with the intention of analysing all possible futures of [[humans|humanity]], thought to be capable of directly communicating with Lady Chroma. There has only ever existed one Oracle Machine, being repaired and upgraded through the ages with the latest technological advancements to improve the accuracy of its readings. The Chromacy uses the Oracle Machine to analyse the collective future of [[humans|humanity]], and with it follow the 'Golden Path' set forth by Lady Chroma. In reality, the Oracle Machine analyses [[anima|Anima]] and outputs the many many future evolutions of [[humans|humanity]] found in it.
+The supreme authority and object of worship of Chromaticism is Fair Lady Chroma, a corrupted recollection of Violence Against Nature, neither party aware of this. She is believed to be a messianic figure and a physical manifestation of the divine principle of life, present at the beginning of every life and waiting at its end.
+## …/oracle_machine
 
-The Chromacy is collectively administered by 10 Conductors, residing in the Choir Cathedral, being responsible for actually controlling the way Chromaticism is run and taught. Among them one is appointed as Great Conductor, an honorary position mostly, acting as the mouthpiece for the Chromacy, although having no more authority than the other Conductors. They are together responsible for the interpretation of the Oracle Machine and maintaining the 'Golden Path'.
+The Oracle Machine is a unique device constructed ~2000 AAV, originally intended to analyse the possible futures of [[humans|humanity]]. Believed to communicate directly with Fair Lady Chroma, it serves as the Chromacy's primary means of interpreting the Golden Path. It is continuously repaired and upgraded to improve the accuracy of its readings.
+## …/conductors
 
-Conductors are elected, with precentors placing the name of another precentor into the Oracle Machine, which will then choose the new Conductor. The Great Conductor is chosen similarly, with Conductors voting whenever the current Great Conductor dies or resigns. Precentors are below Conductors, administering the churches as a whole, and cantors are below precentors, interacting with followers directly. The overwhelming majority of City Zero's population is composed of chromaticans.
-# .conduct
+The Chromacy is collectively governed by ten Conductors, who reside in the Choir Cathedral and oversee the administration and interpretation of Chromaticism. Among them, one is appointed Great Conductor, acting primarily as the organisation's representative and mouthpiece, without possessing additional authority over the others.
+
+Conductors are selected through the Oracle Machine, with Precentors submitting nominations for consideration. The Great Conductor is elected similarly by the Conductors, whenever the position becomes vacant.
+
+Below them are the Precentors, responsible for administering the churches, and Cantors, who interact directly with the congregation. The overwhelming majority of City Zero's population are chromaticans.
+# .doctrine
 <div class="bestiary-divider"></div>
 
-Chromaticism believes the spiritual and physical worlds are one, and when we die, we remain here to help our closest when in need, as long as our help is needed. When we're done, we peacefully cease to be, to make room for new people. [[humans|Humanity]] is no less divine than it is ordinary.
+## …/theology
 
-Chromaticism doesn't really believe in the concept of sin. Instead, every person is born pure, although immoral and impure thoughts and actions can tarnish the soul, which can be undone by righting your wrongs and doing more good than cumulative bad. Generally, actions that are in the interest of only oneself, that are solely in the interest of others, or that are detrimental to oneself or to others, are seen as wrong. There exist two unforgivable sins: living an unfulfilling life, and dying an unfulfilling death. Sinners cease to be instantly, and their absence can cause the souls of others to tarnish.
+Chromaticism considers the spiritual and physical worlds to be one. Upon death, individuals remain within their loved ones, helping them for as long as they are needed, before peacefully ceasing to exist and making room for new lives. [[humans|Humanity]] is considered no less divine than it is ordinary.
+## …/morality
 
-Prayer is separated into quiet prayer, which we do throughout our lives whenever we hope or dream for something, and loud prayer, which is when we attempt to commune directly with Lady Chroma. After death, the body is incinerated, since we now reside within the ones closest, and since death and grief can tarnish the soul. Marriage is an essential part of life, where two individuals join together for life, regardless of gender.
+Chromaticism does not recognise sin as a conventional moral category. Every person is born pure, although their soul can become tarnished through immoral thoughts and actions. This can be undone through righting one's wrongs and performing good deeds.
 
-Initiation is nigh impossible, with almost all chromaticans being born one. [[hybrids|Hybrids]] and [[fae|Fae]] half-breeds are proscribed from joining or are excommunicated, even interpreting [[chromic_rot|Chromic Rot]] as a punishment from Lady Chroma Herself for the continued existence of [[hybrids]].
+Actions driven exclusively by selfishness or self-sacrifice, as well as those detrimental to oneself or others, are generally considered immoral. Two transgressions are considered unforgivable: **living an unfulfilling life** and **dying an unfulfilling death**. Suicide is regarded as a transgression by proxy, as it is considered an abandonment of one's potential and a rejection of the life one has been given.
+
+Those who commit these transgressions become parasites upon the souls of others. Unable to find fulfilment within themselves, they seek it through others, imposing their unmet needs upon them and tarnishing their souls in the process. This pursuit only hollows the parasites further, gradually eroding their own souls until nothing remains.
+## …/practices
+
+Prayer is divided into quiet and loud prayer. Quiet prayer consists of the hopes and aspirations carried throughout one's life, while loud prayer is the deliberate attempt to commune with Fair Lady Chroma.
+
+Following death, the body is incinerated, as the deceased are believed to remain within their loved ones. Death and grief are also considered potential sources of tarnish. Marriage is regarded as an essential, lifelong union between two individuals, regardless of gender.
+## …/initiation
+
+Initiation into Chromaticism is exceptionally difficult, with the overwhelming majority of chromaticans being born into the faith. [[hybrids|Hybrids]] and [[fae|Fae]] half-breeds are prohibited from joining, with existing members subject to excommunication. [[chromic_rot|Chromic Rot]] is interpreted as a punishment from Fair Lady Chroma for the continued existence of [[hybrids]].
 # .assets
 <div class="bestiary-divider"></div>
 

@@ -22,13 +22,27 @@ Ultraviolet is the military power of City Zero, ruling alongside the [[pale|Pale
 # .purpose
 <div class="bestiary-divider"></div>
 
-Ultraviolet started as the expedition branch of the [[acheron_project|Acheron project]], becoming independent after the Storm. Currently, it has complete responsibility over anything and everything related to the [[FLIPSIDE]]. This includes exploration, research and development, and neutralising anything that could pose a threat to themselves or to City Zero, lethally or not. They can extend into civilian matters, if there is suspicion of [[FLIPSIDE]] interference of any kind or upon payment. They are responsible with keeping a public register of all [[hybrids]] living within City Zero and limiting their activity so as to prevent the spread of [[chromic_rot|Chromic Rot]].
+Ultraviolet originated as the expeditionary branch of the [[acheron_project|Acheron project]], becoming an independent organisation following the Storm. It holds complete responsibility over all operations concerning the [[FLIPSIDE]].
+
+Its authority can extend into civilian affairs when [[flipside|FLIPSIDE]] interference is suspected, or through commissioned work with the Executive's approval. Ultraviolet also maintains a public register of all [[hybrids]] living within City Zero and regulates their activities to prevent the spread of [[chromic_rot|Chromic Rot]].
 # .structure
 <div class="bestiary-divider"></div>
 
-Ultraviolet has a loose hierarchy, on top of which sits the [[pale|Pale]] Executive, acting as personal handler to each and every Ultraviolet Operator. The Executive is responsible with assigning and negotiating missions, providing briefing and intelligence, dealing with reports and other bureaucracy, and granting political and legal shielding, such as the explicit freedom of movement outside of City Zero. Most Ultraviolet contracts are consequently for the [[pale|Pale]], although anyone can request assistance for a fee and permission from the Executive.
+## …/handler
 
-The Operator hierarchy is based on strength, with the Captains being the demonstrably most powerful Operators in the organisation. There are only ever three Captains at a time, and each is in charge of their own Division of Ultraviolet, named after them. Informally, all Captains are placed just below the Executive in the [[pale|Pale]]'s hierarchy, and are publicly seen as celebrities or heroes within City Zero. These Divisions do not have an individual specialisation, instead focusing on whatever the Captain in charge wants. All Operators are chosen by the Captains during recruitment and placed within their Division, and they can change Division if both Captains agree. If a Captain spot becomes vacant, the next strongest person automatically inherits the role. The ranking is constantly being updated by the Executive, the only person aware of its existence, and only the top 3 are public knowledge.
+Although independent as an organisation, Ultraviolet operates under the ultimate authority of the [[pale|Pale]] Executive, who acts as the personal handler for every Operator.
+
+The Executive is responsible for assigning and authorising missions, providing intelligence and briefings, overseeing operational reports, and granting the necessary political and legal protections, including permission to operate outside City Zero. Most Ultraviolet contracts are commissioned by the [[pale|Pale]], although outside requests can be accepted upon payment and approval from the Executive.
+## …/captains
+
+Ultraviolet's internal hierarchy is primarily based on strength, with its three Captains being the organisation's demonstrably most powerful Operators. Each Captain leads their own Division, named after them, with no fixed specialisation or operational focus beyond their respective Captain's priorities.
+
+Captains are responsible for recruiting and assigning Operators to their Divisions. Operators may transfer between Divisions with the agreement of both Captains. Should a Captain position become vacant, it is automatically inherited by the next strongest Operator.
+
+The Executive maintains a constantly updated internal ranking of all Operators, of which only the top three positions are publicly known. Captains hold an exceptional position of authority and are generally regarded as celebrities and heroes within City Zero.
+## …/operators
+
+Operators are recruited from the civilian population, either through applications or direct recruitment by a Captain, and receive their training within Ultraviolet. Licensing and remuneration are handled by the Executive. Operators may resign at any time, but independently operating without membership in Ultraviolet is illegal and subject to capital punishment.
 
 | Active    |                                                                                                        |                   |                                                             |
 | --------- | ------------------------------------------------------------------------------------------------------ | ----------------- | ----------------------------------------------------------- |
@@ -42,13 +56,11 @@ The Operator hierarchy is based on strength, with the Captains being the demonst
 | Captain | Radek Preda ([[humans\|Human]] // [[hybrids\|Hybrid]]) | Victor ([[humans\|Human]]) |
 | Reason  | Voluntary Resignation                                  | Death                      |
 
-Civilians can apply or be recruited by a Captain to become an Operator. Training is provided within Ultraviolet, and licensing and pay are issued by the Executive. While extensive injury coverage is provided, a majority of Operators have the ability to regenerate, which makes it unnecessary in most cases. Operators can resign whenever, and are forcefully retired around age 50. Working as an Operator independently, without being members of Ultraviolet, is illegal and is subject to severe punishment by a legitimate Operator.
-
 ¹Divisions part of the expedition branch of the [[acheron_project|Acheron project]].
 # .conduct
 <div class="bestiary-divider"></div>
 
-Ultraviolet makes great use of the Signal Stations outside City Zero, intercepting threats way before they reach civilians. However, should something reach the city, Operators are instructed to prioritise the overall safety of civilians, even if it involves some casualties.
+Ultraviolet makes extensive use of the Signal Stations surrounding City Zero, intercepting potential threats before they can reach civilian areas. Should a threat breach the city's defences, Operators are instructed to prioritise civilian safety, even if it involves casualties.
 # .assets
 <div class="bestiary-divider"></div>
 

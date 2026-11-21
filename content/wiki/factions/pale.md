@@ -22,27 +22,44 @@ The Pale is the governmental power of City Zero, ruling alongside [[ultraviolet|
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Pale was founded in 1 AV by Mihaela Rebreanu from the remains of the [[acheron_project|Acheron project]], and is responsible for overseeing everything that has to do with maintaining the normalcy of their citizens' lives, along with their social and economical needs. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside City Zero. 
-# .structure
+The Pale was founded in 1 AV by Mihaela Rebreanu from the remains of the [[acheron_project|Acheron project]], and is responsible for overseeing civilian life. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside City Zero. The Pale is the supervisor of the current [[radio_computer_network|Radio Computer Network]], and is responsible for running the [[venom_project|VENOM project]].
+# .government
 <div class="bestiary-divider"></div>
 
-The Pale is ruled by one Executive, currently Mihaela Rebreanu, acting as the supreme authority in the government. The Executive has absolute say over any actions happening within City Zero or any territory occupied by the Pale. The role of Executive is permanent, with replacements occurring only if the current Executive dies, voluntarily steps down, or is otherwise deemed unfit, such as if suffering from a form of mental deterioration that could impair reason, or abusing their power to the detriment of the citizens. The successor is always chosen by the prior Executive beforehand, in case of emergency, and the transfer of power is immediate. The current successor is Lorand Aorello.
+## …/executive
 
-Below the Executive are the Mayor and the Bureau heads. These roles are elected democratically, with all citizens over 30 having the chance to run for a position in the yearly elections, and anyone over 18 can vote. Internal political parties are allowed, but any party that attempts to undermine the Executive's power or to interfere with the Pale's overall purpose will be swiftly abolished.
+The Pale is ruled by one Executive, acting as its supreme authority.
 
-The Mayor acts as the spokesperson for the Pale and as middle ground between the Bureau heads. Every decision, no matter how insignificant, is first parsed through the Executive, who at any point can overturn it or impose their own, without any interference from the wider government, and appoint or demote anyone from any position.
+The Executive has absolute authority over all matters concerning the Pale and its territory. The position is permanent, with replacements occurring only if the current Executive dies, voluntarily steps down, or suffers from a form of mental deterioration that could impair their ability to govern.
 
-The [[ultraviolet|Ultraviolet]] Captains are, informally, just below the Executive in terms of authoritative power, although they aren't actually members of the Pale.
-# .conduct
+The successor is always chosen by the prior Executive beforehand, in case of emergency, and the transfer of power is immediate. The current Executive is Mihaela Rebreanu, with Lorand Aorello designated as her successor.
+## …/captains_of_[[ultraviolet]]
+
+The [[ultraviolet|Ultraviolet]] Captains are, informally, just below the Executive in terms of authoritative power, even though they aren't actually members of the Pale.
+## …/administrator
+
+The Administrator is responsible for the municipal management of City Zero and acts as the head of its civilian government. They are elected by the Congress, subject to final approval by the Executive.
+
+Their responsibilities include coordinating and implementing the decisions of the Congress, and maintaining the city's civilian institutions and public services. The Administrator also acts as the primary intermediary between the Congress and the Executive.
+## …/congress
+
+The Congress is the legislative body of the Pale, composed of representatives belonging to its various political parties. Its members are elected by the citizens and are responsible for proposing, debating, and voting on legislation, as well as determining the direction of civilian policy.
+
+Political parties represent different ideological positions and approaches to the governance of City Zero. They are permitted to compete for representation and influence within the Congress, provided their activities do not directly threaten the Pale or its fundamental purpose.
+
+All decisions made by the Congress remain subordinate to the authority of the Executive, who retains the right to overturn legislation or impose their own directives at any time, for any reason.
+# .policies
 <div class="bestiary-divider"></div>
 
-Economically, the Pale enforces a mixed economy, where all means of production for base, essential products are owned by the state. Individual companies and vendors can bid for access to the base resources, which are then sold or used in the manufacturing process of other products. Businesses completely independent from the Pale's supply do exist, procuring their means of production through private means, ensuring demand doesn't exceed supply. The Pale is the administrator of the current [[radio_computer_network|Radio Computer Network]], and is responsible for running the [[venom_project|VENOM project]].
+## …/economy
 
-Wealth can be accumulated and luxury goods do exist with permission from the Pale, although companies and individuals with enough wealth or influence to pose a risk of economic exploitation of the citizens or of the Pale will be held under harsher regulations, if not outright be charged as a criminal offence and culled, with all the wealth being reabsorbed by the Pale.
+The Pale maintains a mixed economy, retaining state ownership of essential resources and production while permitting private enterprise under government regulation. Private wealth and luxury goods are permitted, although economic influence deemed threatening to the Pale or its citizens is subject to severe restrictions and, in some cases, culling.
+## …/justice
 
-The Pale employs a rehabilitative justice system. The Executive is exempt from most laws, and can grant immunity or detain anyone at any point, all guaranteed by public trust. There are certain offences which will result in permanent incarceration or even execution, such as any attempt at sabotaging City Zero's security grid or life support systems, attempts to enter the city's foundation, or any attempt at the life of any member of the Pale, [[ultraviolet|Ultraviolet]] Captain or the [[chromacy|Chromacy]]. This is a zero tolerance policy with immediate punishment. 
+The Pale employs a predominantly rehabilitative justice system, reserving its harshest punishments for offences threatening the security and continued existence of City Zero. These include attempts to sabotage its security grid or life support systems, unauthorized attempts to access its foundations, working as an Operator without being a member of [[ultraviolet|Ultraviolet]], and assassination attempts against members of the Pale, [[ultraviolet|Ultraviolet]] or the [[chromacy|Chromacy]].
+## …/liberties
 
-Any citizen within Pale territory can own private property, distinguished from personal property, and has complete freedom of speech and of association, along with a completely free healthcare, housing, education and emergency services and the right to privacy, religion, bodily autonomy and political participation, and even a welfare system covering food and utilities for people who cannot work due to medical conditions. Freedom of movement is restricted to the confines of City Zero.
+Citizens are afforded broad civil liberties, including freedom of speech and association, religion, privacy, bodily autonomy and political participation. Both personal and private property are legally protected. Healthcare, housing, education and emergency services are provided free of charge. A welfare system additionally provides food and utilities for citizens unable to work due to medical conditions. Freedom of movement remains restricted to the confines of City Zero.
 # .assets
 <div class="bestiary-divider"></div>
 

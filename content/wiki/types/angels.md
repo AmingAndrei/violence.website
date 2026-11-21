@@ -12,7 +12,7 @@ aliases:
 
 <div class="bestiary-image--angel"> <img src="/assets/placeholder.gif" alt="ANGEL" /> </div>
 
-Angels are divine beings.
+Angels are divine beings, residing on [[sol|Sol]]'s moon.
 
 Angels are humanoid, typically reaching ~2 m in height. Their eyes have black sclera and individually distinct, vibrantly coloured irises, their skin is made entirely out of white porcelain, covering their undifferentiated fleshy interior, which can crack and shatter with enough force. Their hair is white, and they lack noses. Some have wings, some don't. Damage on their skin can be fixed by putting the shards together, and forms gold cracks after healing. 
 
