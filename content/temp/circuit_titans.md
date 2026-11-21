@@ -36,7 +36,7 @@ The tendrils of a Circuit Titan eventually split down to the size of thin cables
 Their tendrils can then interface with electronic devices, which are then directly controlled by the Circuit Titan, even allowing them to communicate, as long as they remain in contact with the device.
 ## …/environmental_impact
 
-The immense size of a Circuit Titan actively alters the nearby climate, such as their cells drastically increasing the nearby static electricity, causing indefinite lightning storms, increasing the temperature of the surrounding area, which in turn affects not just the general climate, but also winds and airflow. These effects become even more prominent once awake and active.
+The immense size of a Circuit Titan actively alters the nearby climate, such as their cells drastically increasing the nearby static electricity, causing indefinite lightning storms, increasing the temperature of the surrounding area, which in turn affects not just the general climate, but also winds and airflow. These effects become even more prominent once awake and active, and are the reason why [[wiki/map/sol|Sol]] hasn't completely frozen over.
 # .reproduction
 <div class="bestiary-divider"></div>
 
