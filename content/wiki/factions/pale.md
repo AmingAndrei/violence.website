@@ -67,7 +67,7 @@ Citizens are afforded broad civil liberties, including freedom of speech and ass
 - The Spine;
 - [[radio_computer_network|Radio Computer Network]];
 - [[venom_project|VENOM project]];
-- Most material extraction sites in the [[FLIPSIDE]], run by hired [[ultraviolet|Ultraviolet]] Operators;
+- Most material extraction sites in the [[flipside]], run by hired [[ultraviolet|Ultraviolet]] Operators;
 - Signal Stations, partial ownership with [[ultraviolet|Ultraviolet]];
 - [[Absolutes]]:
 	- [[nightmare_shackles|Nightmare Shackle]] (Green), used to bind Violence Against God inside the Sarcophagus.

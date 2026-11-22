@@ -15,7 +15,7 @@ aliases:
 
 <div class="bestiary-image--angel"> <img src="/assets/placeholder.gif" alt="HUMAN" /> </div>
 
-Humans (_Homo sapiens_) are the sapient, dominant type on [[Sol]].
+Humans (_Homo sapiens_) are the sapient, dominant type on [[sol]].
 
 Humans are primates, a high order of mammal. They achieve maturity at 18, reproduce sexually, give birth to live young, and pregnancy lasts 9 months. They have red [[blood]], and have a very primitive form of regeneration, capable of healing only very superficial wounds.
 

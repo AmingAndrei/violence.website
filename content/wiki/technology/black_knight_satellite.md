@@ -14,7 +14,7 @@ aliases:
   <span class="absolutes-image__corner absolutes-image__corner--br"></span>
 </div>
 
-The Black Knight Satellite is an artificial satellite of [[mosaics|Mosaic]] origin orbiting [[Sol]].
+The Black Knight Satellite is an artificial satellite of [[mosaics|Mosaic]] origin orbiting [[sol]].
 # .design
 <div class="bestiary-divider"></div>
 
@@ -22,6 +22,6 @@ The Black Knight Satellite is cylindrical in shape and 8 m in length, composed o
 # .specs
 <div class="bestiary-divider"></div>
 
-The Black Knight Satellite is used by [[mosaics|Mosaics]] to quickly transport themselves out of the [[FLIPSIDE]], and anywhere on the surface of [[Sol]]. The Satellite can make extremely precise adjustments to perfectly line up with its assigned coordinates, all on its own. The [[mosaics|Mosaic]] is then projected directly onto the surface of the planet, through the Satellite's lens. Transport is one-way, and only [[mosaics|Mosaics]] are able to use it.
+The Black Knight Satellite is used by [[mosaics|Mosaics]] to quickly transport themselves out of the [[flipside]], and anywhere on the surface of [[sol]]. The Satellite can make extremely precise adjustments to perfectly line up with its assigned coordinates, all on its own. The [[mosaics|Mosaic]] is then projected directly onto the surface of the planet, through the Satellite's lens. Transport is one-way, and only [[mosaics|Mosaics]] are able to use it.
 
 The Black Knight Satellite cannot interact with areas within the Serpent's barrier, making direct transport within or near City Zero impossible, seen as a yellow blanket through the Satellite's lens.

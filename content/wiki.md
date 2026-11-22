@@ -6,8 +6,8 @@ tags:
 ---
 <br><a href="/" class="nav-button">← HOME</a>
 <br><br>
-# TYPES
 <div class="seam">
+<div class="seam__title">TYPES</div>
 
   <a class="seam-card seam-card--a" href="/wiki/angels">
     <div class="seam-card__bg" style="background-image:url('/assets/types/angel_background_temp.jpg');"></div>
@@ -35,16 +35,33 @@ tags:
 
 </div>
 <br>
+
+<div class="seam seam--duo">
+<div class="seam__title">DIMENSIONS</div>
+
+  <a class="seam-card seam-card--left" href="/wiki/sol">
+    <div class="seam-card__bg seam-card__bg--solid seam-card__bg--red"></div>
+    <div class="seam-card__content">
+      <img class="seam-card__logo" src="/assets/icons/sol.svg" alt="SOL">
+      <span class="seam-card__label">SOL</span>
+    </div>
+  </a>
+
+  <a class="seam-card seam-card--right" href="/wiki/flipside">
+    <div class="seam-card__bg seam-card__bg--solid seam-card__bg--purple"></div>
+    <div class="seam-card__content">
+      <img class="seam-card__logo" src="/assets/icons/flipside.svg" alt="">
+      <span class="seam-card__label">FLIPSIDE</span>
+    </div>
+  </a>
+
+</div>
+<br>
 <div class="wiki-grid">
 
  <a href="/wiki/powers" class="wiki-card">
     <img src="assets/icons/powers.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Powers"/>
     <span class="wiki-card__label">.powers</span>
-  </a>
-
- <a href="/wiki/map" class="wiki-card">
-    <img src="assets/icons/map.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Map"/>
-    <span class="wiki-card__label">.map</span>
   </a>
 
   <a href="/wiki/materials" class="wiki-card">

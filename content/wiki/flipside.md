@@ -6,7 +6,7 @@ tags:
 aliases:
   - FLIPSIDE
 ---
-<br><a href="/wiki/map" class="nav-button">← MAP</a>
+<br><a href="/wiki" class="nav-button">← WIKI</a>
 <br><br>
 
 <div class="ruler-image"> <img src="/assets/placeholder_wide.gif" alt="FLIPSIDE"/> </div>

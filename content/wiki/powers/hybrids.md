@@ -24,7 +24,7 @@ Hybrids have increased reflexes and senses compared to their type's baseline, or
 
 They also gain the [[devils|Devil]] ability to sense and be empowered by fear, and their abilities scale with the local [[anima|Anima]] resonance.
 
-[[gordian_gorgons|Gordian Gorgons]] attempting to infect the hybrid will suffer from excruciating pain caused by a forced backlash from the [[clutch_beetles|Clutch Beetle]]'s nerves, and any eggs that may have entered the hybrid's body will die on the spot. Hybrids remain vulnerable to the [[toxin]], and they become almost entirely immune to the [[FLIPSIDE]]'s negation effect, with the only side effect being a head-splitting headache while inside the dimension.
+[[gordian_gorgons|Gordian Gorgons]] attempting to infect the hybrid will suffer from excruciating pain caused by a forced backlash from the [[clutch_beetles|Clutch Beetle]]'s nerves, and any eggs that may have entered the hybrid's body will die on the spot. Hybrids remain vulnerable to the [[toxin]], and they become almost entirely immune to the [[flipside]]'s negation effect, with the only side effect being a head-splitting headache while inside the dimension.
 
 Hybrids will give birth to other hybrids, if:
 

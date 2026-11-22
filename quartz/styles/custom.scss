@@ -721,7 +721,7 @@ article td {
   height: 420px;
   margin: 2rem 0;
   border: 1px solid white;
-  overflow: hidden;
+  overflow: visible !important;
   transition: --seam-c1 0.5s ease, --seam-c2 0.5s ease;
 
   &:has(.seam-card--a:hover, .seam-card--a:focus-visible) { --seam-c1: 46%; --seam-c2: 73%; }
@@ -800,7 +800,6 @@ article td {
 .seam-card--b .seam-card__content { left: calc((var(--seam-c1) + var(--seam-c2)) / 2); }
 .seam-card--c .seam-card__content { left: calc((100% + var(--seam-c2)) / 2); }
 
-// On mobile the panels stack, so they follow their panel's centre vertically instead
 @media (max-width: 768px) {
   .seam-card--a .seam-card__content { left: 50%; top: calc(var(--seam-c1) / 2); }
   .seam-card--b .seam-card__content { left: 50%; top: calc((var(--seam-c1) + var(--seam-c2)) / 2); }
@@ -811,7 +810,6 @@ article td {
   width: clamp(56px, 13cqw, 130px);
   aspect-ratio: 1 / 1;
   object-fit: contain;
-  filter: drop-shadow(0 0 12px rgba(0, 0, 0, 0.6));
 
   @media (max-width: 768px) {
     width: clamp(48px, 18cqw, 72px);
@@ -821,7 +819,7 @@ article td {
 .seam-card__label {
   font-size: clamp(0.9rem, 2.3cqw, 1.5rem);
   letter-spacing: 0.24em;
-  padding-left: 0.24em;   // balances the trailing letter-spacing so the text looks centred
+  padding-left: 0.24em;
   text-transform: uppercase;
   text-align: center;
   text-wrap: balance;
@@ -832,6 +830,90 @@ article td {
     letter-spacing: 0.14em;
     padding-left: 0.14em;
   }
+}
+
+.seam--duo {
+  --seam-c1: 50%;       
+  width: 77%;
+  margin: 2rem auto;    
+
+  &:has(.seam-card--left:hover, .seam-card--left:focus-visible)   { --seam-c1: 62%; }
+  &:has(.seam-card--right:hover, .seam-card--right:focus-visible) { --seam-c1: 38%; }
+
+  @media (max-width: 768px) {
+    width: 100%;
+    margin: 2rem 0;
+  }
+}
+
+.seam-card--left {
+  clip-path: polygon(0 0, calc(var(--seam-c1) + 9.1%) 0, calc(var(--seam-c1) - 11.7%) 100%, 0 100%);
+
+  @media (max-width: 768px) {
+    clip-path: polygon(0 0, 100% 0, 100% calc(var(--seam-c1) - 9%), 0 calc(var(--seam-c1) + 7%));
+  }
+}
+
+.seam-card--right {
+  clip-path: polygon(calc(var(--seam-c1) + 11.7%) 0, 100% 0, 100% 100%, calc(var(--seam-c1) - 9.1%) 100%);
+
+  @media (max-width: 768px) {
+    clip-path: polygon(0 calc(var(--seam-c1) + 9%), 100% calc(var(--seam-c1) - 7%), 100% 100%, 0 100%);
+  }
+}
+
+.seam--duo .seam-card--left .seam-card__content  { left: calc(var(--seam-c1) / 2); }
+.seam--duo .seam-card--right .seam-card__content { left: calc((100% + var(--seam-c1)) / 2); }
+
+@media (max-width: 768px) {
+  .seam--duo .seam-card--left .seam-card__content  { left: 50%; top: calc(var(--seam-c1) / 2); }
+  .seam--duo .seam-card--right .seam-card__content { left: 50%; top: calc((100% + var(--seam-c1)) / 2); }
+}
+
+@media (min-width: 769px) {
+  .seam--duo {
+    .seam-card__content { gap: clamp(14px, 3.9cqw, 28px); max-width: 31.2cqw; }
+    .seam-card__logo    { width: clamp(56px, 16.9cqw, 130px); }
+    .seam-card__label   { font-size: clamp(0.9rem, 3cqw, 1.5rem); }
+  }
+}
+
+.seam__title {
+  position: absolute;
+  bottom: calc(100% + 14px);   
+  left: -1px;  
+  font-size: 1.85rem;
+  letter-spacing: 0.1em;
+  color: white;
+  pointer-events: none;
+
+  @media (max-width: 768px) {
+    font-size: 0.95rem;
+    letter-spacing: 0.14em;
+    bottom: calc(100% + 10px);
+  }
+}
+
+.seam:has(> .seam__title) {
+  margin-top: 4.5rem;
+
+  @media (max-width: 768px) {
+    margin-top: 3.5rem;
+  }
+}
+
+// ─── TEMP Solid Background (<div class="seam-card__bg" style="background-image:url('/assets/placeholder.gif');"></div>) ───────────────
+
+.seam-card__bg {
+  &--solid {
+    background:
+      repeating-linear-gradient(0deg, rgba(0, 0, 0, 0.28) 0 2px, transparent 2px 5px),
+      radial-gradient(ellipse at center, rgba(255, 255, 255, 0.12), transparent 70%), 
+      linear-gradient(var(--seam-color, #333), var(--seam-color, #333));             
+  }
+
+  &--red    { --seam-color: #e04d54; }
+  &--purple { --seam-color: #7a3da0; }
 }
 
 // ─── Types Buttons ───────────────────────────────────────────────────────────────

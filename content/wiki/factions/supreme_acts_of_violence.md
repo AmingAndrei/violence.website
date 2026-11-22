@@ -19,7 +19,7 @@ aliases:
   <img src="/assets/factions/sav_logo.png" alt="Supreme Acts of Violence"/>
 </div>
 
-The Supreme Acts of Violence are the most violent beings in the world, and uncontested rulers of the [[FLIPSIDE]].
+The Supreme Acts of Violence are the most violent beings in the world, and uncontested rulers of the [[flipside]].
 # .purpose
 <div class="bestiary-divider"></div>
 
@@ -35,7 +35,7 @@ The Supreme Acts are a trio of physical embodiments of violence of the highest d
 # .conduct
 <div class="bestiary-divider"></div>
 
-The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the [[FLIPSIDE]], completely unharmed. The [[cursed_nails|Cursed Nails]] were created by the [[angels|Angels]] as a way of bypassing their immortality, although most of them were destroyed by Violence Against Nature they tried using them.
+The Supreme Acts are virtually immortal. While they can be killed (which is by itself a very difficult to nearly impossible task), their bodies will disintegrate into red dust immediately after death or injury, and will revive after 3 days at a random location in the [[flipside]], completely unharmed. The [[cursed_nails|Cursed Nails]] were created by the [[angels|Angels]] as a way of bypassing their immortality, although most of them were destroyed by Violence Against Nature they tried using them.
 # .assets
 <div class="bestiary-divider"></div>
 
