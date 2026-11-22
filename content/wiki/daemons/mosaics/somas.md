@@ -1,0 +1,74 @@
+---
+title: SOMAS
+tags:
+  - mosaic
+aliases:
+  - Somas
+  - Soma
+  - Vexers
+  - Vexer
+---
+<br><a href="/wiki/daemons/mosaics" class="nav-button">← MOSAICS</a>
+<br><br>
+
+<div class="bestiary-image--mosaic mosaic--yellow"> <img src="/assets/placeholder.gif" alt="SOMA" /> </div>
+
+Somas (_Mosaica soma_) are a type of humanoid* [[mosaics]].
+# .anatomy
+<div class="bestiary-divider"></div>
+
+Somas are composed of two distinct components, a Heart and a Shell.
+
+The Heart of a Soma is the true organism, resembling a yellow slug-larva-thing. They are completely helpless, can barely move on their own, cannot speak, and have very weak senses.
+
+The Shell is a humanoid construct piloted by the Heart, implemented as a last-ditch solution to counteract the Heart's defects. It is 1.9 m in height, has skin made out of a white, flexible, metallic alloy, silver hair, and yellow screen eyes, displaying an animated iris. Its face is capable of displaying the full extent of [[humans|human]] emotion. The Shells were designed by the Serpent to act as a scaffold for mutations and to bear resemblance to both [[humans]] and [[angels|Angels]].
+# .behaviour
+<div class="bestiary-divider"></div>
+
+Somas are social and cooperative, from an outside perspective having very few differences from [[humans]].
+# .abilities
+<div class="bestiary-divider"></div>
+
+## …/shell_empowerment
+The Heart takes control of a Shell by being placed inside its chest cavity. From there, the Heart will spread a nervous filament throughout the entire chassis, taking direct control of the motoric and sensory functions of the Shell, which from this point acts as a direct extension of its body. The Shell grants Somas enhanced mobility and senses, and the ability to speak.
+# .weaknesses
+<div class="bestiary-divider"></div>
+
+## …/shell_damage
+Damage to the Shell will resonate and damage the Heart, which can kill it.
+## …/shell_integration
+While they can be upgraded and repaired, Shells cannot be reliably swapped, as the control method means the Heart becomes integrated inside one, making the transplant extremely complicated and dangerous, and causing extreme discomfort to the Soma while it is forced to adapt. 
+## …/shell_senses
+Most sensors and motoric controls are located in the head, which means Somas can enter a catatonic state if their head is injured or severed. 
+## …/heart_fragility
+Damage to the Heart and chest area is almost always fatal.
+# .vexers
+<div class="bestiary-divider"></div>
+
+Vexers are an extremely rare anomaly where Somas retain the [[vespers|Vesper]] ability of using [[vectors|Vectors]], directly caused by the Serpent's failure to fully override the [[vespers|Vesper]] code responsible. With enough training, Vexers can gain access to other [[vespers|Vesper]] abilities.
+# .mutations
+<div class="bestiary-divider"></div>
+
+Soma mutations are a method by which the Serpent can bypass the Heart's flaws, allowing it to reach its goal of creating a powerful enough vessel for itself.
+## …/triggers
+
+A mutation is triggered when the Serpent manages to take full control of a Soma. The most common occurrence of this happening is when a Soma 'partially' dies, or dies without their Heart fully shattering, which, if the Serpent has enough influence, can force it to reform and bring the Soma back to life.
+
+In some cases, mutations can be forcefully triggered on a living Soma, such as by other mutated Somas. If a Soma is killed by Violence Against Art, they cannot mutate.
+## …/progression
+
+Biologically, the Soma's cells will begin forming organic structures inside the Shell, including functional, albeit awful-tasting [[blood]]. This process will start with the Heart's outer structure and use the Shell as a scaffold, progressing until the Soma's entire body turns organic, becoming a visual match to [[humans]]. Physical mutations cannot be slowed down.
+
+Mentally, the Soma's mind will slowly be eroded and replaced or taken over by the Serpent, causing all sorts of delusions and depersonalisations, until all that is left is the Serpent. Mental mutations can be slowed down, with certain looping and grounding exercises allowing the Soma to retain some control of themselves, though they become less effective with time.
+## …/abilities
+
+As mutation progresses, Somas will grow exponentially stronger and gain access to the abilities and [[vectors|Vector]] of the Serpent, although using them only accelerates mutation.
+## …/physiology
+
+Despite being organic, they remain bound by Soma biology, such as having no taste (despite having taste buds), being unable to sleep, or being able to be killed only if their Heart is destroyed. All other damage will be painful but not fatal, and can actually cause the mutation to accelerate.
+# .production
+<div class="bestiary-divider"></div>
+
+Somas are flawed creation of the Serpent, made to serve as bodies for the Serpent to house itself in. They are corrupted [[vespers|Vespers]], although they lack pretty much all abilities and traits associated with [[vespers|Vespers]]. 
+
+Somas are created when a [[vespers|Vesper]] womb is corrupted by the Serpent. Instead of following its intended development, the Serpent injects itself as the base code, which inadvertently forces the womb into a state of permanent neoteny and creating a Soma Heart.

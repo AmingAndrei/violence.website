@@ -15,7 +15,7 @@ aliases:
   <span class="absolutes-image__corner absolutes-image__corner--br"></span>
 </div>
 
-Fael Cores are devices at the base of most [[Fae]] machinery.
+Fael Cores are devices at the base of most [[fae]] machinery.
 # .specs
 <div class="bestiary-divider"></div>
 
