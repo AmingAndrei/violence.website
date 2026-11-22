@@ -9,9 +9,9 @@ aliases:
 ---
 <br><a href="/wiki" class="nav-button">← WIKI</a><br>
 <br>
-Daemons represent the entirety of the [[flipside]] wildlife. 
+Daemons represent the native wildlife of the [[flipside|FLIPSIDE]]. 
 
-Daemons are grouped into low Daemons and high Daemons, based on abilities and complexity of their relation to [[anima|Anima]]. They are all immune to the [[toxin]] and to the [[flipside]]'s negation effect.
+Daemons are grouped into low Daemons and high Daemons, based on abilities and complexity of their relation to [[anima|Anima]]. They are all immune to the [[toxin]] and to the [[flipside|FLIPSIDE]]'s negation effect.
 
 ---
 

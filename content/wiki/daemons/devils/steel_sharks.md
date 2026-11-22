@@ -73,9 +73,9 @@ Damage to the engine will redirect all healing towards the engine, and if severe
 Water can also dampen a Steel Shark's strength by flooding its engine and preventing maximum output.
 ## …/low_[[anima]]
 
-Steel Sharks are the most [[anima|Anima]]-dependent [[devils|Devil]] type, and require an absurdly high [[anima|Anima]] resonance, only found in the [[flipside]]. On [[sol|Sol]], they will eventually collapse into a low energy state. In this state, they vaguely resemble large weaponry, and remain fully conscious.
+Steel Sharks are the most [[anima|Anima]]-dependent [[devils|Devil]] type, and require an absurdly high [[anima|Anima]] resonance, only found in the [[flipside|FLIPSIDE]]. On [[sol|Sol]], they will eventually collapse into a low energy state. In this state, they vaguely resemble large weaponry, and remain fully conscious.
 
-To combat their obvious weakness of requiring a large [[anima|Anima]] resonance to do anything, Steel Sharks consume [[blood]] as fuel. This also comes with a downside, as the Steel Shark is on a timer until the fuel runs out, and actions such as revving or using their maximum strength will drain it much faster. This also means that a Steel Shark can remain indefinitely active outside the [[flipside]] if it has enough [[blood]].
+To combat their obvious weakness of requiring a large [[anima|Anima]] resonance to do anything, Steel Sharks consume [[blood]] as fuel. This also comes with a downside, as the Steel Shark is on a timer until the fuel runs out, and actions such as revving or using their maximum strength will drain it much faster. This also means that a Steel Shark can remain indefinitely active outside the [[flipside|FLIPSIDE]] if it has enough [[blood]].
 # .reproduction
 <div class="bestiary-divider"></div>
 
