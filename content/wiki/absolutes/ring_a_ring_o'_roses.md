@@ -22,6 +22,6 @@ The Ring a Ring o' Roses resembles a small ring, composed of twisted thorns. The
 # .abilities
 <div class="bestiary-divider"></div>
 
-Created as a gift by and infused with Violence Against Art's malice, the Ring a Ring o' Roses can take control of any being in the person's vicinity when activated. This is shown through thorns appearing and twisting around the target's neck. While the target remains completely aware of their surroundings, they are unable to control their physical actions, moving their body without their will. They can only be released by the wearer.
+Created as a gift by and infused with Violence Against Art's malice, the Ring a Ring o' Roses can take control of any being in the person's vicinity when activated. This is shown through thorns appearing and twisting around the target's neck and limbs. While the target remains completely aware of their surroundings, they are unable to control their physical actions, moving their body without their will. They can only be released by the wearer.
 
 The Ring a Ring o' Roses requires the wearer's [[blood]] to function, so taking it off will immediately deactivate it. Using the [[blood]] of others will also either do nothing, or momentarily pass the control down to whoever's [[blood]] was used. The target must also have a weaker will than that of the caster, or feel inferior to the wearer for even a moment. A stronger will can either cause the effect to break after a short while, or outright fail.
