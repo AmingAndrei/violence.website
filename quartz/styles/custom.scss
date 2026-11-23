@@ -912,8 +912,11 @@ article td {
       linear-gradient(var(--seam-color, #333), var(--seam-color, #333));             
   }
 
-  &--red    { --seam-color: #e04d54; }
+  &--red    { --seam-color: #e6555d; }
   &--purple { --seam-color: #7a3da0; }
+  &--white  { --seam-color: #d8d8d8; }
+  &--green  { --seam-color: #41ac53; }
+  &--violet { --seam-color: #982dda; }
 }
 
 // ─── Types Buttons ───────────────────────────────────────────────────────────────
