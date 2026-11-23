@@ -21,7 +21,7 @@ Humans are primates, a high order of mammal. They achieve maturity at 18, reprod
 
 Humans are, compared to [[angels|Angels]] and most [[daemons|Daemons]], very weak. However, unlike humans, [[angels|Angels]] and [[daemons|Daemons]] fundamentally lack the ability to change or oppose their own nature. What they are will always triumph over who they are. Humans, as living beings, are subject to this same principle, but to a considerably lesser degree.
 
-After the Storm, almost all humans live in City Zero.
+After the Parade, almost all humans live in City Zero.
 
 Humans come in different sub-types:
 - [[hybrids|Hybrids]], created when a human fuses to a [[clutch_beetles|Clutch Beetle]].
