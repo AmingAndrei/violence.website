@@ -13,7 +13,7 @@ aliases:
   <img src="/assets/placeholder.gif" alt="Blue Rose"/>
 </div>
 
-The Blue Rose is a curse and a property of Violence Against Nature.
+The Blue Rose is a [[curses|curse]] and a property of Violence Against Nature.
 # .origin
 <div class="bestiary-divider"></div>
 

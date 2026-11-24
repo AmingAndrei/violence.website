@@ -13,7 +13,7 @@ aliases:
   <img src="/assets/placeholder.gif" alt="Chalk Plague"/>
 </div>
 
-The Chalk Plague was a widespread curse created by Violence Against Art to birth a [[revolutions|Revolution]].
+The Chalk Plague was a widespread [[curses|curse]] created by Violence Against Art to birth a [[revolutions|Revolution]].
 # .origin
 <div class="bestiary-divider"></div>
 

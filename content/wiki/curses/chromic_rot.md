@@ -13,7 +13,7 @@ aliases:
   <img src="/assets/placeholder.gif" alt="Chromic Rot"/>
 </div>
 
-Chromic Rot is a [[hybrids|hybrid]]-spread curse.
+Chromic Rot is a [[hybrids|hybrid]]-spread [[curses|curse]].
 # .origin
 <div class="bestiary-divider"></div>
 
@@ -23,6 +23,6 @@ The host will always be selected at random from the entire population of the [[h
 # .effects
 <div class="bestiary-divider"></div>
 
-Chromic Rot manifests as a pale, rainbow infection within the host's body. As it progresses, this infection will spread throughout their entire body, slowly destroying their organs. The first signs of the curse appear as painful coughing fits, and as it progresses the veins on a host will turn rainbow.
+Chromic Rot manifests as a pale, rainbow infection within the host's body. As it progresses, this infection will spread throughout their entire body, slowly destroying their organs. The first signs of the [[curses|curse]] appear as painful coughing fits, and as it progresses the veins on a host will turn rainbow.
 
 Chromic Rot is incurable, although treatments to alleviate the symptoms or slow down its progression do exist. Most hosts die from complications. The [[chromacy|Chromacy]] and other anti-[[hybrids|hybrid]] groups cite Chromic Rot as a reason to have them outcast or euthanised.
