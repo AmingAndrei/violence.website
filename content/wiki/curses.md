@@ -27,10 +27,10 @@ aliases:
     <div class="curses-card__name">.chromic_rot</div>
   </a>
 
- <a href="/wiki/curses/chalk_plague" class="curses-card">
+ <a href="/wiki/curses/chalk" class="curses-card">
     <span class="curses-card__hole"></span>
     <div class="curses-card__image" style="background-image:url('/assets/placeholder.gif');"></div>
-    <div class="curses-card__name">.chalk_plague</div>
+    <div class="curses-card__name">.chalk</div>
   </a>
   
 </div>

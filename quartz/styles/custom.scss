@@ -941,7 +941,9 @@ $tl-scale-sm: 1.15;   // phones (max-width: 768px)
   --timeline-line: #fff;        // lines, borders, nodes (a colour modifier overrides this per entry)
   --timeline-ink: #fff;         // sprocket holes and dates (stay this colour even on a coloured entry)
   --tl-base: #{tl(22px)};               // minimum gap / bar length (1 day or less)
-  --tl-k: #{tl(14px)};                  // extra px per unit of ln(days)
+  --tl-k: #{tl(32px)};                  // px added per unit of ln(1 + days / knee)
+  --tl-knee: 365;                       // days; gaps shorter than this stay near the minimum
+  --tl-after2-gap: #{tl(114px)};        // minimum gap two entries after a film cell with a duration
   --tl-card-off: #{tl(28px)};           // ruler to card edge
   --tl-node: #{tl(11px)};               // node size
   --tl-film-w: #{tl(200px)};            // film cell width
@@ -958,7 +960,8 @@ $tl-scale-sm: 1.15;   // phones (max-width: 768px)
 
   @media (max-width: 768px) {
     --tl-base: #{tl-sm(18px)};
-    --tl-k: #{tl-sm(10px)};
+    --tl-k: #{tl-sm(24px)};
+    --tl-after2-gap: #{tl-sm(66px)};
     --tl-card-off: #{tl-sm(22px)};
     --tl-node: #{tl-sm(11px)};
     --tl-film-w: #{tl-sm(130px)};
@@ -1001,8 +1004,8 @@ $tl-scale-sm: 1.15;   // phones (max-width: 768px)
 
 // ─── Entry (one row on the ruler) ───────────────────────────────────────────
 .timeline__item {
-  --tl-gap: #{tl(110px)};       // fallbacks if log() is unsupported
-  --tl-span: #{tl(110px)};
+  --tl-gap: calc(var(--tl-base) + var(--tl-k) * log(1 + var(--tl-days) / var(--tl-knee)));
+  --tl-span: calc(var(--tl-base) + var(--tl-k) * log(1 + var(--tl-dur) / var(--tl-knee)));
   --tl-space: var(--tl-gap);    // actual gap above, after film minimums
   --tl-height: var(--tl-node);
 
@@ -1025,6 +1028,7 @@ $tl-scale-sm: 1.15;   // phones (max-width: 768px)
     --tl-gap: calc(var(--tl-base) + var(--tl-k) * log(max(var(--tl-days), 1)));
     --tl-span: calc(var(--tl-base) + var(--tl-k) * log(max(var(--tl-dur), 1)));
   }
+  
 
   &:first-child { margin-top: 0; }
 
@@ -1032,7 +1036,14 @@ $tl-scale-sm: 1.15;   // phones (max-width: 768px)
   &--film { --tl-space: max(var(--tl-gap), var(--tl-film-gap)); }
   &--film + .timeline__item { --tl-space: max(var(--tl-gap), var(--tl-after-film-gap)); }
   &--film + .timeline__item--film { --tl-space: max(var(--tl-gap), var(--tl-film-gap), var(--tl-after-film-gap)); }
-
+  
+  // film cells with a duration hang from their start, so spacing is measured from the end node
+  &--film.timeline__item--span { --tl-space: var(--tl-gap); --tl-height: calc(var(--tl-span) + var(--tl-node)); }
+  &--film + &--film.timeline__item--span { --tl-space: max(var(--tl-gap), var(--tl-after-film-gap)); }
+  &--film.timeline__item--span + .timeline__item { --tl-space: var(--tl-gap); }
+  &--film.timeline__item--span + .timeline__item--film { --tl-space: max(var(--tl-gap), var(--tl-film-gap)); }
+  &--film.timeline__item--span + .timeline__item + .timeline__item { --tl-space: max(var(--tl-gap), var(--tl-after2-gap)); }
+  &--film.timeline__item--span + .timeline__item + .timeline__item--film { --tl-space: max(var(--tl-gap), var(--tl-film-gap), var(--tl-after2-gap)); }
   &--film:first-child { margin-top: var(--tl-edge); }
   &--film:last-child { margin-bottom: var(--tl-edge); }
 

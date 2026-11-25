@@ -40,7 +40,7 @@ The immense size of a Circuit Titan actively alters the nearby climate, such as 
 # .reproduction
 <div class="bestiary-divider"></div>
 
-All Circuit Titans are personally created by Violence Against Nature.
+All Circuit Titans are created by Violence Against Nature.
 # .diet
 <div class="bestiary-divider"></div>
 

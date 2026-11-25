@@ -22,6 +22,6 @@ The Acheron project was founded in 33 [[timeline|AAV]] by a coalition of governm
 # .goals
 <div class="bestiary-divider"></div>
 
-The goal of the Acheron project started as the research of anomalous phenomena and signals in key locations across the globe. After Mihaela's enrollment in 33 [[timeline|AAV]], the project soon established a passage through to the [[flipside|FLIPSIDE]], and managed to make contact with Violence Against Art, who provided valuable help to the group.
+The goal of the Acheron project started as the research of certain aberrant phenomena across the globe. After Mihaela's enrollment in 33 [[timeline|AAV]], the project soon established a passage through to the [[flipside|FLIPSIDE]], and managed to make contact with Violence Against Art, who provided valuable help to the group.
 
 The project dissolved after Violence Against Art triggered the [[devil_parade|Parade]] in 0 [[timeline|AAV]]/[[timeline|AV]]. Its expedition branch, nicknamed 'Team Ultraviolet', became the current [[ultraviolet|Ultraviolet]] organisation, and most of the technological infrastructure and living staff got folded into the [[pale|Pale]], including the master server for the current [[radio_computer_network|Radio Computer Network]].
