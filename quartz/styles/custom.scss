@@ -1025,8 +1025,8 @@ $tl-scale-sm: 1.15;   // phones (max-width: 768px)
   @supports (margin-top: calc(1px * log(2))) {
     --tl-days: calc(var(--y, 0) * 365.25 + var(--m, 0) * 30.44 + var(--d, 0));
     --tl-dur: calc(var(--dy, 0) * 365.25 + var(--dm, 0) * 30.44 + var(--dd, 0));
-    --tl-gap: calc(var(--tl-base) + var(--tl-k) * log(max(var(--tl-days), 1)));
-    --tl-span: calc(var(--tl-base) + var(--tl-k) * log(max(var(--tl-dur), 1)));
+    --tl-gap: calc(var(--tl-base) + var(--tl-k) * log(1 + var(--tl-days) / var(--tl-knee)));
+    --tl-span: calc(var(--tl-base) + var(--tl-k) * log(1 + var(--tl-dur) / var(--tl-knee)));
   }
   
 
