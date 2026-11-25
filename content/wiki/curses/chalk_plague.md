@@ -13,11 +13,11 @@ aliases:
   <img src="/assets/placeholder.gif" alt="Chalk Plague"/>
 </div>
 
-The Chalk Plague was a widespread [[curses|curse]] created by Violence Against Art to birth a [[revolutions|Revolution]].
+The Chalk Plague was a widespread [[curses|curse]] created by Violence Against Art with the goal of birthing a [[revolutions|Revolution]].
 # .origin
 <div class="bestiary-divider"></div>
 
-The Chalk Plague appeared in 660 AAV, created by Violence Against Art and overseen by Chiron. It officially concluded in 652 AAV with the birth of Rafa. Its final death toll was ~60% of [[humans|humanity]].
+The Chalk Plague appeared in 660 [[timeline|AAV]], created by Violence Against Art and overseen by Chiron. It officially concluded in 652 [[timeline|AAV]] with the birth of Rafa. Its final death toll was ~60% of [[humans|humanity]].
 # .effects
 <div class="bestiary-divider"></div>
 

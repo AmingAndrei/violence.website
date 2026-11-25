@@ -59,6 +59,11 @@ tags:
 <br>
 <div class="wiki-grid">
 
+ <a href="/wiki/timeline" class="wiki-card">
+    <img src="assets/icons/timeline.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Powers"/>
+    <span class="wiki-card__label">.timeline</span>
+  </a>
+ 
  <a href="/wiki/powers" class="wiki-card">
     <img src="assets/icons/powers.svg" width="80" height="80" class="wiki-card__icon wiki-card__icon--invert" alt="Powers"/>
     <span class="wiki-card__label">.powers</span>

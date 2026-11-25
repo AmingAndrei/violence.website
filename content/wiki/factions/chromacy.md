@@ -31,7 +31,7 @@ The Chromacy is the ruling authority over Chromaticism, its doctrine and its fol
 The supreme authority and object of worship of Chromaticism is Fair Lady Chroma, a corrupted recollection of Violence Against Nature, neither party aware of this. She is believed to be a messianic figure and a physical manifestation of the divine principle of life, present at the beginning of every life and waiting at its end.
 ## …/oracle_machine
 
-The Oracle Machine is a unique device constructed ~2000 AAV, originally intended to analyse the possible futures of [[humans|humanity]]. Believed to communicate directly with Fair Lady Chroma, it serves as the Chromacy's primary means of interpreting the Golden Path. It is continuously repaired and upgraded to improve the accuracy of its readings.
+The Oracle Machine is a unique device constructed ~2000 [[timeline|AAV]], originally intended to analyse the possible futures of [[humans|humanity]]. Believed to communicate directly with Fair Lady Chroma, it serves as the Chromacy's primary means of interpreting the Golden Path. It is continuously repaired and upgraded to improve the accuracy of its readings.
 ## …/conductors
 
 The Chromacy is collectively governed by ten Conductors, who reside in the Choir Cathedral and oversee the administration and interpretation of Chromaticism. Among them, one is appointed Great Conductor, acting primarily as the organisation's representative and mouthpiece, without possessing additional authority over the others.

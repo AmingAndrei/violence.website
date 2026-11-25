@@ -723,6 +723,7 @@ article td {
   border: 1px solid white;
   overflow: visible !important;
   transition: --seam-c1 0.5s ease, --seam-c2 0.5s ease;
+  background-color: white;
 
   &:has(.seam-card--a:hover, .seam-card--a:focus-visible) { --seam-c1: 46%; --seam-c2: 73%; }
   &:has(.seam-card--b:hover, .seam-card--b:focus-visible) { --seam-c1: 27%; --seam-c2: 73%; }
@@ -902,6 +903,7 @@ article td {
   }
 }
 
+
 // ─── TEMP Solid Background (<div class="seam-card__bg" style="background-image:url('/assets/placeholder.gif');"></div>) ───────────────
 
 .seam-card__bg {
@@ -917,6 +919,405 @@ article td {
   &--white  { --seam-color: #d8d8d8; }
   &--green  { --seam-color: #f15058; }
   &--violet { --seam-color: #982dda; }
+}
+
+// ─── Timeline ───────────────────────────────────────────────────────────────
+// Gap above an entry = base + k × ln(days since the previous entry ENDED),
+// read from --y / --m / --d on the item. Entries with a duration also set
+// --dy / --dm / --dd; a bar then runs from their start node to their end node.
+// Cards alternate sides by order in the HTML (1st right, 2nd left, ...).
+//
+// SIZE: change the two numbers below to scale the whole component.
+// Every size is written at 1× and multiplied, so nothing else needs touching.
+
+$tl-scale: 1.5;       // desktop
+$tl-scale-sm: 1.15;   // phones (max-width: 768px)
+
+@function tl($v) { @return $v * $tl-scale; }
+@function tl-sm($v) { @return $v * $tl-scale-sm; }
+
+.timeline {
+  --timeline-bg: #050505;       // must match the page background (it masks the ruler behind the break marker)
+  --timeline-line: #fff;        // lines, borders, nodes (a colour modifier overrides this per entry)
+  --timeline-ink: #fff;         // sprocket holes and dates (stay this colour even on a coloured entry)
+  --tl-base: #{tl(22px)};               // minimum gap / bar length (1 day or less)
+  --tl-k: #{tl(14px)};                  // extra px per unit of ln(days)
+  --tl-card-off: #{tl(28px)};           // ruler to card edge
+  --tl-node: #{tl(11px)};               // node size
+  --tl-film-w: #{tl(200px)};            // film cell width
+  --tl-film-h: #{tl(208px)};            // approx film cell height
+  --tl-film-gap: #{tl(108px)};          // minimum gap above a film cell
+  --tl-after-film-gap: #{tl(104px)};    // minimum gap for the entry right after one
+  --tl-hole: #{tl(6px)};                // sprocket hole size
+  --tl-edge: calc(var(--tl-film-h) / 2 - #{tl(24px)});  // extra room when a film cell is first/last
+
+  position: relative;
+  max-width: 860px;
+  margin: 0 auto;
+  padding: tl(34px) 0;
+
+  @media (max-width: 768px) {
+    --tl-base: #{tl-sm(18px)};
+    --tl-k: #{tl-sm(10px)};
+    --tl-card-off: #{tl-sm(22px)};
+    --tl-node: #{tl-sm(11px)};
+    --tl-film-w: #{tl-sm(130px)};
+    --tl-film-h: #{tl-sm(138px)};
+    --tl-film-gap: #{tl-sm(72px)};
+    --tl-after-film-gap: #{tl-sm(66px)};
+    --tl-hole: #{tl-sm(4px)};
+    --tl-edge: calc(var(--tl-film-h) / 2 - #{tl-sm(24px)});
+    padding: tl-sm(28px) 0;
+  }
+
+  // the ruler line
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: calc(50% - 0.5px);
+    width: 1px;
+    background: var(--timeline-line);
+  }
+
+  // tick marks crossing it
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: tl(9px);
+    background: repeating-linear-gradient(180deg, rgba(255, 255, 255, 0.55) 0 1px, transparent 1px #{tl(12px)});
+
+    @media (max-width: 768px) {
+      width: tl-sm(9px);
+      background: repeating-linear-gradient(180deg, rgba(255, 255, 255, 0.55) 0 1px, transparent 1px #{tl-sm(12px)});
+    }
+  }
+}
+
+// ─── Entry (one row on the ruler) ───────────────────────────────────────────
+.timeline__item {
+  --tl-gap: #{tl(110px)};       // fallbacks if log() is unsupported
+  --tl-span: #{tl(110px)};
+  --tl-space: var(--tl-gap);    // actual gap above, after film minimums
+  --tl-height: var(--tl-node);
+
+  position: relative;
+  display: block !important;
+  height: var(--tl-height);     // just the node: cards overflow it, so close entries can share height
+  margin-top: var(--tl-space);
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: none !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  text-decoration: none !important;
+  color: #fff !important;
+
+  @supports (margin-top: calc(1px * log(2))) {
+    --tl-days: calc(var(--y, 0) * 365.25 + var(--m, 0) * 30.44 + var(--d, 0));
+    --tl-dur: calc(var(--dy, 0) * 365.25 + var(--dm, 0) * 30.44 + var(--dd, 0));
+    --tl-gap: calc(var(--tl-base) + var(--tl-k) * log(max(var(--tl-days), 1)));
+    --tl-span: calc(var(--tl-base) + var(--tl-k) * log(max(var(--tl-dur), 1)));
+  }
+
+  &:first-child { margin-top: 0; }
+
+  // film cells are tall, so they (and the entry after them) get a minimum gap
+  &--film { --tl-space: max(var(--tl-gap), var(--tl-film-gap)); }
+  &--film + .timeline__item { --tl-space: max(var(--tl-gap), var(--tl-after-film-gap)); }
+  &--film + .timeline__item--film { --tl-space: max(var(--tl-gap), var(--tl-film-gap), var(--tl-after-film-gap)); }
+
+  &--film:first-child { margin-top: var(--tl-edge); }
+  &--film:last-child { margin-bottom: var(--tl-edge); }
+
+  // entry with a duration: bar from start node to end node, card hangs from the start
+  &--span {
+    --tl-card-min: #{tl(64px)};
+    --tl-height: max(calc(var(--tl-span) + var(--tl-node)), var(--tl-card-min));
+
+    @media (max-width: 768px) { --tl-card-min: #{tl-sm(56px)}; }
+
+    &.timeline__item--film {
+      --tl-card-min: calc(var(--tl-film-h) + #{tl(14px)});
+
+      @media (max-width: 768px) { --tl-card-min: calc(var(--tl-film-h) + #{tl-sm(12px)}); }
+    }
+  }
+
+  // optional marker for big jumps: a short bar crossing a gap in the ruler
+  &--break::before {
+    content: '';
+    position: absolute;
+    top: calc(var(--tl-space) / -2);
+    left: 50%;
+    width: tl(22px);
+    height: tl(2px);
+    background: var(--timeline-line);
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 0 tl(4px) var(--timeline-bg);
+    z-index: 1;
+
+    @media (max-width: 768px) {
+      width: tl-sm(16px);
+      height: tl-sm(2px);
+      box-shadow: 0 0 0 tl-sm(4px) var(--timeline-bg);
+    }
+  }
+
+  // special-colour entry (e.g. one that links straight to a book)
+  &--yellow {
+    --timeline-line: #ffff00;   // border, stem, node, hover outline and hover fill
+    --tl-edge-w: 4px;           // thicker film border
+    color: #ffff00 !important;  // name (dates and sprocket holes keep --timeline-ink)
+
+    @media (max-width: 768px) { --tl-edge-w: 3px; }
+  }
+}
+
+// ─── Nodes and duration bar ─────────────────────────────────────────────────
+.timeline__node {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: var(--tl-node);
+  height: var(--tl-node);
+  border: 1px solid var(--timeline-line);
+  border-radius: 50%;
+  background: var(--timeline-bg);
+  z-index: 1;
+
+  &--end { top: var(--tl-span); }
+
+  .timeline__item--film & {
+    border-radius: tl(2px);
+    transition: background 0.2s ease;
+  }
+
+  a.timeline__item:hover & { background: var(--timeline-line); }
+}
+
+.timeline__bar {
+  position: absolute;
+  left: 50%;
+  top: calc(var(--tl-node) / 2);
+  width: tl(7px);
+  height: var(--tl-span);
+  transform: translateX(-50%);
+  background: var(--timeline-line);
+
+  @media (max-width: 768px) { width: tl-sm(5px); }
+}
+
+// ─── Shared card placement + stem ───────────────────────────────────────────
+.timeline__label,
+.timeline__film {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: calc(var(--tl-card-off) - var(--tl-node) / 2 + var(--tl-edge-w, 1px) - 1px);
+    height: 1px;
+    background: var(--timeline-line);
+  }
+
+  .timeline__item--span & {
+    top: 0;
+    transform: none;
+
+    &::before { top: calc(var(--tl-node) / 2); }
+  }
+}
+
+.timeline__item:nth-child(odd) {
+  .timeline__label,
+  .timeline__film {
+    left: calc(50% + var(--tl-card-off));
+
+    &::before { right: 100%; }
+  }
+
+  .timeline__label { text-align: left; }
+}
+
+.timeline__item:nth-child(even) {
+  .timeline__label,
+  .timeline__film {
+    right: calc(50% + var(--tl-card-off));
+
+    &::before { left: 100%; }
+  }
+
+  .timeline__label { text-align: right; }
+}
+
+// ─── Type 1: static label ───────────────────────────────────────────────────
+.timeline__label {
+  width: max-content;
+  max-width: calc(50% - var(--tl-card-off) - 6px);
+  padding: tl(10px) tl(16px);
+  border: 1px solid var(--timeline-line);
+  border-radius: tl(6px);
+
+  @media (max-width: 768px) {
+    padding: tl-sm(7px) tl-sm(10px);
+    border-radius: tl-sm(6px);
+    max-width: calc(50% - var(--tl-card-off) - 4px);
+  }
+}
+
+.timeline__date {
+  display: block;
+  font-size: tl(0.7rem);
+  letter-spacing: 0.08em;
+  color: var(--timeline-ink);
+  opacity: 0.7;
+
+  @media (max-width: 768px) { font-size: tl-sm(0.6rem); }
+}
+
+.timeline__name {
+  display: block;
+  margin-top: tl(3px);
+  font-size: tl(1rem);
+  letter-spacing: 0.16em;
+
+  @media (max-width: 768px) {
+    margin-top: tl-sm(3px);
+    font-size: tl-sm(0.72rem);
+    letter-spacing: 0.08em;
+  }
+}
+
+// ─── Type 2: film-strip cell (the linked one) ───────────────────────────────
+.timeline__film {
+  --tl-film-width: min(var(--tl-film-w), calc(50% - var(--tl-card-off) - 6px));
+
+  display: block;
+  width: var(--tl-film-width);
+  background: #0d0d0d;
+  border: var(--tl-edge-w, 1px) solid var(--timeline-line);
+  border-radius: tl(3px);
+  text-align: center;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
+
+  .timeline__date {
+    font-size: tl(0.65rem);
+
+    @media (max-width: 768px) { font-size: tl-sm(0.55rem); }
+  }
+
+  .timeline__name {
+    font-size: tl(0.85rem);
+    letter-spacing: 0.12em;
+
+    @media (max-width: 768px) {
+      font-size: tl-sm(0.65rem);
+      letter-spacing: 0.06em;
+    }
+  }
+
+  a.timeline__item:hover & {
+    background: #181818;
+    box-shadow: 0 0 0 1px var(--timeline-line);
+  }
+}
+
+// row of sprocket holes
+.timeline__perf {
+  display: block;
+  height: calc(var(--tl-hole) * 2);
+  opacity: 0.85;
+  background-image: linear-gradient(90deg, var(--timeline-ink) 0 var(--tl-hole), transparent var(--tl-hole));
+  background-position: calc(var(--tl-hole) - 1px) center;
+  background-size: calc(var(--tl-hole) * 2.7) var(--tl-hole);
+  background-repeat: repeat-x;
+}
+
+// image holder — set background-image inline
+.timeline__frame {
+  display: block;
+  aspect-ratio: 3 / 2;
+  border-top: 1px solid rgba(255, 255, 255, 0.35);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.35);
+  background-color: #141414;
+  background-image:
+    linear-gradient(to top right, transparent calc(50% - 0.5px), rgba(255, 255, 255, 0.14) 50%, transparent calc(50% + 0.5px)),
+    linear-gradient(to top left, transparent calc(50% - 0.5px), rgba(255, 255, 255, 0.14) 50%, transparent calc(50% + 0.5px));
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(0.35) brightness(0.9);
+  transition: filter 0.25s ease;
+
+  a.timeline__item:hover & { filter: none; }
+}
+
+.timeline__caption {
+  display: block;
+  padding: tl(8px) tl(10px);
+
+  @media (max-width: 768px) { padding: tl-sm(5px) tl-sm(6px); }
+}
+
+// ─── Timeline Image (static film-strip holder, for an event's own page) ─────
+.timeline-image {
+  --tl-img-line: #fff;      // border colour
+  --tl-img-edge: 1px;       // border thickness
+  --tl-img-hole: 9px;       // sprocket hole size
+
+  float: left;
+  width: 300px;             // overall width, border included
+  margin: 0 60px 16px 0;
+  background: #0d0d0d;
+  border: var(--tl-img-edge) solid var(--tl-img-line);
+  border-radius: 4.5px;
+  line-height: 0;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.35);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.35);
+  }
+
+  // optional colour variant to match a coloured timeline entry
+  &--yellow {
+    --tl-img-line: #ffff00;
+    --tl-img-edge: 4px;
+  }
+
+  @media (max-width: 768px) {
+    --tl-img-hole: 4px;
+    width: 140px;
+    margin: 0 16px 4px 0;
+    border-radius: 3px;
+
+    &--yellow { --tl-img-edge: 3px; }
+  }
+}
+
+// row of sprocket holes (top and bottom)
+.timeline-image__perf {
+  display: block;
+  height: calc(var(--tl-img-hole) * 2);
+  opacity: 0.85;
+  background-image: linear-gradient(90deg, #fff 0 var(--tl-img-hole), transparent var(--tl-img-hole));
+  background-position: calc(var(--tl-img-hole) - 1px) center;
+  background-size: calc(var(--tl-img-hole) * 2.7) var(--tl-img-hole);
+  background-repeat: repeat-x;
 }
 
 // ─── Types Buttons ───────────────────────────────────────────────────────────────

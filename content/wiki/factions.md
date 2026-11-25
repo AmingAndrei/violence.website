@@ -90,4 +90,32 @@ tags:
     <span class="material-card__label">.niki's_clean-up<wbr>_crew</span>
   </a>
 
+ <a href="/wiki/factions/world_authority" class="material-card">
+    <div class="material-card__icon-wrap">
+      <span class="material-card__glow"></span>
+      <div class="material-card__frame">
+        <span class="material-card__corner material-card__corner--tl"></span>
+        <span class="material-card__corner material-card__corner--tr"></span>
+        <span class="material-card__corner material-card__corner--bl"></span>
+        <span class="material-card__corner material-card__corner--br"></span>
+      </div>
+      <img src="/assets/placeholder_icon.svg" class="material-card__icon" alt="Niki's Clean-Up Crew"/>
+    </div>
+    <span class="material-card__label">.world_authority</span>
+  </a>
+
+<a href="/wiki/factions/academia_technopolitana" class="material-card">
+    <div class="material-card__icon-wrap">
+      <span class="material-card__glow"></span>
+      <div class="material-card__frame">
+        <span class="material-card__corner material-card__corner--tl"></span>
+        <span class="material-card__corner material-card__corner--tr"></span>
+        <span class="material-card__corner material-card__corner--bl"></span>
+        <span class="material-card__corner material-card__corner--br"></span>
+      </div>
+      <img src="/assets/placeholder_icon.svg" class="material-card__icon" alt="Niki's Clean-Up Crew"/>
+    </div>
+    <span class="material-card__label">.academia_technopolitana</span>
+  </a>
+  
 </div>

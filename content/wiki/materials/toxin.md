@@ -23,7 +23,7 @@ The toxin is an incredibly deadly gas.
 # .source
 <div class="bestiary-divider"></div>
 
-The toxin first appeared during the Parade, and is found throughout the entirety of [[sol]], as high as its exosphere and as low as the bottom of the body of water in which it's diffused.
+The toxin first appeared during the [[devil_parade|Parade]], and is found throughout the entirety of [[sol]], as high as its exosphere and as low as the bottom of the body of water in which it's diffused.
 # .properties
 <div class="bestiary-divider"></div>
 
