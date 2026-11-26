@@ -28,7 +28,7 @@ City Zero is jointly governed by the [[pale|Pale]], [[ultraviolet|Ultraviolet]],
 
 ## …/damage_reversal
 
-Whenever the city suffers damage, it will quickly revert to its original state, with damaged structures snapping back into place. The buildings of [[rojachert|Rojachert]] are unaffected by the damage-reversal.
+Whenever the city suffers damage, it will quickly revert to its original state, with damaged structures snapping back into place. The buildings of [[rojachert|Rojachert]] are unaffected by the damage-reversal. Damage imbued with the [[blue_rose|Blue Rose]] cannot be reversed.
 ## …/expansion
 
 Whenever the city requires additional infrastructure, its projection radius can be expanded from within the Spine. This causes the wall to extend outwards, while new buildings and other structures manifest automatically. These additions are subject to the same damage-reversal properties as the rest of the city.
