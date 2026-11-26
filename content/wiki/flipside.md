@@ -22,3 +22,17 @@ The FLIPSIDE imposes a negation effect onto all matter which is not native to th
 The FLIPSIDE is also home to every type to have gone extinct on [[sol|Sol]]. When this happens, the type's [[anima|Anima]] imprints condense in the FLIPSIDE as a living population. And because they form inside the dimension, they are not subject to its negation effect. If the type goes extinct in the FLIPSIDE, it is gone forever.
 
 The FLIPSIDE is dimensionally expanding, as the negation effect slowly erodes at the boundaries between itself and that of [[sol|Sol]]. This means that as the FLIPSIDE is increasing in size, the universe [[sol|Sol]] is in shrinks. While this effect was almost completely insignificant in the past, the dimension's expansion accelerated significantly after the arrival of the [[supreme_acts_of_violence|Supreme Acts of Violence]].
+
+---
+
+<div class="hex-grid">
+
+<a href="#" class="hex-tile">
+  <span class="hex-tile__shape">
+    <span class="hex-tile__edge"></span>
+    <span class="hex-tile__fill" style="background-image: url('/assets/placeholder.gif');"></span>
+  </span>
+  <span class="hex-tile__name">.pandiavolum</span>
+</a>
+
+</div>

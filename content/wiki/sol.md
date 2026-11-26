@@ -16,3 +16,41 @@ Sol is the home world of [[humans|humanity]]. It is an ocean world with a circum
 After the [[devil_parade|Parade]] in 0 [[timeline|AAV]]/[[timeline|AV]], the temperature of the planet dropped globally to -20 °C, the [[toxin]] appeared, the magnetosphere disappeared, along with the Sun and all other observable celestial bodies, with the exception of the Moon. Currently, most heat reaching the surface is either of geothermal origin, or provided by the many dormant [[circuit_titans|Circuit Titans]] inhabiting the planet. The [[devil_parade|Parade]] killed ~98% of all life on Sol, with most surviving [[humans]] living in City Zero.
 
 Compared to the [[flipside|FLIPSIDE]], Sol has a rather low [[anima|Anima]] resonance, making [[devils|Devils]] significantly weaker in this dimension. This effect is felt by other [[daemons|Daemons]] as well.
+
+---
+
+<div class="hex-grid">
+
+<a href="#" class="hex-tile">
+  <span class="hex-tile__shape">
+    <span class="hex-tile__edge"></span>
+    <span class="hex-tile__fill" style="background-image: url('/assets/placeholder.gif');"></span>
+  </span>
+  <span class="hex-tile__name">.city_zero</span>
+</a>
+
+<a href="#" class="hex-tile">
+  <span class="hex-tile__shape">
+    <span class="hex-tile__edge"></span>
+    <span class="hex-tile__fill" style="background-image: url('/assets/placeholder.gif');"></span>
+  </span>
+  <span class="hex-tile__name">.signal<wbr>_stations</span>
+</a>
+
+<a href="#" class="hex-tile">
+  <span class="hex-tile__shape">
+    <span class="hex-tile__edge"></span>
+    <span class="hex-tile__fill" style="background-image: url('/assets/placeholder.gif');"></span>
+  </span>
+  <span class="hex-tile__name">.spine</span>
+</a>
+
+<a href="#" class="hex-tile">
+  <span class="hex-tile__shape">
+    <span class="hex-tile__edge"></span>
+    <span class="hex-tile__fill" style="background-image: url('/assets/placeholder.gif');"></span>
+  </span>
+  <span class="hex-tile__name">.rojachert</span>
+</a>
+
+</div>

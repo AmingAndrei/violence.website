@@ -1091,6 +1091,11 @@ $tl-scale-sm: 1.15;   // phones (max-width: 768px)
   }
 }
 
+a.timeline__item--yellow:hover,
+a.timeline__item--yellow:hover .timeline__name {
+  color: #ffff00 !important;
+}
+
 // ─── Nodes and duration bar ─────────────────────────────────────────────────
 .timeline__node {
   position: absolute;
@@ -2488,6 +2493,73 @@ $tl-scale-sm: 1.15;   // phones (max-width: 768px)
   @media (max-width: 768px) {
     width: 12px;
     height: 12px;
+  }
+}
+
+// ─── Hex Tiles (Locations) ──────────────────────────────────────────────────
+.hex-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  width: 100%;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+}
+
+.hex-tile {
+  display: block !important;
+  width: 100%;
+  text-decoration: none;
+}
+
+.hex-tile__shape {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 0.866 / 1; // pointy-top hexagon proportions
+}
+
+.hex-tile__edge,
+.hex-tile__fill {
+  position: absolute;
+  clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+}
+
+.hex-tile__edge {
+  inset: 0;
+  background: #fff !important;
+}
+
+.hex-tile__fill {
+  inset: 3px;
+  background: #000 center/cover no-repeat;
+  filter: brightness(0.8);
+  transition: filter 0.3s ease;
+
+  @media (max-width: 768px) {
+    inset: 2px;
+  }
+}
+
+.hex-tile:hover .hex-tile__fill {
+  filter: brightness(1.1);
+}
+
+.hex-tile__name {
+  display: block;
+  margin-top: 0.6rem;
+  font-size: 1.65rem;
+  letter-spacing: 0.15em;
+  text-align: center;
+  color: #fff;
+
+  @media (max-width: 768px) {
+    font-size: 0.85rem;
+    letter-spacing: 0.12em;
   }
 }
 
