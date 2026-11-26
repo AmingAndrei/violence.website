@@ -103,7 +103,7 @@ The currently used eras are Ante Anno Violentiae (AAV) and Anno Violentiae (AV),
   <div class="timeline__item" style="--d: 1">
     <span class="timeline__node"></span>
     <span class="timeline__label">
-      <span class="timeline__date">11.03.0 AAV</span>
+      <span class="timeline__date">11.03.0 AAV/AV</span>
       <span class="timeline__name">THE <a href="/wiki/technology/acheron_project">ACHERON PROJECT</a> DISBANDS</span>
     </span>
   </div>

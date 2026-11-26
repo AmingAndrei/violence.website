@@ -55,7 +55,7 @@ tags:
   </a>
 
   <div class="factions-grid--trio__text">
-    CITY ZERO
+    <a href="/wiki/sol/city_zero">CITY ZERO</a>
   </div>
 
 </div>

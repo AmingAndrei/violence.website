@@ -18,11 +18,11 @@ aliases:
   <img src="/assets/placeholder_icon.svg" alt="Niki's Clean-up Crew"/>
 </div>
 
-Niki's Clean-up Crew (unofficial name, Nikita doesn't like it) is a clandestine group operating within City Zero.
+Niki's Clean-up Crew (unofficial name, Nikita doesn't like it) is a clandestine group operating within [[city_zero|City Zero]].
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Crew operates as a bastard sister of [[ultraviolet|Ultraviolet]], dealing with whatever [[ultraviolet|Ultraviolet]] can't, won't or doesn't know about. This mostly boils down to matters revolving around City Zero and its population. They mostly deal with [[somas|Soma]] mutations before the Serpent can fully take hold, and make sure their existence remains unknown.
+The Crew operates as a bastard sister of [[ultraviolet|Ultraviolet]], dealing with whatever [[ultraviolet|Ultraviolet]] can't, won't or doesn't know about. This mostly boils down to matters revolving around [[city_zero|City Zero]] and its population. They mostly deal with [[somas|Soma]] mutations before the Serpent can fully take hold, and make sure their existence remains unknown.
 # .structure
 <div class="bestiary-divider"></div>
 

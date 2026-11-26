@@ -18,7 +18,7 @@ aliases:
   <img src="/assets/factions/chromacy_logo.png" alt="The Chromacy"/>
 </div>
 
-The Chromacy is the spiritual power of City Zero, ruling alongside the [[pale|Pale]] and [[ultraviolet|Ultraviolet]].
+The Chromacy is the spiritual power of [[city_zero|City Zero]], ruling alongside the [[pale|Pale]] and [[ultraviolet|Ultraviolet]].
 # .purpose
 <div class="bestiary-divider"></div>
 
@@ -38,7 +38,7 @@ The Chromacy is collectively governed by ten Conductors, who reside in the Choir
 
 Conductors are selected through the Oracle Machine, with Precentors submitting nominations for consideration. The Great Conductor is elected similarly by the Conductors, whenever the position becomes vacant.
 
-Below them are the Precentors, responsible for administering the churches, and Cantors, who interact directly with the congregation. The overwhelming majority of City Zero's population are chromaticans.
+Below them are the Precentors, responsible for administering the churches, and Cantors, who interact directly with the congregation. The overwhelming majority of [[city_zero|City Zero]]'s population are chromaticans.
 # .doctrine
 <div class="bestiary-divider"></div>
 

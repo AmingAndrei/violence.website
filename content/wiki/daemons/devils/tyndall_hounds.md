@@ -39,7 +39,7 @@ Light scattering through smoke, mist, or dust can interact with them in such a w
 In order to attack, Tyndall Hounds need to reveal themselves.
 ## …/invulnerability_bypass
 
-While hidden, they cannot be physically harmed, with [[divine_flame|Divine Flame]], [[hellfire|Hellfire]] and the [[blue_rose|Blue Rose]] being the exception.
+While hidden, they cannot be physically harmed, with [[divine_flame|Divine Flame]] and the [[blue_rose|Blue Rose]] being the exception.
 # .reproduction
 <div class="bestiary-divider"></div>
 

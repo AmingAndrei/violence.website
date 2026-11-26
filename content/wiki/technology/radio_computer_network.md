@@ -24,7 +24,7 @@ A server of the Network is made up of an extremely compact matrix of silicon lat
 # .specs
 <div class="bestiary-divider"></div>
 
-While the standard Network model involved the connection between multiple servers, the [[pale|Pale]] operates a master server connecting all RCs. This master server has a storage capacity of ~300 EB, and holds a large percentage of recovered old Network data from before the [[devil_parade|Parade]]. Its structure allows the processing of complex data within seconds and makes unintentional data loss impossible. To connect to the Network within City Zero, each user must pay a subscription, and more expensive subscriptions allow the user to establish a better connection.
+While the standard Network model involved the connection between multiple servers, the [[pale|Pale]] operates a master server connecting all RCs. This master server has a storage capacity of ~300 EB, and holds a large percentage of recovered old Network data from before the [[devil_parade|Parade]]. Its structure allows the processing of complex data within seconds and makes unintentional data loss impossible. To connect to the Network within [[city_zero|City Zero]], each user must pay a subscription, and more expensive subscriptions allow the user to establish a better connection.
 
 RCs themselves have very little processing power and storage. Instead, everything is handled by the servers, to which every RC is connected through a complex sequence of multi-layered, encrypted radio waves. All digital applications are also stored and run on the servers, then broadcast to individual RCs. As a structural consequence, a majority of computer games are multiplayer, to lower processing costs.
 

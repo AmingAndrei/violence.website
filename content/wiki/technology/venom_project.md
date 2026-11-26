@@ -18,7 +18,7 @@ The VENOM project is a secret project run by the [[pale|Pale]].
 # .design
 <div class="bestiary-divider"></div>
 
-The main VENOM project facility is located near the entrance to City Zero's foundation.
+The main VENOM project facility is located near the entrance to [[city_zero|City Zero]]'s foundation.
 # .specs
 <div class="bestiary-divider"></div>
 

@@ -22,7 +22,7 @@ Hybrids are the result of a [[clutch_beetles|Clutch Beetle]] fusing with a verte
 
 Hybrids have increased reflexes and senses compared to their type's baseline, or even restored if missing, as a result of using the [[clutch_beetles|Clutch Beetle]]'s neural infrastructure as their own. The only sense that remains untouched is sight, as a result of it being part of the central nervous system.
 
-They also gain the [[devils|Devil]] ability to sense and be empowered by fear, and their abilities scale with the local [[anima|Anima]] resonance.
+They also gain the [[devils|Devil]] ability to sense and be empowered by [[fear]], and their abilities scale with the local [[anima|Anima]] resonance.
 
 [[gordian_gorgons|Gordian Gorgons]] attempting to infect the hybrid will suffer from excruciating pain caused by a forced backlash from the [[clutch_beetles|Clutch Beetle]]'s nerves, and any eggs that may have entered the hybrid's body will die on the spot. Hybrids remain vulnerable to the [[toxin]], and they become almost entirely immune to the [[flipside|FLIPSIDE]]'s negation effect, with the only side effect being a head-splitting headache while inside the dimension.
 

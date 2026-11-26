@@ -14,19 +14,20 @@ As a group, Devils share little to no similarity with each other. No two Devil t
 
 - All¹ Devils are blind, despite some types seemingly possessing eyes.
 - Devils leave no corpse behind, with any and all remains disintegrating into a red dust upon death or injury, with the process being so efficient they don't leave behind any smell.
+- Devils are immune to [[hellfire|Hellfire]].
 - Devils do not age after reaching maturity.
 - Devils require no sustenance, with hunger being an instinctual remnant.
 - Devil speech has the property of being automatically translated, meaning the hearer will perceive Devil speech in their mother tongue, with no exception. This also works in reverse, with Devils being capable of understanding all languages, although they are unable to distinguish between them. When reproduced through a recording, it will always sound like static, though listeners will still be able to fully make out what is being said.
-- Devils can sense and metabolise the [[fear]] of other life forms, with beings experiencing [[fear]] in the immediate vicinity of a Devil invariably increasing the reflexes, senses, speed and strength of said Devil. This extends to all types that are considered alive and that are capable of experiencing fear, including other² Devils.
-- Devils can consume fresh [[blood]] to regenerate almost instantaneously, being capable of completely recovering from multiple fatal wounds in a matter of seconds, unless the wound is imbued with the [[blue_rose|Blue Rose]].
+- Devils can sense and metabolise the [[fear]] of other life forms, with beings experiencing [[fear]] in the immediate vicinity of a Devil invariably increasing the reflexes, senses, speed and strength of said Devil. This extends to all types that are considered alive and that are capable of experiencing [[fear]], including other² Devils.
+- Devils can consume fresh [[blood]] to regenerate almost instantaneously, being capable of completely recovering from multiple fatal wounds in a matter of seconds, unless the wound is affected by the [[blue_rose|Blue Rose]].
 - A Devil's base strength is directly proportionate with the local [[anima|Anima]] resonance, getting weaker or stronger based on said resonance.
 
-All of these traits are because, unlike regular life forms, Devils are entirely made out of [[anima|Anima]], drawing from the imprints of life that exists, once existed, or never existed at all. This is also what allows them to regenerate from [[divine_flame|Divine Flame]] and [[hellfire|Hellfire]] wounds, as the excess [[anima|Anima]] chokes out the flame, with the only only temporarily preventing regeneration. The only way damage sticks to a Devil is if the wound is imbued with the [[blue_rose|Blue Rose]].
+All of these traits are because, unlike regular life forms, Devils are entirely made out of [[anima|Anima]], drawing from the imprints of life that exists, once existed, or never existed at all. This is also what allows them to regenerate from [[divine_flame|Divine Flame]], as the excess [[anima|Anima]] chokes out the flame, with the only only temporarily preventing regeneration. The only to permanently hurt a Devil is if the attack is imbued with the [[blue_rose|Blue Rose]].
 
 Each individual Devil creates a noticeable amplifier effect, causing the immediate [[anima|Anima]] resonance to spike. Pandiavolum, which has the highest [[anima|Anima]] resonance across dimensions, is home to the largest and strongest Devil population.
 
-¹ This rule is bypassed by some types by reworking parts of their biology into somewhat functional eyes, although true eyes are still absent.<br>
-² The threshold for Devils experiencing fear to empower other Devils is significantly higher than that of other types, to the point it can be considered a non-factor in a majority of cases.
+¹ This rule is bypassed by some types by reworking parts of their biology into somewhat functional eyes, though true eyes are still absent.<br>
+² The threshold for Devils experiencing [[fear]] to empower other Devils is significantly higher than that of other types, to the point it can be considered a non-factor in a majority of cases.
 
 ---
 

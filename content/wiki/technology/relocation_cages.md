@@ -25,4 +25,4 @@ Relocation cages come in all different sizes, depending on the threat. Their wal
 # .specs
 <div class="bestiary-divider"></div>
 
-All relocation cages are controlled through their terminal, encrypted to allow only trained personnel to interface with one. The only real control that matters is that of the main gate, operated through hydraulics, and the lights inside. Once the target is secured, they are transported far outside City Zero territory and released. While smaller cages can be transported by air, bigger ones come equipped with tracked treads, also controlled through the terminal.
+All relocation cages are controlled through their terminal, encrypted to allow only trained personnel to interface with one. The only real control that matters is that of the main gate, operated through hydraulics, and the lights inside. Once the target is secured, they are transported far outside [[city_zero|City Zero]] territory and released. While smaller cages can be transported by air, bigger ones come equipped with tracked treads, also controlled through the terminal.
