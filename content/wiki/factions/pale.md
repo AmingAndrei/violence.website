@@ -22,7 +22,7 @@ The Pale is the governmental power of [[city_zero|City Zero]], ruling alongside 
 # .purpose
 <div class="bestiary-divider"></div>
 
-The Pale was founded in 1 [[timeline|AV]] by Mihaela Rebreanu from the remains of the [[acheron_project|Acheron project]], and is responsible for overseeing civilian life. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside [[city_zero|City Zero]]. The Pale is the supervisor of the current [[radio_computer_network|Radio Computer Network]], and is responsible for running the [[venom_project|VENOM project]].
+The Pale was officially established in 01.01.1 [[timeline|AV]] by Mihaela Rebreanu from the remains of the [[acheron_project|Acheron project]], and is responsible for overseeing civilian life. Their ultimate goal is the prosperity and continued survival of their [[humans|human]] population, and the restoration of the world outside [[city_zero|City Zero]]. The Pale is the supervisor of the current [[radio_computer_network|Radio Computer Network]], and is responsible for running the [[venom_project|VENOM project]].
 # .government
 <div class="bestiary-divider"></div>
 
