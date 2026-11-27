@@ -31,4 +31,4 @@ All living organisms absorb Anima as long as they remain alive. [[devils|Devils]
 
 All beings leave imprints on the field. As a result, Anima stores the imprints of all past and present life forms, and even future or theoretical life forms that may never exist. When the last member of a type dies on [[sol|Sol]], the type manifests as a living population in the [[flipside|FLIPSIDE]].
 
-Violence Against Nature can use the wider Anima field to communicate with [[devils|Devils]] by screaming, sending ripples that instantly reach all [[devils|Devils]], everywhere, compelling them to do as told. While she can limit which [[devils|Devils]] hear her by type, she cannot limit it to just one individual.
+Violence Against Nature can use the wider Anima field to communicate with [[devils|Devils]] and to command them by screaming, sending ripples that instantly reach all [[devils|Devils]], everywhere, compelling them to do as told. While she can limit which individual [[devils|Devils]] hear her, her scream only allows her to  to command entire types and not individuals.
