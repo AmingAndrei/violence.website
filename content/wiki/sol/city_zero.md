@@ -10,7 +10,7 @@ aliases:
 
 <div class="ruler-image"> <img src="/assets/placeholder_wide.gif" alt="City Zero"/> </div>
 
-City Zero is a 7,125 km² metropolis that appeared when Violence Against Art accidentally transported the Spine over the ruins of [[rojachert|Rojachert]] during the [[devil_parade|Parade]], and acts as the last [[humans|human]] settlement on [[sol|Sol]].
+City Zero is a 7,125 km² metropolis that appeared over the ruins of [[rojachert|Rojachert]] when Violence Against Art accidentally transported the Spine during the [[devil_parade|Parade]], and acts as the last [[humans|human]] settlement on [[sol|Sol]].
 # .design
 <div class="bestiary-divider"></div>
 
