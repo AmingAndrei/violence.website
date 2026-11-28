@@ -29,7 +29,7 @@ Compared to the [[flipside|FLIPSIDE]], Sol has a rather low [[anima|Anima]] reso
   <span class="hex-tile__name">.city_zero</span>
 </a>
 
-<a href="#" class="hex-tile">
+<a href="/wiki/sol/signal_stations" class="hex-tile">
   <span class="hex-tile__shape">
     <span class="hex-tile__edge"></span>
     <span class="hex-tile__fill" style="background-image: url('/assets/placeholder.gif');"></span>

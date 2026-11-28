@@ -60,11 +60,11 @@ Operators are recruited from the civilian population, either through application
 # .conduct
 <div class="bestiary-divider"></div>
 
-Ultraviolet makes extensive use of the Signal Stations surrounding [[city_zero|City Zero]], intercepting potential threats before they can reach civilian areas. Should a threat breach the city's defences, Operators are instructed to prioritise civilian safety, even if it involves casualties.
+Ultraviolet makes extensive use of the [[signal_stations|Signal Stations]] surrounding [[city_zero|City Zero]], intercepting potential threats before they can reach civilian areas. Should a threat breach the city's defences, Operators are instructed to prioritise civilian safety, even if it involves casualties.
 # .assets
 <div class="bestiary-divider"></div>
 
 - The Spine, unofficial headquarters shared with the [[pale|Pale]];
-- Signal Stations, partial ownership with the [[pale|Pale]];
+- [[signal_stations|Signal Stations]], partial ownership with the [[pale|Pale]];
 - [[jumpstarters|Jumpstarters]];
 - [[relocation_cages|Relocation cages]].

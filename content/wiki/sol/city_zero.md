@@ -16,11 +16,12 @@ City Zero is a 7,125 km² metropolis that appeared over the ruins of [[rojachert
 
 ## …/layout
 
-The city is organised radially around the Spine, which is located at its centre. Beneath the city lies its foundation, with the Signal Stations located far outside its walls. Its architecture is characterised by white, simplistic buildings, with geometric protrusions extending from the facades of buildings. It manifested with fully functional infrastructure and furnishings.
+The city is organised radially around the Spine, which is located at its centre. Beneath the city lies its foundation, with the [[signal_stations|Signal Stations]] located far outside its walls. Its architecture is characterised by white, simplistic buildings, with geometric protrusions extending from the facades of buildings. It manifested with fully functional infrastructure and furnishings.
 ## …/materials
 
-The city and everything that appeared with it are made from a combination of crystallised carbon, silicon, and solid light, acting as a form of solid hologram. Some of the surviving buildings from [[rojachert|Rojachert]] are now considered historical landmarks.
+The city and everything that appeared with it are made from a combination of crystallised carbon, silicon, and solid light, acting as a form of solid hologram, essentially a form of [[mosaics|Mosaic]]. Some of the surviving buildings from [[rojachert|Rojachert]] are now considered historical landmarks.
 # .control
+<div class="bestiary-divider"></div>
 
 City Zero is jointly governed by the [[pale|Pale]], [[ultraviolet|Ultraviolet]], and the [[chromacy|Chromacy]].
 # .infrastructure
@@ -28,7 +29,7 @@ City Zero is jointly governed by the [[pale|Pale]], [[ultraviolet|Ultraviolet]],
 
 ## …/damage_reversal
 
-Whenever the city suffers damage, it will quickly revert to its original state, with damaged structures snapping back into place. The buildings of [[rojachert|Rojachert]] are unaffected by the damage-reversal. Damage imbued with the [[blue_rose|Blue Rose]] cannot be reversed.
+Whenever the city suffers damage, it will quickly revert to its original state, with damaged structures snapping back into place. The buildings of [[rojachert|Rojachert]] are unaffected by the damage-reversal.
 ## …/expansion
 
 Whenever the city requires additional infrastructure, its projection radius can be expanded from within the Spine. This causes the wall to extend outwards, while new buildings and other structures manifest automatically. These additions are subject to the same damage-reversal properties as the rest of the city.

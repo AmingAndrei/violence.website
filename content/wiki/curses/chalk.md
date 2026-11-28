@@ -25,4 +25,4 @@ Inhaling the Chalk had an extremely irritative effect on the host's lungs, causi
 
 Once the particles passed the blood-brain barrier, the host would gain the ability to see and communicate with projections of Chiron, who in turn could use the hosts' senses as his own for surveillance, interpreted as signs of dementia and schizophrenia.
 
-Hosts would die from a combination of asphyxiation, extreme respiratory injury and brain damage, and [[revolutions|Revolutions]] were completely immune to the [[curses|curse]]'s effects.
+Hosts would die from a combination of asphyxiation, extreme respiratory injury and brain damage. Only [[humans]] could be naturally infected, with artificial infections of animals resulting in instantaneous death, and [[revolutions|Revolutions]] were completely immune to the [[curses|curse]]'s effects.

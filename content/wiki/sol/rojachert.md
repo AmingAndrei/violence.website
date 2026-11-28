@@ -15,6 +15,6 @@ Rojachert (Károlian: _Rózsakert_) was a Coresian city, on top of which [[city_
 # .history
 <div class="bestiary-divider"></div>
 
-The city was renowned for its Art Nouveau architecture and numerous botanical gardens. Throughout its existence, it served as the intercultural capital of Coresia, with almost all roads into the country passing through it. It was also known for its technological developments, and was one of the cities that spearheaded the age of electricity.
+Rojachert was a cosmopolitan city was renowned for its Art Nouveau architecture and numerous botanical gardens. Throughout its existence, it served as one of the many intercultural crossroads of the world, with all Coresian roads leading through Rojachert. It was also known for its technological developments, and was one of the cities that spearheaded the age of electricity.
 
 During the [[devil_parade|Parade]], Rojachert was almost entirely destroyed, and [[city_zero|City Zero]] appeared on top of it after the Spine was accidentally transported by Violence Against Art. Some of the old buildings can still be found in [[city_zero|City Zero]], where the [[pale|Pale]] now considers many of them historic landmarks.

@@ -13,7 +13,7 @@ aliases:
 
 <div class="bestiary-image--mosaic mosaic--yellow"> <img src="/assets/placeholder.gif" alt="SOMA" /> </div>
 
-Somas (_Mosaica soma_) are a type of humanoid* [[mosaics]].
+Somas (_Mosaica soma_) are a type of humanoid* [[mosaics|Mosaic]].
 # .anatomy
 <div class="bestiary-divider"></div>
 
